@@ -41,4 +41,4 @@ Accuracy benchmarks can also be considered for a fuller assessment. I've created
 
 
 ## Updates and Other Benchmarks
-Follow [@lechmazur](https://x.com/LechMazur) on X (Twitter) for more.
+Follow [@lechmazur](https://x.com/LechMazur) on X (Twitter) for other upcoming benchmarks and more.
