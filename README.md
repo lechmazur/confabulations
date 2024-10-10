@@ -35,6 +35,7 @@ I've created a separate benchmark to test LLMs based on New York Times Connectio
 - While the initial set of questions was suggested by LLMs, the final 192 questions were all human-verified to have no answers in the provided texts. Only a percentage of LLM-suggested questions were unequivocally answer-free.
 - Despite clear prompts, LLMs often generated compound questions that effectively asked for two answers. These were removed in a separate judging step.
 - Questions included in the benchmark are those where at least one LLM confabulated. The absolute percentage should not be used to infer that LLMs frequently confabulate, as the questions are intentionally adversarial. This doesn't reflect a "typical" hallucination rate.
+- In some cases, LLMs failed to provide valid responses to the questions, such as skipping certain questions altogether. This occurred only once for the human-selected questions without valid answers in the text (bad Gemma, bad), but happened more frequently for questions with valid answers. These questions were discarded.
 - Multi-turn ensemble is my unpublished system. It utilizes multiple LLMs, multi-turn dialogues, and other proprietary techniques. It is slower and more costly to run but it does very well.
 
 
