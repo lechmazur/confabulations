@@ -23,7 +23,7 @@ Accuracy benchmarks can also be considered for a fuller assessment. I've created
 
 
 ## Interesting hallucination results
-- o1-preview will be the top-performing single model under most hallucination rankings but it only marginally outperforms GPT-4o
+- o1-preview is likely to be the top-performing single model across most hallucination rankings, though its improvement over GPT-4o may be somewhat underwhelming
 - o1-mini ranks below GPT-4o. Don't expect its reasoning to help it hallucinate less.
 - GPT-4o shows a significant improvement over GPT-4 Turbo.
 - Gemini 1.5 Pro (September) performs better than Claude models!
