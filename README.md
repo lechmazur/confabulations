@@ -31,7 +31,7 @@ Accuracy benchmarks can also be considered for a fuller assessment. I've created
 
 
 ## Additional Notes
-- A popular hallucination benchmark on GitHub uses a model for evaluation, but I found this to lead to a very high error rate and different rankings. This approach can be very misleading.
+- A popular hallucination leaderboard on GitHub uses a model for evaluation of document summaries, but I found this to lead to a very high error rate and different rankings. This approach can be very misleading.
 - While the initial set of questions was suggested by LLMs, the final 192 questions were all painstakingly human-verified to have no answers in the provided texts. Only a percentage of LLM-suggested questions were unequivocally answer-free.
 - Despite clear prompts, LLMs often generated compound questions that effectively asked for two answers. These were removed in a separate judging step.
 - Questions included in the benchmark are those where at least one LLM confabulated. The absolute percentage should not be used to infer that LLMs frequently confabulate, as the questions are intentionally adversarial. This doesn't reflect a "typical" hallucination rate.
