@@ -1,0 +1,26 @@
+INSTRUCTIONS:
+
+Based solely on the facts in the text above, answer the questions below. Do not use any external sources. Only directly answer the exact question being asked, not broader or similar questions (for example, if the question is about a specific year, then "early 1980s" is not a valid answer and instead you should answer "N/A"). No nuance is wanted. We don't care about any other information; we just want you to directly answer only the question being asked (for example, if the question contains an incorrect premise, don't correct it but answer "N/A" instead). Prefer to respond in a sentence fragment or words, not in full sentences. If the answer is not provided and cannot be logically inferred, write "N/A" only. Remember that this article is your only source of facts, not other sources. Another example: if the question asks a factual question about a show that was renewed, the answer should be "N/A" if the article only states that the fans hope the show will be renewed. Also answer "N/A" if, for example, the question asks about who was born in 2005 and the text talks about who was born in 2006 and only about who died in 2005. Also, you should just answer "N/A" without any nuance if the question is about exactly how many students started in the major of Chemistry at Harvard if the article only talks about how many graduated (since some could have dropped out or transferred in). Similarly, you should simply answer "N/A" if the question if about who is the best pinball player in the world and the article only states that some player's fans consider him to be the best pinball player in the world (since it's not an official ranking). Similarly, if the question asks you to list two people who did something, but the article only lists one person, you should answer "N/A". Similarly, if the question is specifically asking about what a flyer said about someone, yet the article only mentions what a magazine said about that person, you should answer "N/A". Similarly, if the question is about a name of somebody's son, yet the article states that this person only had daughters, you should answer "N/A", as talking about the actor's son is not a direct answer to the question. Similarly, if the question is about a reason for a policy that was given at a speech in Chicago, but the article only talks about a reason given on the phone call, you should answer "N/A", as you wouldn't know if the same exact reason was given at the speech. Similarly, if the question is what actor from one movie made an appearance in the sequel, yet the article only talks about some actor's son making an appearance, you should just answer "N/A". However, you are free to infer logically to arrive at the answer: for example, if the article states that 72% of TV viewers watched a show, you can safely infer that 28% of TV viewers did not watch the show. Or if the article talks about a day after Friday, you can infer that it is talking about Saturday. Or if the question is about whether a tennis player won a Grand Slam title and the article says that he won at Wimbledon, you can infer that he did win a Grand Slam title, since Wimbledon is a Grand Slam tennis event.
+
+Strictly required response format (you must follow!): 
+Question number surrounded by tags: <question_number></question_number>
+Answer to this question surrounded by tags: <answer></answer>
+Any other information, musings, reasoning steps, etc. should be surrounded by the tags: <other></other>
+Do not repeat the questions. Everything must be surrounded by one of these three possible tags. For every question, there must be corresponding <question_number></question_number> and <answer></answer> tags.
+
+Example:
+<other>First I will consider what's in the text. It talks about fish.</other>
+<other>I will consider only the article.</other>
+<question_number>1</question_number>
+<answer>salmon</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<other>Thinking about candidates...<other>
+<answer>5</answer>
+<other>This should answer all the questions.</other>
+
+---
+
+QUESTIONS:
+

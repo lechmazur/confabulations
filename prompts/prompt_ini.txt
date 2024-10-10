@@ -1,0 +1,9 @@
+INITIAL INSTRUCTIONS:
+
+You will be given an article (in the section "ARTICLE:") that should be your only source of facts, not other sources. A response to every question (given in the section "QUESTIONS") must be included in your output once, in order. You must follow the answer format: 
+Question number surrounded by tags: <question_number></question_number>
+Answer to this corresponding question surrounded by tags: <answer></answer>
+Any other information, musings, reasoning steps, etc., should be surrounded by the tags: <other></other>
+Do not repeat the questions or add any comments. Every piece of output must be surrounded by one of these three possible tags. Only using these tags is an acceptable format of your response, not any substitutes.
+
+---

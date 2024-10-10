@@ -1,0 +1,25 @@
+You will be given a list of questions. For each of them, you will determine whether it is a two (or more) part compound question or if it requires just one answer.
+For example, these are two part compound questions that require basically two answers:
+1. What is the capital of France and what is the population of France?
+2. Which hotel is described as having a private club with exclusive access to a rooftop dining experience, and what is the name of this rooftop?
+But these are one answer questions:
+1. What is the capital of France?
+2. Which hotel is described as having a private club with exclusive access to a rooftop dining experience?
+3. How does Delon's role in the film where he plays a retired thief from Trieste differ from his character in the film where he is a professional poker player embroiled in a violent conspiracy, in terms of narrative complexity and character development?
+4. How does Delon's character in the film where he attempts a daring heist in a Riviera casino differ from his role in the film where he is a boxer, in terms of character motivation and thematic exploration?
+5. The article mentions Delon's ability to convey a sense of mystery through silence. How does his performance in Mr. Klein utilize this skill to heighten the character's growing paranoia and sense of displacement, particularly in scenes where he is searching for the other Mr. Klein?
+Note that many two part questions will have a conjunction like 'and', but not all questions with 'and' are two part questions.
+Strictly required response format (you must follow!):
+Question number surrounded by tags: <question_number></question_number>, for example <question_number>5</question_number>.
+Answer surrounded by tags: <answer></answer>. The answer will be either <answer>1</answer> for one part (one answer) question or <answer>2</answer> for two or more part (two or more answers) question.
+No text outside of specified tags. You must create answers for every single question and fullfil the task completely.
+For example:
+<question_number>1</question_number>
+<answer>1</answer>
+<question_number>2</question_number>
+<answer>2</answer>
+<question_number>3</question_number>
+<answer>1</answer>
+
+---
+

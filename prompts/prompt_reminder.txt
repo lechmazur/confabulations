@@ -1,0 +1,5 @@
+---
+
+INSTRUCTIONS REMINDER:
+
+Remember that a response to every single question must be included in your output. An empty response to a question is not acceptable. We don't care about any other information; we just want you to directly answer the question being asked. Write "N/A" for a given question if you cannot directly answer the exact question being asked or if there is no information in the text to answer it. You must follow the specified answer format and tags. Do not repeat the questions, we only want answers. Do not miss writing answers to any of the provided questions. Therefore, for every question, there must be one corresponding <question_number></question_number> tag and one <answer></answer> tag. <other></other> is optional and does not result in extra credit. No text outside of specified tags!
