@@ -15,9 +15,9 @@ The raw confabulation rate alone isn't sufficient for meaningful evaluation. A m
 
 
 ## Combined Evaluation
-Combining confabulation and non-response rates enables a comprehensive ranking. Depending on your priorities, you may prefer fewer confabulations or fewer non-responses. Accuracy benchmarks can also be considered for a fuller assessment.
+Combining confabulation and non-response rates enables a comprehensive ranking. Depending on your priorities, you may prefer fewer confabulations or fewer non-responses. 
 
-I've created a separate benchmark to test LLMs based on New York Times Connections.
+Accuracy benchmarks can also be considered for a fuller assessment. I've created a separate benchmark to test LLMs based on New York Times Connections.
 
 ![image](https://github.com/user-attachments/assets/50a518ad-2745-4a7f-a2df-69bcebfc27b8)
 
