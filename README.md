@@ -9,7 +9,7 @@ As of October 10, 2024, 192 questions, confirmed by a human to lack answers in t
 
 ## Confabulation and Non-Response Rates
 
-The raw confabulation rate alone isn't sufficient for meaningful evaluation. A model that simply declines to answer most questions would achieve a low confabulation rate. To address this, the benchmark also tracks the LLM non-response rate using the same prompts and documents. Currently, 2,436 hard questions (see the prompts) with known answers in the texts are included in this analysis.
+The raw confabulation rate alone isn't sufficient for meaningful evaluation. A model that simply declines to answer most questions would achieve a low confabulation rate. To address this, the benchmark also tracks the LLM non-response rate using the same prompts and documents but specific questions with answers that are present in the text. Currently, 2,436 hard questions (see the prompts) with known answers in the texts are included in this analysis.
 
 ![image](https://github.com/user-attachments/assets/7d0478eb-21d4-4c21-975b-9099cf16c3f7)
 
