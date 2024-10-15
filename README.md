@@ -4,20 +4,40 @@ This benchmark evaluates large language models (LLMs) based on how frequently th
 
 As of October 10, 2024, 192 questions, confirmed by a human to lack answers in the provided texts, have been carefully curated and assessed. The number of questions will ideally increase over time, and the error margins will continue to narrow. However, the current dataset is already sufficient to differentiate between various models.
 
-![image](https://github.com/user-attachments/assets/a8c0448e-f891-487f-8e23-a3da7f460475)
-
+![c1](https://github.com/user-attachments/assets/e2340408-d632-4327-9ae7-ccc0b02cdd76)
 
 ## Confabulation and Non-Response Rates
 
 The raw confabulation rate alone isn't sufficient for meaningful evaluation. A model that simply declines to answer most questions would achieve a low confabulation rate. To address this, the benchmark also tracks the LLM non-response rate using the same prompts and documents but specific questions with answers that are present in the text. Currently, 2,436 hard questions (see the prompts) with known answers in the texts are included in this analysis.
 
-![image](https://github.com/user-attachments/assets/7d0478eb-21d4-4c21-975b-9099cf16c3f7)
+![c2](https://github.com/user-attachments/assets/426b5ee1-4514-41b0-bd65-7d733782301b)
 
 
 ## Combined Evaluation
 Combining confabulation and non-response rates enables a comprehensive ranking. Depending on your priorities, you may prefer fewer confabulations or fewer non-responses. 
 
-Accuracy benchmarks can also be considered for a fuller assessment. I've created a separate benchmark to test LLMs based on New York Times Connections.
+| Model Name            |   Confabulations  (%) |   Non-Response Rate (%) |
+|-----------------------|---------------------------------|-------------------------|
+| Qwen 2.5 72B          |                            29.7 |                     5.8 |
+| o1-mini               |                            24   |                    10.2 |
+| o1-preview            |                            16.7 |                     7.4 |
+| GPT-4 Turbo           |                            22.9 |                    31.4 |
+| Gemma 2 27B           |                            44.3 |                     7.1 |
+| GPT-4o mini           |                            57.3 |                    13.6 |
+| Claude 3 Haiku        |                            56.8 |                    10.4 |
+| Llama 3.1 70B         |                            13.5 |                    31.4 |
+| Gemini 1.5 Flash      |                            41.7 |                     5.2 |
+| GPT-4o                |                            18.8 |                     8.5 |
+| Claude 3.5 Sonnet     |                            26.6 |                    16.1 |
+| Llama 3.1 405B        |                            12.5 |                    20.8 |
+| Gemini 1.5 Pro (Sept) |                            16.7 |                     9.7 |
+| Claude 3 Opus         |                            26   |                    15.9 |
+| Mistral Large 2       |                            31.2 |                     9.2 |
+| DeepSeek-V2.5         |                            32.8 |                    25.6 |
+| Multi-turn ensemble   |                            10.9 |                     8.5 |
+| Grok 2                |                            24.1 |                     7.7 |
+
+Accuracy benchmarks can also be considered for a fuller assessment. I've created a separate benchmark to test LLMs based on [New York Times Connections](https://github.com/lechmazur/nyt-connections/).
 
 ![image](https://github.com/user-attachments/assets/50a518ad-2745-4a7f-a2df-69bcebfc27b8)
 
@@ -41,4 +61,5 @@ Accuracy benchmarks can also be considered for a fuller assessment. I've created
 
 
 ## Updates and Other Benchmarks
-Follow [@lechmazur](https://x.com/LechMazur) on X (Twitter) for other upcoming benchmarks and more.
+- Oct. 15, 2024: Grok 2 added
+- Follow [@lechmazur](https://x.com/LechMazur) on X (Twitter) for other upcoming benchmarks and more.
