@@ -14,7 +14,7 @@ The raw confabulation rate alone isn't sufficient for meaningful evaluation. A m
 
 
 ## Combined Evaluation
-Combining confabulation and non-response rates enables a comprehensive ranking. Depending on your priorities, you may prefer fewer confabulations or fewer non-responses. 
+Combining confabulation and non-response rates enables a comprehensive ranking. Depending on your priorities, you may prefer [fewer confabulations or fewer non-responses](https://lechmazur.github.io/leaderboard1.html). 
 
 | Model Name            |   Confabulations  (%) |   Non-Response Rate (%) |
 |-----------------------|---------------------------------|-------------------------|
