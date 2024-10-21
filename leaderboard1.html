@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Model Leaderboard</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #121212;
+            color: #e0e0e0;
+        }
+        h1, h2 {
+            color: #bb86fc;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #333;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #1e1e1e;
+        }
+        .slider-container {
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        #weightSlider {
+            width: 300px;
+            margin: 0 10px;
+        }
+        #chartContainer {
+            margin-top: 20px;
+            height: 600px;
+        }
+        .note {
+            font-style: italic;
+            color: #bb86fc;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Confabulations (Hallucinations) Model Leaderboard</h1>
+    
+    <div class="slider-container">
+        <label>Confabulations Weight: <span id="confabWeightValue">50</span>%</label>
+        <input type="range" id="weightSlider" min="0" max="100" value="50">
+        <label>Non-Response Rate Weight: <span id="nonResponseWeightValue">50</span>%</label>
+    </div>
+    
+    <table id="leaderboard">
+        <thead>
+            <tr>
+                <th>Rank</th>
+                <th>Model Name</th>
+                <th>Confabulations (%)</th>
+                <th>Non-Response Rate (%)</th>
+                <th>Weighted Score</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <h2>Weighted Scores (Lower is Better)</h2>
+    <div id="chartContainer">
+        <canvas id="leaderboardChart"></canvas>
+    </div>
+
+    <script>
+        const data = [
+            { name: "Qwen 2.5 72B", confabulations: 29.7, nonResponse: 5.8 },
+            { name: "o1-mini", confabulations: 24, nonResponse: 10.2 },
+            { name: "o1-preview", confabulations: 16.7, nonResponse: 7.4 },
+            { name: "GPT-4 Turbo", confabulations: 22.9, nonResponse: 31.4 },
+            { name: "Gemma 2 27B", confabulations: 44.3, nonResponse: 7.1 },
+            { name: "GPT-4o mini", confabulations: 57.3, nonResponse: 13.6 },
+            { name: "Claude 3 Haiku", confabulations: 56.8, nonResponse: 10.4 },
+            { name: "Llama 3.1 70B", confabulations: 13.5, nonResponse: 31.4 },
+            { name: "Gemini 1.5 Flash", confabulations: 41.7, nonResponse: 5.2 },
+            { name: "GPT-4o", confabulations: 18.8, nonResponse: 8.5 },
+            { name: "Claude 3.5 Sonnet", confabulations: 26.6, nonResponse: 16.1 },
+            { name: "Llama 3.1 405B", confabulations: 12.5, nonResponse: 20.8 },
+            { name: "Gemini 1.5 Pro (Sept)", confabulations: 16.7, nonResponse: 9.7 },
+            { name: "Claude 3 Opus", confabulations: 26, nonResponse: 15.9 },
+            { name: "Mistral Large 2", confabulations: 31.2, nonResponse: 9.2 },
+            { name: "DeepSeek-V2.5", confabulations: 32.8, nonResponse: 25.6 },
+            { name: "Multi-turn ensemble", confabulations: 10.9, nonResponse: 8.5 },
+            { name: "Grok 2", confabulations: 24.1, nonResponse: 7.7 }
+        ];
+
+        const weightSlider = document.getElementById('weightSlider');
+        const confabWeightValue = document.getElementById('confabWeightValue');
+        const nonResponseWeightValue = document.getElementById('nonResponseWeightValue');
+        const leaderboardBody = document.querySelector('#leaderboard tbody');
+        let chart;
+
+        function updateLeaderboard() {
+            const confabWeight = parseInt(weightSlider.value) / 100;
+            const nonResponseWeight = 1 - confabWeight;
+
+            confabWeightValue.textContent = Math.round(confabWeight * 100);
+            nonResponseWeightValue.textContent = Math.round(nonResponseWeight * 100);
+
+            const sortedData = data.map(model => ({
+                ...model,
+                weightedScore: (model.confabulations * confabWeight + model.nonResponse * nonResponseWeight)
+            })).sort((a, b) => a.weightedScore - b.weightedScore);
+
+            leaderboardBody.innerHTML = '';
+            sortedData.forEach((model, index) => {
+                const row = leaderboardBody.insertRow();
+                row.insertCell(0).textContent = index + 1;
+                row.insertCell(1).textContent = model.name;
+                row.insertCell(2).textContent = model.confabulations.toFixed(1);
+                row.insertCell(3).textContent = model.nonResponse.toFixed(1);
+                row.insertCell(4).textContent = model.weightedScore.toFixed(2);
+            });
+
+            updateChart(sortedData);
+        }
+
+        function updateChart(sortedData) {
+            const ctx = document.getElementById('leaderboardChart').getContext('2d');
+            
+            if (chart) {
+                chart.destroy();
+            }
+
+            chart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: sortedData.map(model => model.name),
+                    datasets: [{
+                        data: sortedData.map(model => model.weightedScore),
+                        backgroundColor: 'rgba(187, 134, 252, 0.6)',
+                        borderColor: 'rgba(187, 134, 252, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    indexAxis: 'y',
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    animation: false,
+                    plugins: {
+                        legend: {
+                            display: false
+                        },
+                        title: {
+                            display: false
+                        }
+                    },
+                    scales: {
+                        x: {
+                            beginAtZero: true,
+                            grid: {
+                                color: '#333'
+                            },
+                            ticks: {
+                                color: '#e0e0e0'
+                            },
+                            title: {
+                                display: true,
+                                text: 'Weighted Score (Lower is Better)',
+                                color: '#e0e0e0'
+                            }
+                        },
+                        y: {
+                            grid: {
+                                color: '#333'
+                            },
+                            ticks: {
+                                color: '#e0e0e0'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        weightSlider.addEventListener('input', updateLeaderboard);
+
+        updateLeaderboard();
+    </script>
+</body>
+</html>
