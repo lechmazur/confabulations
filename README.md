@@ -39,7 +39,7 @@ Combining confabulation and non-response rates enables a comprehensive ranking. 
 
 Accuracy benchmarks can also be considered for a fuller assessment. I've created a separate benchmark to test LLMs based on [New York Times Connections](https://github.com/lechmazur/nyt-connections/).
 
-![image](https://github.com/user-attachments/assets/50a518ad-2745-4a7f-a2df-69bcebfc27b8)
+![NYT Connections (436 puzzles)_ (7)](https://github.com/user-attachments/assets/7bfaf31f-b064-4aa5-adc9-912b847ec8aa)
 
 
 ## Interesting Hallucination Results
