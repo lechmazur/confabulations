@@ -62,4 +62,6 @@ Accuracy benchmarks can also be considered for a fuller assessment. I've created
 
 ## Updates and Other Benchmarks
 - Oct. 15, 2024: Grok 2 added
+- Also check out the [LLM Deception Benchmark](https://github.com/lechmazur/deception)
 - Follow [@lechmazur](https://x.com/LechMazur) on X (Twitter) for other upcoming benchmarks and more.
+
