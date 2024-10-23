@@ -4,14 +4,13 @@ This benchmark evaluates large language models (LLMs) based on how frequently th
 
 As of October 10, 2024, 192 questions, confirmed by a human to lack answers in the provided texts, have been carefully curated and assessed. The number of questions will ideally increase over time, and the error margins will continue to narrow. However, the current dataset is already sufficient to differentiate between various models.
 
-![u1](https://github.com/user-attachments/assets/72f4b47c-b77d-4cf8-85f7-4b1e08c7aca6)
+![v1](https://github.com/user-attachments/assets/18f54a23-ecd8-4c79-b1d8-c3b093662047)
 
 ## Confabulation and Non-Response Rates
 
 The raw confabulation rate alone isn't sufficient for meaningful evaluation. A model that simply declines to answer most questions would achieve a low confabulation rate. To address this, the benchmark also tracks the LLM non-response rate using the same prompts and documents but specific questions with answers that are present in the text. Currently, 2,436 hard questions (see the prompts) with known answers in the texts are included in this analysis.
 
-![u2](https://github.com/user-attachments/assets/24cfc0a5-9ed3-4320-87f4-6a6f25ff4a74)
-
+![v2](https://github.com/user-attachments/assets/02174d26-23e2-4044-b506-a5283739ae53)
 
 ## Combined Evaluation
 Combining confabulation and non-response rates enables a comprehensive ranking. Depending on your priorities, you may prefer [fewer confabulations or fewer non-responses](https://lechmazur.github.io/leaderboard1.html). 
@@ -37,6 +36,8 @@ Combining confabulation and non-response rates enables a comprehensive ranking. 
 | Multi-turn ensemble     |                            10.9 |                     8.5 |
 | Grok 2                  |                            24.5 |                    22.7 |
 | Claude 3.5 Sonnet (New) |                            12   |                    27.8 |
+| Grok Beta               |                            24   |                    23.4 |
+
 
 Accuracy benchmarks can also be considered for a fuller assessment. I've created a separate benchmark to test LLMs based on [New York Times Connections](https://github.com/lechmazur/nyt-connections/).
 
@@ -62,6 +63,7 @@ Accuracy benchmarks can also be considered for a fuller assessment. I've created
 
 
 ## Updates and Other Benchmarks
+- Oct. 23, 2024: Grok Beta added
 - Oct. 23, 2024: Claude 3.5 Sonnet (2024-10-22) added
 - Oct. 15, 2024: Grok 2 added
 - Also check out the [LLM Deception Benchmark](https://github.com/lechmazur/deception)
