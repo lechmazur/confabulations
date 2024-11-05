@@ -37,6 +37,7 @@ Combining confabulation and non-response rates enables a comprehensive ranking. 
 | Grok 2                  |                            24.5 |                    22.7 |
 | Claude 3.5 Sonnet (New) |                            12   |                    27.8 |
 | Grok Beta               |                            24   |                    23.4 |
+| Claude 3.5 Haiku        |                            62   |                     6.8 |
 
 
 Accuracy benchmarks can also be considered for a fuller assessment. I've created a separate benchmark to test LLMs based on [New York Times Connections](https://github.com/lechmazur/nyt-connections/).
@@ -63,6 +64,7 @@ Accuracy benchmarks can also be considered for a fuller assessment. I've created
 
 
 ## Updates and Other Benchmarks
+- Nov. 5, 20234: Claude 3.5 Haiku added
 - Oct. 23, 2024: Grok Beta added
 - Oct. 23, 2024: Claude 3.5 Sonnet (2024-10-22) added
 - Oct. 15, 2024: Grok 2 added
