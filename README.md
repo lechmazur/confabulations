@@ -64,7 +64,7 @@ Accuracy benchmarks can also be considered for a fuller assessment. I've created
 
 
 ## Updates and Other Benchmarks
-- Nov. 5, 20234: Claude 3.5 Haiku added
+- Nov. 5, 2024: Claude 3.5 Haiku added
 - Oct. 23, 2024: Grok Beta added
 - Oct. 23, 2024: Claude 3.5 Sonnet (2024-10-22) added
 - Oct. 15, 2024: Grok 2 added
