@@ -68,6 +68,6 @@ Accuracy benchmarks can also be considered for a fuller assessment. I've created
 - Oct. 23, 2024: Grok Beta added
 - Oct. 23, 2024: Claude 3.5 Sonnet (2024-10-22) added
 - Oct. 15, 2024: Grok 2 added
-- Also check out the [LLM Deception Benchmark](https://github.com/lechmazur/deception)
+- Also check out the [LLM Deception Benchmark](https://github.com/lechmazur/deception) and [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent).
 - Follow [@lechmazur](https://x.com/LechMazur) on X (Twitter) for other upcoming benchmarks and more.
 
