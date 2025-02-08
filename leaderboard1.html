@@ -80,26 +80,187 @@
 
     <script>
         const data = [
-            { name: "Qwen 2.5 72B", confabulations: 29.7, nonResponse: 5.8 },
-            { name: "o1-mini", confabulations: 24, nonResponse: 10.2 },
-            { name: "o1-preview", confabulations: 16.7, nonResponse: 7.4 },
-            { name: "GPT-4 Turbo", confabulations: 22.9, nonResponse: 31.4 },
-            { name: "Gemma 2 27B", confabulations: 44.3, nonResponse: 7.1 },
-            { name: "GPT-4o mini", confabulations: 57.3, nonResponse: 13.6 },
-            { name: "Claude 3 Haiku", confabulations: 56.8, nonResponse: 10.4 },
-            { name: "Llama 3.1 70B", confabulations: 13.5, nonResponse: 31.4 },
-            { name: "Gemini 1.5 Flash", confabulations: 41.7, nonResponse: 5.2 },
-            { name: "GPT-4o", confabulations: 18.8, nonResponse: 8.5 },
-            { name: "Claude 3.5 Sonnet", confabulations: 26.6, nonResponse: 16.1 },
-            { name: "Llama 3.1 405B", confabulations: 12.5, nonResponse: 20.8 },
-            { name: "Gemini 1.5 Pro (Sept)", confabulations: 16.7, nonResponse: 9.7 },
-            { name: "Claude 3 Opus", confabulations: 26, nonResponse: 15.9 },
-            { name: "Mistral Large 2", confabulations: 31.2, nonResponse: 9.2 },
-            { name: "DeepSeek-V2.5", confabulations: 32.8, nonResponse: 25.6 },
-            { name: "Multi-turn ensemble", confabulations: 10.9, nonResponse: 8.5 },
-            { name: "Grok 2", confabulations: 24.1, nonResponse: 7.7 },
-			{ name: "Claude 3.5 Haiku", confabulations: 62, nonResponse: 6.8 }
-        ];
+    {
+        "name": "Claude 3.5 Sonnet Old",
+        "confabulations": 27.027027027027028,
+        "nonResponse": 16.13300492610837
+    },
+    {
+        "name": "Claude 3 Haiku",
+        "confabulations": 57.2972972972973,
+        "nonResponse": 10.42692939244663
+    },
+    {
+        "name": "Multi-turn ensemble",
+        "confabulations": 11.35135135135135,
+        "nonResponse": 8.53858784893267
+    },
+    {
+        "name": "DeepSeek-V3",
+        "confabulations": 21.08108108108108,
+        "nonResponse": 14.490968801313631
+    },
+    {
+        "name": "DeepSeek-V2.5",
+        "confabulations": 33.51351351351351,
+        "nonResponse": 25.57471264367816
+    },
+    {
+        "name": "Gemini 1.5 Pro (Sept)",
+        "confabulations": 16.75675675675675,
+        "nonResponse": 9.729064039408861
+    },
+    {
+        "name": "Gemini 2.0 Flash",
+        "confabulations": 23.24324324324324,
+        "nonResponse": 30.25451559934319
+    },
+    {
+        "name": "Gemini 2.0 Flash Exp",
+        "confabulations": 23.24324324324324,
+        "nonResponse": 29.926108374384242
+    },
+    {
+        "name": "Gemini 2.0 Flash Think Exp 01-21",
+        "confabulations": 12.97297297297297,
+        "nonResponse": 10.139573070607549
+    },
+    {
+        "name": "Gemini 2.0 Pro Exp 02-05",
+        "confabulations": 12.99435028248587,
+        "nonResponse": 20.9555741827326
+    },
+    {
+        "name": "Gemini 1.5 Flash",
+        "confabulations": 42.16216216216216,
+        "nonResponse": 5.21346469622331
+    },
+    {
+        "name": "Gemma 2 27B",
+        "confabulations": 44.32432432432432,
+        "nonResponse": 7.10180623973727
+    },
+    {
+        "name": "GPT-4o",
+        "confabulations": 18.37837837837838,
+        "nonResponse": 8.49753694581281
+    },
+    {
+        "name": "GPT-4o mini",
+        "confabulations": 57.2972972972973,
+        "nonResponse": 13.587848932676511
+    },
+    {
+        "name": "GPT-4 Turbo",
+        "confabulations": 23.78378378378378,
+        "nonResponse": 31.40394088669951
+    },
+    {
+        "name": "Grok Beta",
+        "confabulations": 24.32432432432432,
+        "nonResponse": 23.35796387520525
+    },
+    {
+        "name": "Grok 2",
+        "confabulations": 24.32432432432432,
+        "nonResponse": 22.74220032840722
+    },
+    {
+        "name": "Grok 2 12-12",
+        "confabulations": 24.32432432432432,
+        "nonResponse": 14.532019704433491
+    },
+    {
+        "name": "Claude 3.5 Haiku",
+        "confabulations": 63.24324324324324,
+        "nonResponse": 6.814449917898189
+    },
+    {
+        "name": "Llama 3.1 405B",
+        "confabulations": 11.89189189189189,
+        "nonResponse": 20.81280788177339
+    },
+    {
+        "name": "Llama 3.3 70B",
+        "confabulations": 16.201117318435752,
+        "nonResponse": 29.35817805383023
+    },
+    {
+        "name": "Llama 3.1 70B",
+        "confabulations": 13.513513513513509,
+        "nonResponse": 31.40394088669951
+    },
+    {
+        "name": "MiniMax-Text-01",
+        "confabulations": 40.0,
+        "nonResponse": 3.08529945553539
+    },
+    {
+        "name": "Mistral Large 2",
+        "confabulations": 30.810810810810814,
+        "nonResponse": 9.1543513957307
+    },
+    {
+        "name": "Mistral Small 3",
+        "confabulations": 35.67567567567568,
+        "nonResponse": 12.530915086562239
+    },
+    {
+        "name": "Amazon Nova Pro",
+        "confabulations": 51.35135135135135,
+        "nonResponse": 5.80964153275649
+    },
+    {
+        "name": "o1",
+        "confabulations": 10.27027027027027,
+        "nonResponse": 12.15106732348111
+    },
+    {
+        "name": "o1-mini",
+        "confabulations": 24.32432432432432,
+        "nonResponse": 10.180623973727421
+    },
+    {
+        "name": "o1-preview",
+        "confabulations": 16.75675675675675,
+        "nonResponse": 7.38916256157635
+    },
+    {
+        "name": "o3-mini (medium reasoning)",
+        "confabulations": 24.32432432432432,
+        "nonResponse": 8.53858784893267
+    },
+    {
+        "name": "Claude 3 Opus",
+        "confabulations": 26.486486486486488,
+        "nonResponse": 15.92775041050903
+    },
+    {
+        "name": "Microsoft Phi-4",
+        "confabulations": 48.60335195530726,
+        "nonResponse": 5.95744680851063
+    },
+    {
+        "name": "Qwen 2.5 72B",
+        "confabulations": 30.270270270270274,
+        "nonResponse": 5.78817733990147
+    },
+    {
+        "name": "Qwen 2.5 Max",
+        "confabulations": 28.10810810810811,
+        "nonResponse": 12.28935470612412
+    },
+    {
+        "name": "DeepSeek R1",
+        "confabulations": 14.59459459459459,
+        "nonResponse": 7.6669414674361
+    },
+    {
+        "name": "Claude 3.5 Sonnet 2024-10-22",
+        "confabulations": 11.89189189189189,
+        "nonResponse": 27.750410509031198
+    }
+];
 
         const weightSlider = document.getElementById('weightSlider');
         const confabWeightValue = document.getElementById('confabWeightValue');
