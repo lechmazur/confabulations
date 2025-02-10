@@ -9,53 +9,57 @@ Combining confabulation and non-response rates enables a comprehensive ranking. 
 
 ### 50-50 ranking
 
-![leaderboard_dotplot_common](https://github.com/user-attachments/assets/c9aa12bb-d223-4b7a-bfba-6d635edd49b0)
+![leaderboard_dotplot_common](https://github.com/user-attachments/assets/3919c510-fb52-4213-945c-5bfa539c1b38)
 
 |Rank|Model|Confab %|Non-Resp %|Weighted|
 |---:|---|---:|---:|---:|
-|1|DeepSeek R1|17.3|4.1|10.72|
-|2|o1|10.9|10.7|10.80|
-|3|Gemini 2.0 Flash Think Exp 01-21|14.9|8.9|11.90|
-|4|Gemini 1.5 Pro (Sept)|16.8|9.9|13.37|
-|5|GPT-4o|22.3|7.4|14.85|
-|6|o3-mini (medium reasoning)|27.2|8.2|17.70|
-|7|Gemini 2.0 Pro Exp 02-05|15.8|20.2|18.03|
-|8|Qwen 2.5 72B|32.2|5.7|18.96|
-|9|o1-mini|26.2|12.1|19.18|
-|10|Llama 3.1 405B|14.4|24.9|19.62|
-|11|Claude 3.5 Sonnet 2024-10-22|12.9|26.8|19.81|
-|12|DeepSeek-V3|24.3|16.2|20.23|
-|13|Grok 2 12-12|25.7|17.6|21.68|
-|14|Qwen 2.5 Max|31.2|13.8|22.48|
-|15|Llama 3.3 70B|17.8|27.2|22.53|
-|16|Mistral Large 2|32.2|13.3|22.72|
-|17|Mistral Small 3|38.6|10.4|24.52|
-|18|MiniMax-Text-01|44.6|6.1|25.33|
-|19|Gemini 2.0 Flash|24.3|30.8|27.52|
-|20|Gemma 2 27B|47.3|7.9|27.57|
-|21|Microsoft Phi-4|52.5|6.2|29.36|
-|22|Amazon Nova Pro|54.5|8.7|31.57|
-|23|GPT-4o mini|60.9|14.5|37.69|
-|24|Claude 3.5 Haiku|65.8|11.5|38.68|
+|1|o1|10.9|12.6|11.74|
+|2|Gemini 2.0 Flash Think Exp 01-21|14.9|10.0|12.43|
+|3|DeepSeek R1|17.3|8.0|12.65|
+|4|o1-preview|18.3|7.8|13.04|
+|5|Gemini 1.5 Pro (Sept)|16.8|10.2|13.54|
+|6|GPT-4o|22.3|8.4|15.34|
+|7|Llama 3.1 405B|14.4|20.9|17.62|
+|8|o3-mini (medium reasoning)|27.2|8.6|17.91|
+|9|Gemini 2.0 Pro Exp 02-05|15.8|21.0|18.43|
+|10|o1-mini|26.2|10.9|18.55|
+|11|Qwen 2.5 72B|32.2|6.0|19.09|
+|12|DeepSeek-V3|24.3|14.2|19.23|
+|13|Claude 3.5 Sonnet 2024-10-22|12.9|27.0|19.94|
+|14|Grok 2 12-12|25.7|14.5|20.14|
+|15|Mistral Large 2|32.2|10.6|21.40|
+|16|Qwen 2.5 Max|31.2|12.4|21.78|
+|17|Claude 3 Opus|28.2|17.2|22.70|
+|18|Llama 3.3 70B|17.8|27.8|22.81|
+|19|MiniMax-Text-01|44.6|3.3|23.92|
+|20|Mistral Small 3|38.6|11.8|25.21|
+|21|Gemini 2.0 Flash|24.3|29.4|26.85|
+|22|Gemma 2 27B|47.3|7.2|27.24|
+|23|GPT-4 Turbo|26.7|30.1|28.42|
+|24|Microsoft Phi-4|52.5|6.5|29.49|
+|25|Amazon Nova Pro|54.5|5.6|30.05|
+|26|Claude 3 Haiku|56.9|11.5|34.21|
+|27|Claude 3.5 Haiku|65.8|7.6|36.74|
+|28|GPT-4o mini|60.9|13.5|37.21|
 
 ## Confabulation and Non-Response Rates
 
 ![confabulations drawio (1)](https://github.com/user-attachments/assets/ab3c4ae4-7605-4f7d-83ce-ae6a6f8fa1c7)
 
-![confabulations_common](https://github.com/user-attachments/assets/31e8657a-10a4-49f6-8a2d-1a6e58ca14e5)
+![confabulations_common](https://github.com/user-attachments/assets/ff5b82d5-48e1-4cb5-b744-41687953d414)
 
 The raw confabulation rate alone isn't sufficient for meaningful evaluation. A model that simply declines to answer most questions would achieve a low confabulation rate. To address this, the benchmark also tracks the LLM non-response rate using the same prompts and documents but specific questions with answers that are present in the text. Currently, 2,436 hard questions (see the prompts) with known answers in the texts are included in this analysis.
 
-![nonresponse_common](https://github.com/user-attachments/assets/183004cb-f320-4367-a2a5-71e7189fa30a)
+![nonresponse_common](https://github.com/user-attachments/assets/1b7a84df-db18-4e14-84d0-82980f59e815)
 
-Accuracy benchmarks can also be considered for a fuller assessment. I've created a separate benchmark to test LLMs based on the extended version of the [New York Times Connections](https://github.com/lechmazur/nyt-connections/).
+Accuracy benchmarks can also be considered for a more comprehensive assessment. This benchmark currently focuses solely on pure confabulations to keep it distinct for now. However, I have created a separate benchmark to test LLMs using the extended version of the [New York Times Connections](https://github.com/lechmazur/nyt-connections/).
 
 ![nyt_connections_chart](https://github.com/user-attachments/assets/080476e4-562c-47a4-ac1a-f34b7c05f22c)
 
 
 
 ## Interesting Hallucination Results
-- Reasoning appears to help. DeepSeek R1 performs much better than DeepSeek-V3, for example
+- Reasoning appears to help. For example, DeepSeek R1 performs better than DeepSeek-V3 and Gemini 2.0 Flash Thinking Exp 01-21 performs better than Gemini 2.0 Flash.
 - OpenAI o1 confabulates less than DeepSeek R1, but R1 answers questions with known answers more frequently.
 - GPT-4o shows a significant improvement over GPT-4 Turbo.
 - Gemini 1.5 Pro (September) performs better than Claude models, but there is no improvement with Gemini 2.0 Pro Exp 02-05.
