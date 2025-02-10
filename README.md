@@ -38,10 +38,9 @@ Combining confabulation and non-response rates enables a comprehensive ranking. 
 |23|GPT-4o mini|60.9|14.5|37.69|
 |24|Claude 3.5 Haiku|65.8|11.5|38.68|
 
-
-
-
 ## Confabulation and Non-Response Rates
+
+![confabulations drawio](https://github.com/user-attachments/assets/62fee336-8cbc-46ba-b41f-79fb5308c52f)
 
 ![confabulations_common](https://github.com/user-attachments/assets/31e8657a-10a4-49f6-8a2d-1a6e58ca14e5)
 
