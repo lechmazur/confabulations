@@ -48,7 +48,7 @@ Combining confabulation and non-response rates enables a comprehensive ranking. 
 
 ![confabulations_common](https://github.com/user-attachments/assets/ff5b82d5-48e1-4cb5-b744-41687953d414)
 
-The raw confabulation rate alone isn't sufficient for meaningful evaluation. A model that simply declines to answer most questions would achieve a low confabulation rate. To address this, the benchmark also tracks the LLM non-response rate using the same prompts and documents but specific questions with answers that are present in the text. Currently, 2,436 hard questions (see the prompts) with known answers in the texts are included in this analysis.
+The raw confabulation rate alone isn't sufficient for meaningful evaluation. A model that simply declines to answer most questions would achieve a low confabulation rate. To address this, the benchmark also tracks the LLM non-response rate using the same prompts and documents but specific questions with answers that are present in the text. Currently, 2,612 hard questions (see the prompts) with known answers in the texts are included in this analysis.
 
 ![nonresponse_common](https://github.com/user-attachments/assets/1b7a84df-db18-4e14-84d0-82980f59e815)
 
@@ -68,7 +68,7 @@ Accuracy benchmarks can also be considered for a more comprehensive assessment. 
 
 ## Additional Notes
 - A popular hallucination leaderboard on GitHub uses a model for evaluation of document summaries, but I found this to lead to a very high error rate and different rankings. This approach can be very misleading.
-- While the initial set of questions was suggested by LLMs, the final 192 questions were all painstakingly human-verified to have no answers in the provided texts. Only a percentage of LLM-suggested questions were unequivocally answer-free.
+- While the initial set of questions was suggested by LLMs, the final 201 questions were all painstakingly human-verified to have no answers in the provided texts. Only a percentage of LLM-suggested questions were unequivocally answer-free.
 - Despite clear prompts, LLMs often generated compound questions that effectively asked for two answers. These were removed in a separate judging step.
 - The benchmark includes questions where at least one LLM confabulated, in order to minimize the number of questions requiring human assessment. Because of this, and since the questions are intentionally adversarial, the absolute percentage should not be used to infer that LLMs frequently confabulate. This leaderboard does not reflect a "typical" hallucination rate.
 - In some cases, LLMs failed to provide valid responses to the questions, such as skipping certain questions altogether. This occurred only once for the human-selected questions without valid answers in the text (bad Gemma, bad), but happened more frequently for questions with valid answers. These questions were discarded.
@@ -78,7 +78,7 @@ Accuracy benchmarks can also be considered for a more comprehensive assessment. 
 
 
 ## Updates and Other Benchmarks
-- Feb 10, 2025: 17 human-verified questions based on Jan 2025-Feb 2025 articles added.
+- Feb 10, 2025: 17 human-verified questions based on Jan 2025-Feb 2025 articles added. 176 answerable questions added.
 - Feb 7, 2025: DeepSeek R1, o1, o3-mini (medium reasoning effort), DeepSeek-V3, Gemini 2.0 Flash Thinking Exp 01-21, Qwen 2.5 Max, Microsoft Phi-4, Amazon Nova Pro, Mistral Small 3, MiniMax-Text-01 added.
 - Nov. 5, 2024: Claude 3.5 Haiku added
 - Oct. 23, 2024: Grok Beta added
