@@ -40,7 +40,7 @@ Combining confabulation and non-response rates enables a comprehensive ranking. 
 
 ## Confabulation and Non-Response Rates
 
-![confabulations drawio](https://github.com/user-attachments/assets/259f2404-3f3d-4548-b2dc-cda3ef57ff3e)
+![confabulations drawio (1)](https://github.com/user-attachments/assets/ab3c4ae4-7605-4f7d-83ce-ae6a6f8fa1c7)
 
 ![confabulations_common](https://github.com/user-attachments/assets/31e8657a-10a4-49f6-8a2d-1a6e58ca14e5)
 
