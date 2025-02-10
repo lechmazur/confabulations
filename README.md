@@ -7,9 +7,15 @@ As of Feb 10, 2025, 201 questions, confirmed by a human to lack answers in the p
 ## Combined Evaluation
 Combining confabulation and non-response rates enables a comprehensive ranking. Depending on your priorities, you may prefer [fewer confabulations or fewer non-responses](https://lechmazur.github.io/leaderboard1.html). 
 
-### 50-50 ranking
+### 50-50 Ranking bar chart
+
+![leaderboard_bar_common](https://github.com/user-attachments/assets/98dc39c1-2be8-40e7-8263-6aaccf24a5e4)
+
+### 50-50 Ranking dot plot
 
 ![leaderboard_dotplot_common](https://github.com/user-attachments/assets/3919c510-fb52-4213-945c-5bfa539c1b38)
+
+### 50-50 Ranking leaderboard
 
 |Rank|Model|Confab %|Non-Resp %|Weighted|
 |---:|---|---:|---:|---:|
