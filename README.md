@@ -96,6 +96,7 @@ Accuracy benchmarks can also be considered for a more comprehensive assessment. 
 - Follow [@lechmazur](https://x.com/LechMazur) on X (Twitter) for other upcoming benchmarks and more.
 
 
-### Better = Further 50-50 Ranking dot plot
+### Better = Further: 50-50 Ranking dot plot
 
-![leaderboard_dotplot_common](https://github.com/user-attachments/assets/01bd9ea5-2dd1-4a68-b8ea-8063d315fb0e)
+![leaderboard_dotplot_common](https://github.com/user-attachments/assets/203d286a-ff48-49ea-988e-b4d2a314f7f2)
+
