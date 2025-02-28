@@ -9,7 +9,8 @@ Combining confabulation and non-response rates enables a comprehensive ranking. 
 
 ### 50-50 Ranking bar chart
 
-![leaderboard_bar_common](https://github.com/user-attachments/assets/91dd8605-49df-4980-9c3c-499aa871a018)
+![leaderboard_bar_common](https://github.com/user-attachments/assets/9c84bd19-0a91-4699-86df-8c94fc9c0a45)
+
 
 ### 50-50 Ranking leaderboard
 
@@ -20,43 +21,44 @@ Combining confabulation and non-response rates enables a comprehensive ranking. 
 |3|DeepSeek R1|17.3|8.0|12.65|
 |4|o1-preview|18.3|7.8|13.04|
 |5|Gemini 1.5 Pro (Sept)|16.8|10.2|13.54|
-|6|Claude 3.7 Sonnet Thinking 16K|7.9|21.5|14.71|
-|7|GPT-4o 2024-08-06|22.3|8.4|15.34|
-|8|GPT-4o Feb 2025|26.7|6.5|16.63|
-|9|GPT-4o 2024-11-20|26.2|8.2|17.21|
-|10|Llama 3.1 405B|14.4|20.9|17.62|
-|11|o3-mini (medium reasoning)|27.2|8.6|17.91|
-|12|Gemini 2.0 Pro Exp 02-05|15.8|21.0|18.43|
-|13|o1-mini|26.2|10.9|18.55|
-|14|Qwen 2.5 72B|32.2|6.0|19.09|
-|15|DeepSeek-V3|24.3|14.2|19.23|
-|16|Claude 3.7 Sonnet|25.2|14.3|19.76|
-|17|Claude 3.5 Sonnet 2024-10-22|12.9|27.0|19.94|
-|18|Grok 2 12-12|25.7|14.5|20.14|
-|19|Mistral Large 2|32.2|10.6|21.40|
-|20|Qwen 2.5 Max|31.2|12.4|21.78|
-|21|Claude 3 Opus|28.2|17.2|22.70|
-|22|Llama 3.3 70B|17.8|27.8|22.81|
-|23|MiniMax-Text-01|44.6|3.3|23.92|
-|24|Mistral Small 3|38.6|11.8|25.21|
-|25|Gemini 2.0 Flash|24.3|29.4|26.85|
-|26|Gemma 2 27B|47.3|7.2|27.24|
-|27|GPT-4 Turbo|26.7|30.1|28.42|
-|28|Microsoft Phi-4|52.5|6.5|29.49|
-|29|Amazon Nova Pro|54.5|5.6|30.05|
-|30|Claude 3 Haiku|56.9|11.5|34.21|
-|31|Claude 3.5 Haiku|65.8|7.6|36.74|
-|32|GPT-4o mini|60.9|13.5|37.21|
+|6|GPT-4.5 Preview|11.9|15.4|13.64|
+|7|Claude 3.7 Sonnet Thinking 16K|7.9|21.5|14.71|
+|8|GPT-4o 2024-08-06|22.3|8.4|15.34|
+|9|GPT-4o Feb 2025|26.7|6.5|16.63|
+|10|GPT-4o 2024-11-20|26.2|8.2|17.21|
+|11|Llama 3.1 405B|14.4|20.9|17.62|
+|12|o3-mini (medium reasoning)|27.2|8.6|17.91|
+|13|Gemini 2.0 Pro Exp 02-05|15.8|21.0|18.43|
+|14|o1-mini|26.2|10.9|18.55|
+|15|Qwen 2.5 72B|32.2|6.0|19.09|
+|16|DeepSeek-V3|24.3|14.2|19.23|
+|17|Claude 3.7 Sonnet|25.2|14.3|19.76|
+|18|Claude 3.5 Sonnet 2024-10-22|12.9|27.0|19.94|
+|19|Grok 2 12-12|25.7|14.5|20.14|
+|20|Mistral Large 2|32.2|10.6|21.40|
+|21|Qwen 2.5 Max|31.2|12.4|21.78|
+|22|Claude 3 Opus|28.2|17.2|22.70|
+|23|Llama 3.3 70B|17.8|27.8|22.81|
+|24|MiniMax-Text-01|44.6|3.3|23.92|
+|25|Mistral Small 3|38.6|11.8|25.21|
+|26|Gemini 2.0 Flash|24.3|29.4|26.85|
+|27|Gemma 2 27B|47.3|7.2|27.24|
+|28|GPT-4 Turbo|26.7|30.1|28.42|
+|29|Microsoft Phi-4|52.5|6.5|29.49|
+|30|Amazon Nova Pro|54.5|5.6|30.05|
+|31|Claude 3 Haiku|56.9|11.5|34.21|
+|32|Claude 3.5 Haiku|65.8|7.6|36.74|
+|33|GPT-4o mini|60.9|13.5|37.21|
 
 ## Confabulation and Non-Response Rates
 
 ![confabulations drawio (1)](https://github.com/user-attachments/assets/ab3c4ae4-7605-4f7d-83ce-ae6a6f8fa1c7)
 
-![confabulations_common](https://github.com/user-attachments/assets/fcb10aba-089a-43c2-9366-3b03af76e7ad)
+![confabulations_common](https://github.com/user-attachments/assets/f8faa700-c069-4e3e-9a39-560d67e96f3c)
 
 The raw confabulation rate alone isn't sufficient for meaningful evaluation. A model that simply declines to answer most questions would achieve a low confabulation rate. To address this, the benchmark also tracks the LLM non-response rate using the same prompts and documents but specific questions with answers that are present in the text. Currently, 2,612 hard questions (see the prompts) with known answers in the texts are included in this analysis.
 
-![nonresponse_common](https://github.com/user-attachments/assets/ac830ea7-5e19-44a5-a5eb-951802ca0d68)
+![nonresponse_common](https://github.com/user-attachments/assets/dfff9fd7-c82f-43e6-b58c-f4b5b4fcef36)
 
 Accuracy benchmarks can also be considered for a more comprehensive assessment. This benchmark currently focuses solely on pure confabulations to keep it distinct for now. For example, I have created a separate benchmark to test LLMs using the extended version of the [New York Times Connections](https://github.com/lechmazur/nyt-connections/).
 
@@ -82,6 +84,7 @@ Accuracy benchmarks can also be considered for a more comprehensive assessment. 
 
 
 ## Updates and Other Benchmarks
+- Feb 27, 2025: GPT-4.5 Preview added.
 - Feb 26, 2025: Claude 3.7 Sonnet, Claude 3.7 Sonnet Thinking, GPT-4o Feb 2025 added.
 - Feb 10, 2025: 17 human-verified questions based on Jan 2025-Feb 2025 articles added. 176 answerable questions added.
 - Feb 7, 2025: DeepSeek R1, o1, o3-mini (medium reasoning effort), DeepSeek-V3, Gemini 2.0 Flash Thinking Exp 01-21, Qwen 2.5 Max, Microsoft Phi-4, Amazon Nova Pro, Mistral Small 3, MiniMax-Text-01 added.
