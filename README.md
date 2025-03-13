@@ -59,7 +59,7 @@ Combining confabulation and non-response rates enables a comprehensive ranking. 
 
 The raw confabulation rate alone isn't sufficient for meaningful evaluation. A model that simply declines to answer most questions would achieve a low confabulation rate. To address this, the benchmark also tracks the LLM non-response rate using the same prompts and documents but specific questions with answers that are present in the text. Currently, 2,612 hard questions (see the prompts) with known answers in the texts are included in this analysis.
 
-![nonresponse_common](https://github.com/user-attachments/assets/80a8d621-07da-49c6-9593-025ed7d61d6a)
+![nonresponse_common](https://github.com/user-attachments/assets/97785cab-ec01-4cfa-8b9c-c97685996a0f)
 
 Accuracy benchmarks can also be considered for a more comprehensive assessment. This benchmark currently focuses solely on pure confabulations to keep it distinct for now. For example, I have created a separate benchmark to test LLMs using the extended version of the [New York Times Connections](https://github.com/lechmazur/nyt-connections/).
 
