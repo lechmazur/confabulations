@@ -9,7 +9,7 @@ Combining confabulation and non-response rates enables a comprehensive ranking. 
 
 ### 50-50 Ranking bar chart
 
-![leaderboard_bar_common](https://github.com/user-attachments/assets/181b296a-5af2-4312-9b56-1c13bcafae39)
+![leaderboard_bar_common](https://github.com/user-attachments/assets/12b5fa06-c3fe-4d5b-a0cc-5badf10bf365)
 
 ### 50-50 Ranking leaderboard
 
