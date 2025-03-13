@@ -49,16 +49,17 @@ Combining confabulation and non-response rates enables a comprehensive ranking. 
 |32|Claude 3 Haiku|56.9|11.5|34.21|
 |33|Claude 3.5 Haiku|65.8|7.6|36.74|
 |34|GPT-4o mini|60.9|13.5|37.21|
+|35|Gemma 3 27B|68.9|14.3|41.60|
 
 ## Confabulation and Non-Response Rates
 
 ![confabulations drawio (1)](https://github.com/user-attachments/assets/ab3c4ae4-7605-4f7d-83ce-ae6a6f8fa1c7)
 
-![confabulations_common](https://github.com/user-attachments/assets/d84f90d1-696b-40b8-b06f-881812dc741d)
+![confabulations_common](https://github.com/user-attachments/assets/6d9bab52-a149-4572-adb6-8944d4ac2b90)
 
 The raw confabulation rate alone isn't sufficient for meaningful evaluation. A model that simply declines to answer most questions would achieve a low confabulation rate. To address this, the benchmark also tracks the LLM non-response rate using the same prompts and documents but specific questions with answers that are present in the text. Currently, 2,612 hard questions (see the prompts) with known answers in the texts are included in this analysis.
 
-![nonresponse_common](https://github.com/user-attachments/assets/f86f103b-d407-402a-9c62-83ac6038260c)
+![nonresponse_common](https://github.com/user-attachments/assets/80a8d621-07da-49c6-9593-025ed7d61d6a)
 
 Accuracy benchmarks can also be considered for a more comprehensive assessment. This benchmark currently focuses solely on pure confabulations to keep it distinct for now. For example, I have created a separate benchmark to test LLMs using the extended version of the [New York Times Connections](https://github.com/lechmazur/nyt-connections/).
 
@@ -69,6 +70,7 @@ Accuracy benchmarks can also be considered for a more comprehensive assessment. 
 - OpenAI o1 confabulates less than DeepSeek R1, but R1 answers questions with known answers more frequently.
 - GPT-4o shows a significant improvement over GPT-4 Turbo.
 - Gemini 1.5 Pro (September) performs better than Claude models, but there is no improvement with Gemini 2.0 Pro Exp 02-05.
+- Gemma 3 27B dissapoints.
 - Llama models tend to respond cautiously, resulting in fewer confabulations but higher non-response rates
 
 
@@ -84,6 +86,7 @@ Accuracy benchmarks can also be considered for a more comprehensive assessment. 
 
 
 ## Updates and Other Benchmarks
+- March 13, 2025: Gemma 3 27B added.
 - March 7, 2025: Qwen QwQ-32B added.
 - Feb 27, 2025: GPT-4.5 Preview added.
 - Feb 26, 2025: Claude 3.7 Sonnet, Claude 3.7 Sonnet Thinking, GPT-4o Feb 2025 added.
