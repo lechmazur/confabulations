@@ -55,7 +55,7 @@ Combining confabulation and non-response rates enables a comprehensive ranking. 
 
 ![confabulations drawio (1)](https://github.com/user-attachments/assets/ab3c4ae4-7605-4f7d-83ce-ae6a6f8fa1c7)
 
-![confabulations_common](https://github.com/user-attachments/assets/41ea79dd-f6db-45c6-80db-2f38ad3739e4)
+![confabulations_common](https://github.com/user-attachments/assets/a2a576d0-23cd-43d2-a816-8cfb9bb150ba)
 
 The raw confabulation rate alone isn't sufficient for meaningful evaluation. A model that simply declines to answer most questions would achieve a low confabulation rate. To address this, the benchmark also tracks the LLM non-response rate using the same prompts and documents but specific questions with answers that are present in the text. Currently, 2,612 hard questions (see the prompts) with known answers in the texts are included in this analysis.
 
