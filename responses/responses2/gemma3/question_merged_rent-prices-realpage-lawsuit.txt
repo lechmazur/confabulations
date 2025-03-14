@@ -1,2 +1,7 @@
 merged_rent-prices-realpage-lawsuit.txt
-Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article states the Justice Department has not taken legal action, but filed a brief in support of the renters' case.</other>
+<question_number>2</question_number>
+<answer>Rick Graf</answer>
+<other>The article specifically names Rick Graf as the former chief executive of Pinnacle who was quoted on RealPage's website.</other>

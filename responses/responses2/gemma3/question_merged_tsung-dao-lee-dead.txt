@@ -1,2 +1,10 @@
 merged_tsung-dao-lee-dead.txt
-Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+<question_number>1</question_number>
+<answer>1945</answer>
+<other>The article states they both studied at the University of Chicago, and that they first met there in 1945.</other>
+<question_number>2</question_number>
+<answer>3</answer>
+<other>The article states he worked there for three years before being hired by Columbia University.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article mentions the Albert Einstein Award in Science, but does not state when he received it or any award in 1962.</other>

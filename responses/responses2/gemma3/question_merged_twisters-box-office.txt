@@ -1,2 +1,16 @@
 merged_twisters-box-office.txt
-Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article does not state a reason cited by the director.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article states it was *on pace* to collect roughly $80 million, but doesn't give a final total for the weekend.</other>
+<question_number>3</question_number>
+<answer>largely positive</answer>
+<other>The article states reviews were largely positive, but doesn't compare it to the other films.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article does not mention any challenges faced by Universal Pictures in distributing the film.</other>
+<question_number>5</question_number>
+<answer>Indiana Jones</answer>
+<other>The article states "The third 'Ant-Man' movie disappointed at the box office, as did the fifth 'Indiana Jones' installment..."</other>

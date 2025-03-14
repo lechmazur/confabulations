@@ -1,2 +1,10 @@
 merged_ftc-pharmacy-benefit-managers-drug-prices.txt
-Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+<question_number>1</question_number>
+<answer>inflating drug costs and squeezing Main Street pharmacies</answer>
+<other>The question asks for the primary reason for a lawsuit, and the text states the FTC criticized the managers for inflating costs and squeezing pharmacies.</other>
+<question_number>2</question_number>
+<answer>2018</answer>
+<other>The text states that by the end of 2018, each of the top three benefit managers had become part of the same company as a giant insurer.</other>
+<question_number>3</question_number>
+<answer>$1.6 billion</answer>
+<other>The text specifically states that the practice translated into nearly $1.6 billion in revenue over less than three years.</other>

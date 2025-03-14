@@ -1,2 +1,4 @@
 merged_alcohol-dietary-guidelines.txt
-Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+<question_number>1</question_number>
+<answer>Drink less</answer>
+<other>The article explicitly states that the upcoming report is expected to focus on health outcomes known to be caused by alcohol and may set the stage for dietary guidelines that say "Drink less."</other>

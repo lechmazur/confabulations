@@ -1,2 +1,10 @@
 merged_wnba-players-salaries-money.txt
-Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+<question_number>1</question_number>
+<answer>$500,000</answer>
+<other>The article explicitly states the fine amount.</other>
+<question_number>2</question_number>
+<answer>Under Armour</answer>
+<other>The article lists Under Armour as a participant in the W.N.B.A. Live fan festival.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article only mentions Ishbia acquiring the Mercury and the Phoenix Suns; it does not state any prior ownership of women's sports teams.</other>

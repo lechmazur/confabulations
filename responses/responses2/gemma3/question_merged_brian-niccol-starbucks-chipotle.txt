@@ -1,2 +1,22 @@
 merged_brian-niccol-starbucks-chipotle.txt
-Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article states he was "poached" but doesn't give a reason for *his* departure.</other>
+<question_number>2</question_number>
+<answer>weakening results</answer>
+<other>The article states Starbucks is "grappling with weakening results."</other>
+<question_number>3</question_number>
+<answer>bargaining a framework for a labor contract</answer>
+<other>The article states Starbucks made "progress toward bargaining a framework for a labor contract."</other>
+<question_number>4</question_number>
+<answer>$240,000</answer>
+<other>The article states Chipotle agreed to pay "$240,000 to the former employees."</other>
+<question_number>5</question_number>
+<answer>weak sales and a falling stock price</answer>
+<other>The article states the change came after "months of weak sales at the coffee giant and a falling stock price."</other>
+<question_number>6</question_number>
+<answer>Howard Schultz</answer>
+<other>The article states Howard Schultz holds the title of "chairman emeritus." The length of time he's been in this position is not specified.</other>
+<question_number>7</question_number>
+<answer>William Blair</answer>
+<other>Sharon Zackfia is identified as an analyst at "the investment bank William Blair."</other>

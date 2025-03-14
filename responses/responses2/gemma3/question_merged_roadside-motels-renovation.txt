@@ -1,2 +1,7 @@
 merged_roadside-motels-renovation.txt
-Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+<question_number>1</question_number>
+<answer>$4.25 million</answer>
+<other>The article states Lark Hotels bought the property for $4.25 million.</other>
+<question_number>2</question_number>
+<answer>water bed</answer>
+<other>The article states Ms. Lennox installed a water bed in one room.</other>

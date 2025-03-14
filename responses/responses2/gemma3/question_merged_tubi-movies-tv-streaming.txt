@@ -1,2 +1,13 @@
 merged_tubi-movies-tv-streaming.txt
-Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+<question_number>1</question_number>
+<answer>$900 million</answer>
+<other>The article states Tubi drew about $900 million in revenue over the last year.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions Lachlan Murdoch as a fan of Tubi, but doesn't name an executive credited with turning it into a favorite of his.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article states there were roughly 43 million cancellations between April and June, not January and March.</other>
+<question_number>4</question_number>
+<answer>procedural</answer>
+<other>The article specifically mentions the 1970s procedural "Columbo" as a popular program.</other>

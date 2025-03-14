@@ -1,2 +1,16 @@
 merged_box-office-projections-tracking.txt
-Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+<question_number>1</question_number>
+<answer>They pushed the National Research Group to come up with an estimate figure for their movies</answer>
+<other>The article states Coca-Cola wanted Columbia Pictures run like a consumer products company and pushed for estimates.</other>
+<question_number>2</question_number>
+<answer>$40 million</answer>
+<other>The article explicitly states this projection for "Furiosa."</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article states opening-weekend estimates have been a Hollywood fixture *since* the 1980s, but doesn't state when they were introduced.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article states Kevin Goetz founded Screen Engine/ASI, but doesn't mention it being acquired or founded in the 1980s.</other>
+<question_number>5</question_number>
+<answer>two</answer>
+<other>The article directly states the initial plan was two screens, then increased to six.</other>

@@ -1,2 +1,4 @@
 merged_chips-packaging-semiconductors.txt
-Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+<question_number>1</question_number>
+<answer>9</answer>
+<other>The article states "Resonac, a company based in Tokyo, announced on Monday a new consortium with nine other Japanese and U.S. companies..." This means there are nine Japanese companies involved.</other>

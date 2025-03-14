@@ -1,2 +1,16 @@
 merged_tesla-teen-driver.txt
-Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article does not state the primary reason, only that he'd "just as soon not" drive sometimes.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article states Strayer claims computers have a cognitive advantage, not human drivers.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article states 43,000 people died in 2021, a 16-year high, but does not provide a comparison to the previous year.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article does not mention any advice given by David Strayer about improving attention spans.</other>
+<question_number>5</question_number>
+<answer>self-watching social media</answer>
+<other>The article states he suggested being able to watch TikTok behind the wheel, and then extends that to self-watching social media.</other>

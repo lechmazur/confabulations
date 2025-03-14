@@ -1,2 +1,10 @@
 merged_womens-hockey-league-billie-jean-king.txt
-Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+<question_number>1</question_number>
+<answer>2019</answer>
+<other>The article states the initial phone call arranging a meeting occurred in March 2019.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article states the league will have 30 games in 2025, but does not mention expansion to new cities.</other>
+<question_number>3</question_number>
+<answer>24</answer>
+<other>The article states player salaries are for a 24-game season and mentions there are 24 players.</other>

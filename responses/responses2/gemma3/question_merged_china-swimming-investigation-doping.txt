@@ -1,2 +1,4 @@
 merged_china-swimming-investigation-doping.txt
-Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+<question_number>1</question_number>
+<answer>2020</answer>
+<other>The article states the Rodchenkov Act was passed in 2020.</other>
