@@ -1,0 +1,80 @@
+merged_hot-weather-fainting-hocm-heart-condition.txt
+<question_number>1</question_number>
+<answer>Donkey</answer>
+<other>The text describes her riding a "beautiful white beast" which is explicitly identified as a donkey, not a horse.</other>
+
+<question_number>2</question_number>
+<answer>About 4 years</answer>
+<other>The article states "She first fainted maybe four years earlier" before she decided to seek a second opinion after falling from the donkey.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any medical journal where Dr. Sanders published this case.</other>
+
+<question_number>4</question_number>
+<answer>2</answer>
+<other>The article states "a grand-nephew and a cousin were diagnosed with HOCM" after her diagnosis.</other>
+
+<question_number>5</question_number>
+<answer>Walking on a treadmill</answer>
+<other>The article states "She was at the gym, finishing up a brisk walk on the treadmill, when she felt the odd tingling" describing her first fainting episode.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article mentions she had surgery in 2021 but doesn't specify the name of the surgical procedure.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article mentions a radioactive dye was used but doesn't specify what type.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article mentions she had high blood pressure but doesn't provide a specific reading.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article mentions she saw "a local cardiologist" initially but doesn't provide a name.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article mentions that some medications for high blood pressure could make HOCM symptoms worse, but doesn't name a specific medication.</other>
+
+<question_number>11</question_number>
+<answer>Tower of Pisa</answer>
+<other>The article states "She fainted on the steps of the tower of Pisa."</other>
+
+<question_number>12</question_number>
+<answer>The septum</answer>
+<other>The article states "The thickening had worsened, but only in the wall that separated the left and right ventricles" which is the septum.</other>
+
+<question_number>13</question_number>
+<answer>Echocardiogram</answer>
+<other>The article mentions her initial echocardiogram was normal, but a later one showed thickening.</other>
+
+<question_number>14</question_number>
+<answer>About 4 years</answer>
+<other>The article states she first fainted about four years before seeking a second opinion from Dr. Ramos.</other>
+
+<question_number>15</question_number>
+<answer>HOE-come</answer>
+<other>The article states "As Ramos described the disease, he referred to it by an acronym. He pronounced it HOE-come."</other>
+
+<question_number>16</question_number>
+<answer>Heat</answer>
+<other>The article repeatedly mentions hot weather as a trigger, stating she fainted "mostly in the summer when she was exerting herself in the heat."</other>
+
+<question_number>17</question_number>
+<answer>Surgery</answer>
+<other>The article states "She finally had surgery in 2021. She hasn't fainted since."</other>
+
+<question_number>18</question_number>
+<answer>Dr. David Ramos</answer>
+<other>The article describes Dr. Ramos as the one who recognized the problem after seeing the thickening in the septum.</other>
+
+<question_number>19</question_number>
+<answer>They could make HOCM symptoms worse</answer>
+<other>The article states "Some of those recommended for high blood pressure could make HOCM symptoms worse."</other>
+
+<question_number>20</question_number>
+<answer>Uncle</answer>
+<other>The article states "She had two uncles with heart problems; one died young, and the other lived into his 70s but was housebound for most of his life."</other>

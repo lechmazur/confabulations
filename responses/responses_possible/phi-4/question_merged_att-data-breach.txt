@@ -1,0 +1,32 @@
+merged_att-data-breach.txt
+<other>The article provides information about a data breach at AT&T, where phone records were exposed but not the content of calls or texts. The breach involved data from May 2022 to October 2022 and January 2023, affecting over 100 million customers. AT&T has federal contracts with agencies like the State Department, Department of Homeland Security, and the Department of Defense. The breach was linked to a third-party cloud platform, Snowflake. The article also mentions concerns about national security and the potential for foreign actors to benefit from the exposed data.</other>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>Outsourcing data to a third-party cloud platform like Snowflake introduces additional security risks because it involves sharing infrastructure with other entities, making it more complex to secure.</answer>
+
+<question_number>3</question_number>
+<answer>The breach highlights the critical need for secure data management, especially for companies with government contracts, as exposed data could affect national security.</answer>
+
+<question_number>4</question_number>
+<answer>Exposed phone records can reveal communication patterns by identifying the numbers an AT&T number interacted with, potentially linking to individuals in national security roles.</answer>
+
+<question_number>5</question_number>
+<answer>The exposed data, combined with AT&T's government contracts, suggests potential risks to federal agencies' communication networks, as phone records can be traced back to individuals.</answer>
+
+<question_number>6</question_number>
+<answer>The exposed data, which includes phone interaction records, can help identify communication networks of individuals in sensitive positions by linking phone numbers to names.</answer>
+
+<question_number>7</question_number>
+<answer>The exposed data could benefit foreign nation states by revealing communication networks, as phone records can be traced back to individuals, including those in sensitive roles.</answer>
+
+<question_number>8</question_number>
+<answer>The compromised data, which includes phone interaction records, could expose sensitive communication networks of government officials by linking phone numbers to names.</answer>
+
+<question_number>9</question_number>
+<answer>Outsourcing data to cloud networks increases exposure to breaches because it involves shared infrastructure, making it more complex to secure against potential attacks.</answer>
+
+<question_number>10</question_number>
+<answer>The professor's explanation relates to the AT&T breach by highlighting the increased risk of data breaches when IT infrastructure is moved to shared cloud platforms like Snowflake.</answer>

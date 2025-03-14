@@ -1,0 +1,31 @@
+merged_2024-election-map-data.txt
+<question_number>1</question_number>
+<answer>early or mail-in absentee ballots</answer>
+<other>The article states that the chosen visualization method prioritizes revealing the political character of different areas over depicting the popular vote count, and it also mentions that many places do not include early or mail-in absentee ballots in the precinct data they release, making such data unsuitable for the map.</other>
+<question_number>2</question_number>
+<answer>73 percent</answer>
+<other>The article states that the map currently includes results for more than 110,000 precincts, or 73 percent of all votes.</other>
+<question_number>3</question_number>
+<answer>early or mail-in absentee ballots</answer>
+<other>The article mentions that many places do not include early or mail-in absentee ballots in the precinct data they release, which could cause misrepresentation of overall voter turnout if prioritized counties rely on incomplete data.</other>
+<question_number>4</question_number>
+<answer>getting the results into a data table</answer>
+<other>The article describes getting results into a data table as half the battle in creating the map. If sparsely populated areas consistently showed darker shades, matching these results to precinct boundaries would become more complex due to the inverse relationship assumption.</other>
+<question_number>5</question_number>
+<answer>collecting results data and precinct boundary files</answer>
+<other>The article states that collecting results data and precinct boundary files was a time-consuming research task. If precinct names aligned perfectly, this step would have been less time-consuming, although the need to manually gather precinct boundaries would remain.</other>
+<question_number>6</question_number>
+<answer>the drawback that it does not account for population</answer>
+<other>The article mentions that the map does not account for population and that a drawback of the choropleth approach is that it does not reflect population density. If only the least populated counties provided complete data, the lack of population consideration would be most exacerbated.</other>
+<question_number>7</question_number>
+<answer>missing data submissions</answer>
+<other>The article welcomes submissions from election officials and citizens to help add missing data or notify of potential inaccuracies. If early and mail-in voting decreased and data tables were perfectly formatted, missing data submissions would become less crucial for ensuring accuracy.</other>
+<question_number>8</question_number>
+<answer>the exclusion of certain data due to its incompleteness</answer>
+<other>The article mentions that the map does not include data from places where early or mail-in absentee ballots are not fully accounted for. If the map accurately represented population density, the exclusion of incomplete data would become irrelevant in assessing the map's overall representation.</other>
+<question_number>9</question_number>
+<answer>data submissions from election officials and citizens</answer>
+<other>The article mentions that submissions from election officials and citizens are crucial for identifying potential inaccuracies and adding missing data. If precinct boundary shapes drastically differed from official records, such contributions would be essential in identifying the source of the discrepancy.</other>
+<question_number>10</question_number>
+<answer>the challenge of gathering precinct boundary files from state and county sources</answer>
+<other>The article states that there is no nationwide source of precinct boundary files and that each entity has its own way of releasing such data. This challenge would remain equally relevant regardless of the baseline year for comparison.</other>

@@ -1,0 +1,21 @@
+merged_ants-amputation-legs.txt
+<question_number>1</question_number>
+<answer>Thigh injuries reduce hemolymph flow, enabling effective infection prevention via amputation.</answer>
+<question_number>2</question_number>
+<answer>Presence of multiple hemolymph-pumping muscles in thighs.</answer>
+<question_number>3</question_number>
+<answer>Wounds closer to body have higher amputation success; distant wounds have lower success.</answer>
+<question_number>4</question_number>
+<answer>Saves colony energy by reducing need to produce additional ants.</answer>
+<question_number>5</question_number>
+<answer>Thigh amputations have a longer time window for success; lower legs have a narrower time window.</answer>
+<question_number>6</question_number>
+<answer>Multiple muscles in thighs maintain hemolymph flow, aiding amputation success.</answer>
+<question_number>7</question_number>
+<answer>Bacteria penetrate slowly in thighs, making amputation effective; quickly in lower legs, reducing effectiveness.</answer>
+<question_number>8</question_number>
+<answer>Injured ant presents leg, nestmate amputates and cleans.</answer>
+<question_number>9</question_number>
+<answer>More hemolymph-pumping muscles in thighs correlate with higher amputation success.</answer>
+<question_number>10</question_number>
+<answer>High amputee survival rate saves colony energy resources.</answer>

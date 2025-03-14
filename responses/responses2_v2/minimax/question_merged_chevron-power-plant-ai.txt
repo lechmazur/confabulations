@@ -1,0 +1,61 @@
+merged_chevron-power-plant-ai.txt
+<question_number>1</question_number>
+<answer>Nvidia</answer>
+<other>The text mentions that Nvidia's stock tumbled 17 percent after DeepSeek's announcement.</other>
+<question_number>2</question_number>
+<answer>7 gigawatts</answer>
+<other>The article states that Chevron and Engine No. 1 reserved seven gas turbines from GE Vernova.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The text only mentions a prediction for 2028 (12 percent) and the 2023 figure (4.4 percent), but does not provide a prediction for 2025.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The text only mentions Engine No. 1 waging a successful proxy battle against Exxon Mobil, not against both Chevron and Exxon Mobil.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The text does not specify the total value of the equipment order placed by Chevron with GE Vernova.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>While the companies looked for sites able to accommodate carbon dioxide emissions capture and sequestration, the exact number of potential sites is not provided.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The text does not mention any return on investment projections by Chevron comparing data center power generation to traditional oil drilling.</other>
+<question_number>8</answer>
+<answer>N/A</answer>
+<other>The article does not specify which region has the highest potential for data center development based on infrastructure assessment.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The text mentions that Microsoft and Google have targets for carbon-neutral energy but does not provide a specific timeline for the transition.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article does not provide an estimate of additional grid capacity needed for Chevron's planned data center power plants.</other>
+<question_number>11</question_number>
+<answer>Chevron</answer>
+<other>Chevron is initiating the construction of natural gas power plants adjacent to AI data centers, as indicated by the partnership with Engine No. 1.</other>
+<question_number>12</question_number>
+<answer>Chevron</answer>
+<answer>The CEO of Chevron, Mike Wirth, highlighted the importance of affordable and reliable power for expanding artificial intelligence services.</answer>
+<question_number>13</question_number>
+<answer>$2 billion</answer>
+<other>The text cites Morgan Stanley's estimate that natural gas-fired power plants cost around $2 billion per gigawatt.</other>
+<question_number>14</question_number>
+<answer>More rapid startup</answer>
+<other>By bypassing the electric grid initially, the plants can get up and running more quickly, avoiding delays from grid connection approvals.</other>
+<question_number>15</question_number>
+<answer>7.6 percentage points</answer>
+<other>The share is expected to increase from 4.4 percent in 2023 to 12 percent in 2028, which is an increase of 7.6 percentage points.</other>
+<question_number>16</question_number>
+<answer>Engine No. 1</answer>
+<other>Engine No. 1, noted for its earlier proxy battle with Exxon Mobil, is collaborating on the natural gas power plant project.</other>
+<question_number>17</question_number>
+<answer>Nvidia</answer>
+<other>Nvidia's stock experienced a 17 percent decline after the announcement related to the Chinese startup's low-energy chip solution.</other>
+<question_number>18</question_number>
+<answer>Constellation Energy</answer>
+<other>Constellation Energy agreed to acquire its rival Calpine in the $16.4 billion deal.</other>
+<question_number>19</question_number>
+<answer>Carbon dioxide</answer>
+<other>Carbon dioxide is identified as the greenhouse gas produced by burning the fuel relied on by data centers and is a major driver of climate change.</other>
+<question_number>20</question_number>
+<answer>Chevron and Engine No. 1 are building natural gas power plants adjacent to AI data centers, ordering turbines from a GE successor, planning off-grid operations for rapid startup, and co-locating facilities with data centers to meet rising power demands.</answer>
+<other>This structural change integrates multiple strategies to address the growing power needs of AI.</other>

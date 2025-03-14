@@ -1,0 +1,70 @@
+merged_workout-wear-loosens-up.txt
+Okay, let's tackle these questions one by one. I need to make sure I'm only using the article provided and not any outside knowledge. Let's go through each question carefully.
+
+1. The first question asks about a label that introduced a line reimagining tight athletic wear, mentioned during New York Fashion Week with boxy silhouettes. The article says Literary Sport launched during NYFW with boxy designs. So the answer should be Literary Sport.
+
+2. The second question refers to a brand that avoids compression fit, using "gently trace" and mentions casual gym wear. The article mentions Literary Sport's merino wool T-shirts and oversized shorts. So again, Literary Sport fits here.
+
+3. The third question is about a company with '70s-inspired "Windrunner" pants. The article specifically mentions Nike's Windrunner pants inspired by the 1970s. So Nike is the answer.
+
+4. The fourth question connects former American Apparel employees and LA label supplying yoga pants. The article says Everybody.World was founded by ex-American Apparel employees and their pants are used in yoga studios. So Everybody.World is correct.
+
+5. Fifth question is about a line by a retailer investigating sweatpants and leggings combo. The article mentions FP Movement by Free People, where designers look at mixing sweatpants and performance leggings. FP Movement is the answer.
+
+6. Sixth question asks which trainer observed vintage T-shirts and cutout leotards. The article mentions Kirsty Godso, who noted vintage T-shirts and strappy leotards. So Kirsty Godso.
+
+7. Seventh question is about a non-North American brand with tactical track suits. The article lists Norba (Ukraine) and P.E Nation (Australia). The question specifies tactical details, so Norba or P.E Nation? The text says both have tactical details. Since the question asks for one, maybe Norba is the answer as it's specifically mentioned alongside tactical details.
+
+Wait, the article says "Norba, a Ukrainian label, and P.E Nation, a company based in Australia, both of which sell track suits with details reminiscent of tactical clothing." Since both are mentioned, but the question says "which brand from outside North America"—both qualify. The question might want one, but since both are listed, perhaps either is acceptable. However, since the question says "which brand", maybe the first one, Norba.
+
+8. Eighth question: principal dancer documenting on TikTok with mesh tops and layered tunics. The article mentions Leslie Andrea Williams of Martha Graham, who uses mesh tops by Only Hearts and Huaqiao pants, and her TikTok posts. So Leslie Andrea Williams.
+
+9. Ninth question: brand's chief creative officer talking about wanting performance without tightness. The article quotes Ana Hartl from FP Movement saying "People want the performance aspect... but don't want that fit." So FP Movement's CCO Ana Hartl, so the brand is FP Movement.
+
+10. Tenth question: brand with inclusive sizing (extra to six-XL) and slouchy sets. The article mentions Girlfriend Collective offers sizes XXS to 6XL and introduced slouchy sets with cowl-necks. So Girlfriend Collective.
+
+Wait, let me check each again:
+
+1. Literary Sport – correct.
+
+2. The article says Literary Sport's designs "gently trace the body's perimeter", so yes, Literary Sport.
+
+3. Nike's Windrunner – yes.
+
+4. Everybody.World by former American Apparel employees – yes.
+
+5. FP Movement by Free People – yes.
+
+6. Kirsty Godso – correct.
+
+7. The question asks for a brand from outside North America with tactical details. Norba (Ukraine) and P.E Nation (Australia). The question says "which brand", so either is correct. The article lists both. Since the question is about "outside North America", both qualify. But the question might expect one. Since the article mentions Norba first, perhaps that's the answer. Alternatively, the user might have intended one, but the text doesn't specify which one. Hmm. The question says "which brand from outside North America is noted...", so both are valid. However, since the question says "brand", perhaps either is acceptable. But I need to check the exact wording. The article says "Norba, a Ukrainian label, and P.E Nation, a company based in Australia, both of which sell track suits with details reminiscent of tactical clothing." Since both are mentioned, but the question asks for one, perhaps the answer is Norba and P.E Nation? But the answer should be a single brand. Wait, the question says "which brand", so maybe the user expects both? But the instructions say to answer with "N/A" if the question asks for two and only one is given. Wait, the question is asking for "which brand", so pick one. Since the article lists both, but the question is about Eastern European aesthetics? Norba is Ukrainian, so maybe that's the one. The question mentions "Eastern European aesthetics alongside tactical design". Since Norba is from Ukraine (Eastern Europe), that's the answer. P.E Nation is Australia, so the Eastern European would be Norba. So answer is Norba.
+
+8. Leslie Andrea Williams – correct.
+
+9. FP Movement – yes.
+
+10. Girlfriend Collective – correct.
+
+Okay, that's all. Now, to structure the answers accordingly.
+</think>
+
+<question_number>1</question_number>
+<answer>Literary Sport</answer>
+<question_number>2</question_number>
+<answer>Literary Sport</answer>
+<question_number>3</question_number>
+<answer>Nike</answer>
+<question_number>4</question_number>
+<answer>Everybody.World</answer>
+<question_number>5</question_number>
+<answer>FP Movement</answer>
+<question_number>6</question_number>
+<answer>Kirsty Godso</answer>
+<question_number>7</question_number>
+<answer>Norba</answer>
+<question_number>8</question_number>
+<answer>Leslie Andrea Williams</answer>
+<question_number>9</question_number>
+<answer>FP Movement</answer>
+<question_number>10</question_number>
+<answer>Girlfriend Collective</answer>

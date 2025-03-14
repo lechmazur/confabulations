@@ -1,0 +1,69 @@
+merged_vanguard-sec-investors-retirement-funds.txt
+Okay, let's tackle these questions one by one using only the information from the article. 
+
+1. The first question asks which state's attorney general reported over 20,000 residents affected. The article says New York had over 15,000. Since 15k is less than 20k, the answer is N/A.
+
+2. GrubMarket's restitution: The article mentions they paid an $8 million fine, but the question is about restitution. Wait, the article says they agreed to pay an $8M fine to settle, and the SEC found they overstated revenue and raised $80M with that figure. But the question is about restitution. The article says Two Sigma paid $165M restitution, but GrubMarket's part only mentions the $8M fine. So maybe the answer is N/A because the article doesn't mention restitution for GrubMarket beyond the fine? Wait, the article says "agreed to pay an $8 million fine to settle an investigation after the S.E.C. found that the privately held company had overstated its long-term revenues by $550 million." So the $8M is the fine, not restitution. The question asks how much they paid in restitution. Since the article doesn't mention a separate restitution amount for GrubMarket, answer N/A.
+
+3. Two Sigma's assets under management when the issues were found. The article states they manage about $60 billion. The problems were identified by employees, so the $60B is current when the issues were found? The article says "manages about $60 billion in investor money." Since it's in the same paragraph as the settlement, that's the figure. So answer $60 billion.
+
+4. The fiscal quarter when Vanguard changed the fund terms. The article mentions the changes were in 2020 and 2021 prospectuses. But the exact quarter isn't given. So N/A.
+
+5. Percentage of Vanguard's 50M investors affected. The article says hundreds of thousands, but not a percentage. Since 50 million is the total, but we don't know the exact number affected, can't compute percentage. Answer N/A.
+
+6. Months LPL took to fix the AML program. The article states they didn't move quickly enough, but exact months? No, so N/A.
+
+7. Average tax increase for NY investors. The article mentions they paid higher taxes but no specific average amount. N/A.
+
+8. Which regulatory body first found Vanguard's discrepancies. The investigation was led by NY, NJ, CT and other agencies, but the SEC announced it. The article says the joint investigation found the issues. The SEC was part of it. But the question is which body first identified. The article doesn't specify which one first. So N/A.
+
+9. Capital gains avoided by institutional investors. The article says institutional investors moved their money, causing retail to face higher taxes. But the exact amount they avoided isn't given. N/A.
+
+10. Number of models at Two Sigma with problems. The article says "two of the models". So answer 2.
+
+11. Two states' AGs involved in uncovering the number of residents impacted. The investigation was led by NY, NJ, and CT. The question asks which two states' AGs were directly involved in uncovering the number. The article mentions NY specifically reported 15k, but the states involved in the investigation were NY, NJ, CT. The question is about which two were directly involved in uncovering the number. Since the article says NY's AG reported their numbers, but the others may have done similar. The question might be looking for NY and another? Wait the question says "two states' attorneys general offices were directly involved in uncovering the number of residents impacted". The initial investigation was led by NY, NJ, and CT. The article says "New York alone, Vanguard's failure... led more than 15,000 residents..." So NY is one, but which other? The question might expect NY and NJ? Or since the problem was in multiple states, but the article only gives numbers for NY. The question asks which two states' AGs were directly involved in uncovering the numbers. Since the article mentions NY's AG provided the 15k figure, but others may have their own numbers but not reported here. The question might be looking for NY and NJ as two of the three leading states. Since the question asks for two, maybe NY and NJ? The answer should be New York and New Jersey, as the first two listed in the states leading the investigation. The article states "multistate investigation led by New York, New Jersey and Connecticut along with other regulatory agencies." So the two would be NY and NJ. So answer New York and New Jersey.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Article states New York had over 15,000 residents affected, not exceeding 20,000.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>GrubMarket paid an $8M fine, but the article does not mention a separate restitution amount beyond the fine.</other>
+
+<question_number>3</question_number>
+<answer>$60 billion</answer>
+<other>Article states Two Sigma manages about $60 billion in investor money when the issues were identified.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Prospectuses were from 2020 and 2021, but no specific fiscal quarter is provided.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Total affected investors are described as "hundreds of thousands," but no percentage of 50 million is given.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Article states LPL did not act quickly enough but does not specify the number of months.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Article mentions higher taxes for New York investors but provides no specific average amount.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The joint investigation (including SEC and state agencies) found discrepancies, but no single body is cited as "first" in the text.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>No specific amount avoided by institutional investors is provided in the article.</other>
+
+<question_number>10</question_number>
+<answer>2</answer>
+<other>Article explicitly states "two of the models" had problems at Two Sigma.</other>
+
+<question_number>11</question_number>
+<answer>New York and New Jersey</answer>
+<other>Investigation was led by New York, New Jersey, and Connecticut; the question asks for two states directly involved in uncovering the impact numbers.</other>

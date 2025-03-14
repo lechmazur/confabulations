@@ -1,0 +1,120 @@
+merged_retirement-community-bankruptcy.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the article provided and answer each question exactly as per the instructions. Let me go through each question carefully.
+
+1. **Question 1:** The article mentions states with reserve requirements including New York alongside Florida and California. The part that says "this does not preclude communities from failing to set aside such funds and filing for bankruptcy anyway" refers to New York's requirement being ineffective. So the answer is New York.
+
+2. **Question 2:** Curt Schaller said, "we can't undo money lost by others that led to this bankruptcy." That's the reason for not being able to assist with refunds.
+
+3. **Question 3:** Harborside opened in 2010 and declared bankruptcy for the third time in 2023. The first bankruptcy would be before that. The article says "third time since it opened in 2010". To find the first, but the question is how many years after opening was the first? The article doesn't specify exact years for each bankruptcy. Wait, maybe I need to calculate based on third in 2023. Since 2023-2010=13 years, but third time. The question says "how many years after its opening did the Harborside file for bankruptcy for the first time". Since it's third in 2023, but the exact years aren't given. So this might be N/A because the article doesn't state the first bankruptcy's year.
+
+Wait, the article says "for the third time since it opened in 2010, the Harborside declared bankruptcy in 2023." So the first two were before 2023, but exact years not given. The question asks for the number of years after opening for the first bankruptcy. Since we don't have that data, it's N/A.
+
+4. **Question 4:** Ellen Zlotnick's parents have a 75% refund in their contract. The answer is 75%.
+
+5. **Question 5:** The National Investment Center for Seniors Housing & Care opposed increased regulation. The quote is from Robert Kramer, their co-founder.
+
+6. **Question 6:** Curtis and sons consulted accountants and interviewed the CFO. The article says they looked at financial aspects, but the specific metric? The question says "financial metric they analyzed". The CFO would discuss things like financial stability, reserves, maybe entrance fees, but the text doesn't specify a particular metric like revenue or debt. So maybe N/A? Wait, the article says "consulted accountants and even interviewed the chief financial officer of the Harborside's parent company." It doesn't mention a specific metric, so perhaps N/A.
+
+Wait, the question says "specific financial metric". The article doesn't name one, so answer N/A.
+
+7. **Question 7:** Lori Smetanka refers to federal Centers for Medicare and Medicaid Services (CMS) and state regulators. She said the licensing agencies should audit, so the federal agency is CMS.
+
+8. **Question 8:** The article states the National Continuing Care Residents Association publishes a consumer manual, and CARF and MyLifeSite provide guidance. The question is which manual is co-published by CARF and MyLifeSite. The article says "CARF International and MyLifeSite also provide guidance." But the manual is from the National Continuing Care Residents Association. The question might be a trick here. The article says "the National Continuing Care Residents Association publishes a consumer manual. CARF International and MyLifeSite also provide guidance." So the manual is separate. So the answer might be N/A because the manual is from the Residents Association, not CARF and MyLifeSite together. Wait, the question says "co-published by CARF International and MyLifeSite". The article doesn't state that they co-published the manual. It says they "provide guidance". So answer N/A.
+
+Hmm, maybe I'm missing something. Let me check again. The exact text: "National Continuing Care Residents Association publishes a consumer manual. CARF International and MyLifeSite also provide guidance." So no co-published manual mentioned. So the answer is N/A.
+
+9. **Question 9:** The Curtis contract was "refund half the entrance fee". So 50%.
+
+10. **Question 10:** The next hearing is Feb. 12.
+
+11. **Question 11:** From 2010 to 2023 is 13 years.
+
+12. **Question 12:** LeadingAge reports 900,000 Americans in C.C.R.C.s.
+
+13. **Question 13:** Casey’s Pond required $30 million raised.
+
+14. **Question 14:** The article suggests selecting a rental without buy-ins or refunds as less risky. The answer is rental C.C.R.C.s.
+
+15. **Question 15:** Residents are unsecured creditors at the bottom.
+
+16. **Question 16:** The safeguard is reserves. The article mentions states requiring reserves, like New York, etc.
+
+17. **Question 17:** The National Continuing Care Residents Association's manual.
+
+18. **Question 18:** Bob worries where Sandy will go and how to pay for her care.
+
+Let me confirm each with the text:
+
+1. "New York" is in the list with CA and FL, and the ineffectiveness is noted. Correct.
+
+2. Schaller's statement: "can't undo money lost by others..." so that's the reason.
+
+3. First bankruptcy year not given, so N/A.
+
+4. Ellen's parents have 75% refund.
+
+5. National Investment Center (Robert Kramer's org).
+
+6. Specific metric? The article doesn't name it, so N/A.
+
+7. CMS is the federal agency mentioned by Smetanka.
+
+8. CARF and MyLifeSite don't co-publish the manual, so N/A.
+
+9. Curtis' contract: half (50%).
+
+10. Feb 12.
+
+11. 2023-2010 =13 years.
+
+12. 900,000.
+
+13. $30 million.
+
+14. Rentals without buy-ins.
+
+15. Residents (unsecured creditors).
+
+16. Reserves.
+
+17. National Continuing Care Residents Association.
+
+18. "Where's Sandy going to go?" and paying for care.
+</think>
+
+<question_number>1</question_number>
+<answer>New York</answer>
+<question_number>2</question_number>
+<answer>can't undo money lost by others that led to this bankruptcy</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>75%</answer>
+<question_number>5</question_number>
+<answer>National Investment Center for Seniors Housing & Care</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>Centers for Medicare and Medicaid Services</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>50%</answer>
+<question_number>10</question_number>
+<answer>Feb. 12</answer>
+<question_number>11</question_number>
+<answer>13</answer>
+<question_number>12</question_number>
+<answer>900,000</answer>
+<question_number>13</question_number>
+<answer>$30 million</answer>
+<question_number>14</question_number>
+<answer>rentals</answer>
+<question_number>15</question_number>
+<answer>residents</answer>
+<question_number>16</question_number>
+<answer>reserves</answer>
+<question_number>17</question_number>
+<answer>National Continuing Care Residents Association</answer>
+<question_number>18</question_number>
+<answer>Where's Sandy going to go? How's she going to manage? How am I going to pay for it?</answer>

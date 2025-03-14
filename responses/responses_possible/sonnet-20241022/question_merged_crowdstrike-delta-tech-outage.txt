@@ -1,0 +1,36 @@
+merged_crowdstrike-delta-tech-outage.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<other>CEO estimated $500 million cost vs. CrowdStrike's proposed limit of less than $10 million</other>
+<answer>CrowdStrike's proposed liability limit is less than $10 million compared to Delta's estimated $500 million cost</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<other>Article states others recovered within a day or two, while Delta struggled over four days</other>
+<answer>Delta took four days compared to one or two days for other carriers</answer>
+
+<question_number>6</question_number>
+<other>Article states 37% of flights canceled and about 75% of remaining flights were delayed</other>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<other>Delta canceled 37% of schedule vs Southwest's more than one-third of scheduled flights</other>
+<answer>Similar percentages (37% vs. more than one-third)</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<other>$500 million total cost over four days</other>
+<answer>$125 million per day</answer>
+
+<question_number>10</question_number>
+<other>CrowdStrike's limit of less than $10 million vs. "tens of millions of dollars per day" in costs</other>
+<answer>CrowdStrike's proposed limit is less than one day's costs</answer>

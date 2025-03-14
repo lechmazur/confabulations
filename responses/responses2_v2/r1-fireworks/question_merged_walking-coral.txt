@@ -1,0 +1,78 @@
+merged_walking-coral.txt
+
+
+<question_number>1</question_number>
+<answer>0.153 mm/min</answer>
+<other>Calculated 220 mm over 24 hours (1440 minutes): 220/1440 ≈ 0.153</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>1992 proposal mentioned, but first documentation was in 1995; no name provided for 1992</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Article mentions mushroom corals generally, not number of species tested</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>No percentage data provided in the article</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Blue light mimics deeper areas, but exact depth not specified</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Article mentions "long time inflating" but no specific hours</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>No mortality rate data mentioned</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>Chemical signals not discussed in experiments</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Reproductive success rates not quantified</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>1992 study's light color not specified</other>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+<other>Hoeksema's other studies not mentioned</other>
+
+<question_number>12</question_number>
+<answer>N/A</answer>
+<other>No specific university program named for similar research</other>
+
+<question_number>13</question_number>
+<answer>N/A</answer>
+<other>1992 proposal referenced but not named</other>
+
+<question_number>14</question_number>
+<answer>N/A</answer>
+<other>Article describes setup with both lights but doesn't specify observation light</other>
+
+<question_number>15</question_number>
+<answer>Brett Lewis</answer>
+<other>Dr. Lewis conducted the time-lapse study</other>
+
+<question_number>16</question_number>
+<answer>coral trafficking</answer>
+<other>Bittel previously reported on illegal coral trafficking</other>
+
+<question_number>17</question_number>
+<answer>44</answer>
+<other>220 mm in 24 hours → 440 mm (44 cm) in 48 hours</other>
+
+<question_number>18</question_number>
+<answer>N/A</answer>
+<other>No mention of faster movement rates in the article</other>
+
+<question_number>19</question_number>
+<answer>PLoS One</answer>
+<other>Dr. Lewis's study was published in PLoS One</other>

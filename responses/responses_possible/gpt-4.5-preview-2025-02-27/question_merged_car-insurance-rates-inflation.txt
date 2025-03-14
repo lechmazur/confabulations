@@ -1,0 +1,40 @@
+merged_car-insurance-rates-inflation.txt
+<other>Calculating combined premium reductions: safe driving course (10%) and increasing deductible to $1000 (40% or more).</other>
+<question_number>1</question_number>
+<answer>50%</answer>
+
+<other>Comparing percentage decreases: credit improvement (49%) vs. other factors.</other>
+<question_number>2</question_number>
+<answer>credit score</answer>
+
+<other>Considering all possible steps: credit improvement (49%), safe driving course (10%), deductible increase (40%), marriage (unspecified), monitoring program (unspecified), reduced mileage (unspecified), and accident forgiveness (unspecified). Only specified percentages can be combined.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<other>Not all premium-reducing strategies have specified percentages, so exact maximum difference cannot be calculated.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<other>Monitoring program and liability coverage reduction have unspecified percentage impacts.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<other>Improving credit from fair to excellent (49% reduction), safe driver course (10% reduction), but exact combined effect on driver with one at-fault accident (43% increase) is not specified.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<other>Marriage and monitoring program have unspecified percentage impacts.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<other>Marriage and safe driver course (10%) combined with credit improvement (49%) and accident (43%) have unspecified combined impacts.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<other>Marriage and deductible increase (40%) combined with credit improvement (49%) and accident (43%) have unspecified combined impacts.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<other>Monitoring program and choice of insurer (well-known vs. regional) have unspecified percentage impacts.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>

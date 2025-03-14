@@ -1,0 +1,31 @@
+merged_waffle-house-egg-surcharge.txt
+<other>First, I will calculate the cost of a single Midwest large egg at Waffle House after including the surcharge. The article states that the current price for a dozen eggs is $7.79, which makes each egg approximately $0.65. Adding the $0.50 surcharge results in $1.15 per egg.</other>
+<question_number>1</question_number>
+<answer>$1.15</answer>
+<other>Next, I will identify the quality designation for the eggs used by Waffle House. The article mentions "quality, fresh-cracked, Grade-A large eggs."</other>
+<question_number>2</question_number>
+<answer>Grade-A large</answer>
+<other>Now, I will determine the day Waffle House introduced the surcharge. The article states it was announced on Monday and went into effect the same day.</other>
+<question_number>3</question_number>
+<answer>Monday</answer>
+<other>Next, I will identify the primary illness that led to the egg shortage. The article mentions "highly pathogenic avian influenza" as the cause.</other>
+<question_number>4</question_number>
+<answer>avian influenza</answer>
+<other>Now, I will calculate the percentage increase in the cost of a dozen eggs. The price increased from $3.33 to $7.79. The percentage increase is ((7.79 - 3.33) / 3.33) * 100.</other>
+<question_number>5</question_number>
+<answer>134%</answer>
+<other>Next, I will find the total number of eggs Waffle House serves annually. The article states they serve more than 272 million eggs a year.</other>
+<question_number>6</question_number>
+<answer>272 million</answer>
+<other>Now, I will identify the market phenomenon Waffle House attributes to the surcharge. The article mentions "continuing egg shortage" and "dramatic increase in egg prices."</other>
+<question_number>7</question_number>
+<answer>egg shortage</answer>
+<other>Next, I will identify the nominee for secretary of agriculture prioritizing animal disease outbreaks. The article mentions Brooke Rollins.</other>
+<question_number>8</question_number>
+<answer>Brooke Rollins</answer>
+<other>Now, I will find the number of chickens culled recently. The article states more than 30 million chickens have been killed.</other>
+<question_number>9</question_number>
+<answer>30 million</answer>
+<other>Finally, I will identify the economic indicator consumers rely on. The article mentions the price of eggs as a tangible barometer of the economy.</other>
+<question_number>10</question_number>
+<answer>price of eggs</answer>

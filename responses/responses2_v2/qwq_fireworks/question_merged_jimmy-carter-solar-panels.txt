@@ -1,0 +1,123 @@
+merged_jimmy-carter-solar-panels.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the given article and answer each exactly as per the instructions. Let me go through each question carefully.
+
+1. **How many solar panels did Peter Marbach intend to install before realizing some were damaged?**  
+   The article says Marbach found some broken panels in the warehouse. It mentions half the panels went on the cafeteria roof. The total was 32, so half would be 16. The answer should be 16. But wait, the question is about his original intent before realizing damage. The text says he loaded all the panels, but some were broken. The article states "Half ended up on the roof... the other half... didn't fit." So maybe the broken ones were part of the half that didn't fit? The question is tricky. The article says "some were broken" when he found them. But the answer might be 16, since half of 32 is 16. So answer 16.
+
+2. **What prompted the Chinese museum to return the panel?**  
+   The article mentions the Solar Science and Technology Museum in Dezhou got a panel in 2010, but there's no mention of returning it. The question says "mirroring the initial removal during roof repairs," but the article doesn't say they returned it. So N/A.
+
+3. **What action did Reagan take beyond removal contributing to the political mockery?**  
+   The article says Republicans mocked Democrats as weak, referencing Carter. The removal itself was the action. The question asks beyond removal. The text doesn't mention another action by Reagan. So maybe N/A. Wait, the article says "they were never reinstalled" under Reagan. So the answer might be "not reinstalling them" but the question says beyond removal. The article doesn't specify another action. So N/A.
+
+4. **Year the documentary retrieved a panel for the Carter Library?**  
+   The article says in 2007, a panel was taken to the Carter Library. So 2007.
+
+5. **What aspect of the bus determined the panels' final destination?**  
+   The bus had seats removed to fit the panels. The answer is removing seats. The question is about what was crucial. The article says "removed the seats from a blue bus... loaded the panels into the bus." So the seats being removed allowed space, hence the crucial aspect was removing the seats.
+
+6. **Secondary function of the panels at Unity besides heating water?**  
+   The article mentions they helped the college save money, which is financial recovery. The secondary function might be "saving money" but the question asks for a function. The article says "more symbolic" but they did save money. Alternatively, "serving as spare parts" since some were stored in a chicken barn for parts. The article says "used for spare parts." So the answer is "serving as spare parts."
+
+7. **Design flaw causing donation to the museum?**  
+   The article doesn't mention a design flaw. The donation was part of their legacy. The question refers to a flaw discovered after installation. Since there's no mention of a flaw, N/A.
+
+8. **Event leading to storage in the chicken barn?**  
+   The article says the other half didn't fit on the cafeteria roof, so they were stored. The event was the panels not fitting on the roof. So the answer is "they didn't fit on the cafeteria roof."
+
+9. **Name of the Georgia town and the warehouse location?**  
+   The article mentions Plains as Carter's hometown. The warehouse was in Virginia. The question asks for the town that gave opportunities and the warehouse location. The warehouse was in Virginia, so the answer for the town is Plains. The second part is separate but the question combines them. Wait, the question says "that was also the location of the warehouse" — but the warehouse was in Virginia, not Plains. So the answer is Plains for the town, but the warehouse wasn't there. So the question is a trick. The answer would be N/A because the warehouse was in Virginia, not Plains. So the town is Plains, but the warehouse wasn't there. The question asks for the name of the town that gave opportunities (Plains) and also was the warehouse location (Virginia). Since they are different, the answer is N/A because the warehouse wasn't in Plains.
+
+10. **Surplus furniture on the bus?**  
+    The article says the warehouse had "a jumble of crates and surplus furniture." The question asks what surplus furniture was loaded. The text doesn't specify which furniture was taken, only that they were there. So N/A.
+
+11. **Administrative fee paid by Unity?**  
+    The article says $500. So 500.
+
+12. **President who removed the panels?**  
+    Reagan.
+
+13. **Carter's remark about renewable energy?**  
+    The quote: "No one can ever embargo the sun or interrupt its delivery to us."
+
+14. **New name of the college?**  
+    Unity Environmental University.
+
+15. **Year panels ended operational life?**  
+    2010.
+
+16. **Ratio of fee to original cost?**  
+    $500 fee vs $28,000. The ratio is 500:28000, simplifies to 1:56. So 1/56 or 1:56.
+
+17. **Museum in DC with a panel?**  
+    National Museum of American History.
+
+18. **Overseas museum in Dezhou?**  
+    Solar Science and Technology Museum.
+
+19. **Former official under Carter and Reagan?**  
+    Frederick Morse.
+
+20. **Film referenced for warehouse retrieval?**  
+    "Raiders of the Lost Ark."
+</think>
+
+<question_number>1</question_number>
+<answer>16</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>2007</answer>
+
+<question_number>5</question_number>
+<answer>removal of seats</answer>
+
+<question_number>6</question_number>
+<answer>serving as spare parts</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>they didn't fit on the cafeteria roof</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>500</answer>
+
+<question_number>12</question_number>
+<answer>Ronald Reagan</answer>
+
+<question_number>13</question_number>
+<answer>No one can ever embargo the sun or interrupt its delivery to us</answer>
+
+<question_number>14</question_number>
+<answer>Unity Environmental University</answer>
+
+<question_number>15</question_number>
+<answer>2010</answer>
+
+<question_number>16</question_number>
+<answer>1:56</answer>
+
+<question_number>17</question_number>
+<answer>National Museum of American History</answer>
+
+<question_number>18</question_number>
+<answer>Solar Science and Technology Museum</answer>
+
+<question_number>19</question_number>
+<answer>Frederick Morse</answer>
+
+<question_number>20</question_number>
+<answer>Raiders of the Lost Ark</answer>

@@ -1,0 +1,78 @@
+merged_citrus-health-benefits-recipes.txt
+<question_number>1</question_number>
+<answer>200 milligrams</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article states that grapefruit blocks an enzyme that helps metabolize certain drugs, not that it activates an enzyme.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article mentions non-heme iron from plant-based foods like lentils and spinach, but doesn't specifically state that green olives contain non-heme iron.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article mentions citrus oils in the peel contain antioxidants, but doesn't specify other compounds besides carotenoids.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The meta-analysis mentioned in the article refers to the common cold, not the flu.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article mentions chronic inflammation can raise risk of cancer, heart disease and diabetes, but doesn't link a specific condition to the citrus oils in the Citrus Skillet Shrimp recipe.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article doesn't specify which ingredients in the Citrus Salad With Fennel and Olives are rich in non-heme iron.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article mentions grapefruit can block thyroid medication absorption, but doesn't specify which cellular process is impacted.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article mentions rapamycin and aging, but doesn't connect this to antioxidant properties in citrus fruits.</other>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+<other>The question contains a misunderstanding. The article recommends consuming whole fruits including the peel, not avoiding the peel.</other>
+
+<question_number>12</question_number>
+<answer>37 milligrams</answer>
+<other>The article states a navel orange contains 83 milligrams of vitamin C and half a red grapefruit contains about 46 milligrams. The difference is 83 - 46 = 37 milligrams.</other>
+
+<question_number>13</question_number>
+<answer>grapefruit</answer>
+<other>The article states "grapefruit can have an opposite effect, blocking the drug's absorption" when discussing thyroid medications.</other>
+
+<question_number>14</question_number>
+<answer>whole fruits</answer>
+<other>The article emphasizes getting vitamin C through whole fruits rather than supplements because whole fruits provide additional benefits.</other>
+
+<question_number>15</question_number>
+<answer>vitamin C</answer>
+<other>The article describes vitamin C as playing an important role in immune system function, wound healing, and tissue growth.</other>
+
+<question_number>16</question_number>
+<answer>citrus oils</answer>
+<other>The article states "the citrus oils in the peel's outer layer contain their own antioxidants".</other>
+
+<question_number>17</question_number>
+<answer>fiber</answer>
+<other>The article states "When you juice a citrus fruit, you end up losing much of its beneficial fiber".</other>
+
+<question_number>18</question_number>
+<answer>vitamin C</answer>
+<other>The article states "The vitamin C in citrus is an antioxidant that helps limit this inflammation".</other>
+
+<question_number>19</question_number>
+<answer>grapefruit</answer>
+<other>The article states "If you take prescription medications, Ms. Allen recommended asking your doctor before consuming grapefruit."</other>
+
+<question_number>20</question_number>
+<answer>8 percent</answer>
+<other>The article states "One 2013 meta-analysis found that consuming at least 200 milligrams of vitamin C daily helped people kick the common cold about 8 percent faster."</other>

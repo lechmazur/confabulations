@@ -1,0 +1,57 @@
+merged_tampons-silicon-valley-workers-protest.txt
+Okay, let me tackle these questions one by one based on the provided article. 
+
+1. **Question 1:** The question asks for the percentage of Meta's workforce laid off after Elon Musk's endorsement of Trump, mirroring X's cuts. The article mentions that Meta cut nearly a third of its workforce since 2022, but it doesn't link this specifically to Musk's endorsement. The X layoffs were under Musk, but the timing isn't tied to his endorsement. Since the article doesn't state a direct connection, the answer is N/A.
+
+2. **Question 2:** It asks how many executives Zuckerberg promoted to lead Meta's policy division before appointing Dana White, signaling a shift to liberal policies. The text says he promoted two top Republican executives, which would signal a shift towards more conservative policies, not liberal. The answer is 2, but the question's premise about liberal policies is incorrect. Since the question is about the number, the answer is 2. However, the question's premise might be wrong, but the article directly states two, so answer is 2.
+
+3. **Question 3:** Following the petition, what coaching did HR offer? The article mentions employees received notes from HR offering coaching on workplace issues. The exact type isn't specified beyond "workplace issues," so maybe it's "coaching on workplace issues" but the question specifies the type. Since it's just general coaching, maybe the answer is "coaching on workplace issues" but the question wants the specific type. Wait, the article says "offering coaching on workplace issues and warned that further violations could result in termination." The coaching is about workplace issues, so the answer is "workplace issues."
+
+4. **Question 4:** The month Zuckerberg visited Mar-a-Lago, prompting Google's Memegen posts. The article states that Zuckerberg and others visited Mar-a-Lago after the election. The Memegen posts were about Sundar attending the inauguration. The article doesn't mention the month Zuckerberg visited, so N/A.
+
+5. **Question 5:** Total contributions by tech leaders, including Cook, to Trump's inauguration. The article says Cook donated $1 million, but others' contributions aren't specified. The total isn't given, so N/A.
+
+6. **Question 6:** Amazon's internal message board where employees joked about Bezos. The article mentions Amazon employees joked internally but doesn't name the board. The Google one is Memegen, but for Amazon, the article doesn't specify, so N/A.
+
+7. **Question 7:** The feature mandated by Pichai to mark Trump's inauguration. The Google employee noted a fireworks animation for Inauguration Day, so the answer is "fireworks animation."
+
+8. **Question 8:** Proportion of Twitter retained after Musk's restructuring. The article says Musk shed over three-quarters, so retained would be 25%, but the exact proportion isn't stated beyond "three-quarters," so 25% is inferred. The answer is 25% or "N/A"? The article states "three-quarters" were let go, so retained is a quarter. So 25% is correct.
+
+9. **Question 9:** Date Zuckerberg announced layoffs coinciding with the internal poll removal. The article says layoffs were announced for Feb 10, and the internal poll was removed around that time. The date is Feb 10.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article mentions Meta cut nearly a third of its workforce since 2022 but does not link this to Musk's endorsement of Trump.</other>
+
+<question_number>2</question_number>
+<answer>2</answer>
+<other>Zuckerberg promoted two top Republican executives to lead Meta's policy division before appointing Dana White.</other>
+
+<question_number>3</question_number>
+<answer>coaching on workplace issues</answer>
+<other>Employees received HR notes offering coaching on workplace issues after violating Meta's policies.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article does not specify the month Zuckerberg visited Mar-a-Lago.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Total contributions beyond Cook's $1 million are not provided in the text.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article mentions Amazon employees joked internally but does not name the specific message board.</other>
+
+<question_number>7</question_number>
+<answer>fireworks animation</answer>
+<other>A Google employee noted a fireworks animation mandated by Pichai to mark the inauguration.</other>
+
+<question_number>8</question_number>
+<answer>25%</answer>
+<other>Musk shed over three-quarters of Twitter's workforce, implying 25% remained.</other>
+
+<question_number>9</question_number>
+<answer>Feb 10</answer>
+<other>Zuckerberg announced layoffs for Feb 10, coinciding with removal of the internal poll.</other>

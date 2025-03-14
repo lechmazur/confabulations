@@ -1,0 +1,57 @@
+merged_ai-robots-restaurants.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the article provided. Let's start with the first question.
+
+1. **Question 1**: The primary reason automation in restaurant kitchens hasn't progressed as quickly as in dining rooms. The article mentions that kitchen automation faces logistical challenges like worker safety and skeptical franchisees. Also, kitchens are more complicated, described as a "battleground." So the answer should be those challenges.
+
+2. **Question 2**: Emotional response influencing automation speed. The article states that human emotions are decisive, and consumers prefer human interaction. They want to feel connected, so their feelings affect how quickly robots are adopted. The answer is that consumer emotions (like preferring human interaction) slow adoption.
+
+3. **Question 3**: Professor Giebelhausen's crucial factor for accepting robots cooking with love. The article says if consumers have a friendly chat with the robot, their preference fades. The key factor is a friendly interaction making them feel the robot "loves" them.
+
+4. **Question 4**: Workers frustrated when robots introduced without consultation. The study found that without employee input, workers felt frustrated. The reason is lack of consultation leading to anxiety about job loss.
+
+5. **Question 5**: Why Bear Robotics focused on dining rooms. The article says they chose dining robots because kitchens are too complex. They mention their own experience where kitchen was chaotic with multiple languages and rushing. So the main reason is kitchen complexity.
+
+6. **Question 6**: Smartphone attachment influencing order automation. The article suggests that smartphones, which people already use and trust, might replace kiosks and A.I. for ordering. The answer is that consumers' existing attachment to smartphones could drive future order systems.
+
+7. **Question 7**: Gennadiy's highlighted kitchen challenge. He mentions developing kitchen automation takes years and faces worker safety and franchisee skepticism. The key challenge is logistical issues like safety and franchisee resistance.
+
+8. **Question 8**: Fully automated single-dish restaurants closer to reality. The article says such places are easier because they can mimic conveyor belt factories (like frozen pizza). The reason is specialization in one dish allows efficient automation.
+
+9. **Question 9**: Role of human emotions in accepting robots, especially cooking with love. The article says consumers prefer human chefs because they believe humans cook with love, but robots can overcome this if they seem caring. The answer ties emotions to the "cooking with love" perception.
+
+10. **Question 10**: Why Stellar Pizza had a human handing pizzas. The CEO mentions humans are better at smiling. The answer is maintaining human interaction for customer connection.
+
+Wait, let me check each again for exactness. For question 8, the article says "the fully automated restaurant, especially one focused on making a single type of dish, is closer to science fact..." and mentions conveyor belts in factories. So the primary reason is that single-dish automation is more feasible, so the answer is focusing on one dish allows efficient automation like factories.
+
+Double-checking all to ensure no N/A unless necessary. All answers are directly from the text. Okay, time to format them.
+</think>
+
+<question_number>1</question_number>
+<answer>logistical challenges like worker safety and skeptical franchisees</answer>
+
+<question_number>2</question_number>
+<answer>consumer emotions (preference for human connection) slow adoption</answer>
+
+<question_number>3</question_number>
+<answer>a friendly text chat with the robot</answer>
+
+<question_number>4</question_number>
+<answer>workers feel anxious about job loss without management communication</answer>
+
+<question_number>5</question_number>
+<answer>kitchens are more complicated (chaotic, multi-language, rushing)</answer>
+
+<question_number>6</question_number>
+<answer>consumers' existing emotional attachment to smartphones could replace kiosks/A.I.</answer>
+
+<question_number>7</question_number>
+<answer>worker safety concerns and franchisee skepticism</answer>
+
+<question_number>8</question_number>
+<answer>specialization in one dish allows efficient automation like conveyor belts</answer>
+
+<question_number>9</question_number>
+<answer>consumers prefer human chefs for "cooking with love" but robots can overcome this through perceived emotional connection</answer>
+
+<question_number>10</question_number>
+<answer>humans are better at smiling (customer interaction)</answer>

@@ -1,0 +1,86 @@
+merged_john-deere-ftc-lawsuit-repairs.txt
+Okay, let's tackle these questions one by one based on the article provided. I need to make sure I only use the information from the article and follow the instructions strictly. Let me start with question 1.
+
+1. The question is asking which company settled with the FTC in 2022 over repair rights. The article mentions Harley-Davidson in 2022. So the answer is Harley-Davidson.
+
+2. The technological shift since the 1990s that Deere made. The article says Deere became more reliant on computerized components over the past few decades. Since the 1990s would fall into "past few decades," so the answer is computerized components.
+
+3. The incoming Trump appointee who dissented in the FTC vote. The article mentions Andrew Ferguson was chosen by Trump and was one of the two dissenters. So Andrew Ferguson.
+
+4. The manufacturers' justification for opposing right-to-repair laws related to intellectual property. The article states they argued about safety and IP theft. The answer here is intellectual property theft.
+
+5. The agricultural group that made a 2023 agreement with Deere criticized for lack of enforcement. The American Farm Bureau Federation is mentioned. The criticism says the agreement didn't enforce, so the group is American Farm Bureau Federation.
+
+6. How many states had passed right-to-repair laws? The article says "which have passed in several states," but "several" is vague. Since it's not a specific number, the answer is N/A.
+
+7. The federal district court venue. The article says U.S. District Court for the Northern District of Illinois. So that's the answer.
+
+8. The specific software tool Deere restricted. The article mentions "a software tool necessary for many agricultural equipment repairs" but doesn't name it. So N/A.
+
+9. Another industry Lina Khan targeted besides agriculture. The article mentions Big Tech and grocery chains. So Big Tech or grocery chains? The question says "outside of agriculture," so either is acceptable. The example given is Harley-Davidson (which is part of the 2022 settlement), but the text says "from Big Tech to grocery chains," so maybe Big Tech.
+
+10. The concern about the lawsuit under Trump's FTC. The article says it's unclear if it would have been filed under Trump's FTC, so the concern is uncertainty or being overturned. The exact phrase is "how the suit will fare under the incoming Trump administration remains to be seen" and "it is not clear whether the lawsuit... would have been filed under Mr. Trump's FTC." So the answer is uncertainty about its survival.
+
+11. The commissioner critical of repair restrictions selected by Trump. The dissenting commissioner was Andrew Ferguson, as mentioned earlier. So Andrew Ferguson.
+
+12. Number of state attorneys general joining the lawsuit. The article says "alongside the attorneys general of Illinois and Minnesota." That's two. So answer is 2.
+
+13. The day Denver Caldwell made his statement. The article says Deere's VP statement was on Tuesday, the same day as the lawsuit? Wait, the article says: "On Tuesday, the company said it was taking additional steps..." and the lawsuit was filed on Wednesday. So the VP's statement was on Tuesday. The question is about when he said the FTC lacked info. The exact quote is in the same paragraph as the Tuesday statement, so the day is Tuesday.
+
+14. The other manufacturer that settled in 2022. The article mentions Harley-Davidson settled in 2022. So Harley-Davidson again.
+
+15. The president's 2021 order. The article says Biden's 2021 executive order. So Joe Biden.
+
+16. Time span for computerized components increase. The article says "over the past few decades." Since the article was written in 2024, "past few decades" would be since the 1990s or so, but the exact span isn't given. The question asks for the span mentioned. The article states "over the past few decades," so the answer is "the past few decades."
+
+17. The term used by the repair group's director about Deere's 2023 agreement. The article says "it allowed John Deere to say we agreed to do these things, but there's no enforcement... 'Farmers are finding out that it's useless.'" The term is "useless."
+
+18. Number of commissioners opposing the suit. The vote was 3-2, so 2 commissioners opposed.
+
+19. The company with green-and-yellow branding. That's John Deere, as stated in the article.
+
+20. The federal court for the lawsuit. Same as question 7: Northern District of Illinois.
+
+Now, let me check each answer again to ensure accuracy and that I didn't miss any details. For question 6, since "several" is vague, it's N/A. For question 8, the software tool isn't named. For question 16, the span is "over the past few decades." The rest seem okay.
+</think>
+
+<question_number>1</question_number>
+<answer>Harley-Davidson</answer>
+<question_number>2</question_number>
+<answer>computerized components</answer>
+<question_number>3</question_number>
+<answer>Andrew Ferguson</answer>
+<question_number>4</answer>
+<answer>intellectual property theft</answer>
+<question_number>5</question_number>
+<answer>American Farm Bureau Federation</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>U.S. District Court for the Northern District of Illinois</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>Big Tech</answer>
+<question_number>10</question_number>
+<answer>unclear if it would survive under Trump's FTC</answer>
+<question_number>11</question_number>
+<answer>Andrew Ferguson</answer>
+<question_number>12</question_number>
+<answer>2</answer>
+<question_number>13</question_number>
+<answer>Tuesday</answer>
+<question_number>14</question_number>
+<answer>Harley-Davidson</answer>
+<question_number>15</question_number>
+<answer>Biden</answer>
+<question_number>16</question_number>
+<answer>over the past few decades</answer>
+<question_number>17</question_number>
+<answer>useless</answer>
+<question_number>18</question_number>
+<answer>2</answer>
+<question_number>19</question_number>
+<answer>John Deere</answer>
+<question_number>20</question_number>
+<answer>U.S. District Court for the Northern District of Illinois</answer>

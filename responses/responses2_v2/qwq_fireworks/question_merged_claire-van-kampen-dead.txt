@@ -1,0 +1,84 @@
+merged_claire-van-kampen-dead.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article and answer each exactly as per the instructions.
+
+1. **Question 1**: The article mentions that "Farinelli and the King" drew about 112,000 attendees on Broadway according to Playbill. But the question asks about the Globe Theater's run. The article says it sold out at the Globe but doesn't give numbers there. So answer N/A.
+
+2. **Question 2**: The article states they formed a theater company called Phoebus Cart after working on "The Wandering Jew". So answer Phoebus Cart.
+
+3. **Question 3**: The productions at Belasco in 2013 with Elizabethan instruments are mentioned. So year 2013.
+
+4. **Question 4**: The TV series is based on Hilary Mantel's "Wolf Hall". The novel is "Wolf Hall".
+
+5. **Question 5**: Her first husband was Chris van Kampen, an architect. His profession is architect.
+
+6. **Question 6**: The question asks besides Sam Crane, who else was considered for Farinelli's speaking role. The article says Sam Crane spoke, and Iestyn Davies sang. But the speaking role was only Sam. Wait, the question might be confused. Wait, the article says "Sam Crane, who spoke Farinelli's dialogue, and Iestyn Davies... who stepped onstage when it was time to sing." So the speaking role was Sam, and Davies didn't speak. The question asks who else was considered for the speaking role besides Sam? The article doesn't mention others considered. So N/A.
+
+7. **Question 7**: The play directed by her, written by Rylance and Jenkins, is "Nice Fish".
+
+8. **Question 8**: David Munrow was a recorder player. The instruments in the pit included shawm, sackbut, etc. The question asks which instrument he mastered that was featured. The recorder is the answer, since Munrow was a recorder player.
+
+9. **Question 9**: Dominic Dromgoole was her husband's successor at the Globe, so his title was the artistic director (since Rylance was the inaugural artistic director, so Dromgoole was his successor, implying he was the current artistic director when she approached him).
+
+10. **Question 10**: The brochure listing her play is the Globe's next season brochure. The question also mentions a review by Brantley, but the brochure's name isn't given. So the answer is the Globe's season brochure, but the exact name isn't stated. So N/A.
+
+11. **Question 11**: The venue in NYC with Elizabethan instruments for her husband's productions is the Belasco Theater.
+
+12. **Question 12**: She was musical director of the Royal Shakespeare Company in her early 30s (she was 33).
+
+13. **Question 13**: David Munrow was the recorder player who sparked her interest.
+
+14. **Question 14**: The US venue where her husband played the troubled monarch (Philip V) is Broadway's Belasco Theater.
+
+15. **Question 15**: The sovereign's inner turmoil is King Philip V of Spain.
+
+16. **Question 16**: The countertenor influencing arrangements was Iestyn Davies.
+
+17. **Question 17**: The family member who died was her daughter Natasha van Kampen.
+
+18. **Question 18**: She approached Dominic Dromgoole, the Globe's successor to her husband.
+
+19. **Question 19**: She died in Kassel, Germany.
+
+20. **Question 20**: The TV series with Tudor music and her husband as Thomas Cromwell is "Wolf Hall".
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>Phoebus Cart</answer>
+<question_number>3</question_number>
+<answer>2013</answer>
+<question_number>4</question_number>
+<answer>Wolf Hall</answer>
+<question_number>5</question_number>
+<answer>architect</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>Nice Fish</answer>
+<question_number>8</question_number>
+<answer>recorder</answer>
+<question_number>9</question_number>
+<answer>artistic director</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>Belasco Theater</answer>
+<question_number>12</question_number>
+<answer>Royal Shakespeare Company</answer>
+<question_number>13</question_number>
+<answer>David Munrow</answer>
+<question_number>14</question_number>
+<answer>Belasco Theater</answer>
+<question_number>15</question_number>
+<answer>King Philip V of Spain</answer>
+<question_number>16</question_number>
+<answer>Iestyn Davies</answer>
+<question_number>17</question_number>
+<answer>Natasha van Kampen</answer>
+<question_number>18</question_number>
+<answer>Dominic Dromgoole</answer>
+<question_number>19</question_number>
+<answer>Kassel</answer>
+<question_number>20</question_number>
+<answer>Wolf Hall</answer>

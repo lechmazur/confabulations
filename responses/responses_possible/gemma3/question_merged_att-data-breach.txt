@@ -1,0 +1,40 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article does not state the significance of the breach occurring between May 2022 and October 2022 in relation to AT&T's federal contracts.</other>
+
+<question_number>2</question_number>
+<answer>It becomes much trickier</answer>
+<other>The article states that when data is moved to the cloud, it's shared with others, making attacks more possible.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article does not directly state how the breach's impact on AT&T's federal contracts underscores the importance of secure data management.</other>
+
+<question_number>4</question_number>
+<answer>Phone numbers can be traced back to individuals</answer>
+<other>The article states that data broker records can trace phone numbers to individuals, potentially exposing communication networks.</other>
+
+<question_number>5</question_number>
+<answer>Potential exposure of communication networks</answer>
+<other>The article states AT&T has contracts with federal agencies and the breach exposed phone logs, implying potential impact.</other>
+
+<question_number>6</question_number>
+<answer>Linking phone numbers to individuals</answer>
+<other>The article states that while customer names weren't included, they can be linked to phone numbers through online searches.</other>
+
+<question_number>7</question_number>
+<answer>Data can be traced to individuals</answer>
+<other>The article states the cybersecurity expert believes foreign nation states would benefit from the data because it can be traced back to individuals.</other>
+
+<question_number>8</question_number>
+<answer>Tracing phone numbers to individuals</answer>
+<other>The article states that the compromised data identifies phone numbers that interacted, which can be traced to individuals.</other>
+
+<question_number>9</question_number>
+<answer>More ways for attacks</answer>
+<other>The article states that cloud infrastructure is shared, creating more potential attack vectors.</other>
+
+<question_number>10</question_number>
+<answer>Snowflake is a shared platform</answer>
+<other>The article states the data was downloaded from Snowflake, a cloud platform used for centralized data management, aligning with the professor's explanation of shared cloud infrastructure.</other>

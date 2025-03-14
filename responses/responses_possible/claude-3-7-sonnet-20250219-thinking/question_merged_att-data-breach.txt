@@ -1,0 +1,30 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>Using a third-party cloud platform creates security challenges because it's a shared environment with "many more ways in which potential attacks can be done" according to Professor Schaumont</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>According to Chris Pierson, "Through data broker records, phone numbers can be traced back to individuals, which could expose communication networks for people in national security roles"</answer>
+
+<question_number>5</question_number>
+<answer>The breach poses "more of a national security concern than a risk to individual consumers" with foreign nation states likely benefiting from the data, potentially compromising sensitive government communications</answer>
+
+<question_number>6</question_number>
+<answer>The exposed phone records can be linked to individuals through online searches and data broker records, potentially revealing communication networks of people in national security roles</answer>
+
+<question_number>7</question_number>
+<answer>The compromised phone records could benefit foreign nation states by revealing communication patterns of individuals in national security positions</answer>
+
+<question_number>8</question_number>
+<answer>The compromised phone records could be traced back to specific individuals through data broker records, potentially exposing who government officials communicate with</answer>
+
+<question_number>9</question_number>
+<answer>According to Professor Schaumont, cloud environments are "shared with a bunch of other people" making security "much trickier" with "many more ways in which potential attacks can be done"</answer>
+
+<question_number>10</question_number>
+<answer>Professor Schaumont's explanation about security risks in shared cloud environments directly relates to AT&T's use of Snowflake, the third-party cloud platform from which the data was downloaded</answer>

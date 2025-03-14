@@ -1,0 +1,40 @@
+merged_amtrak-delays-heat-extreme-weather.txt
+<question_number>1</question_number>
+<answer>2023</answer>
+<other>In fiscal year 2023, heat was responsible for nearly 60% of weather-related delays in the Northeast Corridor, which appears to be the highest ratio mentioned in the article.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>While the article mentions heat delays increased from 530 hours in 2018 to 1,200 hours in 2023, it doesn't provide enough information to calculate a consistent rate of increase that could be projected to 2028.</other>
+
+<question_number>3</question_number>
+<answer>750,000</answer>
+<other>The article states "About 2,200 trains carry more than 750,000 passengers daily along the route, which is the busiest in the United States."</other>
+
+<question_number>4</question_number>
+<answer>670 hours</answer>
+<other>The article states heat delays in 2023 accounted for nearly 1,200 hours, while in 2018 they were 530 hours. The difference is 1,200 - 530 = 670 hours.</other>
+
+<question_number>5</question_number>
+<answer>60 percent</answer>
+<other>The article states "Last year, heat was responsible for nearly 60 percent of delays attributable to a specific weather-related cause" in the Northeast Corridor.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article mentions federal grants could provide "a few billion dollars" but doesn't specify an exact annual rate that would allow calculation of how many years it would take to reach $117 billion.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>While the article mentions speed restrictions (from top speed to 80 mph when tracks reach 135 degrees), it doesn't provide the full distance of the Northeast Corridor to calculate the total increase in travel time.</other>
+
+<question_number>8</question_number>
+<answer>7.57</answer>
+<other>Extreme weather caused 4,010 hours of delays in 2023, while heat specifically caused 530 hours in 2018. The ratio is 4,010/530 = approximately 7.57.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article states heat delays in the Northeast Corridor increased from 83 hours in 2018 to 230 hours in 2023, but doesn't provide enough information to calculate when they would reach 500 hours.</other>
+
+<question_number>10</question_number>
+<answer>Overhead power lines sag under intense summer heat</answer>
+<other>The article states "Amtrak's overhead power lines use a technology from the 1930s, and they sag under intense summer heat and interrupt electric transmission between train pantographs and wires."</other>

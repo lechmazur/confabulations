@@ -1,0 +1,32 @@
+merged_colon-cancer-blood-test-shield.txt
+<other>Let's analyze the article to answer the questions.</other>
+
+<question_number>1</question_number>
+<answer>It has a poor record of finding precancerous growths.</answer>
+
+<question_number>2</question_number>
+<answer>Colonoscopy</answer>
+
+<question_number>3</question_number>
+<answer>It is easier to get as it requires only a blood sample.</answer>
+
+<question_number>4</question_number>
+<answer>Its inability to find precancerous growths.</answer>
+
+<question_number>5</question_number>
+<answer>The FDA advisory committee endorsed it to increase screening rates despite its limitations.</answer>
+
+<question_number>6</question_number>
+<answer>It requires a blood sample, which is simpler than other methods, but it has a poor record of finding precancerous growths.</answer>
+
+<question_number>7</question_number>
+<answer>Its poor record of finding precancerous growths.</answer>
+
+<question_number>8</question_number>
+<answer>It is simple to administer but does not effectively find precancerous growths.</answer>
+
+<question_number>9</question_number>
+<answer>Poor record of finding precancerous growths.</answer>
+
+<question_number>10</question_number>
+<answer>To prompt people who avoid or forget to get screened to be screened.</answer>

@@ -1,0 +1,107 @@
+merged_what-are-blurbs-books.txt
+Alright, let me tackle these questions one by one. I need to make sure I only use the information from the provided article and answer strictly based on that. Let me go through each question carefully.
+
+1. **Question 1:** How many authors did Ilyon Woo contact? The article says she wrote to nine writers. So the answer is 9.
+
+2. **Question 2:** The primary reason Sean Manning gave was about meritocracy. He mentioned "favor trading creates an incestuous and unmeritocratic literary ecosystem". Wait, the question says "creating a meritocratic" but the article says "unmeritocratic". So the primary reason is that it's unmeritocratic. The question might have a typo, but the answer should be "rewards connections over talent" as per the quote.
+
+3. **Question 3:** Besides Ann Patchett, Victoria Ford mentioned David Baldacci or Daniel Silva. The question asks for another author besides Ann, so either David Baldacci or Daniel Silva. Since the question says "which other author", pick one. The answer is David Baldacci or Daniel Silva. The article says "David Baldacci or Daniel Silva would catch her eye", so either is correct. But the question says "the other author", so maybe just one. Let me check again. The customer Sharon Smith mentioned her own preference, but the question is about Ford's statement. Wait, Ford's customers: "Sylvia Costlow... said that praise from David Baldacci or Daniel Silva would catch her eye". Wait, the question says "according to bookstore owner Victoria Ford". Wait, the article says Ford said readers trust Ann Patchett. The other part about David Baldacci is from Sylvia Costlow, the customer. So maybe the answer is N/A. Wait, the question is phrased as "according to bookstore owner Victoria Ford, which other author's blurb...". But the article states Ford said "readers trust her [Ann Patchett]" and then later the customer Sylvia mentions David Baldacci. So the answer here would be N/A because Ford didn't mention others. Wait, let me recheck. The article says: "Victoria Ford, the owner of Comma, a bookstore in Minneapolis, said..." and then later Sylvia Costlow (the customer) says David Baldacci. So the answer is N/A for question 3.
+
+Wait, no, the question is about Ford's statement. The article says Ford said "readers trust her" (Ann Patchett). She didn't mention others. So the answer is N/A here. Hmm, but the customer Sylvia said David Baldacci. The question is about Ford's statement. So answer N/A for question 3.
+
+Wait, maybe I misread. Let me check again. The article says: "As for her customers, Ford went on: 'I have not noticed readers paying a lot of attention to blurbs, with a few exceptions. I've definitely sold books because a customer was browsing and saw a book Ann Patchett had blurbed. Readers trust her.'" So Ford mentions Ann Patchett as an exception. The question asks besides Ann Patchett, which other author's blurb would influence Ford's customers. But the article says "a few exceptions" but only mentions Ann. The rest are customers like Sylvia Costlow. So the answer is N/A for question 3.
+
+4. **Question 4:** The novel praised by Franzen is "The Middlesteins" by Attenberg. The article says Franzen's blurb helped "not just here but abroad too". The question asks in what year the novel secured a significant international deal due to that blurb. The article mentions the blurb was for "The Middlesteins" which came out in 2012. But the article doesn't specify the year of the international deal. So answer N/A.
+
+5. **Question 5:** The survey at Indigo: 18 out of 20 didn't know what a blurb is. The question is about the percentage who said blurbs were the *primary* factor. The article says most didn't pay attention, except maybe a few. But the exact percentage for primary factor isn't stated. The answer is N/A.
+
+6. **Question 6:** Kevin Miller was browsing in the fantasy section. The question is about the genre he was in when mentioning William Shatner's endorsement. Yes, fantasy.
+
+7. **Question 7:** Kristin Hannah imposed a limit of a dozen blurbs a year. The article says Attenberg capped hers to a dozen. Wait, the question is about Kristin Hannah. The article says Hannah also tries to repay kindnesses but "in the past few years, it's become difficult to keep up." The article mentions Attenberg's dozen. For Hannah, there's no number given. So answer N/A.
+
+8. **Question 8:** The Pulitzer Prize book is "Master Slave Husband Wife" by Ilyon Woo. The author described blurbers as "fairy godwriters". The question says "literary luminaries" but that's close enough. So the title is "Master Slave Husband Wife".
+
+9. **Question 9:** Response rate ratio? The article says "a few requests that didn't bear fruit; that goes with the territory." But no ratio given. N/A.
+
+10. **Question 10:** Victoria Ford preferred a "thorough summary on the back" or "lively description on the flyleaf". The question asks for the alternative she suggested. The answer is "thorough summary on the back" or "lively description on the flyleaf". The question asks for the alternative more influential than blurbs. The answer would be "a thorough summary on the back" or "lively description on the flyleaf". Since the question says "more influential in guiding her own selections", the answer is "a thorough summary on the back".
+
+11. **Question 11:** The publisher is Sean Manning of Simon & Schuster, mentioned in the first paragraph. The answer is Sean Manning.
+
+12. **Question 12:** The author who described her experience as "deep, dark basement" is Ilyon Woo. Her book won the Pulitzer. The answer is Ilyon Woo.
+
+13. **Question 13:** The Minneapolis bookstore owner is Victoria Ford. The answer is Victoria Ford.
+
+14. **Question 14:** Kristin Hannah lamented the stress of blurb requests over 30 years. The answer is Kristin Hannah.
+
+15. **Question 15:** The New Jersey bookstore is Indigo in Short Hills. The answer is Indigo.
+
+16. **Question 16:** Kevin Miller is the 67-year-old Star Trek fan who mentioned William Shatner. The genre he was browsing was fantasy. The question asks the genre he was in when mentioning Shatner. The answer is fantasy.
+
+17. **Question 17:** The author who capped to a dozen is Jami Attenberg. The question mentions "after receiving praise for her storytelling" (referring to Franzen's blurb). The answer is Jami Attenberg.
+
+18. **Question 18:** The article's author is Elisabeth Egan. The answer is Elisabeth Egan.
+
+19. **Question 19:** The trusted author mentioned by a customer was Ann Patchett, as per Ford's statement. The question refers to a customer remark. The customer Sharon Smith mentions trusting other readers, but another customer Sylvia mentioned Baldacci/Silva. The article says Ford noted Ann Patchett's blurbs sold books. The question asks which author's endorsement is noted by a customer. The answer is Ann Patchett.
+
+20. **Question 20:** The weekly audio series is the Book Review Podcast. The answer is "The Book Review Podcast".
+</think>
+
+<question_number>1</question_number>
+<answer>9</answer>
+
+<question_number>2</question_number>
+<answer>rewards connections over talent</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>fantasy</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>Master Slave Husband Wife</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>a thorough summary on the back</answer>
+
+<question_number>11</question_number>
+<answer>Sean Manning</answer>
+
+<question_number>12</question_number>
+<answer>Ilyon Woo</answer>
+
+<question_number>13</question_number>
+<answer>Victoria Ford</answer>
+
+<question_number>14</question_number>
+<answer>Kristin Hannah</answer>
+
+<question_number>15</question_number>
+<answer>Indigo</answer>
+
+<question_number>16</question_number>
+<answer>fantasy</answer>
+
+<question_number>17</question_number>
+<answer>Jami Attenberg</answer>
+
+<question_number>18</question_number>
+<answer>Elisabeth Egan</answer>
+
+<question_number>19</question_number>
+<answer>Ann Patchett</answer>
+
+<question_number>20</question_number>
+<answer>The Book Review Podcast</answer>

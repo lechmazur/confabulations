@@ -1,0 +1,23 @@
+merged_ai-robots-restaurants.txt
+<other>First, I will analyze the article to find relevant information for each question.</other>
+<question_number>1</question_number>
+<answer>Developing hardware for kitchen automation takes years and faces logistical challenges like worker safety and skeptical franchisees.</answer>
+<question_number>2</other>
+<other>The article suggests that consumer emotions play a decisive role in the adoption of automation in restaurants.</other>
+<answer>Consumer emotional responses to robots influence how much and how quickly automation is adopted in restaurants.</answer>
+<question_number>3</question_number>
+<answer>The crucial factor is that consumers must feel the robot loves them.</answer>
+<question_number>4</question_number>
+<answer>Workers feel more frustrated when robots are introduced without consultation because they may fear job loss and feel their input is not valued.</answer>
+<question_number>5</question_number>
+<answer>Bear Robotics focused on dining-room robots because the kitchen environment is more complicated due to language barriers, crowded spaces, and the need for timely order fulfillment.</answer>
+<question_number>6</question_number>
+<answer>The article suggests that the widespread use of smartphones and consumer comfort with apps could make phone-based order automation more appealing than other forms of automation.</answer>
+<question_number>7</question_number>
+<answer>The key challenge in developing kitchen automation hardware is the complexity and logistical challenges, such as worker safety and franchisee skepticism, unlike the relatively simpler implementation of dining-room automation.</answer>
+<question_number>8</question_number>
+<answer>The primary reason is that the process of making a single dish is more straightforward and easier to automate compared to diverse menus.</answer>
+<question_number>9</question_number>
+<answer>The article describes human emotions as decisive in the acceptance of robotic assistants, particularly the idea that if consumers feel the robot loves them, they are more likely to accept it cooking with love.</answer>
+<question_number>10</question_number>
+<answer>The main reason is that humans are still considered better at tasks involving personal interaction, such as smiling and handing items to customers.</answer>

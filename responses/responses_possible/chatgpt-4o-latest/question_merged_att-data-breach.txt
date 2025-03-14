@@ -1,0 +1,21 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>Outsourcing data to a third-party cloud platform increases exposure to potential data breaches due to shared infrastructure and multiple attack vectors.</answer>
+<question_number>3</question_number>
+<answer>The breach highlights the risks of inadequate data security for companies with government contracts, as sensitive communication records could be exposed.</answer>
+<question_number>4</question_number>
+<answer>Phone numbers can be traced back to individuals through data broker records, revealing communication patterns of those in national security roles.</answer>
+<question_number>5</question_number>
+<answer>The exposure of phone records could compromise federal agencies' communication security, given AT&T's contracts with government departments.</answer>
+<question_number>6</question_number>
+<answer>The exposed phone records can be linked to individuals, potentially revealing communication networks of those in sensitive positions.</answer>
+<question_number>7</question_number>
+<answer>Foreign nation states could benefit from the compromised data by identifying communication patterns and networks of individuals in national security roles.</answer>
+<question_number>8</question_number>
+<answer>The compromised phone records could expose communication networks of government officials by linking phone numbers to individuals.</answer>
+<question_number>9</question_number>
+<answer>Cloud outsourcing places data in a shared environment, increasing the number of potential attack vectors and making security more complex.</answer>
+<question_number>10</question_number>
+<answer>The professor's explanation highlights how cloud infrastructure, like Snowflake, introduces additional security risks due to shared environments and multiple attack vectors.</answer>

@@ -1,0 +1,84 @@
+merged_corporate-improv-comedians.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the given article. Let me go through each question and check the text for the answer.
+
+1. **First Fortune 500 company hiring Bob Kulhan after Duke?** The article mentions the U.S. Navy captain was the first client, but the question asks for a Fortune 500 company. The article doesn't specify a Fortune 500 company here, so maybe N/A?
+
+2. **Number of ministers in Johnny Meeks' workshop?** The text says "a group of ministers" but doesn't give a number. So N/A.
+
+3. **Annual revenue of Business Improv first three years?** The article doesn't mention revenue figures. N/A.
+
+4. **Second City alum who recommended Kulhan?** The article says professors from Duke took his class and introduced him to the dean. Not an alum. So N/A.
+
+5. **% productivity improvement by Navy?** The article mentions the Navy team went from 7-8 ideas to 52, but no percentage given. N/A.
+
+6. **Hours Karen Gray trained before robot exercise?** The article only mentions her participating in the session, not hours. N/A.
+
+7. **Conflict resolution program name by Windmueller?** The article mentions "WIT@Work" at Washington Improv Theater. That might be it.
+
+8. **FBI's payment for training?** The article doesn't mention the cost. N/A.
+
+9. **Chicago casino where Kulhan was Mr. Monopoly?** The article says "a local casino" but doesn't name it. N/A.
+
+10. **Salary difference between his old job and corporate improv?** The article mentions his mortgage was $800/month but not salary details. N/A.
+
+11. **Improv game with last word/first word?** The article says "first word, last word" is the exercise used by FBI. So that's the name.
+
+12. **Initial Navy recommendations before workshop?** The article states they usually had 7 or 8 ideas before. So 7 or 8.
+
+13. **Animal prop Erin Diehl used?** The article mentions a "hat shaped like a chicken". So chicken.
+
+14. **Other industry Johnny Meeks worked with?** The article lists ministers, eyeglass, fashion. The other is ministers, but the question asks besides those two, so ministers count as the third.
+
+15. **Improv exercise for empathy with character switch?** The article mentions "Switch" where they switch characters. So "Switch".
+
+16. **Mortgage amount Kulhan struggled with?** The article says $800 monthly mortgage. So $800.
+
+17. **Famous comedian besides Fey and Poehler at Second City?** Del Close is mentioned. So Del Close.
+
+18. **Casino Kulhan promoted as Mr. Monopoly?** The article just says "a local casino" in Chicago, no name. N/A.
+
+19. **City where Erin Diehl founded Improve It?** The article says Charleston, S.C. So Charleston.
+
+20. **University of the professors who helped Kulhan?** Duke University's Fuqua School of Business. So Duke University.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>WIT@Work</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>first word, last word</answer>
+<question_number>12</question_number>
+<answer>7 or 8</answer>
+<question_number>13</question_number>
+<answer>chicken</answer>
+<question_number>14</question_number>
+<answer>ministers</answer>
+<question_number>15</question_number>
+<answer>Switch</answer>
+<question_number>16</question_number>
+<answer>$800</answer>
+<question_number>17</question_number>
+<answer>Del Close</answer>
+<question_number>18</question_number>
+<answer>N/A</answer>
+<question_number>19</question_number>
+<answer>Charleston, S.C.</answer>
+<question_number>20</question_number>
+<answer>Duke University</answer>

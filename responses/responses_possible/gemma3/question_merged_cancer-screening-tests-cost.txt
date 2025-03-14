@@ -1,0 +1,31 @@
+merged_cancer-screening-tests-cost.txt
+<question_number>1</question_number>
+<answer>Vastly improved treatment</answer>
+<other>The article states Dr. Welch believes improved treatment is a more significant factor.</other>
+<question_number>2</question_number>
+<answer>Studies repeatedly failed to show people live longer if screened</answer>
+<other>This is a direct quote from Dr. Adamson in the article.</other>
+<question_number>3</question_number>
+<answer>It did not accelerate the decline</answer>
+<other>The article explicitly states Dr. Welch found the increase in screening did not accelerate the decline.</other>
+<question_number>4</question_number>
+<answer>Effects are so small</answer>
+<other>The article states the effects are so small that huge trials are needed to see them.</other>
+<question_number>5</question_number>
+<answer>Absolute risk fell from 3 percent to 2 percent</answer>
+<other>This is a direct quote from the article describing the clinical trial results.</other>
+<question_number>6</question_number>
+<answer>It could lessen the perceived value</answer>
+<other>The article suggests improved treatments might make screening seem less valuable.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article only speculates about changing diets, it doesn't explain how they might influence rates.</other>
+<question_number>8</question_number>
+<answer>Screening barely lowers the death rate</answer>
+<other>The article states Dr. Adamson believes screening barely lowers the death rate despite recommendations.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article presents differing viewpoints, but doesn't explicitly state a contradiction.</other>
+<question_number>10</question_number>
+<answer>Improved treatment and changing diets</answer>
+<other>The article suggests these factors, along with medications, may contribute to the decline.</other>

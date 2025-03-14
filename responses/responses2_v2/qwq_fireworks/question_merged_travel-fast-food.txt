@@ -1,0 +1,84 @@
+merged_travel-fast-food.txt
+Okay, let's tackle these questions one by one using the article provided. I need to make sure I only use the information from the text and follow the instructions strictly. Let me start with question 1.
+
+1. The question asks what item was requested by the student at Wisconsin International University College in Accra to be added to West African KFC's menu for a more American taste. The article mentions the student liked the food and got free Wi-Fi, but there's no specific item mentioned that he wanted added. So the answer is N/A.
+
+2. The student said he went to KFC twice or three times a week. The author links this frequency to power outages? The text says after the blackout, the KFC stayed open. But the question states that the frequency directly correlated with outages. The article doesn't say that, so maybe it's just the number he mentioned. The answer is 2 or 3 times a week. But the question says "according to the author, directly correlated", so since there's no direct correlation stated, maybe N/A. Wait, the student's own frequency is stated, so the answer is "twice or three times a week". But the question specifies the author's correlation with outages. Since the author didn't say it's correlated, maybe N/A. Hmm. The text says "He liked the food... an order came with half an hour of free Wi-Fi. KFC was embedded... in Accra's culture. Whatever novelty it brought... it was also a place to get some work done... In other words...". The author mentions power outages but not linking the student's frequency to that. So the answer is the student's own frequency: "twice or three times a week". The question's phrasing might be tricky. Since the student said that, the answer is that number. So answer is "twice or three times a week". But the question says "directly correlated with the frequency of power outages"—since that's not stated, maybe N/A. Wait, the question might be incorrect. Let me check again. The article says "the entire block went dark... KFC remained lit up". The student's frequency is separate. The author doesn't say the student's visits correlate with outages. So the answer is the student's frequency, so "twice or three times a week". But the question says "according to the author, directly correlated"—so since the author didn't state that, the answer would be N/A. Hmm. I'm confused. The question might be a trick. The actual frequency is given, so answer the question as per the student's statement. The question's wording might be wrong, but the answer is the number he gave. So answer: "twice or three times a week".
+
+3. The question is about a Japanese literary award Mishima won the year before McDonald's arrived (1971). The article mentions Mishima's suicide around the time of McDonald's arrival but doesn't mention any award he won. So N/A.
+
+4. The third unique item besides poutine and jollof rice. The article mentions India's McAloo Tikki burger (pea-and-potato). So that's the third item. Answer: McAloo Tikki burger.
+
+5. The percentage of the global market? The article doesn't mention any percentages. N/A.
+
+6. The infrastructure failure other than power outages in Accra. The author mentions a blackout (power outage) and a three-story KFC with generators. The question asks for another infrastructure failure. The text doesn't mention another one. N/A.
+
+7. The year Hong Kong and Britain launched "American taste" campaigns. The article says "in the 1960s and 1970s... the same years that Thai, Indian and Japanese restaurants began taking off in America, the McDonald's franchisee in Hong Kong offered an 'all-American taste,' while another in Britain promised 'the United Tastes of America.'" So the years are 60s/70s. But the question asks for a specific year when they did it simultaneously. Since the article says "the same years", but not the exact year, so N/A.
+
+8. The specific coffee brand the man in his 70s was drinking. The article says he was sipping coffee but doesn't name the brand. N/A.
+
+9. The franchisee in Ghana with poultry issues. The article mentions the franchisee had a history of struggling but doesn't name them. N/A.
+
+10. Architectural feature of Tokyo McDonald's mirroring tea houses. The article doesn't mention any specific design elements like that. N/A.
+
+11. The fast food chain that stayed open during the blackout and offered free Wi-Fi. The KFC in Accra had free Wi-Fi and stayed open with generators. So answer: KFC.
+
+12. The year McDonald's arrived in Tokyo coinciding with Mishima's death. The article says 1971 for McDonald's arrival, and Mishima's suicide was around that time. So the year is 1971.
+
+13. The setting where the author had a conversation over a chicken sandwich. The example given is Burger King: "Sitting on the hard seat of a Burger King, chicken sandwich in hand..." So answer: Burger King.
+
+14. The brand in South Asia without beef and with McAloo Tikki. The article says India's McDonald's offers that. So McDonald's.
+
+15. The slogan "United Tastes of America" was from Britain's McDonald's. The article says "another in Britain promised 'the United Tastes of America.'" So McDonald's.
+
+16. The Canadian dish at a familiar chain is poutine at McDonald's. So answer: poutine.
+
+17. The student's institution: Wisconsin International University College in Accra.
+
+18. The chain with jollof rice in West Africa: KFC.
+
+19. The Japanese figure was Yukio Mishima.
+
+20. The Ghana KFC had the sandwich with cartilage. So answer: KFC.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>twice or three times a week</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>McAloo Tikki burger</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>KFC</answer>
+<question_number>12</question_number>
+<answer>1971</answer>
+<question_number>13</question_number>
+<answer>Burger King</answer>
+<question_number>14</question_number>
+<answer>McDonald's</answer>
+<question_number>15</question_number>
+<answer>McDonald's</answer>
+<question_number>16</question_number>
+<answer>poutine</answer>
+<question_number>17</question_number>
+<answer>Wisconsin International University College</answer>
+<question_number>18</question_number>
+<answer>KFC</answer>
+<question_number>19</question_number>
+<answer>Yukio Mishima</answer>
+<question_number>20</question_number>
+<answer>KFC</answer>

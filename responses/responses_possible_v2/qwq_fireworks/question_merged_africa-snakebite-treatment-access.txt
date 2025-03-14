@@ -1,0 +1,43 @@
+merged_africa-snakebite-treatment-access.txt
+Okay, let's tackle these questions one by one based on the article provided.
+
+1. **Question 1**: The question asks about why Beatrice's finger needed amputation despite two antivenom doses. The article mentions her finger blistered, swelled, and turned black even after treatment. The puff adder's venom destroys blood-clotting factors, leading to bleeding and tissue death. Since antivenom might not reverse all damage if administered late, the tissue necrosis required amputation. So the answer is the venom's effect on blood clotting causing necrosis despite antivenom.
+
+2. **Question 2**: Indian antivenom is ineffective in Kenya because it's made for Indian snakes like kraits, not African species like puff adders. The article states that antivenoms from one region may not work elsewhere due to venom variations. So the geographical origin difference in venom composition explains it.
+
+3. **Question 3**: The article mentions targeting toxin families for a universal antidote. Neurotoxins (like from cobras/mambas) and hemotoxins (puff adders) require different antibodies. Monoclonal antibodies would target both to cover all snake types, hence the combination is needed for a universal treatment.
+
+4. **Question 4**: Spitting cobras can shoot venom into eyes, causing ocular injuries. Traditional healers might confuse this with other eye issues, leading to delayed proper treatment. The venom's delivery method directly causes eye symptoms that could be misdiagnosed.
+
+5. **Question 5**: In Kenya, rainy seasons flood snake habitats, forcing them into populated areas. Dry seasons drive snakes to look for water near human settlements. Agricultural work and open housing (like sleeping on floors) increase exposure during these times, creating seasonal risk peaks for farmers and rural dwellers.
+
+6. **Question 6**: Black mambas have short, front fangs injecting neurotoxins quickly, acting fast (within an hour). Puff adders have longer fangs but their venom (hemotoxic) causes slower tissue destruction. The mamba's neurotoxins affect the nervous system rapidly, leading to quicker fatality despite lower venom yield.
+
+7. **Question 7**: Antivenom needs to be kept cold, but Kenya's healthcare infrastructure might lack refrigeration. Pregnant women face delays in reaching hospitals within the critical 6-hour window, plus venom effects could exacerbate pregnancy complications, worsening outcomes.
+
+8. **Question 8**: Tourniquets cut off blood flow, leading to amputations, while traditional treatments delay hospital care. The venom continues to act, and delays past the 6-hour window reduce antivenom effectiveness, creating worse outcomes despite initial attempts to stop venom spread.
+</think>
+
+<question_number>1</question_number>
+<answer>venom destroys blood-clotting factors causing tissue necrosis</answer>
+
+<question_number>2</question_number>
+<answer>venom variation between Indian kraits and Kenyan puff adders' distinct toxins</answer>
+
+<question_number>3</answer>
+<answer>neurotoxins (cobras/mambas) and hemotoxins (puff adders) require dual targeting</answer>
+
+<question_number>4</question_number>
+<answer>spit venom causes ocular symptoms mistaken for non-venomous eye injuries</answer>
+
+<question_number>5</question_number>
+<answer>rainy season flooding displaces snakes into populated areas; dry season drives snakes to water sources near homes</answer>
+
+<question_number>6</question_number>
+<answer>neurotoxins act faster via front fangs than puff adders' slower-acting hemotoxins via deeper muscle injection</answer>
+
+<question_number>7</question_number>
+<answer>cold-chain breaks and delayed transport exceed 6-hour window, worsened by pregnancy complications</answer>
+
+<question_number>8</question_number>
+<answer>tourniquets cause amputations while delays let venom progress past treatable window</answer>

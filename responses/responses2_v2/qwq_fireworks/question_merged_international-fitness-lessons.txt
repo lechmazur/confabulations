@@ -1,0 +1,99 @@
+merged_international-fitness-lessons.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the given article and follow the instructions strictly. Let me start with the first question.
+
+1. **How many calories does the Japanese radio-taiso routine burn...?** The article mentions the routine but doesn't specify calorie numbers. So answer N/A.
+
+2. **Which Metropolitan Life Insurance Company executive introduced radio-taiso to Japan in 1920...?** The article says the initiative was sponsored by the company but doesn't name an executive. N/A.
+
+3. **What was the average attendance...?** The first event had a small group of friends. The article doesn't give numbers for the first three events. N/A.
+
+4. **How many minutes of daylight does Helsinki receive...?** The text states "six hours" in winter. So 6 hours, but need to convert to minutes? Wait, the question asks for minutes. 6 hours = 360 minutes. But the article says "some six hours," so exact number? Maybe 360, but the article just says six. Maybe the question expects the exact figure given. The answer is 360? Wait, the article says "daylight only lasts for some six hours," so the answer is 360 minutes. But maybe they just want the six hours as stated. Wait the question asks for minutes, so 360. Let me check again. The article says "six hours", so converting to minutes would be 360. So answer 360.
+
+Wait, but the question says "according to the Finnish exercise experts quoted?" The expert Venojarvi mentions it, so the article states "six hours". So 6 hours is 360 minutes. So answer is 360.
+
+5. **What percentage increase...?** The article mentions the Agita Sao Paulo initiative but doesn't state the percentage increase in participation. N/A.
+
+6. **Which Nordic walking technique modification...?** The article says Nordic walking was founded by skiers in the 1930s as cross-training, using poles. The modification would be using poles. So answer: using specialized poles.
+
+7. **What temperature threshold...?** The Finnish professor Venojarvi draws the line at -22 degrees (22 below zero). The question asks for optimal, but the threshold for outdoor is above that. The answer is -22°C? The article says "22 degrees below zero" but the unit isn't specified. However, the article says "22 degrees below zero" so the threshold is below that you shouldn't go out. The question asks for optimal, but maybe the answer is N/A because it's the threshold for staying indoors, not optimal performance. Wait the question is about optimal performance. The article says he only stays in at -22, implying that below that it's too cold. The optimal would be above that? The question is about the temperature threshold for outdoor performance, so maybe the answer is N/A because the article doesn't mention optimal, just the threshold for staying in. Hmm. The question is phrased as "determined to be optimal", but the article only gives the cutoff. So answer N/A.
+
+8. **How many Brazilian cities...?** The article says the program was replicated around Brazil and Latin America, but no specific number. N/A.
+
+9. **Who made this observation...?** The observation is by Natalia Mehlman Petrzela, the history professor. The question refers to her quote about the "pay-to-play" culture. So her name.
+
+10. **Which country... radio-taiso...?** The article says Japan embraced it as a daily activity. So Japan.
+
+11. **Which nation embodies "no bad weather..."?** The Finnish have that mentality. So Finland.
+
+12. **Name of the event with coffee...?** The Bushy Park Time Trial evolved into parkrun. The answer is parkrun.
+
+13. **Title of the Brazilian program...?** Agita Sao Paulo.
+
+14. **Infrastructure managed by local authorities...?** The article mentions Finland's infrastructure with 80% run by local authorities. So Finland.
+
+15. **Which nation embraced the routine...?** The routine was started in the US but took off in Japan. So Japan.
+
+16. **Professor from Scandinavian university...?** Mika Venojarvi from University of Eastern Finland.
+
+17. **Which organization reported the statistic?** The CDC (Centers for Disease Control and Prevention).
+
+18. **Term for pole activity...?** Nordic walking.
+
+Let me verify each again quickly.
+
+1. Calories: N/A (no numbers)
+2. Executive: N/A (no name)
+3. Attendance: N/A (no numbers given)
+4. 360 minutes (6 hours)
+5. N/A (no percentage)
+6. Using poles (specialized poles)
+7. N/A (threshold for staying in is -22, but optimal isn't stated)
+8. N/A (no number)
+9. Natalia Mehlman Petrzela
+10. Japan
+11. Finland
+12. parkrun
+13. Agita Sao Paulo
+14. Finland
+15. Japan
+16. Mika Venojarvi
+17. CDC
+18. Nordic walking
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>360</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>using specialized poles</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>Natalia Mehlman Petrzela</answer>
+<question_number>10</question_number>
+<answer>Japan</answer>
+<question_number>11</question_number>
+<answer>Finland</answer>
+<question_number>12</question_number>
+<answer>parkrun</answer>
+<question_number>13</question_number>
+<answer>Agita Sao Paulo</answer>
+<question_number>14</question_number>
+<answer>Finland</answer>
+<question_number>15</question_number>
+<answer>Japan</answer>
+<question_number>16</question_number>
+<answer>Mika Venojarvi</answer>
+<question_number>17</question_number>
+<answer>Centers for Disease Control and Prevention</answer>
+<question_number>18</question_number>
+<answer>Nordic walking</answer>

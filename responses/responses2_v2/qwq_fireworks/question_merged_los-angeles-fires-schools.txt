@@ -1,0 +1,100 @@
+merged_los-angeles-fires-schools.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article. Let me go through each question carefully.
+
+1. The first question is about the percentage of Buncombe County's school budget cut related to FEMA funding delays. The article mentions that Buncombe County cut nearly $5 million (4%) from the school budget. The county board chair said she would replenish it once FEMA funds come in. So the percentage cut was 4%. The answer is 4%.
+
+2. The second question asks how many Methodist Preschool locations in Santa Monica were temporarily housing displaced students. The text says the preschool is operating out of a temporary location in Santa Monica. Since it's singular, the answer is 1.
+
+3. The third question is about which specific instrument Lincoln Bruno requested donations for. The article mentions he wants to source instruments for the marching band but doesn't specify a type. So N/A.
+
+4. Stephanie Forshee's children are 9 and 6. The closure was a month due to Hurricane Helene. The article doesn't state specific grades missed, just that they were out for a month. Since they are 9 and 6, likely 4th and 1st grades, but since the exact grades aren't mentioned, it's N/A.
+
+5. The fifth question asks for the name of the makerspace teacher. The article doesn't mention the teacher's name, only that Lincoln contacted his makerspace teacher. So N/A.
+
+6. The number of closed child care facilities in Marina del Rey? The article says over 300 in LA, but Marina del Rey specifically isn't mentioned. So N/A.
+
+7. The Palisades fire's date isn't given. The article mentions it happened, but no exact date. N/A.
+
+8. The business that reopened before schools during Covid were hair salons and restaurants, as per parents' complaints. So answer is hair salons and restaurants.
+
+9. The principal said about 40% of the campus was damaged, but the question is about displaced students. The article doesn't specify the percentage of students displaced, only the campus damage. So N/A.
+
+10. The parent who was trapped on the road was Erin Kyle. She moved her daughter to Manhattan Beach for in-person school. The answer is Erin Kyle's decision to enroll her daughter at Manhattan Beach school.
+
+11. The cautionary example is Buncombe County, which cut the budget despite disaster. So Buncombe County.
+
+12. Lincoln Bruno remained committed to Pali High despite the fire. So Pali High.
+
+13. The educator facing school building loss and cautious hope is Estela Maldonado. She works at Methodist Preschool.
+
+14. The preschool with halved student body is Methodist Preschool of Pacific Palisades.
+
+15. The 45-minute road ordeal emphasizes being trapped on the road with fire on both sides. The hardship is being trapped on the road.
+
+16. The federal agency mentioned was FEMA, with Trump proposing elimination. So FEMA.
+
+17. The hands-on class is makerspace classes (shop class equivalent).
+
+18. The lost event mentioned is the first homecoming dance. The article says mourning missing milestones like first homecoming.
+
+19. The mountain city that had a flood was Asheville, NC.
+
+Alright, let me check each again to ensure accuracy.
+</think>
+
+<question_number>1</question_number>
+<answer>4%</answer>
+
+<question_number>2</question_number>
+<answer>1</answer>
+
+<question_number>3</answer>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>hair salons and restaurants</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>Enrolling her daughter at a Manhattan Beach public school</answer>
+
+<question_number>11</question_number>
+<answer>Buncombe County</answer>
+
+<question_number>12</question_number>
+<answer>Pali High</answer>
+
+<question_number>13</question_number>
+<answer>Estela Maldonado</answer>
+
+<question_number>14</question_number>
+<answer>Methodist Preschool of Pacific Palisades</answer>
+
+<question_number>15</question_number>
+<answer>Being trapped on the road with fire on both sides</answer>
+
+<question_number>16</question_number>
+<answer>Federal Emergency Management Agency</answer>
+
+<question_number>17</question_number>
+<answer>makerspace classes</answer>
+
+<question_number>18</question_number>
+<answer>first homecoming dance</answer>
+
+<question_number>19</question_number>
+<answer>Asheville</answer>

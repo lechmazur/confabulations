@@ -1,0 +1,63 @@
+merged_rebecca-yarros-onyx-storm.txt
+Okay, I need to go through each question and find the answers strictly from the article provided. Let me start with the first question.
+
+1. The question asks which Taylor Swift song inspired the friendship bracelet exchange tradition at Rebecca Yarros's event. The article mentions that Annie Metcalf compared the bracelets to a Taylor Swift concert, but it doesn't mention a specific song. So the answer should be N/A because there's no song name given.
+
+2. The central character with a debilitating condition enrolling in a dragon academy. The article says Violet is the protagonist with a chronic illness. So the answer is Violet.
+
+3. The genetic connective tissue disorder the author has. The text mentions Ehlers-Danlos syndrome. That's the answer.
+
+4. The publishing imprint. The article states the publisher is Entangled. So Entangled is the answer.
+
+5. The primary purpose of the St. Paul event. The event was for the release of "Onyx Storm" and a fan gathering. The article says it's an event for Yarros's book, so the purpose is to celebrate the book release.
+
+6. The tracking service for print sales. The article mentions BookScan with a 20-year history. So BookScan.
+
+7. The author who overcame illness and stagnant sales. That's Rebecca Yarros herself. The article says she had 20 romance novels but shifted to the fantasy series.
+
+8. The children's series with midnight parties. The article compares to Harry Potter and Twilight. The question specifies children's, so Harry Potter is the answer.
+
+9. The novel that turned the Barnes & Noble employee into a fan. The employee picked up "Fourth Wing" and became an advocate. So the answer is Fourth Wing.
+
+Wait, let me check each again to be sure.
+
+1. The article says "handing out friendship bracelets like it was a Taylor Swift concert." No song name is given, so N/A is correct.
+
+2. Yes, Violet is the character with the illness.
+
+3. Ehlers-Danlos syndrome is explicitly stated.
+
+4. Publisher is Entangled.
+
+5. The event was for the book release of "Onyx Storm," so the primary purpose is the book event.
+
+6. BookScan is mentioned for tracking print sales over 20 years.
+
+7. Rebecca Yarros is the author in question.
+
+8. The article mentions "Harry Potter" and "Twilight" as having similar fervor. Since the question specifies children's, "Harry Potter" is the answer.
+
+9. The employee picked up "Fourth Wing" and evangelized it, so that's the correct novel.
+
+I think all answers are covered. Let me make sure none are missed and all are directly from the text. No inferences beyond what's stated. Looks good.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Article mentions comparison to Taylor Swift concert but does not specify a song.</other>
+<question_number>2</question_number>
+<answer>Violet</answer>
+<question_number>3</question_number>
+<answer>Ehlers-Danlos syndrome</answer>
+<question_number>4</question_number>
+<answer>Entangled</answer>
+<question_number>5</question_number>
+<answer>To celebrate the release of "Onyx Storm"</answer>
+<question_number>6</question_number>
+<answer>BookScan</answer>
+<question_number>7</question_number>
+<answer>Rebecca Yarros</answer>
+<question_number>8</question_number>
+<answer>Harry Potter</answer>
+<question_number>9</question_number>
+<answer>Fourth Wing</answer>

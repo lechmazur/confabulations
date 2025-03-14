@@ -1,0 +1,70 @@
+merged_ohio-chicken-farm-fire.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>1</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>a main building that was holding thousands of chickens</answer>
+
+<question_number>12</question_number>
+<answer>egg industry</answer>
+
+<question_number>13</question_number>
+<answer>16- to 18-weeks-old</answer>
+
+<question_number>14</question_number>
+<answer>280,000 pullets</answer>
+
+<question_number>15</question_number>
+<answer>Ohio</answer>
+
+<question_number>16</question_number>
+<answer>Sheriff Whittaker</answer>
+
+<question_number>17</question_number>
+<answer>The dollar loss is anticipated to be high.</answer>
+
+<question_number>18</question_number>
+<other>The article lists the following states: Arizona, California, North Carolina, Ohio, Pennsylvania, Missouri, Indiana, and Washington.</other>
+<other>I will count them.</other>
+<other>There are 8 states.</other>
+<answer>8 states are mentioned as having experienced an outbreak.</answer>
+
+<question_number>19</question_number>
+<other>The article mentions that the firefighters struggled to tap ice-covered natural water sources.</other>
+<other>This means that the water sources were frozen.</other>
+<other>This is the specific environmental condition involving water sources that is highlighted as a major hurdle.</other>
+<other>This can be described as "ice-covered" or "frozen". I will choose "ice-covered". </other>
+<answer>ice-covered natural water sources.</answer>
+
+<question_number>20</question_number>
+<other>The article mentions that Waffle House added an egg surcharge due to the avian flu outbreak.</other>
+ <other>This means that Waffle House is the well-known restaurant chain noted in the article for having implemented a surcharge on eggs.</other>
+ <other>This answers the question.</other>
+ <answer>Waffle House </answer>

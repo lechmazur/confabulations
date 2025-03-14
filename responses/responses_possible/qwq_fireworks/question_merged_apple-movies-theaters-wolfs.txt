@@ -1,0 +1,44 @@
+merged_apple-movies-theaters-wolfs.txt
+Okay, let's tackle these questions one by one based on the article provided. I need to make sure I only use the information from the text and answer exactly what's asked without any extra fluff.
+
+1. **First question**: The decision to limit "Wolfs" theatrical release. The article mentions Apple executives in Cupertino were questioning the money spent on movies and didn't want a public disappointment if it didn't do well. So the answer should relate to concerns over marketing costs and box office performance risks.
+
+2. **Second question**: Which film's marketing was canceled last minute. The article says Sony was set to start a national campaign during the Paris Olympics for "Wolfs", but Van Amburg canceled it. So the answer is "Wolfs".
+
+3. **Third question**: Film whose stars took less money for wide release but had it curtailed. The first part says Clooney and Pitt gave money back to ensure theatrical release. The article states their release was limited, so the answer is "Wolfs".
+
+4. **Fourth question**: Agency that didn't contest the change. The text mentions CAA represents Clooney, Pitt, Watts, and they didn't fight the move. So CAA is the answer.
+
+5. **Fifth question**: Event for marketing that was canceled. The Paris Olympics were the planned event for "Wolfs" marketing before Van Amburg canceled it.
+
+6. **Sixth question**: Executive with network TV background who spent at Sundance. The article talks about Jennifer Salke at Amazon, who was from NBC, spent $50M at Sundance, then shifted strategy after "Late Night" bombed. So Salke is the answer.
+
+7. **Seventh question**: Budget limit after a meeting. The article says Apple will have most films at $80M or less after a spring meeting. So $80 million.
+
+8. **Eighth question**: Film where budget exceeded gross by over $100M. Looking at the numbers: "Argylle" cost $200M and made $96M, so difference is $104M. That fits.
+
+9. **Ninth question**: Company that promised theatrical but changed plans. Apple promised Clooney/Pitt a wide release but limited it. So Apple.
+
+10. **Tenth question**: Event hosting the film's premiere without international theaters. The article says "Wolfs" premieres at Venice Film Festival internationally, except there. Wait, the text says "Internationally, it won't appear in theaters at all with the exception of the Venice Film Festival, where it will premiere on Sept. 1." So Venice Film Festival is the event.
+</think>
+
+<question_number>1</question_number>
+<answer>Concerns over marketing expenditures and potential box office disappointment</answer>
+<question_number>2</question_number>
+<answer>Wolfs</answer>
+<question_number>3</question_number>
+<answer>Wolfs</answer>
+<question_number>4</question_number>
+<answer>CAA</answer>
+<question_number>5</question_number>
+<answer>Paris Olympics</answer>
+<question_number>6</question_number>
+<answer>Jennifer Salke</answer>
+<question_number>7</question_number>
+<answer>$80 million</answer>
+<question_number>8</question_number>
+<answer>Argylle</answer>
+<question_number>9</question_number>
+<answer>Apple</answer>
+<question_number>10</question_number>
+<answer>Venice Film Festival</answer>

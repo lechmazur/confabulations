@@ -1,0 +1,66 @@
+merged_cancer-causes-risk-factors-treatments.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>PM 2.5</answer>
+
+<question_number>12</question_number>
+<answer>epigenetic changes</answer>
+
+<question_number>13</question_number>
+<answer>Eating an unhealthy diet</answer>
+
+<question_number>14</question_number>
+<answer>Black people</answer>
+
+<question_number>15</question_number>
+<other>This question is about what people mistakenly think, not about what the article states as a fact.</other>
+<answer>N/A</answer>
+
+<question_number>16</question_number>
+<other>This question is about a process suggested by research findings, which is indeed mentioned in the article.</other>
+<answer>the creation of a favorable microenvironment from dying cells</answer>
+
+<question_number>17</question_number>
+<other>This question is about the age at which women are advised to start collecting their own vaginal samples for HPV testing.</other>
+<answer>30</answer>
+
+<question_number>18</question_number>
+<other>This question is about an immunotherapy involving the engineering of T cells that is especially effective for treating blood cancers.</other>
+<answer>CAR T-cell therapy</answer>
+
+<question_number>19</question_number>
+<other>This question is about the largest contributor to cancer cases and deaths, alongside risks such as sun exposure and alcohol use.</other>
+<answer>cigarette smoking</answer>
+
+<question_number>20</question_number>
+<other>This question is about the group of normally healing cells that are co-opted by cancer cells to support growth through actions like forming new blood vessels.</other>
+<answer>immune cells that will flood the site of an injury or infection to help heal that wound </answer>

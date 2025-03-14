@@ -1,0 +1,110 @@
+merged_trump-government-scientists.txt
+Okay, let's tackle these questions one by one based on the article provided. I need to make sure I don't use any external knowledge and only the information given in the text.
+
+1. **Question 1:** The first question asks which agency's scientific integrity officer blocked a relocation by filing a complaint with the inspector general. The article mentions that the USGS (U.S. Geological Survey) changed reporting to the inspector general, but I don't see a specific officer named who did this. The answer might be N/A.
+
+2. **Question 2:** How many scientists who signed the UCS letter resigned? The article says 2,405 scientists signed, but there's no info on resignations. So N/A.
+
+3. **Question 3:** The program Dr. Burkett saved. The text says she fought to eliminate climate research programs, but it's unclear which specific program. Wait, actually, she resisted attempts to eliminate them, but the exact name isn't given. So N/A.
+
+4. **Question 4:** When did the National Environmental Museum implement the font size policy? The museum opened last year (as of the article's writing, which seems to be 2024), but the exact year isn't specified. The article mentions a display about Trump's law and Biden's task force, but the policy implementation date isn't clear. N/A.
+
+5. **Question 5:** Which former Trump official testified before Comer's committee? The article mentions Rep. Comer seeking documents, but no specific Trump official testified. N/A.
+
+6. **Question 6:** How many USDA employees challenged relocation via union contracts? The article says the Kansas office's contract has protections, but no numbers on how many employees used it. N/A.
+
+7. **Question 7:** Percentage of EPA staff remaining after Colorado move? The article mentions a move of Bureau of Land Management to Colorado led to an exodus, but no % given for EPA. N/A.
+
+8. **Question 8:** First officer using arbitration? The article mentions EPA's union contract allows grievances but doesn't name the first person. N/A.
+
+9. **Question 9:** Criteria for Climate Science Fund's cases? The text says they offer legal help but doesn't specify criteria. N/A.
+
+10. **Question 10:** Number of papers altered/suppressed? The article mentions projects disrupted and scientists pressured but no exact number. N/A.
+
+11. **Question 11:** Who now investigates USGS interference? The inspector general, as per the article's mention of USGS reporting to them. So answer: inspector general.
+
+12. **Question 12:** Agency moved to Kansas? The article says USDA's research arms were moved to Kansas. So USDA's research division.
+
+13. **Question 13:** Scientist demoted for resisting changes? Dr. Virginia Burkett is mentioned as demoted and filed a whistleblower complaint. Yes, her name is there.
+
+14. **Question 14:** Policy framework from earlier term? The article says Obama's administration directed agencies to create policies, later expanded by Biden. So Obama's directive.
+
+15. **Question 15:** Watchdog for investigating? The inspector general, as mentioned for USGS and others.
+
+16. **Question 16:** Agency division moved causing exodus? Bureau of Land Management moved to Colorado, but the Kansas move was USDA. The article mentions USDA's relocation leading to exodus. So USDA's research division again.
+
+17. **Question 17:** Nonprofit providing legal help? Climate Science Legal Defense Fund.
+
+18. **Question 18:** EPA's union in June 2024? The EPA employees union, named as Marie Owens Powell's group. The union's name is "EPA employees union".
+
+19. **Question 19:** Earlier president for science policies? Obama directed agencies to create policies, so Obama.
+
+20. **Question 20:** President calling climate a hoax? Trump, as stated in the article.
+
+Wait, let me check each again to ensure accuracy:
+
+1. The article says USGS scientists report to inspector general, but no specific officer blocked a relocation. So N/A.
+
+11. The answer is inspector general.
+
+12. The article states "Department of Agriculture's two scientific research arms... to Kansas", so the answer is Department of Agriculture's research division.
+
+13. Dr. Burkett is correct.
+
+14. The policies originated under Obama, so "scientific integrity policies" from Obama's term.
+
+15. Inspector general.
+
+16. The question mentions the Kansas relocation, so USDA's research division.
+
+17. Climate Science Legal Defense Fund.
+
+18. The union is "EPA employees union" led by Marie Owens Powell.
+
+19. Obama.
+
+20. Trump.
+
+Others are N/A where specifics aren't provided.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>inspector general</answer>
+<question_number>12</question_number>
+<answer>Department of Agriculture</answer>
+<question_number>13</question_number>
+<answer>Virginia Burkett</answer>
+<question_number>14</question_number>
+<answer>scientific integrity policies</answer>
+<question_number>15</question_number>
+<answer>inspector general</answer>
+<question_number>16</question_number>
+<answer>Department of Agriculture</answer>
+<question_number>17</question_number>
+<answer>Climate Science Legal Defense Fund</answer>
+<question_number>18</question_number>
+<answer>EPA employees union</answer>
+<question_number>19</question_number>
+<answer>Obama</answer>
+<question_number>20</question_number>
+<answer>Trump</answer>

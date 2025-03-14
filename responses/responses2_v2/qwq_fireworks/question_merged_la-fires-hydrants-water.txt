@@ -1,0 +1,104 @@
+merged_la-fires-hydrants-water.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article and answer each question directly. Let me go through each question and check the article for the answers.
+
+1. **Which specific reservoir in Los Angeles County was offline for maintenance during the Palisades fire, contributing to hydrant limitations?**  
+   The article mentions a "large reservoir that was offline for maintenance" in the region around Los Angeles. It doesn't name the reservoir specifically, so the answer is N/A.
+
+2. **What was the name of the fire in Hawaii where officials confirmed that hydrants failed due to electricity loss rather than high demand?**  
+   The article states that in the Maui fire (2023), it was unclear if hydrants ran dry due to demand or electricity loss. Hawaii's fire mentioned here is Maui, but the article doesn't specify another fire in Hawaii. So, N/A.
+
+3. **How many homes were confirmed destroyed in the Woolsey fire’s aftermath, according to the review cited in the article?**  
+   The article talks about the Woolsey fire's review but doesn't mention the number of homes destroyed. Answer N/A.
+
+4. **What year did the Marshall fire in Colorado begin using untreated lake water to supplement hydrant systems during the blaze?**  
+   The Marshall fire in Colorado is noted as happening in late 2021. The article says officials rushed untreated lake water during that fire. So the year is 2021.
+
+5. **Which firefighting expert attributed the failure of hydrants during the Palisades fire to the absence of wooden water mains in modern infrastructure?**  
+   The article mentions that before hydrants, firefighters used wooden mains, but no expert is cited for this in the Palisades context. Answer N/A.
+
+6. **What is the primary material used in the "fire plugs" mentioned as predecessors to hydrants?**  
+   The article says fire plugs were used to repair wooden water mains, so the material is wood. Answer wood.
+
+7. **Which city’s water system relies on rooftop towers instead of elevated storage tanks?**  
+   The article states that urban centers like New York City use rooftop towers. So New York City.
+
+8. **What specific elevation difference between storage tanks and residential areas was cited as critical for maintaining hydrant pressure in mountainous regions?**  
+   The article doesn't mention a specific elevation number. Answer N/A.
+
+9. **Which federal agency did Kamala Harris collaborate with during her tour of Pacific Palisades to address wildfire recovery efforts?**  
+   The article mentions she met with local officials but doesn't name a federal agency. Answer N/A.
+
+10. **What is the name of the policy initiative proposed by Rob Sowby to mandate larger reservoirs and pipes for wildfire-prone areas?**  
+    The article says Rob Sowby mentioned bigger infrastructure but doesn't name a policy. Answer N/A.
+
+11. **Which particular component of the water supply network was rendered unavailable during the Pacific Palisades wildfire and contributed to the overall inadequacy?**  
+    The article mentions a reservoir offline for maintenance. So the reservoir.
+
+12. **Which storage element is highlighted as quickly depleting under the strain of multiple simultaneous hydrant activations?**  
+    The article states storage tanks can be depleted when demand is high. Answer storage tanks.
+
+13. **What single mechanism is primarily responsible for generating the necessary force in systems that utilize tanks on elevated ground?**  
+    The force is from water flowing down from storage tanks. So gravity/force of water flowing down.
+
+14. **Which strategy is identified by the geography professor as a key method for diminishing the risk to structures?**  
+    Alan Murray mentioned defensible space and prescribed burns. The key method here is defensible space.
+
+15. **Which component is critically dependent on uninterrupted electricity to lift water to the storage tanks?**  
+    Pumping stations need power. Answer pumping stations.
+
+16. **What element is described as rapidly exhausted when many hydrants are operated simultaneously?**  
+    Storage tanks deplete. Answer storage tanks.
+
+17. **What type of storage is characteristic of densely populated cities like New York City?**  
+    Rooftop towers, as mentioned in the article.
+
+18. **What infrastructure-based improvement is considered insufficient on its own to protect communities from wind-driven wildfires?**  
+    The article says building bigger reservoirs and pipes isn't enough. So bigger reservoirs and pipes.
+
+19. **What singular effect of elevated water demand resulted in a significant challenge in the Woolsey fire neighborhoods?**  
+    The review found insufficient water pressure due to high demand and broken pipes. Answer insufficient water pressure.
+
+20. **What infrastructure component is noted as susceptible to damage from fire, contributing to pressure drop?**  
+    Water pipes are damaged, causing leaks. Answer water pipes.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>2021</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>wood</answer>
+<question_number>7</question_number>
+<answer>New York City</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>reservoir</answer>
+<question_number>12</question_number>
+<answer>storage tanks</answer>
+<question_number>13</question_number>
+<answer>gravity</answer>
+<question_number>14</question_number>
+<answer>defensible space</answer>
+<question_number>15</question_number>
+<answer>pumping station</answer>
+<question_number>16</question_number>
+<answer>storage tanks</answer>
+<question_number>17</question_number>
+<answer>rooftop towers</answer>
+<question_number>18</question_number>
+<answer>bigger reservoirs and bigger pipes</answer>
+<question_number>19</question_number>
+<answer>insufficient water pressure</answer>
+<question_number>20</question_number>
+<answer>water pipes</answer>

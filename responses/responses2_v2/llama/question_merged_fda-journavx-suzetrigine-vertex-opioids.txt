@@ -1,0 +1,69 @@
+merged_fda-journavx-suzetrigine-vertex-opioids.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>Lumbosacral radiculopathy (pinched nerves in the spine)</answer>
+
+<question_number>12</question_number>
+<answer>N/A</answer>
+
+<question_number>13</question_number>
+<answer>Nav1.7 and Nav1.8</answer>
+
+<question_number>14</question_number>
+<other>The article mentions that suzetrigine's price is much higher than that of acetaminophen plus hydrocodone, with suzetrigine costing $31 a day and the older drug being "dirt cheap" at pennies per pill.</other>
+<other>We can calculate the daily cost difference by subtracting the cost of the older drug from the cost of suzetrigine.</other>
+<other>However, since we don't know the exact cost of the older drug, we can't provide a numerical answer.</other>
+<answer>N/A</answer>
+
+<question_number>15</question_number>
+<answer>2004</answer>
+
+<question_number>16</question_number>
+<other>The article mentions that Vertex found that suzetrigine helped those with diabetic neuropathy, but was no better than placebo in those with pinched spinal nerves.</other>
+<other>This suggests that Vertex did not rule out any neurological condition characterized by persistent limb numbness as a target for suzetrigine therapy.</other>
+<other>In fact, diabetic neuropathy can cause persistent limb numbness, and Vertex is going ahead with larger studies in patients with this condition.</other>
+<answer>N/A</answer>
+
+<question_number>17</question_number>
+<other>The article mentions that suzetrigine does not have opioids' unpleasant side effects like nausea and drowsiness.</other>
+<other>It also mentions that side effects of suzetrigine reported by patients were similar to the ones reported by those taking the placebo.</other>
+<other>This suggests that nausea was likely absent in both suzetrigine and placebo groups during Vertex's trials.</other>
+<answer>Nausea</answer>
+
+<question_number>18</question_number>
+<other>The article mentions that about 85,000 people a year become addicted after taking a prescription opioid, out of 40 million prescribed opioids each year for acute pain.</other>
+<other>We can calculate the percentage of patients prescribed opioids for acute pain who developed addiction annually.</other>
+<other>The percentage is (85,000 / 40,000,000) * 100% = 0.2125%.</other>
+<answer>0.2125%</answer>
+
+<question_number>19</question_number>
+<answer>Diabetic neuropathy</answer>

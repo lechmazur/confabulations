@@ -1,0 +1,82 @@
+merged_nasa-spacex-launch-lunar-landers.txt
+Okay, I need to tackle these questions one by one using only the provided article. Let me start by reading through each question carefully and cross-referencing with the article.
+
+1. **Total cost of soil samples NASA purchased from Tenacious and landing pads, including transportation?**  
+The article says Ispace will sell two samples to NASA for $5,000 each. The question mentions transportation costs, but the article doesn't mention any transportation costs added. So total is $10,000. Answer: 10000.
+
+2. **How many miles above the surface did Hakuto-R Mission 1 hover?**  
+The article states the lander hovered far above the ground, thinking it had landed. The crater rim was two miles higher. Wait, the problem says "two miles higher than the surrounding terrain" but the hover height is "far above the ground". The exact number isn't given, so maybe "N/A"?
+
+Wait, the article says: "the spacecraft ended up hovering far above the ground, after thinking it had landed, and then crashed when it ran out of propellant." But it doesn't specify the exact miles. So the answer is N/A.
+
+3. **Which company's director confirmed spacecraft could operate beyond 14 days?**  
+The article mentions that Blue Ghost and Resilience are designed for 14 days. The article says NASA's payment depends on success, but no company director mentioned operating beyond. The question might be a trick. The only mention of a director is Julianna Scheiman from SpaceX, but she didn't talk about mission duration. So maybe N/A? Or perhaps the answer is none, so N/A.
+
+4. **Duration of second stage's final burn for Resilience?**  
+The article says after deploying Blue Ghost, the second stage fired again for a minute, then fired once more for just a second for Resilience. So the final burn (for Resilience) was 1 second. Answer: 1 second.
+
+5. **Depth of Blue Ghost's drill for heat flow?**  
+The article mentions a drill to measure heat flow but doesn't specify depth. So N/A.
+
+6. **How many Alpha launches before lunar mission?**  
+Firefly "launched a small rocket called Alpha several times" before 2023. But the exact number isn't given. The article says "several", but "several" isn't a number. So N/A.
+
+7. **Altitude of Falcon 9's second stage during orbit adjustment?**  
+The article mentions an elliptical orbit but doesn't give altitude numbers. So N/A.
+
+8. **Lunar site characteristics Ispace modified software for after Mission 1?**  
+The problem was the crater rim being two miles higher. So they modified for "steep terrain changes" or "high crater rims". The article says they fixed the software issues that caused the crash due to passing over the crater rim. So the answer is "steep terrain changes" or "high crater rims". The exact wording might be "terrain with elevation variations exceeding two miles".
+
+9. **Power system for electrolyzer during lunar night?**  
+The article doesn't mention power sources for the electrolyzer during night. It only says it's an experiment. So N/A.
+
+10. **Minutes of communication blackout during orbital insertion?**  
+The article doesn't mention any communication blackouts during the maneuver. So N/A.
+
+11. **Total combined cost NASA agreed to pay Firefly and Ispace?**  
+Firefly's contract is $101.5M if successful, less otherwise. Ispace's payment isn't mentioned in the article. The question asks for total combined, but since Ispace's payment isn't stated, maybe only Firefly's $101.5M is known, so total would be N/A because Ispace's isn't mentioned. Wait, but the article says Ispace will sell samples for $5k each but that's separate from their mission payment. The article doesn't state NASA's payment to Ispace, so combined total can't be calculated. So N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>10000</answer>
+<other>Article states Ispace will sell two samples at $5,000 each, totaling $10,000. No transportation costs mentioned beyond the stated price.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Article mentions the spacecraft hovered "far above the ground" but does not specify an exact mile measurement.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Neither Firefly nor Ispace directors confirmed extended operation beyond 14 days; the article states both landers are designed for 14-day operation.</other>
+
+<question_number>4</question_number>
+<answer>1 second</answer>
+<other>Second stage fired for "just a second" to adjust orbit for Resilience deployment.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Article describes the drill's purpose but does not specify penetration depth.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Firefly launched Alpha "several times" but the exact number is not provided.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Article mentions an elliptical orbit adjustment but does not state specific altitude.</other>
+
+<question_number>8</question_number>
+<answer>elevation variations exceeding two miles</answer>
+<other>Hakuto-R Mission 1's crash was caused by a crater rim two miles higher than surroundings, so software was updated for such terrain features.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>No mention of power generation systems for the electrolyzer during lunar night in the article.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>Article does not reference communication blackouts during orbital insertion maneuvers.</other>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+<other>Firefly's potential payment is $101.5 million, but Ispace's NASA payment terms are not disclosed in the text.</other>

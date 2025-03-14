@@ -1,0 +1,21 @@
+merged_ai-data-restrictions.txt
+<question_number>1</question_number>
+<answer>Smaller A.I. companies and academic researchers might face challenges because widespread data restrictions limit access to high-quality data, and they can't afford to license data directly from publishers.</answer>
+<question_number>2</question_number>
+<answer>Changing data licenses would not affect major tech companies that already gathered extensive data but would impact smaller start-ups or researchers who lack access to such data.</answer>
+<question_number>3</question_number>
+<answer>Synthetic data may be insufficient because many researchers doubt today's A.I. systems can generate enough high-quality synthetic data to replace lost human-created data.</answer>
+<question_number>4</question_number>
+<answer>A.I. companies may face the consequence of the web "shutting its doors," meaning data sources will increasingly restrict or block access to their content.</answer>
+<question_number>5</question_number>
+<answer>Smaller A.I. companies and researchers rely on public data sets and cannot afford licensing deals, while major tech companies already possess extensive data.</answer>
+<question_number>6</question_number>
+<answer>The implication is that changing licenses does not remove data already collected by major tech companies, so the impact falls on newer entrants rather than established companies.</answer>
+<question_number>7</question_number>
+<answer>The statement highlights that later-arriving actors, like smaller start-ups or researchers, are disproportionately affected by data restrictions compared to major tech companies with existing data.</answer>
+<question_number>8</question_number>
+<answer>Data creators may demand more control or compensation, leading to a reevaluation of how A.I. companies interact with and use publicly available data.</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>75% of high-quality data would remain unrestricted.</answer>

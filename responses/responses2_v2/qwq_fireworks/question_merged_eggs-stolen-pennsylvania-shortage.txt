@@ -1,0 +1,84 @@
+merged_eggs-stolen-pennsylvania-shortage.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the given article and follow the instructions strictly. Let me go through each question carefully.
+
+1. **Question 1:** The value of the remaining eggs. The article says the stolen eggs were worth $40,000, and a full trailer is between $150k-$200k. So subtracting $40k from that range gives the remaining value. Wait, but the question is asking for the remaining eggs' value after the theft. However, the article doesn't mention how much was left, only that the stolen eggs were $40k. The full trailer's value is given, but we don't know how much was taken versus remaining. The thieves took 100k eggs worth $40k. The full trailer is $150k-$200k. So the remaining would be the total minus $40k. But since the total isn't exact, maybe it's N/A? Hmm. The question asks for the value remaining according to the expert's valuation of a full trailer. Wait, the expert said a full trailer is $150k-$200k. But the stolen eggs were $40k. So unless the stolen eggs were part of a full trailer, maybe the remaining would be (total - 40k). But since the total is a range, can I compute that? The problem is that the stolen eggs might not be the entire trailer. The article says "the theft of 100,000 organic eggs worth more than $40,000". So the trailer had at least that. But the expert's valuation is for a full trailer. The question is asking for the remaining value after the theft, but we don't know the original total of the trailer in this case. The expert's full trailer value is general, not specific to this theft. So the answer might be N/A because we don't know the original trailer's total value here. The article doesn't state how much was in the trailer before the theft except the stolen portion. So maybe N/A?
+
+2. **Question 2:** Pennsylvania law enforcement official who investigated the maple syrup heist. The article mentions a Reddit comment where someone suggested the thieves should team up with those who did the Great Canadian Maple Syrup Heist. But the question is asking which PA official previously investigated that heist. The article says Trooper Frazer mentioned a stolen trailer of 'tainted chickens' as similar. But the maple syrup heist isn't linked to her. The text says "the Great Canadian Maple Syrup Heist" is mentioned in Reddit, but there's no PA official linked to that case. So N/A?
+
+3. **Question 3:** Number of eggs Pete & Gerry's distribute monthly in Greencastle. The article doesn't provide monthly distribution numbers for that specific region. It mentions they work with family farms but no numbers. So N/A.
+
+4. **Question 4:** Time Waffle House implemented the surcharge on the same day as theft. The theft was on Saturday, and the article says "this week, Waffle House introduced a 50-cent surcharge". But it doesn't specify the exact day, just that it was introduced this week. Since the theft was Saturday, maybe the surcharge was on the same day? But the article doesn't say. So N/A.
+
+5. **Question 5:** Security guard on duty during theft. The article doesn't mention any names of guards. N/A.
+
+6. **Question 6:** Percentage increase in egg thefts in PA leading up to the incident. No data on theft rates given. N/A.
+
+7. **Question 7:** Number of cameras added. The company said they increased security and surveillance, but no number given. N/A.
+
+8. **Question 8:** Temperature of the trailer. The police report is mentioned but no temperature data. N/A.
+
+9. **Question 9:** Retail chain with highest attempted resales. The article doesn't mention any specific retailer. N/A.
+
+10. **Question 10:** Distance transported before lost. The article doesn't mention tracking or distance. N/A.
+
+11. **Question 11:** Time of theft. The article says "at around 8:40 p.m." So answer is 8:40 p.m.
+
+12. **Question 12:** Restaurant chain with 272M eggs annually and surcharge. Waffle House is mentioned as serving over 272 million and adding the surcharge. So Waffle House.
+
+13. **Question 13:** Egg producer increasing security. Pete & Gerry's said they increased security. So Pete & Gerry's Organics.
+
+14. **Question 14:** Compromised poultry item mentioned by trooper. The trooper compared to a stolen trailer of 'tainted chickens'. So tainted chickens.
+
+15. **Question 15:** Commodity valued at $150k-$200k full trailer. The expert (Karyn Rispoli) said a full trailer of large eggs is that value. So eggs.
+
+16. **Question 16:** Price risen to $7.79 per dozen. The article states that Midwest large eggs are at $7.79, so eggs.
+
+17. **Question 17:** Secondary use for stolen eggs. The trooper mentioned "vandalizing purposes" or selling. So vandalizing/vandalism purposes.
+
+18. **Question 18:** Canadian heist mentioned for collaboration. The Great Canadian Maple Syrup Heist is referenced in Reddit comments. So that heist.
+
+19. **Question 19:** Poultry disease from Canada. Avian influenza (bird flu) came from Canada in 2022. So avian influenza or bird flu.
+
+20. **Question 20:** Broader issue highlighted by the theft. The analyst (Karyn) says it highlights underlying problems like high prices and scarcity. The answer is the underlying problem of egg scarcity and high prices due to bird flu and inflation.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>8:40 p.m.</answer>
+<question_number>12</question_number>
+<answer>Waffle House</answer>
+<question_number>13</question_number>
+<answer>Pete & Gerry's Organics</answer>
+<question_number>14</question_number>
+<answer>tainted chickens</answer>
+<question_number>15</question_number>
+<answer>eggs</answer>
+<question_number>16</question_number>
+<answer>eggs</answer>
+<question_number>17</question_number>
+<answer>vandalizing purposes</answer>
+<question_number>18</question_number>
+<answer>Great Canadian Maple Syrup Heist</answer>
+<question_number>19</question_number>
+<answer>avian influenza</answer>
+<question_number>20</question_number>
+<answer>the impact of avian influenza on availability and prices</answer>

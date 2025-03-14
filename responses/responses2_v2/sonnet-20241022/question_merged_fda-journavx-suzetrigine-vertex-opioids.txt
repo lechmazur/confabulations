@@ -1,0 +1,64 @@
+merged_fda-journavx-suzetrigine-vertex-opioids.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>0</answer>
+<other>Since the drug cannot get into the brain and is nonaddictive, the dependency rate would be 0.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>While we know the price of Journavx ($31/day), we don't know the duration of treatment or exact cost of the generic alternative.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+<other>While the article mentions pinched spinal nerves showed no improvement, it doesn't specify a surgical procedure.</other>
+
+<question_number>12</question_number>
+<answer>2250</answer>
+<other>Two trials of 1000 patients each plus 250 person safety study.</other>
+
+<question_number>13</question_number>
+<answer>Nav1.7 and Nav1.8</answer>
+
+<question_number>14</question_number>
+<answer>N/A</answer>
+<other>While we know suzetrigine costs $31/day, the exact cost of the combination drug isn't specified beyond "pennies per pill".</other>
+
+<question_number>15</question_number>
+<answer>2004</answer>
+
+<question_number>16</question_number>
+<answer>N/A</answer>
+
+<question_number>17</question_number>
+<answer>N/A</answer>
+<other>While nausea and drowsiness are mentioned as opioid side effects, the article doesn't specify which side effects were absent in suzetrigine trials.</other>
+
+<question_number>18</question_number>
+<answer>0.21%</answer>
+<other>85,000 out of 40 million prescribed opioids equals 0.21%</other>
+
+<question_number>19</question_number>
+<answer>diabetic neuropathy</answer>

@@ -1,0 +1,49 @@
+merged_cancer-causes-risk-factors-treatments.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article mentions these risk factors but doesn't say they directly damage DNA. It says the opposite.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Dr. Sohal didn't mention CAR T-cell therapy.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article links air pollution to lung and breast cancers, not pancreatic cancer.</other>
+<question_number>4</question_number>
+<answer>Creating an environment that makes it easier for living tumor cells to spread</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Chemotherapy is mentioned, but not in relation to microbiome imbalance.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Dr. van den Brink is not mentioned in connection with infections or vaccinations.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Dr. Erhunmwunsee's research is linked to lung and breast cancers, not colon cancer.</other>
+<question_number>8</question_number>
+<answer>Immune cells</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article mentions CAR T-cell therapy for blood cancers, but not in the context of checkpoint inhibitors.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>Weinberg argues against this idea.</other>
+<question_number>11</question_number>
+<answer>PM 2.5</answer>
+<question_number>12</question_number>
+<answer>Epigenetic changes</answer>
+<question_number>13</question_number>
+<answer>Unhealthy diet</answer>
+<question_number>14</question_number>
+<answer>Black people</answer>
+<question_number>15</question_number>
+<answer>Air pollution (PM 2.5)</answer>
+<question_number>16</question_number>
+<answer>Metastasis</answer>
+<question_number>17</question_number>
+<answer>30</answer>
+<question_number>18</question_number>
+<answer>CAR T-cell therapy</answer>
+<question_number>19</question_number>
+<answer>Cigarette smoking</answer>
+<question_number>20</question_number>
+<answer>Immune cells</answer>

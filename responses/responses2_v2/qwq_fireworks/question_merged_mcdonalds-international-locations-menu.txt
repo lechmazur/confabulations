@@ -1,0 +1,107 @@
+merged_mcdonalds-international-locations-menu.txt
+Okay, let's tackle these questions one by one using only the provided article. I need to be careful to answer exactly what's asked and avoid any assumptions beyond the text.
+
+1. **Question 1**: The article mentions a Douglas DC-3 in New Zealand and a "ski-through" window in Sweden. It also talks about a Japanese-style garden in Singapore. But the question asks for another aircraft besides DC-3. Wait, the article only mentions Douglas DC-3 in New Zealand. No other aircraft is mentioned. So the answer is N/A.
+
+2. **Question 2**: The user wants a city other than Marrakesh where He experienced a McDonald's reflecting a local religious observance. The article says in Morocco during Ramadan, he tried an iftar meal. Marrakesh is in Morocco. Are there other cities? The article doesn't mention another city. So N/A.
+
+3. **Question 3**: Baci McFlurry is mentioned in Rome. The question asks another dessert. The article says pastries and beer/wine, but specifically mentions the Baci McFlurry. No other dessert named, so N/A.
+
+4. **Question 4**: The Japanese garden in Singapore has ponds and footbridges. The Porto McDonald's feature? The article mentions Drew likes locations in Rome and Porto, but no specific feature. Wait, the question asks for a feature common to both. Since the Singapore one has ponds/bridges, but the article doesn't say Porto has that. So N/A.
+
+5. **Question 5**: McSpicy Paneer in Mumbai and Morocco's iftar. The iftar in Morocco included dates and chebakia. The key component in both? The article says the iftar had dates and chebakia. The burger has paneer. No overlap, so N/A.
+
+6. **Question 6**: The price at Reverie's tasting menu when Spero was in Kyoto? The article says Reverie's menu is $300 per person. The timing isn't specified, but the info is there. Answer $300.
+
+7. **Question 7**: Item in Rome and France. The article mentions France has macarons. In Rome, they had Baci McFlurry and pastries. The article doesn't say France has the same item except maybe McFlurry? But Baci is specific to Italy. So N/A unless another item. Wait, the article says France has macarons, but the question is about Rome's items also in France. No overlap mentioned. N/A.
+
+8. **Question 8**: Javanese culture in Yogyakarta reflected in McSki? The article mentions Yogyakarta's temples and cultural areas, but the McSki is a ski-through in Sweden. No connection stated. So N/A.
+
+9. **Question 9**: McSpaghetti in Philippines and Chicago's rotating menu. The article mentions McSpaghetti in Philippines and Chicago offers international items. So the answer is McSpaghetti.
+
+10. **Question 10**: Taupo's McDonald's feature also at El Badi Palace? Taupo's is a DC-3. El Badi Palace is a historical site. The article doesn't mention a shared feature. N/A.
+
+11. **Question 11**: North African city where He first encountered iftar. Morocco is North African. The city is Marrakesh. But the question says "first encounter" which was in Morocco during Ramadan. The article says he was in Marrakesh, so answer Marrakesh.
+
+12. **Question 12**: Oceanic country with DC-3 McDonald's. New Zealand is in Oceania. The DC-3 is in Taupo, New Zealand. So answer New Zealand.
+
+13. **Question 13**: European nation with jamon Iberico. The article says Spain has jamon Iberico. Spain is in Europe. The question asks which might be assumed to come from neighboring? Spain's neighbor could be France or Portugal, but the article just says Spain. So answer Spain.
+
+14. **Question 14**: Who made McAtlas? Gary He, as stated in the article. His background is immigrant parents. So answer Gary He.
+
+15. **Question 15**: Southeast Asian country with McSpaghetti. The article mentions Philippines. Southeast Asia includes Philippines. So answer Philippines.
+
+16. **Question 16**: Proportion standardized. The article says roughly a third are customized, so 2/3 remain standardized. Answer two-thirds.
+
+17. **Question 17**: American city with rotating international items. The article mentions Chicago. Answer Chicago.
+
+18. **Question 18**: Individual studied in Rome, later liked India and Ireland. Jaya Saxena. She mentions India and Ireland's McFlurries. Answer Jaya Saxena.
+
+19. **Question 19**: Chef's age at Reverie. Johnny Spero is 39. Answer 39.
+
+20. **Question 20**: The fast food chain linking all examples is McDonald's. So answer McDonald's.
+
+Now, let me check each again quickly:
+
+1. N/A (only DC-3 mentioned)
+2. N/A (only Marrakesh)
+3. N/A (no other dessert named)
+4. N/A (no common feature stated)
+5. N/A (no shared ingredient)
+6. $300
+7. N/A (no common item)
+8. N/A
+9. McSpaghetti
+10. N/A
+11. Marrakesh
+12. New Zealand
+13. Spain
+14. Gary He
+15. Philippines
+16. two-thirds
+17. Chicago
+18. Jaya Saxena
+19. 39
+20. McDonald's
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>$300</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>McSpaghetti</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>Marrakesh</answer>
+<question_number>12</question_number>
+<answer>New Zealand</answer>
+<question_number>13</question_number>
+<answer>Spain</answer>
+<question_number>14</question_number>
+<answer>Gary He</answer>
+<question_number>15</question_number>
+<answer>Philippines</answer>
+<question_number>16</question_number>
+<answer>two-thirds</answer>
+<question_number>17</question_number>
+<answer>Chicago</answer>
+<question_number>18</question_number>
+<answer>Jaya Saxena</answer>
+<question_number>19</question_number>
+<answer>39</answer>
+<question_number>20</question_number>
+<answer>McDonald's</answer>

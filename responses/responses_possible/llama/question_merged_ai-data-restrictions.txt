@@ -1,0 +1,35 @@
+merged_ai-data-restrictions.txt
+<question_number>1</question_number>
+<answer>They can't afford to license data directly from publishers.</answer>
+
+<question_number>2</question_number>
+<answer>The primary impact of changing data licenses is on later-arriving actors, not major tech companies.</answer>
+
+<question_number>3</question_number>
+<answer>Today's A.I. systems may not be capable of generating enough high-quality synthetic data to replace the human-created data they're losing.</answer>
+
+<question_number>4</question_number>
+<answer>The web will start shutting its doors.</answer>
+
+<question_number>5</question_number>
+<answer>Smaller A.I. companies and researchers can't afford to license data directly from publishers, unlike major tech companies.</answer>
+
+<question_number>6</question_number>
+<answer>It means major tech companies can still use the data they previously gathered.</answer>
+
+<question_number>7</question_number>
+<answer>Later-arriving actors, typically smaller start-ups or researchers, are disproportionately affected by data restrictions.</answer>
+
+<question_number>8</question_number>
+<answer>A.I. companies may need to reevaluate their relationship with data creators and provide more value in return for using their data.</answer>
+
+<question_number>9</question_number>
+<other>First, calculate the total percentage of data restricted in the C4 dataset by adding the percentages of data restricted by the Robots Exclusion Protocol and terms of service restrictions.</other>
+<other>5% of all data is restricted by the Robots Exclusion Protocol, and 45% is restricted by terms of service.</other>
+<other>To find the percentage of unrestricted data, subtract the total percentage of restricted data from 100%.</other>
+<answer>50%</answer>
+
+<question_number>10</question_number>
+<other>The article states that 25% of data from the highest-quality sources has been restricted.</other>
+<other>To find the percentage of unrestricted high-quality data, subtract the percentage of restricted high-quality data from 100%.</other>
+<answer>75%</answer>

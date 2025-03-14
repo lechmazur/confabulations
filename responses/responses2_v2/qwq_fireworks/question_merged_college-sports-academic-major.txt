@@ -1,0 +1,98 @@
+merged_college-sports-academic-major.txt
+Okay, let's tackle these questions one by one. I need to make sure I'm only using the information provided in the article. Let me go through each question and see what the article says.
+
+1. **Which university's faculty senate president initially proposed the idea of offering academic credit for strength training paired with applied exercise physiology courses?**  
+The article mentions Molly Harry's example of pairing strength training with applied exercise physiology, but it doesn't say which university's faculty senate president proposed it. So this might be N/A.
+
+2. **What percentage of faculty respondents in Molly Harry's survey supported the implementation of an athletics major program?**  
+The article states that faculty were the most resistant, but no specific percentage is given. So N/A.
+
+3. **During which Catholic Church council was the patron saint of basketball officially designated, according to David Hollander's lobbying efforts?**  
+The article says Hollander helped the Catholic Church name a patron saint but doesn't mention the council. So N/A.
+
+4. **What was the primary motivation behind John Davidson's concern about revenue sharing models affecting the academic integrity of sports majors?**  
+Davidson worried about conflicts of interest where coaches might inflate grades to keep athletes eligible, affecting academic integrity. The answer is about financial pressures and eligibility.
+
+5. **Which Olympic athlete's experience in Ms. Weight's department led to the development of her "expertise" major concept?**  
+Cameron Johnson, now with the Brooklyn Nets, discussed the idea with Weight. So Cameron Johnson.
+
+6. **What enrollment requirements did Nike suggest for distinguishing between varsity athletes and non-athletes within the proposed sports major program?**  
+The article doesn't mention specific enrollment requirements for distinguishing between them. N/A.
+
+7. **How many years after the academic scandal at UNC did Cameron Johnson begin collaborating with Professor Weight on developing the sports major framework?**  
+The scandal was in 2014, and Johnson became a master's student a few years later. Assuming a few years is 3-4, but exact number isn't given. N/A.
+
+8. **What metrics did RaMell Ross establish for evaluating the correlation between photographic composition and basketball court spacing in his academic research?**  
+The article mentions connections but no specific metrics. N/A.
+
+9. **Which clinical professor, credited with influencing both the recognition of World Basketball Day and a patron saint for basketball, is presented as a proponent of integrating sports into higher education despite his curriculum not having been formally adopted by any university?**  
+David Hollander is mentioned for both the patron saint and World Basketball Day, and his curriculum isn't adopted yet. So David Hollander.
+
+10. **Which major sports apparel company, noted for its deep financial involvement in college athletics, is described as planning to lobby for academic programs that combine practical athletic training with courses in nutrition, performance psychology, and sport-specific strategy?**  
+Nike is the company mentioned. So Nike.
+
+11. **Which athlete, who earned a degree that combined sports management and political science at a well-known university, is cited in the article as advocating that the resilience built from athletic challenges deserves formal academic acknowledgment even though he mentioned having diverse interests outside sports?**  
+Duncan Robinson did that, as mentioned. So Duncan Robinson.
+
+12. **Which academic discipline mentioned by a university faculty representative is indicated as already fulfilling the rigorous academic criteria for studying athletics, thereby calling into question the need for a separate sports major?**  
+John Davidson mentions kinesiology and sport industry. So kinesiology or sport industry. The question asks for the discipline, so "kinesiology" or "sport industry". The article says "kinesiology and sport industry", so both.
+
+13. **Which sport is highlighted through its discussion of positionless play and fast breaks as a model for teaching entrepreneurial thinking and interpersonal communication, despite some scholars’ reservations about its role in developing critical thinking skills?**  
+Basketball is mentioned with positionless play and fast breaks. So basketball.
+
+14. **Which professional, now playing for an NBA team and having previously studied the interplay between athletic resilience and academic learning, is quoted as saying that athletic challenges provide an unmatched teaching experience even while acknowledging interests beyond the sport?**  
+Cameron Johnson is with the Nets and mentioned. Alternatively, the quote is from Duncan Robinson? Wait, the quote "I haven't found a better teacher..." is from Duncan Robinson. Wait, the article says Duncan Robinson's quote about resiliency. The question mentions NBA player who studied the interplay. The answer is Cameron Johnson or Duncan Robinson? Let me check again. The quote about being a better teacher is from Duncan Robinson. But the question says "studied the interplay between athletic resilience and academic learning". The article says Cameron Johnson discussed with Weight. The quote about the teaching experience is from Duncan. So the answer is Duncan Robinson.
+
+Wait the question says "professional, now playing for an NBA team" – both are NBA players. Let me check:
+
+"Cameron Johnson, who now plays for the Brooklyn Nets, became a masters student in Ms. Weight's department..." So he studied with Weight. The quote about the teaching experience is from Duncan: "I haven't found a better teacher..." So the answer is Duncan Robinson.
+
+15. **Which former basketball player turned filmmaker—who studied English and sociology, experienced strict class scheduling that limited his academic choices, and later acclaimed the concept of a major in sports—serves as an example of the potential benefits of integrating athletics into the academic realm?**  
+RaMell Ross is the filmmaker who played basketball at Georgetown, majored in English and sociology, had scheduling issues. So RaMell Ross.
+
+16. **Which emeritus professor criticized the push for a dedicated sports major by comparing athletic education to other holistic pursuits such as traveling and reading, while warning that the financial stakes in college sports distinguish it from fields like dance or theater?**  
+Nathan Tublitz is the one who made that comparison. So Nathan Tublitz.
+
+17. **Which NYU-based academic, known for his efforts to treat athletic participation like a credit-bearing internship and for his role in international directives honoring basketball, is portrayed as a key advocate for recognizing sports as an academically meritorious field?**  
+David Hollander is the NYU professor. So David Hollander.
+
+18. **Which professor, whose interest in developing a sports major was sparked by academic scandals involving fraudulent class registrations and whose vision involves coupling athletic expertise with education in areas like marketing and branding, is highlighted as a potential architect of a new curriculum for athlete-students?**  
+Erianne Weight is mentioned as being interested after the scandal and wants to include marketing/branding. So Erianne Weight.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>conflicts of interest if coaches influenced grades to maintain eligibility</answer>
+<question_number>5</question_number>
+<answer>Cameron Johnson</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>David Hollander</answer>
+<question_number>10</question_number>
+<answer>Nike</answer>
+<question_number>11</question_number>
+<answer>Duncan Robinson</answer>
+<question_number>12</question_number>
+<answer>kinesiology and sport industry</answer>
+<question_number>13</question_number>
+<answer>basketball</answer>
+<question_number>14</question_number>
+<answer>Duncan Robinson</answer>
+<question_number>15</question_number>
+<answer>RaMell Ross</answer>
+<question_number>16</question_number>
+<answer>Nathan Tublitz</answer>
+<question_number>17</question_number>
+<answer>David Hollander</answer>
+<question_number>18</question_number>
+<answer>Erianne Weight</answer>

@@ -1,0 +1,35 @@
+merged_amtrak-delays-heat-extreme-weather.txt
+<question_number>1</question_number>
+<answer>2023</answer>
+
+<question_number>2</question_number>
+<answer>2,470 hours</answer>
+<other>Heat delays more than doubled from 530 hours in 2018 to 1,200 hours in 2023. Assuming the same rate of increase over the next five years (doubling every ~5 years), the delay hours would reach approximately 2,470 hours by 2028.</other>
+
+<question_number>3</answer>
+<answer>750,000 passengers</answer>
+
+<question_number>4</question_number>
+<answer>670 hours</answer>
+<other>In fiscal year 2023, heat delays accounted for nearly 1,200 hours, compared to 530 hours in fiscal year 2018. The difference is 1,200 - 530 = 670 hours.</other>
+
+<question_number>5</question_number>
+<answer>60%</answer>
+
+<question_number>6</question_number>
+<answer>39 years</answer>
+<other>The total cost is $117 billion, and federal grants could provide a few billion dollars annually. Assuming "a few" means around $3 billion per year, it would take $117 billion / $3 billion = 39 years.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>7.5 times</answer>
+<other>Total extreme weather delays in fiscal year 2023 were 4,010 hours, while heat-related delays in fiscal year 2018 were 530 hours. The ratio is 4,010 / 530 ≈ 7.5.</other>
+
+<question_number>9</question_number>
+<answer>2026</answer>
+<other>Heat delays increased from 83 hours in 2018 to 230 hours in 2023, an average annual increase of about 30 hours per year. Continuing this trend, heat delays would surpass 500 hours in approximately 2026.</other>
+
+<question_number>10</question_number>
+<answer>Sagging overhead power lines under intense summer heat</answer>

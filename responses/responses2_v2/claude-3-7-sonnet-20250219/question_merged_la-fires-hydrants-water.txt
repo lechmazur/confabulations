@@ -1,0 +1,80 @@
+merged_la-fires-hydrants-water.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article mentions "a large reservoir that was offline for maintenance" but doesn't specify which one.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article states "after the fire on Maui in 2023, officials wrote that it was unclear if the hydrants ran dry because of demand or the loss of electricity." It doesn't confirm which factor caused the failure.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article mentions the Woolsey fire but doesn't provide a specific number of homes destroyed.</other>
+
+<question_number>4</question_number>
+<answer>2021</answer>
+<other>The article states "When water ran low during the Marshall fire in Colorado, which ignited in late 2021, officials rushed untreated lake water through the system to keep supplies up..."</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>No expert in the article attributes hydrant failures during the Palisades fire to the absence of wooden water mains.</other>
+
+<question_number>6</question_number>
+<answer>wood</answer>
+<other>The article mentions "wooden water mains" that firefighters had to dig into before hydrants became common, and they would repair these with a "fire plug".</other>
+
+<question_number>7</question_number>
+<answer>New York City</answer>
+<other>The article states "In urban centers like New York City, many buildings have small towers on their roofs."</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article mentions that water is held in tanks on higher ground in mountainous areas, but doesn't cite a specific elevation difference.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article mentions Harris toured fire damage and met with local officials, but doesn't specify any federal agency she collaborated with.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>Rob Sowby discusses bigger reservoirs and pipes but doesn't name a specific policy initiative.</other>
+
+<question_number>11</question_number>
+<answer>a large reservoir</answer>
+<other>The article mentions "a large reservoir that was offline for maintenance" as one of the specific limitations during the Pacific Palisades fire.</other>
+
+<question_number>12</question_number>
+<answer>storage tanks</answer>
+<other>The article states "Storage tanks can quickly be depleted when demand is high, such as when multiple hydrants are tapped at the same time."</other>
+
+<question_number>13</question_number>
+<answer>gravity</answer>
+<other>The article explains "The force of the water flowing down from the storage tank is what pressurizes the hydrant system" and "Many systems use the force of gravity to create water pressure."</other>
+
+<question_number>14</question_number>
+<answer>creating "defensible space" around homes</answer>
+<other>Dr. Murray mentioned "creating 'defensible space' around homes" as one way to limit neighborhoods' risk against wildfires.</other>
+
+<question_number>15</question_number>
+<answer>pumping station</answer>
+<other>The article states "If power is lost or cut, which can happen in wildfires, a pumping station may not be able to pump water up."</other>
+
+<question_number>16</question_number>
+<answer>storage tanks</answer>
+<other>The article states "Storage tanks can quickly be depleted when demand is high, such as when multiple hydrants are tapped at the same time."</other>
+
+<question_number>17</question_number>
+<answer>small towers on roofs</answer>
+<other>The article states "In urban centers like New York City, many buildings have small towers on their roofs."</other>
+
+<question_number>18</question_number>
+<answer>bigger reservoirs and bigger pipes and more fire hydrants</answer>
+<other>Rob Sowby states "We can make bigger reservoirs and bigger pipes and more fire hydrants, but I think it's going to have to be more of a social and policy decision..."</other>
+
+<question_number>19</question_number>
+<answer>insufficient water pressure</answer>
+<other>The article states "After the Woolsey fire in Southern California in 2018, a review found that high demand for water, along with broken pipes in burned structures, led to some neighborhoods having insufficient water pressure, or none at all."</other>
+
+<question_number>20</question_number>
+<answer>water pipes</answer>
+<other>The article states "Fire can damage the water pipes, creating leaks and causing the water pressure to drop."</other>

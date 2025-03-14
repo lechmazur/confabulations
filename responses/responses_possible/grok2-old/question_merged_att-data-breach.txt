@@ -1,0 +1,21 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>Complicates by introducing additional vulnerabilities through shared infrastructure.</answer>
+<question_number>3</question_number>
+<answer>Underscores the critical need for robust security to protect sensitive government communications.</answer>
+<question_number>4</question_number>
+<answer>By tracing phone numbers to individuals, potentially revealing their communication networks.</answer>
+<question_number>5</question_number>
+<answer>Potential compromise of communication security for federal agencies.</answer>
+<question_number>6</question_number>
+<answer>Exposed phone records can reveal who communicates with whom, potentially exposing sensitive networks.</answer>
+<question_number>7</question_number>
+<answer>Foreign states could analyze communication patterns for intelligence purposes.</answer>
+<question_number>8</question_number>
+<answer>Compromised data can reveal who government officials communicate with, potentially exposing covert operations or sensitive discussions.</answer>
+<question_number>9</question_number>
+<answer>Increases exposure by placing data in a shared environment with multiple potential attack vectors.</answer>
+<question_number>10</question_number>
+<answer>Cloud infrastructure like Snowflake increases the complexity and potential vulnerabilities in data security.</answer>

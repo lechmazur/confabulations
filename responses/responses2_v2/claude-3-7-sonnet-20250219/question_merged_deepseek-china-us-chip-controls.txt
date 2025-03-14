@@ -1,0 +1,71 @@
+merged_deepseek-china-us-chip-controls.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>Chinese propaganda</answer>
+<other>The article mentions "Since the Chinese start-up DeepSeek's chatbot surged in popularity, researchers have documented how its answers include Chinese propaganda." This directly relates to content in DeepSeek's chatbot, while OpenAI's Deep Research is described as being able to "gather information from across the internet and synthesize it into concise reports."</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article mentions SoftBank as potentially investing in OpenAI, not DeepSeek.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>U.S. controls couldn't restrict chips that were already purchased before restrictions took effect</answer>
+<other>The article states "You can't control what's already there" and notes that DeepSeek would have legally been able to purchase H800 chips in late 2022 or 2023 before they were banned.</other>
+
+<question_number>12</question_number>
+<answer>The U.S. still has advantage over China in hardware</answer>
+<other>The article directly quotes Jimmy Goodrich saying "The only advantage the United States still has over China at this moment is in hardware."</other>
+
+<question_number>13</question_number>
+<answer>It will be much cheaper to build and run A.I.</answer>
+<other>The article states that with DeepSeek's approach "it will be much cheaper and could be far less energy intensive for anyone to build and run A.I."</other>
+
+<question_number>14</question_number>
+<answer>Stockpiling chips before restrictions took effect</answer>
+<other>The article mentions that DeepSeek "spent years building up its chip supply before Washington's controls took effect" and by 2021 had "acquired at least 10,000 Nvidia A100s"</other>
+
+<question_number>15</question_number>
+<answer>Inability to make advanced A.I. chips that rival Nvidia's</answer>
+<other>The article states "no Chinese company is yet able to make advanced A.I. chips that rival Nvidia's, or the type of complex machinery needed to make those chips."</other>
+
+<question_number>16</question_number>
+<answer>Nvidia's shares plunged sharply</answer>
+<other>The article states "Nvidia's shares plunged sharply on Monday on fears that technology companies will be able to do cutting-edge A.I. in the future while paying Nvidia far less."</other>
+
+<question_number>17</question_number>
+<answer>N/A</answer>
+
+<question_number>18</question_number>
+<answer>Finding ways to get good performance with lower training costs and less compute</answer>
+<other>The article quotes Jeffrey Ding saying Chinese firms had been "forced to go down this other pathway to find out whether we can get good enough performance with lower training costs and less compute."</other>
+
+<question_number>19</question_number>
+<answer>Acquiring chips before U.S. restrictions took effect</answer>
+<other>The article mentions DeepSeek spent years building up its chip supply before Washington's controls took effect, and had acquired at least 10,000 Nvidia A100s by 2021.</other>
+
+<question_number>20</question_number>
+<answer>Silicon Valley's lead on A.I. has shrunk despite U.S. efforts to limit Chinese access</answer>
+<other>The article directly states "DeepSeek's success suggests that Silicon Valley's lead on A.I. has shrunk, despite efforts by Washington to limit Chinese access to the advanced chips."</other>

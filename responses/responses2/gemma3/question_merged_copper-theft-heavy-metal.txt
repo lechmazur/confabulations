@@ -1,0 +1,2 @@
+merged_copper-theft-heavy-metal.txt
+Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}

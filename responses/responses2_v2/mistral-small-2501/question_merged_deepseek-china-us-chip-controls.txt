@@ -1,0 +1,41 @@
+merged_deepseek-china-us-chip-controls.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>Chinese propaganda</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>DeepSeek's legal use of Nvidia chips, which were purchased before new export controls were enforced, created an apparent contradiction in U.S. export policy because the U.S. government had to restrict the new chips after they were already in use by Chinese companies.</answer>
+<question_number>12</question_number>
+<answer>DeepSeek’s ability to train its model on fewer chips and the reported surplus of restricted chips in the Chinese market implies that the U.S. hardware superiority is not as significant as previously thought.</answer>
+<question_number>13</question_number>
+<answer>The article leads you to conclude that the future cost of building advanced A.I. models globally will be lower.</answer>
+<question_number>14</question_number>
+<answer>The key factor responsible for the company's ability to develop competitive A.I. technology despite recent U.S. restrictions is the timing of chip bans and DeepSeek’s multi-year accumulation of high-end Nvidia models.</answer>
+<question_number>15</question_number>
+<answer>The technical limitation that continues to constrain Chinese A.I. innovation compared to U.S. companies is the lack of advanced A.I. chips that rival Nvidia's.</answer>
+<question_number>16</question_number>
+<answer>The market impact these activities had on Nvidia and its investors is a drop in Nvidia's share price.</answer>
+<question_number>17</question_number>
+<answer>The article portrays the contradiction between U.S. export control measures implemented under the Biden administration and the review initiatives ordered by the Trump administration in relation to the spread of advanced A.I. technologies as a failure of the U.S. to effectively control the spread of advanced A.I. technologies.</answer>
+<question_number>18</question_number>
+<answer>The operational strategy crucial for achieving advanced A.I. performance with lower compute resources is using fewer high-priced chips.</answer>
+<question_number>19</question_number>
+<answer>The timing-related factor that enabled their competitive entry into the A.I. market is DeepSeek’s pre-restriction chip purchases.</answer>
+<question_number>20</question_number>
+<answer>The overarching theme about global A.I. leadership competition that emerges from the article’s analysis is that China is making rapid gains in the field despite American efforts to hinder it.</answer>

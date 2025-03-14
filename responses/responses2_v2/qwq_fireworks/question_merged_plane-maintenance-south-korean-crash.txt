@@ -1,0 +1,93 @@
+merged_plane-maintenance-south-korean-crash.txt
+Okay, let's tackle these questions one by one using the article provided. I need to make sure I only use the information from the text and follow the instructions strictly.
+
+1. **Question 1:** The article mentions U.S. airlines sending planes to El Salvador for airframe maintenance. But does it name a specific company? Let me check. The text says, "Some U.S. airlines send planes to El Salvador," but no company name is provided. So the answer should be N/A.
+
+2. **Question 2:** The question asks for the total number of employees affected by the FAA's new rule across 977 stations. The article mentions "as many as 977 locations in 65 countries" but doesn't specify the number of employees. So N/A.
+
+3. **Question 3:** The Congressional report shows outsourcing increased from 20% in 1990 to 44% by 2011. The question asks for the 2015 percentage. Since the data stops at 2011, there's no info for 2015. So N/A.
+
+4. **Question 4:** The article states that Airbus jets were pulled for Pratt & Whitney engine inspections due to a defect. The specific model isn't mentioned, so N/A.
+
+5. **Question 5:** The article doesn't mention any prior fatal crashes of Boeing 737-800 due to outsourcing errors before Jeju Air. It only says there's no evidence of poor upkeep in this crash. So N/A.
+
+6. **Question 6:** The article says Lufthansa and Delta sell services. It doesn't mention another U.S. airline partnering with Lufthansa. So N/A.
+
+7. **Question 7:** The plane was "about 15 years old." The exact number isn't given, so N/A.
+
+8. **Question 8:** The article mentions Eastern Europe as a hub but doesn't specify a country. So N/A.
+
+9. **Question 9:** U.S. airlines send airframe work to El Salvador. The answer is El Salvador.
+
+10. **Question 10:** The rule affects 65 countries, as stated. So 65.
+
+11. **Question 11:** The time period is from 1990 to 2011, as in the report. So 1990–2011.
+
+12. **Question 12:** Pilots do "visual and other inspections for damage." So visual inspections.
+
+13. **Question 13:** The expert says small carriers don't invest capital. So "it never made sense for them to invest the capital."
+
+14. **Question 14:** The manufacturer is Boeing, mentioned regarding 737 Max issues.
+
+15. **Question 15:** The engine manufacturer linked to Airbus is Pratt & Whitney.
+
+16. **Question 16:** The FAA's standards are applied, so FAA.
+
+17. **Question 17:** Airframe maintenance is sent to lower-wage countries.
+
+18. **Question 18:** Newer engines require more fixes than expected. So "more fixes and upkeep than expected."
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>0</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>El Salvador</answer>
+
+<question_number>10</question_number>
+<answer>65</answer>
+
+<question_number>11</question_number>
+<answer>1990 to 2011</answer>
+
+<question_number>12</question_number>
+<answer>visual inspections</answer>
+
+<question_number>13</question_number>
+<answer>it never made sense for them to invest the capital</answer>
+
+<question_number>14</question_number>
+<answer>Boeing</answer>
+
+<question_number>15</question_number>
+<answer>Pratt & Whitney</answer>
+
+<question_number>16</question_number>
+<answer>Federal Aviation Administration</answer>
+
+<question_number>17</question_number>
+<answer>airframe maintenance</answer>
+
+<question_number>18</question_number>
+<answer>more fixes and upkeep than expected</answer>

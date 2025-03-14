@@ -1,0 +1,73 @@
+merged_fourth-pig-kidney-transplant.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article mentions that the United Therapeutics trial will begin with 6 patients and could rise to 50, but doesn't specify the total enrollment across both trials.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article mentions Richard Slayman received an eGenesis kidney at Mass General, not at NYU Langone Health.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention Towana Looney experiencing complications that delayed her discharge.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any requirement for patients to undergo dialysis for at least five years prior to transplantation.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article mentions Medicare covers most patients with kidney failure but doesn't confirm it will reimburse pig kidney transplants.</other>
+
+<question_number>8</question_number>
+<answer>59</answer>
+<other>Tim Andrews received a pig kidney with 69 gene edits, including 59 to inactivate porcine retroviruses, and he was the one who tap-danced after surgery.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any gene edits targeting Alzheimer's disease prevention.</other>
+
+<question_number>10</question_number>
+<answer>follow-up care</answer>
+<other>The article states "Ms. Looney, who has remained in New York City for follow-up care, is doing well and plans to return home later this month"</other>
+
+<question_number>11</question_number>
+<answer>Tim Andrews</answer>
+<other>Tim Andrews had a heart attack after starting dialysis, used a wheelchair, and later tap-danced between the recovery table and his bed after surgery.</other>
+
+<question_number>12</question_number>
+<answer>eGenesis</answer>
+
+<question_number>13</question_number>
+<answer>Towana Looney</answer>
+<other>Towana Looney received a pig kidney at NYU Langone Health in November and plans to return home three months after her operation.</other>
+
+<question_number>14</question_number>
+<answer>Medicare</answer>
+
+<question_number>15</question_number>
+<answer>United Therapeutics Corporation</answer>
+
+<question_number>16</question_number>
+<answer>Richard Slayman</answer>
+
+<question_number>17</question_number>
+<answer>United Therapeutics Corporation</answer>
+
+<question_number>18</question_number>
+<answer>NYU Langone Health</answer>
+<other>The article mentions Towana Looney received a pig kidney at NYU Langone Health in November and has remained in New York City for follow-up care.</other>
+
+<question_number>19</question_number>
+<answer>pig kidney transplant</answer>
+<other>The article describes Tim Andrews' pig kidney transplant at Mass General in January as "the first of three that will be done at Mass General as part of a new clinical trial"</other>
+
+<question_number>20</question_number>
+<answer>kidney</answer>
+<other>The article states that most people on organ waiting lists are waiting for kidneys, and describes efforts to use pig kidneys to address this shortage.</other>

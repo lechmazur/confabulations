@@ -1,0 +1,17 @@
+merged_stock-market-election-season.txt
+<question_number>1</question_number>
+<answer>Nvidia (mentioned as potentially reporting earnings)</answer>
+
+<question_number>2</question_number>
+<answer>Attack on the Capitol on Jan. 6, 2021</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>10 percent</answer>
+
+<other>Notes:
+- For question 1, while the article doesn't definitively state Nvidia had outstanding earnings, it's the only specific company mentioned in the earnings context
+- For question 3, the article mentions Robert Shiller and a 10-year price-to-earnings ratio (CAPE), but not a 5-year ratio
+- For question 4, Morningstar Direct's calculations showed that holding at least 10 percent of a portfolio in bonds reduced losses over 5-year periods</other>

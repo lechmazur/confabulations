@@ -1,0 +1,48 @@
+merged_british-airways-damaged-lost-luggage-claim.txt
+Okay, let me go through each question one by one and check the article for the answers. 
+
+1. The first question asks for the total amount of the initial claim submitted to British Airways. The article says they submitted receipts totaling $3,331. The initial claim was on July 25, then more were added later. So the initial claim's total should be $3,331. 
+
+2. The second question is about how many days after Mr. Brown's death the airline processed the claim. The death was on Nov 16. The final offer mentioned was $3,941, but the article says after resubmitting receipts on Jan 11, they were told that amount. The exact date of processing isn't given. The article mentions the final offer was on Jan 15 or later, but the exact days between Nov 16 and when the claim was processed isn't specified. So maybe N/A?
+
+3. The tour manager took a cab to the airport where? The flight was London to Paris. The first guitar was recovered in Paris, but the manager went to the airport there, which closed. So the city is Paris.
+
+4. The Montreal Convention's liability per passenger at the time of their original album (1975). The article mentions the cap was about $1,700 per passenger when their flight happened (June 2023?), but the question is about when the album was recorded in 1975. The article doesn't mention historical Montreal Convention caps, so N/A.
+
+5. The employee who processed the claim in London. The text doesn't name any specific employee, so N/A.
+
+6. The number of shows between losing guitars and first reimbursement offer. The first offer was in early November. The guitars were lost in June. The shows after getting one back a few shows later. But exact number not given. So N/A.
+
+7. Purchase price of the original Casio MIDI guitar. The article mentions the destroyed one but no price, only replacement costs. So N/A.
+
+8. Who found the damaged case at Heathrow? The article says "the group" found it, but no specific member's name. So N/A.
+
+9. The date they received the $3,941 offer. The article says on Jan 15 the airline said they were working, and on Jan 21, after resubmitting, the contact said $3,941. So maybe Jan 21? Or the exact date isn't stated. The article says "on Jan 15" the statement, then on Jan 21, they emailed again. The offer of $3,941 was after resubmitting on Jan 11, so maybe the date is Jan 21? But the exact date isn't given. The article says "on my suggestion, you emailed your contact again. You said you were instructed to upload receipts again, which you did, and were told you would be reimbursed $3,941." So the date when they received that offer isn't specified beyond being after Jan 11. So N/A.
+
+10. Number of times the tour manager contacted before Seth got involved. The article mentions "several email follow-ups" but before Seth's intervention? The initial claim was submitted July 25, then added more. Seth intervened in early November. The exact count isn't given, so N/A.
+
+11. The two airlines compared with "cumbersome interface" and lost receipts. The article only mentions British Airways in that context. The question says "implicitly compared", but maybe the comparison is between BA's interface and another? The article doesn't mention another airline's process. So N/A? Or maybe the author is contrasting with general expectations? Probably N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>3,331</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>Paris</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>N/A</answer>

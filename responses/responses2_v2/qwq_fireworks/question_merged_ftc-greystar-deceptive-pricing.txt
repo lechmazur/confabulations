@@ -1,0 +1,76 @@
+merged_ftc-greystar-deceptive-pricing.txt
+Okay, let's tackle these questions one by one using the article provided. I need to make sure I don't use any external knowledge, only what's in the text.
+
+1. **Question 1**: The first question asks for the percentage of Greystar's revenue from unadvertised fees between 2019-2023 according to the FTC. Scanning the article, I see the FTC mentions "hundreds of millions of dollars in hidden fees" but there's no specific percentage given. So answer is N/A.
+
+2. **Question 2**: The FTC cited a specific federal legislation for the hidden package delivery fees. The article doesn't mention any specific law by name. It talks about deceptive practices but not the exact legislation. So N/A.
+
+3. **Question 3**: The DOJ lawsuit against RealPage was expanded to include Greystar and five others. The article says "five other landlords" besides Greystar, so total of 5 others. Answer is 5.
+
+4. **Question 4**: Andrew Ferguson's previous role before being FTC chair. The article states he's a Republican on the FTC but doesn't mention prior roles. So N/A.
+
+5. **Question 5**: Two fees in Colorado higher than market averages. The article lists fees like trash, pest control, package delivery, but doesn't specify which were higher in Colorado. N/A.
+
+6. **Question 6**: Tech platform for hidden utility fees. The article mentions algorithms used with RealPage, but not a specific platform. N/A.
+
+7. **Question 7**: Congressional committee report on lease termination. The article doesn't reference any such report. N/A.
+
+8. **Question 8**: Annual financial penalty if apartments were included in the rule. The FTC's rule required disclosures but didn't mention penalties for apartments. N/A.
+
+9. **Question 9**: The official quoted is Colorado's attorney general, Phil Weiser. The article directly states this. Answer is Phil Weiser.
+
+10. **Question 10**: The industry excluded from the final rule was multifamily apartments. The text says they weren't included. So answer is multifamily apartments.
+
+11. **Question 11**: The complaint was filed during Lina Khan's tenure as chair. The article mentions her name in that context. Answer is Lina Khan.
+
+12. **Question 12**: The initially targeted company was RealPage. The DOJ expanded the lawsuit to include Greystar. Answer is RealPage.
+
+13. **Question 13**: The fee mentioned since 2019 is lease termination charges. The article states "lease termination charges amounting to thousands of dollars, according to the lawsuit. Those charges essentially lock tenants..." So answer is lease termination charges.
+
+14. **Question 14**: The rental sector omitted was multifamily apartments, same as question 10. Answer is multifamily apartments.
+
+15. **Question 15**: Greystar defends advertising base rent only. The company's statement says "advertising base rent to potential residents." Answer is advertising base rent.
+
+16. **Question 16**: Greystar's headquarters is in Charleston, SC. The article states "based in Charleston, S.C." Answer is Charleston, South Carolina.
+
+17. **Question 17**: The term for fees found after moving in. The article says "did not discover the fees until after they signed a lease or moved in." The term used in the text is "hidden fees." But the question asks for the term used. Wait, the article refers to them as "unadvertised fees" or "hidden fees." The exact term used in the article for the fees discovered after moving in might be "hidden fees" or "unadvertised fees." The first sentence mentions "unadvertised fees," and the FTC's complaint refers to "hidden fees." Since the question is about the term used when tenants discovered them after moving, the article says "hidden fees" are mentioned in the FTC's action. But the exact term in the answer needs to be checked. The article says "hidden fees" in the first paragraph. So answer is hidden fees.
+
+18. **Question 18**: Greystar's proposed remedy is clear regulatory guidelines. The company's statement says "The most effective path... is through clear regulatory guidelines for our industry." Answer is clear regulatory guidelines.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>5</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>Phil Weiser</answer>
+<question_number>10</question_number>
+<answer>Multifamily apartments</answer>
+<question_number>11</question_number>
+<answer>Lina Khan</answer>
+<question_number>12</question_number>
+<answer>RealPage</answer>
+<question_number>13</question_number>
+<answer>lease termination charges</answer>
+<question_number>14</question_number>
+<answer>Multifamily apartments</answer>
+<question_number>15</question_number>
+<answer>advertising base rent</answer>
+<question_number>16</question_number>
+<answer>Charleston, South Carolina</answer>
+<question_number>17</question_number>
+<answer>hidden fees</answer>
+<question_number>18</question_number>
+<answer>clear regulatory guidelines</answer>

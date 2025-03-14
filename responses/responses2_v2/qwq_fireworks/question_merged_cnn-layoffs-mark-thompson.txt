@@ -1,0 +1,28 @@
+merged_cnn-layoffs-mark-thompson.txt
+Okay, let's tackle each question one by one using the article provided.
+
+1. The first question asks for the number of unique visits CNN's website received in March 2020, according to Comscore. Scanning through the article, I find this sentence: "its prime time ratings have plummeted since the election, and its digital audience has also shrunk. In December, the network saw its lowest period of web traffic in two years, according to analytics firm Comscore, with 90.5 million unique visits, down from a high point of 175.5 million in March 2020, during the beginning of the Covid-19 pandemic." So the answer is 175.5 million.
+
+2. The second question is about the unit moved into CNN Fact Check. The article mentions: "Last year, Mr. Thompson moved fact-checking, formerly known as the Row, into a new unit called CNN Fact Check that works closer with editors and producers earlier in the story-generation process." The unit's name before was the Row. So the answer is "the Row".
+
+3. The third question asks for the name of the CNN executive editor. The text states: "Ms. Moseley, not Ms. MacCallum, the final arbiter over what gets covered..." and "Virginia Moseley, CNN's executive editor." So the answer is Virginia Moseley.
+
+4. The fourth question is about the weekly target of vertical videos. The article says CNN aims to publish 50 to 100 per day. To find weekly, multiply the daily range by 7. 50*7=350 and 100*7=700. The answer would be 350-700, but the question asks for the name of the target. Wait, the question says "how many vertical videos per week does CNN aim to publish..." The article specifies the daily target is 50-100. So weekly would be 350 to 700. But the question might just want the daily range converted. The exact phrasing in the article is "publish 50 to 100 of these videos per day." The question is about per week, so it's 50-100 multiplied by 7 days. The answer is 350 to 700. But the question says "how many" so the answer would be 350-700. The article doesn't explicitly state weekly, but the daily is given, so we can infer the weekly by multiplying. Since the question allows for logical inference, this is acceptable.
+
+5. The fifth question asks which Warner Bros. Discovery executive approved the $70 million investment for the lifestyle product. The article says: "Mr. Thompson and Ms. MacCallum have also appealed to David Zaslav, the chief executive of Warner Bros. Discovery, for additional investment in CNN's digital priorities. Mr. Zaslav greenlit this year's $70 million investment." The question specifies "lifestyle subscription product development in 2024," but the article mentions the $70 million is for this year (the article was written in 2024, given Thompson arrived in 2023 and it's his first 15 months). The investment is for the lifestyle product. So the answer is David Zaslav.
+</think>
+
+<question_number>1</question_number>
+<answer>175.5 million</answer>
+
+<question_number>2</question_number>
+<answer>the Row</answer>
+
+<question_number>3</question_number>
+<answer>Virginia Moseley</answer>
+
+<question_number>4</question_number>
+<answer>350-700</answer>
+
+<question_number>5</question_number>
+<answer>David Zaslav</answer>

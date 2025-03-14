@@ -1,0 +1,30 @@
+merged_ai-data-restrictions.txt
+<question_number>1</question_number>
+<answer>They can't afford to license data directly from publishers.</answer>
+
+<question_number>2</question_number>
+<answer>It primarily impacts later-arriving actors, like smaller start-ups or researchers.</answer>
+
+<question_number>3</question_number>
+<answer>Today's A.I. systems might not be capable of generating enough high-quality synthetic data to replace human-created data.</answer>
+
+<question_number>4</question_number>
+<answer>The web might start shutting its doors to them.</answer>
+
+<question_number>5</question_number>
+<answer>They lack the resources to negotiate licensing deals or access exclusive data sources.</answer>
+
+<question_number>6</question_number>
+<answer>It means that previously gathered data by major companies remains usable, but new or smaller entities face barriers.</answer>
+
+<question_number>7</question_number>
+<answer>It indicates that newer or smaller entities in A.I. development are at a disadvantage due to data access restrictions.</answer>
+
+<question_number>8</question_number>
+<answer>It might lead to new tools or agreements for more controlled and consensual data usage.</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>75% of data from the highest-quality sources.</answer>

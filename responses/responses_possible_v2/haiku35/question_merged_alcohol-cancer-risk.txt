@@ -1,0 +1,26 @@
+merged_alcohol-cancer-risk.txt
+<question_number>1</question_number>
+<answer>esophageal cancer (30% higher chance for light drinkers)</answer>
+
+<question_number>2</question_number>
+<answer>15.3%</answer>
+
+<question_number>3</question_number>
+<answer>7 ounces (one drink per day)</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>head and neck cancers</answer>
+
+<question_number>6</question_number>
+<answer>1.5 ounces of liquor</answer>
+
+<other>Notes on reasoning:
+1. Directly from the 2013 Annals of Oncology study cited
+2. From the surgeon general's report showing breast cancer risk at two drinks daily
+3. Calculated from standard drink definition (5 ounces of wine = one drink)
+4. No explicit comparison of maximum gap between men and women's cancer risk
+5. Mentioned in compound risk section about smoking and cancer types
+6. Based on standard drink definition of 1.5-ounce shot corresponding to one drink</other>

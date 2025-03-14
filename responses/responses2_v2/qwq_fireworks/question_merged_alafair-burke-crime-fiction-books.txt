@@ -1,0 +1,63 @@
+merged_alafair-burke-crime-fiction-books.txt
+Okay, let's tackle these questions one by one based on the article provided. 
+
+1. **Question 1**: The question asks which female sleuth from Powell's $1 paperback section became the author's mentor and inspiration. The article mentions discovering "smart, gritty female sleuths" like Sue Grafton's Kinsey Millhone, Sara Paretsky's V.I. Warshawski, etc. But the question specifies "writing mentor and inspiration for her own legal thrillers." The article doesn't mention any of these authors being her mentor. It just says she was inspired by them. So maybe N/A?
+
+Wait, the question says "later became the author's writing mentor." The text only says her mother got her started on Nancy Drew and Hardy Boys leading to Christie and Clark. The female sleuths from Powell's were part of her obsession but there's no mention of any of them being a mentor. So answer is N/A.
+
+2. **Question 2**: How many daily puzzle-solving companions from NYT? The author mentions Janelle Brown and Angie Kim as NYT puzzle pals who text daily. So that's two. The answer is 2.
+
+3. **Question 3**: Title of her first published work with too many legal details. She mentions her debut where she used her lawyer brain too much. The debut is called "The Note" as per the first line: "The author of 'The Note' traces her..." So the answer is "The Note".
+
+4. **Question 4**: Book her mother recommended to transition from Encyclopedia Brown. The text says after Encyclopedia Brown and "Mixed-Up Files," her mother got her Nancy Drew and Hardy Boys. So the answer is Nancy Drew or Hardy Boys? Wait, the question is about transitioning to "more advanced" mystery novels. Since Nancy Drew and Hardy Boys are for kids, maybe those are the next step. The exact book isn't named, but the mother recommended "more stories that felt like puzzle-solving" leading to Nancy Drew and Hardy Boys. The question asks for the title of the specific book she recommended next. The article doesn't mention a specific title, just the series. So maybe N/A? Wait, the question says "the title of the book her mother specifically recommended". The article says "she got me started on Nancy Drew and the Hardy Boys". Since it's a series, not a specific book, maybe N/A? Or perhaps "Nancy Drew" or "Hardy Boys" as the series? The question might expect one of those. Since the question says "title", perhaps the series name is acceptable. So answer: Nancy Drew or Hardy Boys? But the question says "specifically recommended to transition". The text says "got me started on Nancy Drew and the Hardy Boys", so the answer is either, but since it's a series, maybe N/A. Wait, the exact words: "after I begged my personal literary curator... for more stories that felt like puzzle-solving, she got me started on Nancy Drew and the Hardy Boys..." So the mother recommended those series. The question is about the title of the book that transitioned her. Since it's a series, not a single book, perhaps the answer is N/A. Hmm, tricky. Alternatively, maybe the first book in Nancy Drew? But the article doesn't specify. So I think N/A is safer here.
+
+5. **Question 5**: Year James Lee Burke resumed publishing after a decade hiatus. The article mentions the author's father, James Lee Burke, was out of print for over a decade when she was a kid, but the text doesn't mention when he resumed. The anecdote is about her seeing him write daily, but no year given. So answer N/A.
+
+6. **Question 6**: How many signed copies from bestselling authors? The text lists "James Lee Burke up top, and Lee Child, Harlan Coben, Michael Connelly, Sue Grafton, Laura Lippman and Karin Slaughter appear frequently." That's 7 authors. The question is how many signed copies she keeps. The text says "cherished personalized, signed copies go together" and lists these names. The count is 7 names listed. So answer 7.
+
+7. **Question 7**: Controversial quota system that Raymond implemented? The article says Raymond left NYPD because of "quota-based policing practices". The question asks what quota system he implemented. Wait, did he implement it or was it the reason he left? The text says he left "in part because of quota-based policing practices". So the system was already in place, not that he implemented it. The question is phrased as "quota system that Lieutenant Raymond implemented", which might be incorrect. Since the article says he left due to the existing quota system, the answer would be N/A because he didn't implement it, he left because of it.
+
+8. **Question 8**: Character from current novel originating from social media cancellation. The author's current novel has "The Canceled Crew" as the trio. The question asks which character, but the text says the trio's name is "The Canceled Crew" which is about social media blowback. The characters themselves aren't named, just the group. So the answer is "The Canceled Crew" as the group, but the question asks for a character. Since no individual character is named, answer N/A.
+
+9. **Question 9**: Writing routine Scott Turow shared. The author mentions Scott Turow's character Rusty Sabich in "Presumed Innocent" and compares her own work to Turow and Grisham. The question is about a routine Turow shared. The article's only mention of Turow is in the context of his book and a new case in "Presumed Guilty". The author's father's advice was "just keep writing." The question is about Scott Turow's routine, but the text doesn't mention any routine he shared. The only routine mentioned is from the author's father. So answer N/A.
+
+10. **Question 10**: Number of students who borrowed "Flowers in the Attic". The author says her copy was passed around the grade school playground like contraband. But the exact number isn't given. The question asks how many students borrowed it before confiscation. Since it's not stated, answer N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Text mentions female sleuths like Kinsey Millhone but no indication they were mentors to the author.</other>
+
+<question_number>2</question_number>
+<answer>2</answer>
+
+<question_number>3</question_number>
+<answer>The Note</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Text only mentions Nancy Drew/Hardy Boys series, not a specific book title.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>No publication resumption year mentioned for James Lee Burke.</other>
+
+<question_number>6</question_number>
+<answer>7</answer>
+<other>List includes Burke, Child, Coben, Connelly, Grafton, Lippman, Slaughter (7 names).</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Lieutenant Raymond left due to existing quota system, not that he implemented it.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>Novel features "The Canceled Crew" as a group, no individual character named.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Only mentions Turow's work, not his writing routine. Father's advice was cited.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>Text states book was passed around but gives no numerical count.</other>

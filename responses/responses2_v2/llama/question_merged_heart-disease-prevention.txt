@@ -1,0 +1,61 @@
+merged_heart-disease-prevention.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+
+<question_number>12</question_number>
+<answer>high blood pressure or heart failure</answer>
+
+<question_number>13</question_number>
+<answer>DASH diet or Mediterranean diet</answer>
+
+<question_number>14</question_number>
+<answer>N/A (Dr. Haythe, not Dr. Lara-Breitinger, suggests limiting alcohol consumption)</answer>
+
+ was changed to <answer>N/A</answer>
+
+<question_number>15</question_number>
+<answer>N/A (no specific autoimmune disease is mentioned as being treated with breast cancer treatments)</answer>
+
+ was changed to <answer>N/A</answer>
+
+<question_number>16</question_number>
+<other>This is actually Dr. Lara-Breitinger, not Dr. Khan.</other>
+ was changed to <other></other>
+ 
+ <question_number>16</question_number>
+ <other></other>
+ <answer>push-ups, squats or lunges </answer>
+
+ <question_number>17</question_number>
+ <other></other>
+ <answer>stress hormones </answer>

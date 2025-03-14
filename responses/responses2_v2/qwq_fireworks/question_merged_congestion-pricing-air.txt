@@ -1,0 +1,51 @@
+merged_congestion-pricing-air.txt
+Okay, let's tackle these questions one by one using the article provided. I need to make sure I only use the information from the text and follow the strict answer format.
+
+1. **Question 1**: The first question asks about the neighborhood adjacent to the Cross Bronx Expressway that saw an 11% increase in afternoon travel times according to the M.T.A.'s environmental assessment. Scanning the article, I remember the South Bronx is mentioned in relation to traffic increases. Wait, in the third paragraph, the article states that the M.T.A.'s environmental assessment said traffic could become heavier in parts of the South Bronx. But the specific 11% figure isn't there. Wait, looking again: the Inrix data says a 9% increase in afternoon travel times. The environmental assessment might have a different number? Let me check the exact quote. The article says, "an environmental assessment... said that traffic could become heavier in parts of the South Bronx..." but doesn't mention 11%. Hmm, maybe I missed it. Wait, the question says "according to the environmental assessment published by the M.T.A." The article mentions the M.T.A.'s assessment but doesn't give a percentage. The 9% comes from Inrix. So the answer here might be N/A because the 11% isn't in the text. Wait, the user might have a typo? Or perhaps I misread. Let me recheck. The question says 11%, but the article only mentions Inrix's 9% and a 2% decrease in mornings. The M.T.A. assessment doesn't give a specific percentage. So the answer is N/A.
+
+2. **Question 2**: The second question asks for the percentage increase in afternoon travel times on major Bronx highways in the first two weeks. The article says, "Inrix... showed that afternoon travel times... had increased by 9 percent during the first two weeks..." So that's 9%.
+
+3. **Question 3**: The M.T.A. allocated over $71 million for mitigation projects. The text states, "the M.T.A. has allocated just over $71 million for mitigation efforts..."
+
+4. **Question 4**: The federal agency cited for diesel truck PM2.5 data is the Bureau of Transportation Statistics. The article mentions, "according to data from the Bureau of Transportation Statistics..."
+
+5. **Question 5**: The local activist is Mychal Johnson, co-founder of South Bronx Unite. The article quotes him directly.
+
+6. **Question 6**: Morning travel times had a 2% decrease. The article says, "a 2 percent decrease in travel times in the mornings."
+
+7. **Question 7**: The city's Air Quality Program's executive director, Sarah Johnson, mentioned the health department (Department of Health and Mental Hygiene) plans to share findings. The exact quote is, "the health department plans to share its environmental findings with the M.T.A. in early 2026..." So the department is the Department of Health and Mental Hygiene.
+
+8. **Question 8**: The Queens College professor, Holger Eisl, mentioned rain as the biggest cleanser. The article states, "the biggest item that cleans the atmosphere is rain."
+
+9. **Question 9**: The M.T.A.'s chief executive, Janno Lieber, made the statement on The Brian Lehrer Show. The article quotes him as the M.T.A.'s chief.
+
+10. **Question 10**: The analytics firm is INRIX, as mentioned in the third paragraph.
+
+11. **Question 11**: The nonprofit South Bronx Unite is adding 25 monitors to their existing 40. The article says, "adding 25 air monitors to its network of 40."
+
+Double-checking each point to ensure accuracy. For question 1, since the M.T.A.'s assessment didn't specify 11%, the answer must be N/A. The rest seem to have direct answers.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The environmental assessment mentioned traffic could increase but didn't specify an 11% figure. The 9% increase comes from Inrix data, not the M.T.A. assessment.</other>
+<question_number>2</question_number>
+<answer>9</answer>
+<question_number>3</question_number>
+<answer>$71 million</answer>
+<question_number>4</question_number>
+<answer>Bureau of Transportation Statistics</answer>
+<question_number>5</question_number>
+<answer>Mychal Johnson</answer>
+<question_number>6</question_number>
+<answer>2% decrease</answer>
+<question_number>7</question_number>
+<answer>Department of Health and Mental Hygiene</answer>
+<question_number>8</question_number>
+<answer>rain</answer>
+<question_number>9</question_number>
+<answer>Metropolitan Transportation Authority</answer>
+<question_number>10</question_number>
+<answer>Inrix</answer>
+<question_number>11</question_number>
+<answer>25</answer>

@@ -1,0 +1,104 @@
+merged_trump-paper-straws.txt
+Okay, let's tackle these questions one by one based on the given article. I need to be careful to only use the information provided and not rely on any outside knowledge. Let me start with the first question.
+
+1. **Question 1:** How many student clubs did West Point end to comply with the Biden administration's push to phase out single-use plastic?  
+The article mentions that DEI (Diversity, Equity, and Inclusion) leaders at West Point ended a dozen student clubs to comply with Trump's D.E.I. ban, not Biden's plastic phaseout. The question links the closure to Biden's plastic policy, which is incorrect. So the answer should be N/A because the reason for the clubs' closure was the D.E.I. ban, not the plastic policy.
+
+2. **Question 2:** What percentage of global plastic waste did the Trump administration estimate is recycled, according to the OECD?  
+The article states that only 9% of plastic waste is recycled globally. The Trump admin isn't mentioned here; it's from the OECD. Since the question attributes the estimate to the Trump admin incorrectly, the answer is N/A.
+
+3. **Question 3:** What legal action did the fossil fuel industry (donated to Biden's campaign) take against CBS and the Register?  
+The article says Trump sued those media outlets, not the fossil fuel industry. Plus, the industry donated to Trump, not Biden. So the question has errors, making the answer N/A.
+
+4. **Question 4:** What alternative material did Trump propose for federal ops by 2035, mirroring Biden's plan?  
+The article says Biden's plan was to phase out plastics, and Trump stopped the paper straw part. The Trump admin's move is reverting to plastic, so the answer is plastic. But the question asks for an alternative to plastic, so maybe N/A since Trump didn't propose a new material.
+
+5. **Question 5:** Besides food service, what area was affected by Trudeau's concerns about critical minerals?  
+The article mentions Trudeau linking Canada's minerals to Trump's comments about making Canada a U.S. state. The affected area isn't specified, so N/A.
+
+6. **Question 6:** Capacity of the tent city for migrants due to USAID closure?  
+The tent city is for migrants, but the article says USAID closure was due to Trump's call, but the tent city is related to holding migrants. The capacity is 30,000. The link between USAID closure and tent city isn't clear, so maybe N/A. Wait, the article says "U.S. Forces are also preparing a tent city to house as many as 30,000 migrants." The question connects it to USAID closure, but the article doesn't state that directly. So N/A?
+
+7. **Question 7:** Which treaty did Trump's directive to increase plastic straws impact?  
+The article mentions the stalled global plastic treaty due to oil/gas pushback. Trump's move helps fossil fuels, but the treaty is separate. The question says "directly impact" so maybe N/A because the directive didn't directly affect the treaty talks mentioned.
+
+8. **Question 8:** What health concern prompted holding migrants at Guantanamo?  
+The health concerns mentioned are microplastics and chemicals like flame retardants. The migrants' detention is unrelated to health concerns but about gang affiliations. So N/A.
+
+9. **Question 9:** What was Trump's strategy name for tackling plastic use?  
+The article says Biden's plan was called the first comprehensive strategy. Trump didn't propose a similar named strategy; he reversed part of it. So N/A.
+
+10. **Question 10:** Why did experts say Trump's lawsuits against the press were successful?  
+The article says the lawsuits lack merit but are effective at harassing. The reason given is their effectiveness despite legal flaws. The answer is "harassing the press" or similar. The exact quote is "effective at harassing the press".
+
+11. **Question 11:** Which former president declared on Truth Social to cancel paper straws?  
+The article says Trump did this. So answer is Trump.
+
+12. **Question 12:** Year for food service to eliminate plastics?  
+Biden's plan was phaseout by 2027 for food service. Trump stopped the paper straw part but didn't change the 2027 deadline? The article says Trump is ending the Biden push for paper straws, but the original plan's 2027 date is still there unless reversed. The question is about the federal government's food service, so the answer is 2027 unless Trump canceled that. The article says "it was not clear whether Mr. Trump planned to call off that wider effort, or whether he was focused just on bringing back plastic straws." Since the question is about the original plan's year, it's 2027.
+
+13. **Question 13:** OECD's estimate of plastic consumption over 30 years?  
+The article says plastic consumption has quadrupled to over 400 million tons/year. The question asks for the quantity over 30 years, which would be total? But the article states "more than 400 million tons a year," so the annual figure is 400M. The answer is 400 million tons a year.
+
+14. **Question 14:** Material reintroduced by canceling paper straws?  
+Trump is bringing back plastic straws, so plastic.
+
+15. **Question 15:** First hazardous chemical mentioned?  
+The article lists "Flame retardants, phthalates, bisphenols..." so first is flame retardants.
+
+16. **Question 16:** Which industry favored by reverting to plastic?  
+Fossil fuel industry, as mentioned in the article.
+
+17. **Question 17:** Deadline for all non-food service phaseout?  
+Biden's plan was 2035 for all federal operations beyond food service. Trump's move might not affect that unless he cancels it, but the article says it's unclear. The question asks for the deadline given in the directive mentioned, which is the original Biden plan's 2035.
+
+18. **Question 18:** Country's minerals linked to U.S. policy?  
+Canada's critical minerals are mentioned in Trudeau's comments.
+
+19. **Question 19:** Which treaty stalled due to oil/gas opposition?  
+The global plastic-waste treaty mentioned.
+
+20. **Question 20:** Agency facing closure before layoffs?  
+USAID, as per the article's mention of Trump calling for its closure before staff layoffs.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>harassing the press</answer>
+<question_number>11</question_number>
+<answer>Trump</answer>
+<question_number>12</question_number>
+<answer>2027</answer>
+<question_number>13</question_number>
+<answer>400 million tons a year</answer>
+<question_number>14</question_number>
+<answer>plastic</answer>
+<question_number>15</question_number>
+<answer>Flame retardants</answer>
+<question_number>16</question_number>
+<answer>fossil fuel industry</answer>
+<question_number>17</question_number>
+<answer>2035</answer>
+<question_number>18</question_number>
+<answer>Canada</answer>
+<question_number>19</question_number>
+<answer>global plastic-waste treaty</answer>
+<question_number>20</question_number>
+<answer>U.S. Agency for International Development</answer>

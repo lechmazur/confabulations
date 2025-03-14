@@ -1,0 +1,53 @@
+merged_h1b-visa-immigration.txt
+Okay, let's tackle these questions one by one based on the provided article. I need to be careful to only use the information given and not infer anything beyond that.
+
+1. **Question 1:** The question asks what percentage of H-1B workers at Amazon and Google were laid-off Disney workers. The article mentions the Disney incident but doesn't link it to the percentage of workers at those companies. So the answer is N/A.
+
+2. **Question 2:** The question is about another former Republican presidential candidate besides Vivek Ramaswamy involved in Trump's cost-cutting initiative. The text says Vivek Ramaswamy quit Trump's initiative. The only other name mentioned in that context is Elon Musk, but he's not a former presidential candidate. Wait, the article mentions Stephen K. Bannon as on the opposing side, but he's not a presidential candidate. Wait, the question says "mentioned in the context of Mr. Trump's cost-cutting initiative." The article states Vivek Ramaswamy "recently quit a government cost-cutting initiative that Mr. Trump had asked him to lead alongside Mr. Musk." Musk isn't a presidential candidate. The only other possible name is not there. Wait, the question says besides Vivek, which other former presidential candidate? The text doesn't mention another one, so maybe N/A. Wait, maybe I missed it. The article mentions Laura Loomer and Bannon, but they aren't candidates. So answer N/A.
+
+Wait, the question is "besides Vivek Ramaswamy, which other former Republican presidential candidate..." The article doesn't mention another one in that context. So N/A.
+
+3. **Question 3:** After the judge rejected the rules, what did Elon Musk do with Tesla's 724 visas? The article says Musk used 724 visas this year but doesn't mention his actions post-judgment. So N/A.
+
+4. **Question 4:** The Disney incident's year? The Disney incident was in 2015. The question asks when that influenced Bannon's stance. The article says Bannon hosted a podcast in December where they critiqued H-1B, but it doesn't link the Disney incident directly to his stance's timing. The Disney event was in 2015, but the article's context is around December (presumably 2020 or 2024?), but it's unclear. The text says "in 2015, about 250..." and then later mentions Bannon's podcast in December (without a year). So the influence's year isn't specified, so N/A.
+
+5. **Question 5:** H-2B visa duration. The article states "those visas allow a worker to remain in the country for 10 months." So the answer is 10.
+
+6. **Question 6:** Primary reason the judge struck down the 2020 executive order. The article says the judge's reason isn't specified, only that the order was "struck down" and then rules were tightened. The reason isn't given, so N/A.
+
+7. **Question 7:** The government cost-cutting initiative's name. The article says Trump asked Vivek Ramaswamy to lead alongside Musk a "government cost-cutting initiative". The exact name isn't provided, so N/A.
+
+8. **Question 8:** Percentage of H-1B jobs paid below median wage in 2019. The article says "about 60 percent of the positions paid 'well below' the local median wage", so the percentage paid at or above would be 40%? Wait the question asks for the percentage that were paid at the median, contradicting the requirement. The program requires at least the median, but the EPI says 60% were below. So the answer is 40%? Wait the question is about the percentage that were paid at the local median, which would be the remainder. But the question states "directly contradicting the program's requirement"—so the requirement is to pay at least the median. The 60% are below, so 40% are at or above. But the question asks for the percentage that were paid at the median, but the article says 60% were below. The exact answer would be 40%? But the question is phrased as "what percentage... were paid at the local median wage, directly contradicting the program's requirement?" Wait no, the program's requirement is that they must pay at least the median. The EPI says 60% were below, meaning that contradicts the requirement. So the answer is 40%? Wait, no—the question is asking for the percentage that were paid at the median, which would be part of the 40% (since 60% were below, the rest were at or above). But the question is worded as "paid at the local median wage, directly contradicting the program's requirement?" That doesn't make sense because paying at the median would satisfy the requirement. The contradiction comes from the 60% being below. The question might have a mistake, but according to the text, the answer is 40% (since 60% were below, so 40% were at or above). Wait, the question says "paid at the local median wage, directly contradicting the program's requirement?" No, that's not right. The requirement is to pay at least the median. So the ones below are the problem. The question might be a trick, but the exact answer is 60% were below, so the percentage that were at or above is 40%, but the question is phrased as "paid at the median wage, contradicting the requirement?" which is incorrect. Wait the question is phrased as: "what percentage... were paid at the local median wage, directly contradicting the program's requirement?" That wording is confusing. The requirement is to pay at least the median, so paying at the median is okay. The contradiction would be if they paid below. Therefore, the answer might be N/A because the question is phrased incorrectly. Alternatively, maybe the question meant "paid below," but as per the text, it says "well below" so 60% were below, so the answer would be 40%? Wait the question asks for the percentage that were paid at the median wage, which would be part of the 40% (since 60% were below, the rest are at or above). But the question says "directly contradicting the program's requirement"—since the requirement is met if they're at or above, then the 40% are compliant. The contradiction is in the 60%. Therefore, perhaps the answer is N/A because the question is worded incorrectly. Alternatively, maybe the question meant "paid below," but the user must follow the text. The article states "about 60 percent of the positions paid 'well below' the local median wage for the occupation in 2019, according to the Economic Policy Institute..." So the answer to the question (as phrased) is "N/A" because the question asks for the percentage paid at the median, which isn't provided. The 40% would be those not below, but the question is about those paid at the median, which isn't specified. So N/A.
+
+Wait, the question says "paid at the local median wage, directly contradicting the program's requirement?" The requirement is that they must pay at least the median. So paying exactly at the median would comply. The contradiction comes from paying below. Therefore, the question is incorrectly phrased, so the answer is N/A.
+
+9. **Question 9:** Total visas for master's holders. The article says "Congress makes 65,000... and 20,000 more for those with a master's." So the total for master's is 20,000.
+
+10. **Question 10:** How many laid-off Disney workers had to train H-1B workers from other companies besides the Indian firm. The article says they trained their replacements who were from the Indian firm. The question asks if they trained others from other companies. The text doesn't mention other companies, so N/A.
+
+11. **Question 11:** Which state's reps proposed legislation in 2023 to eliminate H-1B citing Disney layoffs. The article doesn't mention any state's 2023 legislation, so N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Question 2: The article mentions Vivek Ramaswamy and Elon Musk in the cost-cutting context, but Musk isn't a presidential candidate. No other candidates are named.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>10</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>20,000</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>N/A</answer>

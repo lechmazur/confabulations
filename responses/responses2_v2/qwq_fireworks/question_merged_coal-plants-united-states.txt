@@ -1,0 +1,111 @@
+merged_coal-plants-united-states.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article. Let me go through each question carefully.
+
+1. The first question asks which European country's coal usage dropped below wind and solar in 2024 according to Ember. The article mentions that in Europe, fossil fuels hit a historic low, and specifically says "wind overtook both coal and gas" in a report by Ember. The EU is mentioned, but the question specifies a country. Wait, the article says "the European Union" as a whole, not a specific country. So maybe the answer is N/A since it's the EU, not a single country. Hmm.
+
+2. The second question is about Wyoming's planned retirement capacity. The article lists states with planned retirements or reductions. Looking at the map data, Wyoming (Wyo.) is listed under "Coal Power Plants With planned retirements or reductions". But the capacity given is 3,660 MW, but that's probably the total, not per state. The article doesn't specify individual state capacities. So N/A.
+
+3. Third question: What percentage increase in electricity demand was directly attributed to AI data centers by EIA? The article says utilities predict a 20% increase by 2035, but the cause isn't specified as AI. The president mentioned AI in his speech, but the EIA's data isn't linked to that. So N/A.
+
+4. Fourth question: Which state had the highest number of plants scheduled for decommissioning. The article says 51 plants are retiring by 2040, but doesn't mention which state has the most. The map shows many states, but no numbers per state. So N/A.
+
+5. Fifth question: Total capacity retired during Trump's first term. The article says "the pace of those retirements slowed last year" but doesn't give numbers for Trump's term. So N/A.
+
+6. Sixth: Proportion of 20% demand increase from manufacturing. The RMI data mentions the 20% increase but not the breakdown by sector. N/A.
+
+7. Seventh: PA plants operating below 50%. The article doesn't mention capacity utilization of specific states. N/A.
+
+8. Eighth: Percentage of US coal exports to China. The article doesn't discuss export destinations. N/A.
+
+9. Ninth: MW committed to replace with renewables by 2030. The article doesn't specify numbers for replacements. N/A.
+
+10. Tenth: Average cost difference between coal and renewables in 2023. The study says 99% of coal plants are more expensive than renewables, but no exact percentage difference. N/A.
+
+11. Eleventh: The resource at 16% with 25% retirements. The first paragraph says coal provides 16%, and almost a quarter (25%) of current coal generation is slated for retirement by 2040. So coal.
+
+12. Twelfth: The fuel endorsed politically but economically challenged. The president talks about coal as backup, but experts say it's uneconomic. So coal.
+
+13. Thirteenth: Resource in decline despite reserves. The article states the US has the most reserves but coal is fourth in production and costly. So coal.
+
+14. Fourteenth: Fallback fuel despite being uneconomic. The article mentions coal as backup if pipelines are blown up, but it's called uneconomic. So coal.
+
+15. Fifteenth: Central to debate despite decline. Coal is the focus with retirement plans, cost issues, and political push. So coal.
+
+16. Sixteenth: 16% power but outcompeted. The article states coal is 16% and losing to gas, wind, solar. So coal.
+
+17. Seventeenth: Under discussion despite costs. The article discusses coal's planned retirements and high costs but political support. So coal.
+
+18. Eighteenth: Resource least favorable. The article calls coal uneconomic and high emissions. So coal.
+
+19. Nineteenth: Highlighted despite emissions. The president's remarks on coal as backup, but it's a major emitter. So coal.
+
+20. Twentieth: Implicated as uneconomic. The 2023 study says coal is more expensive, so it's coal.
+
+Wait, let me check each again to ensure accuracy. For question 1, the article says "in the European Union, fossil fuel generation has reached a historic low... wind overtook both coal and gas" according to Ember. Since it's the EU as a region, not a specific country, the answer is N/A. The question asks for a European country, so no. 
+
+The rest seem to point to coal as the answer. Let me confirm each question again quickly:
+
+1. N/A (EU, not country)
+2. N/A (no state-specific capacity)
+3. N/A (no direct link)
+4. N/A (no state data)
+5. N/A (no Trump term data)
+6. N/A (no sector breakdown)
+7. N/A (no PA data)
+8. N/A (no export data)
+9. N/A (no replacement numbers)
+10. N/A (no % difference)
+11. Coal (16% and 25% retirements)
+12. Coal (backup but uneconomic)
+13. Coal (abundant reserves but declining)
+14. Coal (fallback despite costs)
+15. Coal (central despite decline)
+16. Coal (16% and outcompeted)
+17. Coal (discussed despite costs)
+18. Coal (least favorable)
+19. Coal (emissions but promoted)
+20. Coal (uneconomic)
+
+Yes, that seems correct. All other answers are N/A except the last 6 questions, which are all coal.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>coal</answer>
+<question_number>12</question_number>
+<answer>coal</answer>
+<question_number>13</question_number>
+<answer>coal</answer>
+<question_number>14</question_number>
+<answer>coal</answer>
+<question_number>15</question_number>
+<answer>coal</answer>
+<question_number>16</question_number>
+<answer>coal</answer>
+<question_number>17</question_number>
+<answer>coal</answer>
+<question_number>18</question_number>
+<answer>coal</answer>
+<question_number>19</question_number>
+<answer>coal</answer>
+<question_number>20</question_number>
+<answer>coal</answer>

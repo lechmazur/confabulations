@@ -1,0 +1,71 @@
+merged_401k-mistakes-retirement-savings.txt
+Okay, let me tackle these questions one by one using the article provided.
+
+1. The first question asks about the account balance at 65 for a 30-year-old earning $75k contributing 3% with a standard match. The article mentions an example where contributing 3% gives $815,000, and 6% doubles it. So the answer should be $815,000.
+
+2. The second question is about how average job tenure affects automatic increases. The article says that since average tenure is 4.1 years, people often start over at new jobs, so the automatic increases (which take time) aren't effective. So the impact is that shorter tenure reduces effectiveness because people leave before benefits kick in.
+
+3. Not getting the full match is a mistake. The article states it's especially bad for younger savers due to compounding. The example shows doubling the contribution leads to double the balance, so missing the match costs them potential growth.
+
+4. Engaging with financial wellness tools and retirement readiness. The article says those who use the tools are more likely to increase contributions and take positive steps. So the correlation is positive.
+
+5. The $5k left for 40 years at 8%: the article says it becomes $108,600. That's directly stated.
+
+6. Question 6 is similar to question 10 but phrased differently. The article mentions that the initial default rates (like below 6%) are too low, and since people switch jobs often (average 4.1 years), they don't build up. So the average job tenure affects the default rate's effectiveness because people don't stay long enough to benefit from low initial rates that might increase over time. Maybe the answer is that shorter tenure makes the default rates less effective since they start over each job.
+
+7. Early withdrawals impact long-term savings. The article says taking out money undermines savings, and the example shows the lost growth. The answer is that it reduces the account's potential due to lost compounding.
+
+8. The correlation between using tools and increasing contributions. The article says participants who use tools are more likely to increase contributions. So the answer is positive correlation.
+
+9. The 30-year $5k value is $50,300 as per the article.
+
+10. This is the same as question 6 and 2. The average job tenure (4.1 years) means people don't stay long enough to benefit from the automatic annual increases. So the answer is that shorter tenure reduces effectiveness because employees leave before the increases accumulate sufficiently.
+
+Now, check each question again for exact phrasing and ensure answers are directly from the text. For example, question 6 is about the initial default rate's effectiveness. The article says people start over, so the default rate's initial low setting isn't enough if they leave quickly. The answer would be that average job tenure impacts effectiveness because employees may leave before contribution rates increase enough. The article states that automatic increases only help if you stay long enough. Since average tenure is 4.1 years, which is less than needed to reach higher rates, the answer is that shorter tenure reduces effectiveness.
+
+All answers must be in the article. Let me confirm each:
+
+1. $815,000 – yes, article states that.
+
+2. The average job tenure (4.1 years) means people don't stay long enough to benefit from the automatic increases, so effectiveness is reduced. Answer: "many start from scratch... benefits only if stay long enough" → "reduces effectiveness because employees leave before reaping benefits".
+
+3. "especially costly for younger... because of compounding" → "costly due to lost compounding growth".
+
+4. "participants who engage... more likely to increase contributions and take other positive steps" → "positively correlated".
+
+5. $108,600 – yes.
+
+6. The initial default rate's effectiveness is impacted because employees may leave before contribution rates increase to higher levels. Answer: "reduces effectiveness as employees often leave before contribution rates increase sufficiently".
+
+7. "undermine savings efforts" and "lost growth" → "reduces long-term savings due to lost compounding".
+
+8. "more likely to increase contributions" → "positively correlated".
+
+9. $50,300 – correct.
+
+10. Same as question 2 and 6. Answer: "reduces effectiveness because employees leave before benefiting from annual increases".
+
+Make sure all answers are concise, using exact terms from the article where possible. If exact numbers are there, use them. If not, use the article's exact phrases.
+</think>
+
+<question_number>1</question_number>
+<answer>$815,000</answer>
+<question_number>2</question_number>
+<answer>Reduces effectiveness because employees leave before reaping benefits</answer>
+<question_number>3</answer>
+<question_number>3</question_number>
+<answer>Costly due to lost compounding growth</answer>
+<question_number>4</question_number>
+<answer>Positively correlated</answer>
+<question_number>5</question_number>
+<answer>$108,600</answer>
+<question_number>6</question_number>
+<answer>Reduces effectiveness as employees often leave before contribution rates increase sufficiently</answer>
+<question_number>7</question_number>
+<answer>Reduces long-term savings due to lost compounding</answer>
+<question_number>8</question_number>
+<answer>Positively correlated</answer>
+<question_number>9</question_number>
+<answer>$50,300</answer>
+<question_number>10</question_number>
+<answer>Reduces effectiveness because employees leave before benefiting from annual increases</answer>

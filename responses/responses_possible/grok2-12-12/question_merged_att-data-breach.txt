@@ -1,0 +1,30 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>Through data broker records, phone numbers can be traced back to individuals, potentially exposing communication networks for people in national security roles.</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>The exposed phone records identify the telephone numbers an AT&T cellular number interacted with, which, through data broker records, can be traced back to individuals, potentially exposing communication networks of individuals in sensitive positions.</answer>
+
+<question_number>7</question_number>
+<answer>The compromised data, which includes phone records but not the content of calls or texts, could be beneficial to foreign nation states or foreign actors as it can help trace communication networks of individuals, particularly those in national security roles.</answer>
+
+<question_number>8</question_number>
+<answer>The compromised data includes phone records that identify the telephone numbers an AT&T cellular number interacted with, which, through data broker records, can be traced back to individuals, potentially exposing sensitive communication networks of government officials.</answer>
+
+<question_number>9</question_number>
+<answer>Outsourcing data to cloud networks increases customers' exposure to data breaches because it moves IT infrastructure to a shared environment, making it trickier and providing more ways for potential attacks to be executed.</answer>
+
+<question_number>10</question_number>
+<answer>The professor's explanation of cloud infrastructure relates to the specific platform involved in the AT&T data breach as it highlights the increased risk of breaches when data is moved to a shared environment like the third-party cloud platform Snowflake.</answer>

@@ -1,0 +1,23 @@
+merged_waffle-house-egg-surcharge.txt
+<question_number>1</question_number>
+<answer>$1.15</answer>
+<other>The article states that the cost of a dozen Midwest large eggs is $7.79, which means each egg costs approximately $0.65 ($7.79 / 12 = $0.649). With the $0.50 surcharge, the cost of a single egg at Waffle House is approximately $1.15.</other>
+<question_number>2</question_number>
+<answer>Grade-A large</answer>
+<question_number>3</question_number>
+<answer>Monday</answer>
+<question_number>4</question_number>
+<answer>Bird flu</answer>
+<question_number>5</question_number>
+<answer>134%</answer>
+<other>($7.79 - $3.33) / $3.33 * 100% = 133.93% which is approximately 134%</other>
+<question_number>6</question_number>
+<answer>272 million</answer>
+<question_number>7</question_number>
+<answer>Egg shortage</answer>
+<question_number>8</question_number>
+<answer>Brooke Rollins</answer>
+<question_number>9</question_number>
+<answer>30 million</answer>
+<question_number>10</question_number>
+<answer>Price of eggs</answer>

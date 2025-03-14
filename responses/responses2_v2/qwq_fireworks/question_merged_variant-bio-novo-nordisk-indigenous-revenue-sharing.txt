@@ -1,0 +1,86 @@
+merged_variant-bio-novo-nordisk-indigenous-revenue-sharing.txt
+Okay, let me tackle these questions one by one using the article provided. I need to make sure I only use the information from the text and follow the instructions strictly. Let me start with the first question.
+
+1. **Question 1**: The first question asks for the percentage of Variant Bio's project budget allocated to scholarships and conferences, similar to university patents, as seen in French Polynesia. The article mentions that up to 10% of a project's budget goes to community programs, which includes scholarships and conferences. So the answer should be 10%.
+
+2. **Question 2**: This asks for a specific dollar amount invested in New Zealand health organizations due to findings on a fatal drug reaction in Asian populations. The article states that in New Zealand, they spent $100,000 on local health organizations. The drug reaction in French Polynesia led to medication access changes, but the $100k is the amount mentioned there. So that's the answer.
+
+3. **Question 3**: The question is about how many countries Dr. Wasik visited during the seed funding phase. The text says she hopped across eight countries. So 8.
+
+4. **Question 4**: The month and year they secured $50M funding. The article mentions the $50M collaboration with Novo Nordisk was announced on Tuesday, but the initial funding from Lux Capital was in 2018. Wait, the question says "initial $50 million" but the $50M is the Novo deal, which happened five years after 2019, so maybe 2024? But the question is confusing. Wait, the $50M is the deal with Novo, but the seed funding was $16M. The question might be mixing up. Wait the question says "initial $50 million in funding"—but the seed was $16M from Lux. The Novo deal is a later collaboration. The question might be wrong. Since the article says "five years after that first conversation during an Indigenous health research conference in March 2019"—so the initial funding was in 2018. The $50M with Novo is recent. The question might be asking about the seed funding's date. The article says they secured $16M seed in 2018. But the question mentions $50M. Since the article doesn't mention when they got the $50M, except that the deal was announced on Tuesday (but we don't know the date). Since the question is about securing the $50M, maybe it's not in the text. So answer N/A?
+
+Wait the article says "On Tuesday, his company, Variant Bio, based in Seattle, announced a $50 million collaboration with the drugmaker Novo Nordisk". The article doesn't give the month and year of that announcement. So the answer is N/A.
+
+5. **Question 5**: The venture capital firm that funded them, mentioned in the context of the Karitiana tribe incident. The article mentions Lux Capital provided $16M seed. The Karitiana incident is mentioned earlier, but the firm's name is Lux Capital. So Lux Capital.
+
+6. **Question 6**: The international agreement related to the Samoan patent, guiding Variant Bio's equity sharing. The article mentions the Nagoya Protocol, which requires benefit-sharing but excludes human genomic info. Since the Samoan case involved patent issues without benefit-sharing, Variant Bio's approach aligns with Nagoya's principles. The question asks for the agreement's name, which is the Nagoya Protocol.
+
+7. **Question 7**: The disease addressed in French Polynesia similar to metabolic disorders. The article says in French Polynesia, they looked at gout medication access because the population didn't have a fatal drug reaction risk. So the disease is gout.
+
+8. **Question 8**: The Arizona State geneticist who criticized Samoan research and whose nonprofit was funded by Variant. The text mentions Krystal Tsosie as the geneticist and bioethicist at ASU with a nonprofit. But the article says Variant is the only company to talk about benefit-sharing, and Tsosie's comment is part of that. The question says "directly funded by Variant Bio as part of their commitment"—the article doesn't say Variant funded her nonprofit, just that she's an expert. So maybe N/A? Wait, the question says "directly funded by Variant Bio as part of their commitment to ethical research practices"—the article doesn't mention that. So answer N/A. Wait, the question says "who, like Keolu Fox, criticized the Samoan research and whose nonprofit... was directly funded"—the article mentions that Keolu Fox criticized the Samoan research, but Krystal Tsosie is another expert. The nonprofit is hers, but the article doesn't say Variant funded it. So answer N/A.
+
+9. **Question 9**: Original profession of the founders before Lux funding. The article says they were in graduate studies in genetics, so their original profession was geneticists or researchers. The exact terms: "Dr. Castel and Kaja Wasik, who had become friends during their graduate studies in genetics at Cold Spring Harbor Laboratory". So their original profession was graduate students in genetics.
+
+10. **Question 10**: The drug name developed by Novo Nordisk targeting Maori variants. The article doesn't mention a specific drug name. They are collaborating on metabolic disorders like diabetes and obesity, but no specific drug name is given. So N/A.
+
+11. **Question 11**: The percentage of revenue for communities in the Novo deal. The article says "4 percent of Variant's revenue and... 4 percent of its equity". So 4%.
+
+12. **Question 12**: The indigenous community exploited via DNA samples. The Karitiana tribe in Brazil, as mentioned in the article. They were "duped... blood and DNA sold".
+
+13. **Question 13**: Who led discussions with Maori communities in 2019? The text mentions Dr. Castel first met with them, and Dr. Fox joined the trip. The main leader was Dr. Castel.
+
+14. **Question 14**: Fraction of budget for community programs. The article states up to 10% of a project's budget. So 10%.
+
+15. **Question 15**: Venture capital firm for $16M seed. Lux Capital.
+
+16. **Question 16**: The UC San Diego geneticist who criticized earlier methods. That's Keolu Fox.
+
+17. **Question 17**: Misuse of genetic material by an Amazonian tribe. The Karitiana member said their DNA was sold for $85 per sample.
+
+18. **Question 18**: Arctic indigenous group with metabolism variants. Inuit in Greenland.
+
+19. **Question 19**: International agreement excluding human genomic info. Nagoya Protocol.
+
+20. **Question 20**: What did Variant protect instead of genes? The drugs, not the genes. So "drugs developed from the partnership".
+</think>
+
+<question_number>1</question_number>
+<answer>10%</answer>
+<question_number>2</question_number>
+<answer>100,000</answer>
+<question_number>3</question_number>
+<answer>8</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>Lux Capital</answer>
+<question_number>6</question_number>
+<answer>Nagoya Protocol</answer>
+<question_number>7</question_number>
+<answer>gout</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>graduate students in genetics</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>4%</answer>
+<question_number>12</question_number>
+<answer>Karitiana</answer>
+<question_number>13</question_number>
+<answer>Stephane Castel</answer>
+<question_number>14</question_number>
+<answer>10%</answer>
+<question_number>15</question_number>
+<answer>Lux Capital</answer>
+<question_number>16</question_number>
+<answer>Keolu Fox</answer>
+<question_number>17</question_number>
+<answer>blood and DNA samples were sold</answer>
+<question_number>18</question_number>
+<answer>Inuit</answer>
+<question_number>19</question_number>
+<answer>Nagoya Protocol</answer>
+<question_number>20</question_number>
+<answer>drugs</answer>

@@ -1,0 +1,30 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>Data was downloaded from a third-party cloud platform, potentially complicating AT&T's security measures</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>Phone numbers can be traced back to individuals, potentially exposing communication networks for people in national security roles</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>Exposed phone records could be linked to individuals, potentially revealing communication networks of people in sensitive positions</answer>
+
+<question_number>7</question_number>
+<answer>Exposed phone records could benefit foreign nation states or foreign actors by revealing communication networks</answer>
+
+<question_number>8</question_number>
+<answer>Compromised phone records could potentially expose communication networks of government officials</answer>
+
+<question_number>9</question_number>
+<answer>Outsourcing to cloud networks creates shared spaces with more potential attack vectors</answer>
+
+<question_number>10</question_number>
+<answer>The professor's explanation of shared cloud infrastructure relates to AT&T's use of Snowflake, a third-party cloud platform</answer>

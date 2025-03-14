@@ -1,0 +1,103 @@
+merged_eureka-day-broadway-vaccines.txt
+Okay, let's tackle these questions one by one using only the provided article. I need to be careful to answer each exactly based on the text, without any external knowledge.
+
+1. **Question 1**: The first commissioning theater company related to measles outbreaks. The article says "Eureka Day debuted in 2018 in Berkeley, Calif., as an Aurora Theater Company commission." Also, Josh Costello from Aurora mentions measles outbreaks. So Aurora Theater Company is the answer.
+
+2. **Question 2**: Total parent avatars in Scene 3's chat. The text states "Each comment is assigned to one of dozens of parents -- each with their own names and avatars." "Dozens" is vague, but the article mentions "144 of them" referring to the comments. Wait, the comments are 144, but the avatars are "dozens". Since the question is about avatars, not comments, the exact number isn't given. So N/A.
+
+3. **Question 3**: Sound modifications to acoustics. Nicki Hunter says, "we had to make sure we were amplifying Bill Irwin's voice appropriately." So amplifying his voice is the modification. The answer is amplifying his voice.
+
+4. **Question 4**: Who suggested moving Scene 3 earlier? The article doesn't mention anyone suggesting moving the scene's order. The only mention is about rewriting timing. So N/A.
+
+5. **Question 5**: Percentage of students affected. The principal says "transcript We're definitely going to have to postpone the seventh grade a cappella concert this year, because with maybe a hundred of our students impacted by the quarantine..." The article doesn't state a percentage, so N/A.
+
+6. **Question 6**: Technical consultant for the chat system. The article doesn't name a consultant. It mentions the stage manager handling cues, but no consultant's name. N/A.
+
+7. **Question 7**: Average duration before reducing messages. The text says Spector had to reduce messages because initial version was too funny. But no duration is given. N/A.
+
+8. **Question 8**: Timing coordinator during previews. Charles M. Turner III is the production stage manager who calls the show and syncs messages. He's the one coordinating timing. So Turner.
+
+9. **Question 9**: Medical credentials for exemptions. The article mentions "vaccine skepticism was not uncommon in this milieu, particularly pre-pandemic." But doesn't specify required credentials. The chat has a message "Sorry, chiropractors are not doctors." So maybe they didn't require valid ones? But the question is about what the school required. Since it's not stated, N/A.
+
+10. **Question 10**: Number of versions before 144 messages. The article says Spector had to rewrite timing, but not how many versions. N/A.
+
+11. **Question 11**: Bill Irwin's favorite part of Scene 2. The article says Irwin mentions "anticipating, in Scene 2, the excitement about how great Scene 3 is going to be." So the aspect is the characters' anticipation of Scene 3. The answer is the characters' anticipation of Scene 3's greatness.
+
+12. **Question 12**: Number of chat messages in final vs. initial. Initially, Spector had "comments basically running constantly through the scene with no breaks" but then reduced to 144. The final has 144, but the question asks how many were initially planned. The article says "144 of them" are in the final, but initial had more? The article doesn't say the exact number before reduction. So N/A.
+
+13. **Question 13**: Theatrical device similar to Chekhov. Irwin calls Spector "Berkeley Chekhov," and the article mentions the play's look at illusions about importance. Chekhov uses character dynamics and subtext. The device here is the chat messages highlighting self-importance. Maybe the projection of comments as the "exposed id"? The article says "the scroll of their projected comments [...] is the exposed id". So the device is projecting the comments above, mirroring Chekhov's themes. The answer is the projection of the chat messages.
+
+14. **Question 14**: Visual cue other than verbal/gesture. Turner says he uses the script or a gesture from Irwin. Wait, the article says Turner sometimes follows the script if he can't hear, or waits for a gesture. The question asks for another cue besides verbal or gesture. Maybe the script itself? Or the actor's gestures. Wait, the question specifies "other than a verbal confirmation or a gesture from Bill Irwin." So maybe the visual cue is the script. But the article says "waiting for a gesture from him" so the other is the script. The answer is the script.
+
+15. **Question 15**: Venue related to Bill Irwin's past. Irwin mentions "I used to do mime on Sproul Plaza." So Sproul Plaza is the venue. The answer is Sproul Plaza.
+
+16. **Question 16**: Prop visible only to Don. Don reads the comments on his laptop screen. The prop is the laptop screen. So the laptop screen.
+
+17. **Question 17**: Performing art Bill practiced in the setting. Irwin did mime on Sproul Plaza, which is Berkeley. The article says the actors' portrayal is "pantomimic." So mime.
+
+18. **Question 18**: Date cutoff for immunity. The principal says "prior to September 14 to be included in the category..." So September 14.
+
+19. **Question 19**: Profession in chat messages dismissing views. The chat has "Sorry, chiropractors are not doctors." So chiropractors.
+
+20. **Question 20**: Postponed musical performance. Transcript mentions "the seventh grade a cappella concert." So a cappella concert.
+</think>
+
+<question_number>1</question_number>
+<answer>Aurora Theater Company</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>amplifying Bill Irwin's voice</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>Charles M. Turner III</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>the characters' anticipation of Scene 3's greatness</answer>
+
+<question_number>12</question_number>
+<answer>N/A</answer>
+
+<question_number>13</question_number>
+<answer>projection of the chat messages</answer>
+
+<question_number>14</question_number>
+<answer>the script</answer>
+
+<question_number>15</question_number>
+<answer>Sproul Plaza</answer>
+
+<question_number>16</question_number>
+<answer>laptop screen</answer>
+
+<question_number>17</question_number>
+<answer>mime</answer>
+
+<question_number>18</question_number>
+<answer>September 14</answer>
+
+<question_number>19</question_number>
+<answer>chiropractors</answer>
+
+<question_number>20</question_number>
+<answer>seventh grade a cappella concert</answer>

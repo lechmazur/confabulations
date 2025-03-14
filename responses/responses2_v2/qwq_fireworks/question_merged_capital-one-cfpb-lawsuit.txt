@@ -1,0 +1,92 @@
+merged_capital-one-cfpb-lawsuit.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article. Let's go through each question carefully.
+
+1. **Question 1**: The article mentions a lawsuit about underpayment but doesn't state the settled rate. It says Capital One held rates low, like 0.30% in summer, but after the lawsuit, there's no mention of a settled rate. So, answer is N/A.
+
+2. **Question 2**: The CFPB's action against Discover isn't specified here. The article only says Capital One is trying to acquire Discover. The Zelle case is separate. No info on Discover's specific action, so N/A.
+
+3. **Question 3**: The article says Capital One didn't promote the higher-paying 360 Performance Savings to existing customers. The one they promoted would be the 360 Savings. So answer is 360 Savings.
+
+4. **Question 4**: The Zelle fraud was over $800 million. The article states this directly. Answer is $800 million.
+
+5. **Question 5**: The ad mentions "no minimum deposits". So the minimum deposit required is N/A since it was stated there was none.
+
+6. **Question 6**: The spokesperson Sie Soheili is identified as a Capital One spokesman. His title is "spokesman".
+
+7. **Question 7**: The primary reason for the lawsuit against Capital One before Zelle was their deceptive practices with the savings accounts. The article says the lawsuit was about underpayment and hiding the better account. The Zelle case is separate, so the main reason is the savings account deception.
+
+8. **Question 8**: The article mentions rates like 0.30% when the Fed was above 5%. But the exact rate at Trump's inauguration isn't given. So N/A.
+
+9. **Question 9**: The article doesn't mention any agency before the CFPB. It just says CFPB was founded in 2011. So N/A.
+
+10. **Question 10**: The lawsuit's final ruling isn't mentioned. The article is about the filing, not the outcome. Answer N/A.
+
+11. **Question 11**: The article states employees couldn't promote 360 Performance Savings to existing customers. So that's the account withheld.
+
+12. **Question 12**: The depositors lost over $2 billion, as stated in the article. Answer $2 billion.
+
+13. **Question 13**: Capital One is acquiring Discover. The answer is Discover.
+
+14. **Question 14**: The CFPB filed the lawsuit. The answer is Consumer Financial Protection Bureau.
+
+15. **Question 15**: The lawsuit was filed before the presidential inauguration (Trump's). The timing is "last-minute admonishments before the inauguration". So it was filed before the transition.
+
+16. **Question 16**: The restriction was employees couldn't volunteer info or market the higher-yield account (360 Performance Savings).
+
+17. **Question 17**: The money-transfer service is Zelle, co-owned by Capital One.
+
+18. **Question 18**: The rate mentioned was 0.30% when the Fed was above 5%. So 0.30%.
+
+19. **Question 19**: The bank that said "there is none" (no catch) was Capital One.
+
+20. **Question 20**: The spokesperson commenting on the last-minute lawsuits was Sie Soheili.
+
+Wait, let me check each again to ensure accuracy.
+
+For question 2, the CFPB's action against Discover isn't mentioned beyond the acquisition. So N/A. Question 7: The primary reason for the lawsuit (Capital One's case) is their deceptive practices with the two accounts, not Zelle. The Zelle case is a separate accusation. So the answer would be the deceptive practices leading to the $2B loss. But the question asks for the primary reason cited by the bureau before Zelle. The article says the lawsuit was about the savings accounts, so that's the reason. 
+
+All others look good. Let me confirm numbers and names again. The 360 Performance Savings was the one not promoted. The answer for question 11 is that account. The minimum deposit for question 5 was "no minimum deposits" so the answer is N/A. 
+
+Okay, I think that's all covered. Now to format the answers properly with tags.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>360 Savings</answer>
+<question_number>4</question_number>
+<answer>$800 million</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>spokesman</answer>
+<question_number>7</question_number>
+<answer>deceptive and abusive practices in savings account interest rates</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>360 Performance Savings</answer>
+<question_number>12</question_number>
+<answer>over $2 billion</answer>
+<question_number>13</question_number>
+<answer>Discover</answer>
+<question_number>14</question_number>
+<answer>Consumer Financial Protection Bureau</answer>
+<question_number>15</question_number>
+<answer>before the inauguration</answer>
+<question_number>16</question_number>
+<answer>forbade employees to volunteer info or market it</answer>
+<question_number>17</question_number>
+<answer>Zelle</answer>
+<question_number>18</question_number>
+<answer>0.30%</answer>
+<question_number>19</question_number>
+<answer>Capital One</answer>
+<question_number>20</question_number>
+<answer>Sie Soheili</answer>

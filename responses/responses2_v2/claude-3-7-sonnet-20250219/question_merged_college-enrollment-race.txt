@@ -1,0 +1,80 @@
+merged_college-enrollment-race.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article mentions Bleemer's study found that after California banned affirmative action, more students left out their race, but doesn't provide specific percentage predictions that could be applied to Middlebury's 10 percentage point increase in white students.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions problems with the financial aid system but doesn't provide information about how it disproportionately affected specific racial groups or how many colleges would show different trends compared to Johns Hopkins.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article doesn't connect the murder rate trends with college enrollment demographics, nor does it explain the methodology of the dialect quiz mentioned at the end.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article doesn't provide predictions from Education Reform Now's director about future percentages of colleges showing increases in the "unknown race" category.</other>
+
+<question_number>5</question_number>
+<answer>-0.5 percentage points</answer>
+<other>The article states that multiracial students declined by about half a percentage point, and unknown race increased from about 2% to 4% (a 2 percentage point increase). The combined change would be +1.5 percentage points, but the question assumes the multiracial decline is solely due to fewer multiracial white students listing a second race, which would mean the net change in these two categories is -0.5 percentage points.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article doesn't provide specific enrollment figures for the United States Air Force Academy between 2023 and 2024, nor does it explain how Barron's selectivity index uses enrollment figures in its rankings.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article doesn't establish a relationship between airline flight time padding and murder rates, nor does it provide enough information to calculate what percentage of colleges using the Common Application format would show specific decreases in Hispanic enrollment.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>While the article mentions a dip in students not reporting race in 2014, it doesn't provide specific percentages that would allow calculation of what the "unknown race" category would be if 2024 mirrored the 2014 dip.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article states that Johns Hopkins had an 18 percentage point increase in Asian students, but doesn't provide information to calculate what the adjusted average would be if this was entirely due to students who previously didn't disclose their race.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article doesn't establish a correlation between murder rates and time spent at home, nor does it provide specific data about Brown University's white student enrollment that would allow prediction of 2025 figures.</other>
+
+<question_number>11</question_number>
+<answer>one percentage point</answer>
+<other>The article states: "the average share of incoming Black students at those colleges dropped by about one percentage point -- from about 7 percent to 6 percent."</other>
+
+<question_number>12</question_number>
+<answer>2 percentage points</answer>
+<other>The article states: "In 2024, the share of students at these 59 colleges who did not disclose their race or ethnicity increased from about 2 percent to 4 percent."</other>
+
+<question_number>13</question_number>
+<answer>essentially unchanged</answer>
+<other>The article states: "Across the 59 selective colleges we could compare with historical data, the average share of Asian students was essentially unchanged."</other>
+
+<question_number>14</question_number>
+<answer>under one percentage point</answer>
+<other>The article states: "And the average share of white students increased by under one percentage point."</other>
+
+<question_number>15</question_number>
+<answer>multiracial students</answer>
+<other>The article states: "The share of multiracial students at these colleges declined in 2024 by about half a percentage point. Previously, multiracial students made up an increasing share of college enrollment."</other>
+
+<question_number>16</question_number>
+<answer>59</answer>
+<other>The article states: "Of the 66 colleges for which we have data, 59 reported it in a standard format that let us make comparisons with past public records."</other>
+
+<question_number>17</question_number>
+<answer>17</answer>
+<other>The article states: "In 2024, 17 of these 59 colleges experienced their largest drops in Black enrollment in 14 years, while only three had their largest gains."</other>
+
+<question_number>18</question_number>
+<answer>increase in students not disclosing their race</answer>
+<other>The article discusses how the increase in students not disclosing their race makes it difficult to determine how much of the changes are due to genuine shifts in racial makeup versus non-reporting.</other>
+
+<question_number>19</question_number>
+<answer>91</answer>
+<other>The article states: "The Upshot asked for data from 91 selective colleges"</other>
+
+<question_number>20</question_number>
+<answer>Zachary Bleemer</answer>
+<other>The article states: "A 2020 study by the economist Zachary Bleemer found that after California banned affirmative action in public universities in 1998, more than twice as many applicants to the University of California system left out their race or ethnicity on their applications the following year."</other>

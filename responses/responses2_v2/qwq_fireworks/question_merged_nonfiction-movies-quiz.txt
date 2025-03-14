@@ -1,0 +1,84 @@
+merged_nonfiction-movies-quiz.txt
+Okay, let's tackle these questions one by one using only the information provided in the article. 
+
+1. **Question 1**: The article mentions that Jessica Bruder's book "Nomadland" was adapted into a film that won Academy Awards. It asks about a prestigious award Jessica Bruder received mirroring Chloe Zhao's achievement. The article doesn't mention any award for Bruder herself, only that the film and Zhao won. So the answer should be N/A.
+
+2. **Question 2**: Scott Turow is 75, and Rusty Sabich is 77. The question asks how many years older Rusty is than Turow's age when "Presumed Innocent" was published. The article doesn't state when the book was published, so we can't calculate the difference. N/A.
+
+3. **Question 3**: Alex Haley co-authored "The Autobiography of Malcolm X." The question is about his role in adapting Susan Orlean's "The Orchid Thief." The article says Charlie Kaufman tried to adapt "The Orchid Thief" in "Adaptation." Alex Haley isn't linked to that, so N/A.
+
+4. **Question 4**: Nnedi Okorafor's autobiographical novel's genre besides SF/fantasy. The article says she explores a traumatic event. The genre would be autobiographical, but the question asks for another genre. Since the article doesn't specify, N/A.
+
+5. **Question 5**: "We Do Not Part" deals with historical atrocities needing remembrance. "All the President's Men" is about Watergate. The scandal's historical event is Watergate. So the answer is Watergate.
+
+6. **Question 6**: Michael Herr co-wrote "Full Metal Jacket" based on Hasford's "The Short-Timers." The question is about the military rank of the character based on Hasford. The article doesn't mention ranks, so N/A.
+
+7. **Question 7**: The director to invite would be Chloe Zhao, since she won an Academy Award for adapting a nonfiction book. The article mentions her in the context of "Nomadland," so her name fits here.
+
+8. **Question 8**: The article mentions Han Kang is a Nobel laureate. The question asks for a prize similar to the Nobel for African writers. The article doesn't mention another prize, so N/A.
+
+9. **Question 9**: Carl Bernstein's position during the investigation. The article says they were reporters for The Washington Post, so their roles were journalists. The specific position might be "reporter," but the question asks for governmental position, which they didn't hold. N/A.
+
+10. **Question 10**: Gameplay mechanic for "Dispatches" as a video game. The article doesn't mention any, so N/A.
+
+11. **Question 11**: The article says Michael Herr co-wrote with Gustav Hasford and Kubrick. The question asks who collaborated. The answer is Michael Herr, but the question says "erroneously suggested," so maybe there's a mistake here. Wait, the article states that Herr co-wrote with Hasford and Kubrick. So the answer would be Michael Herr, but the question asks who collaborated, so the answer is Michael Herr. But the question says "collaborated with Michael Herr," so the other co-writer would be Hasford. Wait, the question says "specific Pulitzer Prize-winning author" — the article doesn't mention a Pulitzer winner here, so maybe N/A? Wait, Michael Herr might have won a Pulitzer? The article doesn't say, so N/A.
+
+12. **Question 12**: The article says "All the President's Men" is about Watergate. The question asks which scandal is incorrectly attributed. The answer would be Iran-Contra or Teapot Dome, but the article says the correct answer is Watergate, so the question is asking which is incorrectly linked. Wait, the question states that the article's summary of "All the President's Men" mistakenly attributes another scandal. The article correctly says Watergate, so the incorrect one would be, for example, Iran-Contra. But the article doesn't mention any other scandal being wrongly linked here. So N/A.
+
+13. **Question 13**: Han Kang's novel exploring AI ethics. The article mentions her latest is "We Do Not Part," which deals with historical trauma, not AI. So N/A.
+
+14. **Question 14**: Subtitle of Bruder's book. The article doesn't mention a subtitle, so N/A.
+
+15. **Question 15**: The article mentions a new ecosystem includes festivals, but doesn't name any. The question asks which festival is falsely cited. Since no name is given, N/A.
+
+16. **Question 16**: 1980s political controversy linked to Alex Haley's research. The article doesn't mention this, so N/A.
+
+17. **Question 17**: Rachel Carson's work linked to Kaufman's screenplay. The article says Kaufman tried to adapt "The Orchid Thief," not Carson's work. So the incorrect link would be "The Sea Around Us" being the book he tried to adapt, but the correct answer from the article is "The Orchid Thief." So the answer is "The Sea Around Us" since the article says he tried to adapt that, but the article states he was trying to adapt "The Orchid Thief." Wait, the article says: "Which real-life book was he trying to adapt? 'The Sea Around Us' ... The Orchid Thief'..." and the correct answer is "The Orchid Thief." So the article's description of Adaptation incorrectly links it to Rachel Carson's book. So the answer is "The Sea Around Us."
+
+18. **Question 18**: The article says "Presumed Guilty" revisits Rusty's new case. The question asks if the article incorrectly claims it's his first trial. Since the article says he's taking on a new case, the title would still be "Presumed Guilty," so maybe the answer is "Presumed Guilty," but the question says "incorrectly claims," so maybe another title. But the article doesn't mention another title, so N/A.
+
+19. **Question 19**: The article mentions "Minari" as one of the film options but doesn't say it won Best Picture at a festival. So N/A.
+
+20. **Question 20**: The article says "The Short-Timers" is about Vietnam. The question asks which 1990s conflict is wrongly linked. The answer would be, for example, Gulf War, but the article doesn't mention that. So N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>Watergate</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>Chloe Zhao</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<question_number>12</question_number>
+<answer>N/A</answer>
+<question_number>13</question_number>
+<answer>N/A</answer>
+<question_number>14</question_number>
+<answer>N/A</answer>
+<question_number>15</question_number>
+<answer>N/A</answer>
+<question_number>16</question_number>
+<answer>N/A</answer>
+<question_number>17</question_number>
+<answer>The Sea Around Us</answer>
+<question_number>18</question_number>
+<answer>N/A</answer>
+<question_number>19</question_number>
+<answer>N/A</answer>
+<question_number>20</question_number>
+<answer>N/A</answer>

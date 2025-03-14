@@ -1,0 +1,53 @@
+merged_bird-flu-airborne-covid.txt
+<question_number>1</question_number>
+<answer>30 percent</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions that Dr. Herfst and colleagues discovered mutations that allowed H5N1 to become airborne, but doesn't specify how many mutations Morawska and Cao discovered.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention WHO acknowledging H1N1 spreading through air. It only mentions WHO acknowledging Covid's airborne spread.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article mentions a "horn-shaped air sampler" but doesn't give it a specific name.</other>
+
+<question_number>5</question_number>
+<answer>cows</answer>
+
+<question_number>6</question_number>
+<answer>masks in public</answer>
+<other>The article mentions masks were required in some American cities during the 1918 pandemic, and Morawska's warning about airborne spread was rejected by journals in 2020.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention a rejected commentary co-authored by an infectious-disease expert at the University of Maryland.</other>
+
+<question_number>8</question_number>
+<answer>China</answer>
+<other>The article states China locked down more than 50 million people in early February 2020, but this was for coronavirus (Covid), not H5N1.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article mentions Dr. Herfst's experiment with cages placed four inches apart, but doesn't mention a similar experiment by a virologist at Emory University.</other>
+
+<question_number>10</question_number>
+<answer>a hotel in Baltimore</answer>
+<other>This experiment was conducted by Dr. Coleman and colleagues, not Dr. Herfst.</other>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+<other>The article mentions a mutation in the Texas virus that may speed up replication in airways, but doesn't attribute this finding to Junji Cao or specify the exact number of mutations.</other>
+
+<question_number>12</question_number>
+<answer>birds and cats</answer>
+
+<question_number>13</question_number>
+<answer>N/A</answer>
+<other>The article doesn't provide information about how many countries acknowledged airborne Covid transmission before WHO's declaration.</other>
+
+<question_number>14</question_number>
+<answer>N/A</answer>
+<other>The article doesn't specify a numerical threshold of mutations required for airborne human-to-human transmission established by Seema Lakdawala's team.</other>

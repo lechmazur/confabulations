@@ -1,0 +1,51 @@
+merged_los-angeles-fire-school-closures-toxins.txt
+Okay, let's tackle these questions one by one using only the article provided.
+
+1. The first question asks for the percentage of students in the Pasadena Unified School District living *outside* evacuation areas. The article says "roughly two-thirds of the district's 14,000 students... live in areas under evacuation or warnings." So two-thirds are in evacuation zones, meaning one-third are not. That's 33.3%, so I'll put that.
+
+2. The second question is about how many LA Unified schools near Palisades were relocated to the six Pasadena schools. Wait, the article mentions that Pasadena had six campuses reopen, but the LA schools near Palisades had nine temporarily relocated. The question links them, but the text doesn't say the LA schools were moved to the Pasadena ones. So no info, so N/A.
+
+3. The third question asks what Kamala Harris did after touring regarding the insurance proposal. The article mentions Harris toured the area but doesn't say she took any specific action related to the insurance regulator's proposal. The insurance part is a separate paragraph. So N/A.
+
+4. The fourth question is about an innovative fire prevention strategy at Canyon Charter. The article says other communities are experimenting with ideas L.A. could borrow, but doesn't mention any specific strategy implemented at Canyon Charter before the meeting. So N/A.
+
+5. Alisa Rodman's alternative schooling before the reopening. The article says classes were held virtually, an unwelcome reminder of Covid. So she used virtual learning. The answer is virtual classes.
+
+6. The name of the industrial hygienist. The text mentions Carlos Torres said they hired one, but doesn't name the hygienist. So N/A.
+
+7. The item Ms. Nicole lost mentioned in her card. A student wanted to make a card for Ms. Nicole who lost her house. The question is about an item lost, but the text only says she lost her house. No specific item mentioned. So N/A.
+
+8. Gabriela's transportation. The article states she stayed with relatives an hour away and brought her kids to school. But it doesn't specify the transport method. So N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>33.3%</answer>
+<other>Calculated from "two-thirds... live in areas that were under evacuation or warnings," implying one-third (≈33.3%) do not.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Text states nine LA schools were relocated but does not link them to Pasadena's six reopened campuses.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Kamala Harris toured the area but no specific action tied to insurance proposal is described.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Article mentions global wildfire prevention ideas but does not specify any implemented at Canyon Charter.</other>
+
+<question_number>5</question_number>
+<answer>Virtual classes</answer>
+<other>Canyon Charter held classes virtually while closed.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Text mentions hiring an industrial hygienist but does not provide their name.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Student wanted to write "I love you, Ms. Nicole" for Ms. Nicole who lost her house, but no specific lost item mentioned.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>Article states Gabriela traveled an hour but does not specify transportation method.</other>

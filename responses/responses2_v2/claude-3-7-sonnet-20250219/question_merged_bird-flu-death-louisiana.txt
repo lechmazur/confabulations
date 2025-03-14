@@ -1,0 +1,68 @@
+merged_bird-flu-death-louisiana.txt
+<question_number>1</question_number>
+<answer>0</answer>
+<other>The article doesn't mention any human fatalities linked to consumption of virus-laden raw milk. It states "No human cases have yet been linked to raw milk" and only mentions cats dying from drinking virus-laden milk.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions that California declared a public health emergency, but doesn't specify which organization made this declaration.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any medications that the Louisiana patient received.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article only states the patient "was reported to have been hospitalized last month" but doesn't specify which month of 2024 Louisiana officials first became aware of the potential exposure.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>While the article mentions mutations were found in the Louisiana patient that weren't present in the backyard flock, it doesn't name any specific mutation or state that any particular mutation was found in both the patient and dairy cattle.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any funding sources for Dr. James Lawler's research.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article doesn't specify which breed of dairy cattle was most affected by the H5N1 outbreak.</other>
+
+<question_number>8</question_number>
+<answer>Louisiana</answer>
+<other>The article states "A Louisiana patient who had been hospitalized with severe bird flu has died, the first such fatality in the United States" and that the patient was "older than 65" and had exposure to "a backyard flock and wild birds."</other>
+
+<question_number>9</question_number>
+<answer>cats</answer>
+<other>The article states "cats in multiple states have died after drinking virus-laden milk."</other>
+
+<question_number>10</question_number>
+<answer>farm workers</answer>
+<other>The article states "Nearly all of the cases have been in people who worked on farms with infected cows or poultry."</other>
+
+<question_number>11</question_number>
+<answer>severe</answer>
+<other>The article states "That risk is particularly heightened as the nation confronts a severe flu season."</other>
+
+<question_number>12</question_number>
+<answer>conjunctivitis (pink eye)</answer>
+<other>The article states "Most people have had mild symptoms, often conjunctivitis, or pink eye, and respiratory symptoms."</other>
+
+<question_number>13</question_number>
+<answer>developed in the patient</answer>
+<other>The article states "The Centers for Disease Control and Prevention said late last month that the mutations were not present in virus samples taken from the backyard flock, suggesting that they developed in the patient as the illness progressed."</other>
+
+<question_number>14</question_number>
+<answer>California</answer>
+<other>The article states "In December, California, the state hit hardest by the outbreak in cattle, declared a public health emergency."</other>
+
+<question_number>15</question_number>
+<answer>Canada</answer>
+<other>The article mentions "a 13-year-old Canadian girl who was hospitalized and required respiratory support."</other>
+
+<question_number>16</question_number>
+<answer>pasteurized dairy products</answer>
+<other>The article explicitly states "Pasteurized dairy products remain safe to consume."</other>
+
+<question_number>17</question_number>
+<answer>66</answer>
+<other>The article states "At least 66 people were infected by the virus in the United States in 2024, according to the C.D.C."</other>

@@ -1,0 +1,66 @@
+merged_mufasa-lion-king-box-office.txt
+Okay, I need to answer these questions based strictly on the given article. Let me go through each question one by one and check the text for the answers.
+
+1. **Question 1:** How many additional digital-only subscribers did Disney add in the last quarter, mirroring the growth pattern of The New York Times?  
+The article mentions The New York Times added 350,000 digital-only subscribers. But the question is about Disney. Wait, the article says "The New York Times: The company added 350,000 digital-only subscribers in the last quarter..." So Disney isn't mentioned here. The question is asking if Disney added a similar number, but the text only talks about NYT. So answer N/A.
+
+2. **Question 2:** What investment product, similar to those offered by Trump Media, did Disney announce to boost investor confidence alongside the "Mufasa" release?  
+Trump Media is mentioned as moving to financial services with "patriotic economy" investments. The article says Disney had hoped "Mufasa" would add to investor confidence, but there's no mention of an investment product from Disney. So N/A.
+
+3. **Question 3:** Considering the delay of "September 5" due to the Oscars postponement, what earlier month was the movie originally slated for wide release?  
+The text states the film's rollout was delayed, originally planned for wide release on Friday (which would be December since the article mentions the delay to early February). So original month was December.
+
+4. **Question 4:** What position did Aaron Pierre secure within the Academy of Motion Picture Arts and Sciences, influencing the strategic release of "September 5" after his viral dance?  
+The article doesn't mention Aaron Pierre having a position in the Academy. His viral dance was during a show, but the delay was due to Oscars voting pushed back. No Academy position mentioned for him. So N/A.
+
+5. **Question 5:** Besides "Sonic the Hedgehog 3," "Wicked," and "Moana 2," what other Disney film, initially slated for a December release, directly competed with "Mufasa" for family audiences?  
+The article says "Mufasa" debuted on Dec 20 and faced competition from those three. The other Disney film mentioned as competing is "Moana 2," but that's listed. Wait, the question asks for another Disney film besides those listed. The article mentions Disney's own "Moana 2" as competition, but that's already in the list. The other movies are not Disney except those. Wait, maybe "September 5" but that's Paramount. So no other Disney film mentioned. So N/A?
+
+Wait, the question says "initially slated for a December release" besides the ones listed. The article says "September 5" was delayed from its planned December 20 release? Wait, "September 5" was scheduled for wide release on Friday (Dec 20?), but delayed. So was "September 5" a Disney film? No, it's Paramount. So Disney's own films competing were "Moana 2" and "Mufasa" itself. So the other Disney film is "Moana 2", but it's already listed. So no other Disney film mentioned. So answer N/A.
+
+6. **Question 6:** What percentage increase in ticket sales did "Mufasa" experience between its opening weekend and its fifth consecutive week at number one, mirroring the subscriber growth of The New York Times?  
+The article mentions the first weekend was $35M, and global total is approaching $700M, but the fifth week's percentage isn't given. The subscriber growth for NYT is 350k, but the question is about percentage increase for Mufasa. The text doesn't provide the percentage increase between first weekend and fifth week. So N/A.
+
+7. **Question 7:** What role did Lara Trump assume at Disney, mirroring her new position at Fox News, to promote "Mufasa" on social media platforms like TikTok?  
+The article says Lara Trump will host a show on Fox News, but there's no mention of her role at Disney. So N/A.
+
+8. **Question 8:** What was the title of the R-rated comedy released the same weekend as "Mufasa," which, unlike "One of Them Days," also targeted a family audience?  
+The article mentions "One of Them Days" and "Wolf Man" as R-rated releases. The question asks for an R-rated comedy that targeted family audience, but R-rated usually isn't for family. The article says "One of Them Days" is low-budget R-rated comedy, but it's not targeting family. The other R is horror. So the answer would be none, so N/A.
+
+Wait, the question says "unlike 'One of Them Days,' also targeted a family audience". Since both were R-rated, which family doesn't target, so maybe no such film. So N/A.
+
+9. **Question 9:** Following the success of "I Always Wanted a Brother," what other Lin-Manuel Miranda song from a previous Disney film did marketers leverage to further boost "Mufasa's" social media presence?  
+The article mentions "I Always Wanted a Brother" and that Disney promoted the film's music. It doesn't mention any other song from a previous Disney film. Miranda's previous work might include "Moana" songs like "How Far I'll Go", but the article doesn't say they used that. So N/A.
+
+10. **Question 10:** What was the total box office revenue for "Deadpool & Wolverine" that contributed to Disney's three billion-dollar movies in 2024?  
+The article states that "Deadpool & Wolverine" was one of Disney's three 2024 billion-dollar movies. The exact total isn't given, but since it's a billion-dollar movie, the revenue is over $1B. The question asks for the total, but the article doesn't specify the exact number. So answer N/A unless it's inferred as over $1B. But the question asks for the total revenue, so since it's stated as "billion-dollar", the answer could be "$1 billion" but the exact figure isn't given. So N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Article states NYT added 350k subscribers but no Disney data provided.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>December</answer>
+<other>"September 5" was originally scheduled for wide release on Friday (Dec 20), delayed to Feb.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Disney's own "Moana 2" is listed in the question's excluded films; no other Disney title mentioned.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>No percentage increase data between opening weekend and fifth week provided.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Lara Trump's role at Disney isn't mentioned; she's at Fox News.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>R-rated films ("One of Them Days" and "Wolf Man") don't target family audiences.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>No other Lin-Manuel Miranda song from a prior Disney film is mentioned.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>Article only states "Deadpool & Wolverine" crossed $1B but doesn't specify exact total.</other>

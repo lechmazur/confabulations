@@ -1,0 +1,105 @@
+merged_fire-battery-storage-plant-california.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article and follow the instructions strictly. Let me read through the questions again and check each against the article.
+
+1. **Question 1**: The question asks what alternative battery chemistry Vistra Energy used at their facility near San Diego. The article mentions that some companies are using alternative chemistries, but it doesn't specify which ones, and there's no mention of Vistra using any. So the answer should be N/A.
+
+2. **Question 2**: The percentage reduction was reported by the North County Fire Protection District. The article says by 10 a.m. Friday, the fire was down to less than 5%. The Monterey County supervisor called for accountability at a news conference on Friday. Since the percentage was reported before the call for accountability, the answer is 5% or less. The exact phrasing is "less than 5 percent," so the answer is 5.
+
+3. **Question 3**: The article states California installed over 13,000 MW of grid batteries since 2018 to reduce reliance on natural gas. The question asks about absorbing excess wind power, but the article mentions excess solar power. Since wind isn't mentioned here, the answer is N/A.
+
+4. **Question 4**: The article mentions Sid Edwards, a high school coach who became mayor of Baton Rouge. But the question asks if he was inspired by the Moss Landing fire. The article doesn't link his mayoral run to the fire, so N/A.
+
+5. **Question 5**: The toxic gas mentioned is hydrogen fluoride. However, the article says preliminary tests suggested the fire hadn't released certain hazardous gases, but it's unclear if that included hydrogen fluoride. Wait, the article says lithium-ion fires can emit hydrogen fluoride, but the chief said the fire hadn't released those dangerous gases. So the answer is N/A because they didn't confirm it was released.
+
+6. **Question 6**: The article says the batteries were to reduce reliance on natural gas. So the primary fuel source is natural gas.
+
+7. **Question 7**: The article mentions a planned facility near San Diego faced opposition but doesn't name it. So N/A.
+
+8. **Question 8**: The article states the fire started at 3 p.m. Thursday and by 10 a.m. Friday was 5% size. The peak might be when it started, but the article doesn't mention peak time. So N/A.
+
+9. **Question 9**: The article says Sid Edwards became mayor after being a coach, but no link to the fire. So N/A.
+
+10. **Question 10**: The evacuation area was eight square miles. The question asks for acreage, but the article uses square miles. Since 1 square mile is 640 acres, but the article says eight square miles. The question asks for acreage, so 8 * 640 = 5120. But the article states "eight-square-mile area", so the answer is 8 square miles, but the question asks in acres. Since the article doesn't convert, answer N/A. Wait, the question says "stated acreage", but the article only mentions square miles. So N/A.
+
+11. **Question 11**: From 3 p.m. Thursday to 10 a.m. Friday is 19 hours. 3pm to midnight is 9 hours, plus 10 hours to 10am next day: total 19.
+
+12. **Question 12**: 2000 residents over 8 square miles. 2000/8=250 per square mile.
+
+13. **Question 13**: The article says hazardous gases known to be dangerous weren't released (preliminary tests), so the toxic gas implied not released is hydrogen fluoride.
+
+14. **Question 14**: The Monterey County supervisor Glenn Church called it a worst-case and wanted accountability.
+
+15. **Question 15**: The article states over 13,000 MW since 2018.
+
+16. **Question 16**: The neighboring facility was owned by PG&E, as mentioned in 2022 fire.
+
+17. **Question 17**: The article says some companies use alternative chemistries.
+
+18. **Question 18**: The environmental concern linked is global warming, since reducing natural gas (which contributes to it).
+
+19. **Question 19**: The unrelated wildfires were in Los Angeles.
+
+20. **Question 20**: The company rep was Jenny Lyon from Vistra.
+
+Let me check each again to ensure accuracy.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>5</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>natural gas</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>19</answer>
+
+<question_number>12</question_number>
+<answer>250</answer>
+
+<question_number>13</question_number>
+<answer>hydrogen fluoride</answer>
+
+<question_number>14</question_number>
+<answer>Glenn Church</answer>
+
+<question_number>15</question_number>
+<answer>13,000</answer>
+
+<question_number>16</question_number>
+<answer>Pacific Gas & Electric</answer>
+
+<question_number>17</question_number>
+<answer>alternative chemistries</answer>
+
+<question_number>18</question_number>
+<answer>global warming</answer>
+
+<question_number>19</question_number>
+<answer>Los Angeles</answer>
+
+<question_number>20</question_number>
+<answer>Jenny Lyon</answer>

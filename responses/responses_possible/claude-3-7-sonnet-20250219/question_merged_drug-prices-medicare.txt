@@ -1,0 +1,37 @@
+merged_drug-prices-medicare.txt
+<question_number>1</question_number>
+<answer>The $2,000 annual cap will go into effect next year (2025), while the new negotiated prices take effect in 2026</answer>
+
+<question_number>2</question_number>
+<answer>Project 2025 argues the drug price negotiation program should be repealed, which could weaken or reverse Medicare's influence on drug prices if Trump wins with Republican control of Congress</answer>
+
+<question_number>3</question_number>
+<answer>Harris cast the tiebreaking vote for the legislation that delivered the drug price negotiation program, and she has focused her early presidential campaign on the Biden administration's drug pricing reforms</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article states Medicare would have saved $6 billion, reducing spending on those drugs by 22%, but doesn't provide individual drug reduction percentages</other>
+
+<question_number>5</question_number>
+<answer>$1,716</answer>
+<other>If Medicare's overall savings is 22%, and Judy's costs would decrease by the same percentage, then $2,200 × (1-0.22) = $1,716. However, the article actually states her first refill would cost $730 in 2026, which is a much larger reduction.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article doesn't provide information about how the $6 billion savings would be distributed across the drugs</other>
+
+<question_number>7</question_number>
+<answer>Jardiance</answer>
+<other>Based on negotiated prices: $2,000/$197 = 10.15 months for Jardiance, which is the most months needed to reach $2,000 among the drugs with prices under $2,000. Eliquis would be $2,000/$231 = 8.66 months, Xarelto $2,000/$197 = 10.15 months, Januvia $2,000/$113 = 17.7 months, Farxiga $2,000/$178 = 11.24 months, Entresto $2,000/$295 = 6.78 months, insulin products $2,000/$119 = 16.81 months. Actually, Januvia would require the most refills at $113 per month.</other>
+
+<question_number>8</question_number>
+<answer>93.5%</answer>
+<other>The three most expensive medications are Enbrel ($2,355), Imbruvica ($9,319), and Stelara ($4,695). Their total is $16,369. The total for all 10 drugs is $17,499. So the percentage is ($16,369/$17,499) × 100 = 93.5%</other>
+
+<question_number>9</question_number>
+<answer>$19</answer>
+<other>Jardiance treats diabetes, heart failure and chronic kidney disease. Farxiga also treats diabetes, heart failure and chronic kidney disease. Their prices are $197 and $178 respectively. The difference is $197 - $178 = $19.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article mentions legal challenges from drugmakers but doesn't specifically identify which of the companies mentioned in the price list are involved in these legal challenges</other>

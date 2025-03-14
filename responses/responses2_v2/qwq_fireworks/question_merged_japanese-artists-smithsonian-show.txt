@@ -1,0 +1,84 @@
+merged_japanese-artists-smithsonian-show.txt
+Okay, let's tackle these questions one by one. I need to make sure I'm only using the article provided. Let me start by reading through each question carefully and then find the answers in the text.
+
+1. **Question 1:** The first question asks about the artistic movement influencing Hayakawa's portrait style, especially the one depicted in her African American man portrait and mentioned by Yun Gee. The article mentions that Hayakawa's style was influenced by European modernists, including Picasso and cubists. So the answer should be Cubism.
+
+2. **Question 2:** Hibi's "Poems by Madame Takeko Kujo" was created in 1970, and she returned to San Francisco in 1954. Subtracting those years gives 16 years. 
+
+3. **Question 3:** The publication that gave Okubo an opportunity was Fortune magazine, as corrected in the article. The initial version had Forbes, but the correction says Fortune.
+
+4. **Question 4:** The San Francisco Examiner's art critic praised Hayakawa at her Golden Gate Institute retrospective just before her 30th birthday. Since the article says she was "just shy of her 30th birthday" when the retrospective happened, and assuming her birthday was in 1939 (since the article mentions she died at 53 in 1953, so born in 1900), but the article doesn't give the exact year. Wait, actually, the article says Hayakawa had a retrospective "just shy of her 30th birthday," so if she died in 1953 at 53, she was born in 1900. Thus, 1900 + 30 = 1930. But the article might not specify the exact year. Wait, the article says "just shy of her 30th birthday" but doesn't give the year. Hmm, maybe I need to check again. The article states: "When Hayakawa's work was featured in a big retrospective at San Francisco's Golden Gate Institute just shy of her 30th birthday, she was called a genius by the San Francisco Examiner's art critic..." Since the article doesn't provide the exact year, this might be N/A. Wait, but maybe the time frame is during the 1930s? Let me think again. The article mentions that the retrospective was before the war (since she was in New Mexico during the war). The war started in 1941, so if her retrospective was before that, maybe around 1939? But the question is asking for the year. Since the text doesn't specify the exact year, I might have to say N/A. Wait, but the article says "just shy of her 30th birthday," and she died in 1953 at 53, so born in 1900. Thus, 1900 + 30 = 1930. The retrospective would be in 1930. So the answer is 1930.
+
+5. **Question 5:** The weather phenomenon in Okubo's "Wind and Dust" is a sandstorm, which symbolizes broader hardships.
+
+6. **Question 6:** The facility repurposed in Hibi's "Tanforan Assembly Center" was a horse racing track.
+
+7. **Question 7:** Okubo's charcoal drawings were influenced by Picasso's "Guernica."
+
+8. **Question 8:** The object clutched by the women in "Sunday" is their bibles.
+
+9. **Question 9:** After her husband's death, Hibi worked as a seamstress in New York.
+
+10. **Question 10:** Hayakawa's "From My Window" shows Telegraph Hill in San Francisco.
+
+11. **Question 11:** The painter referenced in the 1943 watercolor and "Citizen 13660" is Mine Okubo.
+
+12. **Question 12:** The artist who moved to New Mexico and did portraits is Miki Hayakawa.
+
+13. **Question 13:** The artist with prewar landscapes and later still lifes is Hisako Hibi. The article mentions Hibi's "Sprint #2" as a prewar landscape and her still lifes post-camp.
+
+14. **Question 14:** The artist whose husband ran the art school at Topaz is Hisako Hibi. The article states her husband Matsusaburo ran the school.
+
+15. **Question 15:** The artist with diaristic narratives is Mine Okubo, as her work includes "Sunday" and "Citizen 13660."
+
+16. **Question 16:** The artist with the African American portrait and moved inland is Miki Hayakawa.
+
+17. **Question 17:** The artist who left camp via Fortune and later did playful art is Mine Okubo.
+
+18. **Question 18:** The painter with "Ice House" and camp scenes is Mine Okubo.
+
+19. **Question 19:** The artist with the prewar portrait series and retrospective is Miki Hayakawa. The article mentions her portraits and the Golden Gate retrospective.
+
+20. **Question 20:** The painter with lost works and "Citizen 13660" is Mine Okubo. The article says Okubo's "Citizen 13660" is her memoir, and her works were lost.
+</think>
+
+<question_number>1</question_number>
+<answer>Cubism</answer>
+<question_number>2</question_number>
+<answer>16</answer>
+<question_number>3</question_number>
+<answer>Fortune</answer>
+<question_number>4</question_number>
+<answer>1930</answer>
+<question_number>5</question_number>
+<answer>sandstorm</answer>
+<question_number>6</question_number>
+<answer>horse racing track</answer>
+<question_number>7</question_number>
+<answer>Guernica</answer>
+<question_number>8</question_number>
+<answer>bibles</answer>
+<question_number>9</question_number>
+<answer>seamstress</answer>
+<question_number>10</question_number>
+<answer>Telegraph Hill</answer>
+<question_number>11</question_number>
+<answer>Mine Okubo</answer>
+<question_number>12</question_number>
+<answer>Miki Hayakawa</answer>
+<question_number>13</question_number>
+<answer>Hisako Hibi</answer>
+<question_number>14</question_number>
+<answer>Hisako Hibi</answer>
+<question_number>15</question_number>
+<answer>Mine Okubo</answer>
+<question_number>16</question_number>
+<answer>Miki Hayakawa</answer>
+<question_number>17</question_number>
+<answer>Mine Okubo</answer>
+<question_number>18</question_number>
+<answer>Mine Okubo</answer>
+<question_number>19</question_number>
+<answer>Miki Hayakawa</answer>
+<question_number>20</question_number>
+<answer>Mine Okubo</answer>

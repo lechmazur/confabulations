@@ -1,0 +1,40 @@
+merged_engineered-virus-steals-proteins-from-hiv.txt
+<question_number>1</question_number>
+<answer>Cost and single-dose administration</answer>
+<other>The article states: "Dr. Weinberger hopes that if TIPs make it through clinical trials, they can be used to offer more protection against AIDS in poor countries. Daily doses of protease inhibitors are too expensive for most people with H.I.V. to rely on. And while lenacapavir may be more effective, it may also be difficult to ensure that people keep up with twice-yearly shots. Dr. Weinberger's new study suggests that just one shot of TIPs may keep H.I.V. at low levels -- permanently."</other>
+
+<question_number>2</question_number>
+<answer>It might make it harder for people to transmit H.I.V. to others</answer>
+<other>The article states: "Not only would this treatment hold off the development of AIDS, but it might make it harder for people to transmit H.I.V. to others."</other>
+
+<question_number>3</question_number>
+<answer>TIPs can potentially spread to others who cannot consent to receiving them</answer>
+<other>The article states: "It's also conceivable that people with TIPs can spread them to others. If doctors obtain consent from patients to treat them with TIPs, they cannot receive consent from anyone else who is infected with them."</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article doesn't directly compare the mechanism of action between TIPs and protease inhibitors in terms of advantages. It describes how both work but doesn't state which mechanism is more advantageous.</other>
+
+<question_number>5</question_number>
+<answer>Permanent integration into patient DNA with potential for unexpected side effects</answer>
+<other>The article states: "Dr. Weinberger's TIPs inserts themselves into the DNA of a patient's immune cells. As a result, it becomes a permanent part of their bodies. If they turn out to have unexpected side effects, it may not be possible to remove them."</other>
+
+<question_number>6</question_number>
+<answer>TIPs are engineered to do a better job of entering protein shells, resulting in three times more TIPs than H.I.V. viruses being released</answer>
+<other>The article states: "Dr. Weinberger and his colleagues engineered the TIPs to do a better job of entering the shells. When the infected cells burst open, they released three times more TIPs than H.I.V. viruses."</other>
+
+<question_number>7</question_number>
+<answer>Unexpected side effects that cannot be removed</answer>
+<other>The article states: "If they turn out to have unexpected side effects, it may not be possible to remove them."</other>
+
+<question_number>8</question_number>
+<answer>The strategy of using cheating viruses could be applied to other viruses</answer>
+<other>The article states: "Dr. Leeks said that other viruses might also be vulnerable to the same strategy. 'In principle, it's a universal approach to developing antivirals,' he said."</other>
+
+<question_number>9</question_number>
+<answer>People who receive TIPs secondarily cannot consent to the treatment</answer>
+<other>The article states: "It's also conceivable that people with TIPs can spread them to others. If doctors obtain consent from patients to treat them with TIPs, they cannot receive consent from anyone else who is infected with them."</other>
+
+<question_number>10</question_number>
+<answer>TIPs are molecular mimics that compete with H.I.V. for resources, while protease inhibitors prevent a protein from activating H.I.V.</answer>
+<other>The article describes TIPs as "a molecular mimic that invades a cell and steals essential proteins from the virus" while protease inhibitors "prevent a protein called a protease from activating H.I.V."</other>

@@ -1,0 +1,123 @@
+merged_vision-problems-children-africa-mozambique.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article. Let me start by reading through the questions again and then go back to the text to find the answers.
+
+1. The first question asks for the percentage of children in Mozambique affected by preventable blindness according to the 2021 global commission. The article mentions that cataracts cause nearly half the preventable blindness in Mozambique's children. So the answer should be 50% or "nearly half". The question specifies "according to the 2021 global commission", but the article says that the commission reported 510 million people worldwide with uncorrected vision impairment. The "half" part is from Dr. da Gama's statement about cataracts. Wait, the question is about the percentage in Mozambique's children. The article says "cataracts cause nearly half the preventable blindness in Mozambique's children". So the answer is "nearly half".
+
+2. The second question is about how many more ophthalmologists are in Maputo compared to two decades ago when Aminata got her glasses. The article states Mozambique has 20 ophthalmologists now, up from six two decades ago. But the question specifies Maputo. The text says "almost all of them are based in the capital, Maputo". So two decades ago, there were 6 total, now 20 total. But since almost all are in Maputo now, maybe the increase is 20-6=14 more, but the question is about Maputo specifically. However, the article doesn't specify how many were in Maputo before. It just says total went from 6 to 20. So maybe the answer is 14, but since the question is about Maputo and the article says "almost all" now, but doesn't give past numbers for Maputo, perhaps it's N/A? Wait, the question says "compared to two decades ago" when Aminata was screened. Since the total went from 6 to 20, maybe the answer is 14. Hmm, but the question is about Maputo's current count compared to two decades ago. Since the article says "almost all" are in Maputo now, but two decades ago, maybe they were all in Maputo? The article says "almost all" now, but doesn't specify before. So perhaps the answer is N/A. Wait, the question is about "how many more ophthalmologists, compared to two decades ago, were practicing in Maputo when..." Since the total increased from 6 to 20, but without knowing how many were in Maputo before and now, it's unclear. The answer might be N/A. Alternatively, if all 6 were in Maputo before and now 20 (almost all there), the difference is 14. But the article doesn't confirm that. So maybe N/A.
+
+3. The third question asks besides cataracts, glaucoma, strabismus, what other condition Dr. da Gama treated. The article mentions retinoblastoma in Grace's case. The question says "similar to the one affecting Grace", which was a tumor (retinoblastoma). So the answer is retinoblastoma.
+
+4. The fourth question asks the year Dr. da Gama returned after studies. The article says he completed studies in India in 2017 and set up a clinic in Quelimane. So the answer is 2017.
+
+5. The fifth question is the duration of Dr. da Gama's longest outreach program. The text says he takes the mobile clinic for up to a month at a time. So the duration is 1 month, but in months, so 1? Wait, the question says "longest outreach program", but the text says "up to a month at a time", so the maximum is a month. So the answer is 1 month.
+
+6. The sixth question asks the distance Camilo Rosario traveled. The article says Grace's home was 300 km away, which is about 185 miles. The question compares to Sumaya's 100-mile journey. So the answer is 185.
+
+7. The seventh question is the fraction of knowledge children with vision issues acquire. The article states "those with uncorrected vision problems learn half as much as their peers". So the answer is half or 0.5. But the question says "fraction", so "half".
+
+8. The eighth question is the number of pediatric ophthalmologists in Mozambique when Sumaya had surgery. The article says Dr. da Gama is one of just three in the country. So the answer is 3.
+
+9. The ninth question asks a specific ailment causing cataracts besides infection or genetic. The article mentions "trauma (like a stick or a stone in the eye)". So trauma.
+
+10. The tenth question asks how many times a week Dr. da Gama performs the surgery for Sumaya's cataract. The article says he does a dozen times a week. Dozen is 12, so 12 times.
+
+11. The eleventh question asks which condition is treated to prevent developmental impairments. The article mentions cataracts, but also strabismus (misaligned eyes), glaucoma. But the outreach is for conditions that affect development. The answer might be cataracts, but the question is singular. Alternatively, the routine treatment could be cataracts since that's a main focus. Or maybe the answer is strabismus? Wait, the question says "routinely treated... to prevent long-term developmental impairments". The article says cataracts are particularly worrying because vision problems affect development. So the answer is cataracts.
+
+12. The twelfth question asks who the pediatric specialist is. The article's main doctor is Dr. Isaac Vasco da Gama.
+
+13. The thirteenth question is current number of ophthalmologists. The article states Mozambique has 20 now.
+
+14. The fourteenth question is the misconception about an eye condition. The mother thought cataracts were for old people, but Dr. explained it can be from birth infection. So the misconception is that cataracts only affect the elderly.
+
+15. The fifteenth question: intervention enhancing school performance. The article says Aminata got glasses and her grades improved. So glasses.
+
+16. The sixteenth question: global number from 2021 report. The article says 510 million.
+
+17. The seventeenth question: surgery for misaligned eyes. Strabismus is the condition, so the surgery is for that.
+
+18. The eighteenth question: congenital condition Sumaya had. Congenital cataract.
+
+19. The nineteenth question: Grace's cancer. Retinoblastoma.
+
+20. The twentieth question: shift in caregiver behavior. The article mentions that Sumaya's parents went to the medical system instead of traditional healers. So the answer is moving away from traditional healers to medical facilities.
+</think>
+
+<question_number>1</question_number>
+<answer>nearly half</answer>
+<other>Found in the article: "cataracts cause nearly half the preventable blindness in Mozambique's children"</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Article states total ophthalmologists increased from 6 to 20, but doesn't specify Maputo's numbers two decades ago</other>
+
+<question_number>3</question_number>
+<answer>retinoblastoma</answer>
+<other>Grace had a tumor from retinoblastoma, which Dr. da Gama treats during outreach</other>
+
+<question_number>4</question_number>
+<answer>2017</answer>
+<other>Completed studies in India in 2017 before setting up clinic</other>
+
+<question_number>5</question_number>
+<answer>1</answer>
+<other>"up to a month at a time" implies maximum 1-month duration</other>
+
+<question_number>6</question_number>
+<answer>185</answer>
+<other>300 km converted to ~185 miles</other>
+
+<question_number>7</question_number>
+<answer>half</answer>
+<other>"learn half as much as their peers"</other>
+
+<question_number>8</question_number>
+<answer>3</answer>
+<other>Dr. da Gama is one of just three pediatric ophthalmologists</other>
+
+<question_number>9</question_number>
+<answer>trauma</answer>
+<other>"trauma (like a stick or a stone in the eye)" causes cataracts</other>
+
+<question_number>10</question_number>
+<answer>12</answer>
+<other>"does a dozen times a week"</other>
+
+<question_number>11</question_number>
+<answer>cataracts</answer>
+<other>Cataracts are highlighted as developmentally critical to treat</other>
+
+<question_number>12</question_number>
+<answer>Dr. Isaac Vasco da Gama</answer>
+<other>Main subject's full name</other>
+
+<question_number>13</question_number>
+<answer>20</answer>
+<other>"has 20 ophthalmologists"</other>
+
+<question_number>14</question_number>
+<answer>cataracts only affect the elderly</answer>
+<other>Mother believed cataracts were for old people</other>
+
+<question_number>15</question_number>
+<answer>glasses</answer>
+<other>Aminata's glasses improved her grades</other>
+
+<question_number>16</question_number>
+<answer>510 million</answer>
+<other>"510 million people... uncorrected vision impairment"</other>
+
+<question_number>17</question_number>
+<answer>strabismus</answer>
+<other>"misaligned eyes" is explicitly listed</other>
+
+<question_number>18</question_number>
+<answer>congenital cataract</answer>
+<other>Sumaya's diagnosis</other>
+
+<question_number>19</question_number>
+<answer>retinoblastoma</answer>
+<other>Grace's tumor was retinoblastoma</other>
+
+<question_number>20</question_number>
+<answer>seeking medical care instead of traditional healers</answer>
+<other>Sumaya's parents chose medical system over healers/sorcerers</other>

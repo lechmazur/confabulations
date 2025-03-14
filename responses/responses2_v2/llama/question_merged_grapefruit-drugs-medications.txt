@@ -1,0 +1,81 @@
+merged_grapefruit-drugs-medications.txt
+<question_number>1</question_number>
+<answer>0</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>2-oxoglutarate-dependent dioxygenase (2OGD)</answer>
+
+<question_number>12</question_number>
+<answer>Mandarin</answer>
+
+<question_number>13</question_number>
+<answer>Yoram Eyal</answer>
+
+<question_number>14</question_number>
+<other>This observation implies a single-gene control of the trait.</other>
+<answer>N/A (However, this is not a numerical answer)</answer>
+
+Alternative response:
+ <other>This observation implies a single-gene control of the trait.</other>
+ <other>This is not a numerical answer.</other>
+ <question_number>14</question_number>
+ <other>This observation implies a single-gene control of the trait.</other>
+ <other>This is not a numerical answer.</other>
+ <answer>Mendelian (single gene)</answer>
+
+ <question_number>15</question_number>
+ <answer>The New Phytologist</answer>
+
+ <question_number>16</question_number>
+ <other>The article mentions that with gene editing technology, it should be possible to alter the gene in grapefruit as well.</other>
+ <other>The team at the Volcani Center is now exploring that project.</other>
+ <other>This would eliminate the medication warnings associated with their consumption.</other>
+ <answer>Grapefruit that doesn't require a warning label.</answer>
+
+ <question_number>17</question_number>
+ <other>The article mentions that some gene nearby on the genome must play an important role in a highly prized trait.</other>
+ <other>A long-ago citrus breeder, selecting for some unknown quality, must have unwittingly spread this furanocoumarin-busting version of the gene to an ancestor of modern varieties of mandarins and oranges.</other>
+ <other>This led to their lack of furanocoumarin production.</other>
+ <answer>A highly prized trait (unknown quality)</answer>
+
+ <question_number>18</question_number>
+ <answer>Furanocoumarins</answer>
+
+ <question_number>19</question_number>
+ <other>The article mentions that scientists studying samples that NASA collected from the asteroid Bennu found a wide assortment of organic molecules that shed light on how life arose.</other>
+ <other>This topic concentrates on extraterrestrial organic chemistry rather than studies related directly to human health or physiology.</other>
+ <answer>Asteroid organic chemistry research (Life's Building Blocks Inside an Asteroid)</answer>
+
+ <question_number>20</question_number>
+ <other>The article mentions that when they examined the offspring of a mandarin and a grapefruit, the researchers saw something remarkable.</other>
+ <other>Fifty percent of the young plants had high levels of furanocoumarins, and 50 percent had none.</other>
+ <other>This particular signature meant something very specific, in terms of how the ability to make these substances is inherited.</other>
+ <other>"We saw there was only one gene that could have controlled it," said Livnat Goldenberg, a Volcani Center researcher who is the lead author of the new study.</other>
+ <answer>50%</answer>

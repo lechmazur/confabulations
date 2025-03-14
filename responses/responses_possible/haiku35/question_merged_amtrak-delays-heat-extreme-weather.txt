@@ -1,0 +1,42 @@
+merged_amtrak-delays-heat-extreme-weather.txt
+<question_number>1</question_number>
+<answer>2023</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>750,000</answer>
+
+<question_number>4</question_number>
+<answer>670</answer>
+
+<question_number>5</question_number>
+<answer>60</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>8</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>Overhead power lines using 1930s technology that sag under intense summer heat</answer>
+
+<other>Reasoning steps:
+Q1: Article shows heat delays peaked in 2023 fiscal year
+Q2: No clear projection method provided
+Q3: Article states 750,000 passengers daily on Northeast Corridor
+Q4: Heat delays increased from 530 hours in 2018 to 1,200 hours in 2023 (670 hour increase)
+Q5: Article states heat was responsible for nearly 60% of weather-related delays in Northeast
+Q6: Cannot calculate precise years from grant funding information
+Q7: Specific travel time increase not calculable
+Q8: 2023 had 4,010 total weather delay hours, compared to 530 heat delay hours in 2018
+Q9: No clear projection method
+Q10: Power lines from 1930s technology sag in heat, causing transmission interruptions</other>

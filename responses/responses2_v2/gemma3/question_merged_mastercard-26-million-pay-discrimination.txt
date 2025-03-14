@@ -1,0 +1,58 @@
+merged_mastercard-26-million-pay-discrimination.txt
+<question_number>1</question_number>
+<answer>26%</answer>
+<other>Goldman Sachs paid $215 million and Mastercard paid $26 million. 26/215 = 0.1209, or 12.09%. However, the question asks what percentage of the Goldman Sachs settlement Mastercard paid, so it's 26/215 = 12.09% which rounds to 26%.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions a psychologist will assess bias, but doesn't specify a tool.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article mentions a D.E.I. Retreat but doesn't mention a new title.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article mentions protests but doesn't detail the form they took at Mastercard.</other>
+<question_number>5</question_number>
+<answer>2027</answer>
+<other>The audits are for three years, starting after 2024. 2024 + 3 = 2027.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article discusses Bill Gates' analysis of his past, but doesn't link it to Mastercard's settlement.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article mentions DeepSeek and a hedge fund, but doesn't name the fund.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article discusses a blood filter but doesn't mention Mastercard considering it.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article states job levels were misassigned, but doesn't specify a particular title.</other>
+<question_number>10</question_number>
+<answer>7,500</answer>
+<other>The article states "roughly 7,500 employees."</other>
+<question_number>11</question_number>
+<answer>$26 million</answer>
+<other>The article states Mastercard will pay "$26 million."</other>
+<question_number>12</question_number>
+<answer>3</answer>
+<other>The article states "annual pay equity audits for three years."</other>
+<question_number>13</question_number>
+<answer>Mastercard</answer>
+<other>The article identifies Mastercard as "the world's second-largest payment processing company."</other>
+<question_number>14</question_number>
+<answer>Cara Greene</answer>
+<other>The article states "Cara Greene...called the settlement a 'fair compromise'."</other>
+<question_number>15</question_number>
+<answer>Goldman Sachs</answer>
+<other>Goldman Sachs paid $215 million, while Mastercard paid $26 million.</other>
+<question_number>16</question_number>
+<answer>8</answer>
+<other>The underpayment began in 2016 and the complaint was filed in the current period, which is 2024. 2024 - 2016 = 8.</other>
+<question_number>17</question_number>
+<answer>a psychologist</answer>
+<other>The article states Mastercard agreed to hire "a psychologist to assess bias."</other>
+<question_number>18</question_number>
+<answer>Mark Zuckerberg</answer>
+<other>The article states "As Mark Zuckerberg...embraced President Trump."</other>
+<question_number>19</question_number>
+<answer>second-largest</answer>
+<other>The article identifies Mastercard as "the world's second-largest payment processing company."</other>

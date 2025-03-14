@@ -1,0 +1,21 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>The breach occurred during the time period when AT&T was providing communications services to several federal agencies.</answer>
+<question_number>2</question_number>
+<answer>It increases the complexity of security measures because AT&T relies on a third-party platform to manage large amounts of data.</answer>
+<question_number>3</question_number>
+<answer>It highlights the importance of secure data management for companies with government ties because the breach could potentially compromise sensitive information related to national security.</answer>
+<question_number>4</question_number>
+<answer>The records can be used to identify communication patterns by linking phone numbers to individuals, potentially revealing communication networks of people in national security roles.</answer>
+<question_number>5</question_number>
+<answer>The exposed data could potentially impact federal agencies by compromising communication records of individuals involved in national security.</answer>
+<question_number>6</question_number>
+<answer>The exposed data includes records of calls and texts, which can be used to identify communication networks of individuals in sensitive positions.</answer>
+<question_number>7</question_number>
+<answer>The data could be beneficial to foreign nation states because it reveals communication patterns of individuals in sensitive positions, potentially providing insights into national security operations.</answer>
+<question_number>8</question_number>
+<answer>The compromised data includes records of calls and texts, which can be used to expose sensitive communication networks of government officials.</answer>
+<question_number>9</question_number>
+<answer>It increases customers' exposure to data breaches because cloud networks are shared with other users, creating more opportunities for potential attacks.</answer>
+<question_number>10</question_number>
+<answer>The professor's explanation relates to the platform involved in the breach because the platform is a third-party cloud network, which is a shared environment that increases the risk of data breaches.</answer>

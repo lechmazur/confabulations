@@ -1,0 +1,89 @@
+merged_oklahoma-schools-immigration.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information given in the article and answer exactly what's asked. Let's start with the first question.
+
+1. **How many Oklahoma school districts have already implemented the Bible teaching mandate from Ryan Walters according to district compliance reports?**  
+The article mentions that many districts refused to follow the Bible mandate. It doesn't say how many actually implemented it. So the answer should be N/A.
+
+2. **What was the total number of Latino students who left Alabama schools in the first month after their 2011 immigration status rule was implemented?**  
+The text mentions "markedly higher rates of absenteeism" but doesn't give a specific number. So N/A.
+
+3. **Which federal court ruled to overturn Alabama's 2011 immigration status requirement for public schools?**  
+The article says the rule was overturned after a federal lawsuit but doesn't name the court. So N/A.
+
+4. **What percentage of Oklahoma's school board members voted against Ryan Walters' immigration status tracking proposal?**  
+The proposal was approved unanimously by the six-member board. So 0% voted against. Answer is 0.
+
+5. **How many immigration raids did Ryan Walters coordinate with ICE in Oklahoma schools during the previous academic year?**  
+The article states Walters announced intent to support raids but doesn't mention the number conducted. So N/A.
+
+6. **What was the average daily attendance rate for undocumented students in Oklahoma City public schools before this new rule was proposed?**  
+No data on attendance rates is provided. Answer N/A.
+
+7. **How many ESL teachers did Superintendent Walters estimate would be needed to meet the educational needs identified through the new immigration status tracking system?**  
+The rule mentions assessing needs like ESL teachers, but no specific number is given. N/A.
+
+8. **What date did the Fort Worth school district conclude their investigation into the substitute teacher's social media posts?**  
+The article doesn't mention the conclusion date. Answer N/A.
+
+9. **How many Oklahoma school districts formally pledged to join Jamie C. Polk in refusing to collect immigration status information?**  
+Only Jamie Polk's district is mentioned as refusing. The number isn't stated, so N/A.
+
+10. **What was the total budget allocated by the Oklahoma State Board of Education for implementing this new immigration status tracking system?**  
+No budget information is provided. N/A.
+
+11. **Which state's education department previously implemented a similar immigration status tracking requirement for public schools before Oklahoma, leading to increased absenteeism among Latino students as cited in the text?**  
+Alabama is mentioned as the first state with such a rule. Answer Alabama.
+
+12. **What constitutional amendment did the National Immigration Law Center claim Oklahoma's enrollment rule violates by interfering with equal access to education?**  
+The article states the 14th Amendment's equal protection clause. Answer 14th Amendment.
+
+13. **How many school districts in Oklahoma explicitly refused to comply with Ryan Walters' prior mandate to teach the Bible across all grade levels and subjects?**  
+The article says many districts refused, but the exact number isn't given. N/A.
+
+14. **What specific federal agency did the substitute teacher in Fort Worth allegedly urge to visit their high school, according to the article's description of recent educator anxieties?**  
+The teacher called for ICE agents. Answer ICE.
+
+15. **Which Oklahoma city's school superintendent publicly declared their district would not collect immigration status information despite the new rule, according to the text?**  
+Jamie C. Polk is the Oklahoma City superintendent. Answer Oklahoma City.
+
+16. **Which constitutional clause did the Alabama school immigration status law overturned in 2011 violate, according to the American Immigration Council's analysis referenced in the text?**  
+The article mentions the 14th Amendment's equal protection clause. Answer Equal Protection Clause.
+
+17. **What specific educational resource did Oklahoma's rule change claim to prioritize assessing through immigration status tracking, as stated in the policy's justification?**  
+The rule mentions assessing needs like ESL teachers and tutoring programs. Answer English as a second language teachers and tutoring programs.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>0</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>Alabama</answer>
+<question_number>12</question_number>
+<answer>14th Amendment</answer>
+<question_number>13</question_number>
+<answer>N/A</answer>
+<question_number>14</question_number>
+<answer>ICE</answer>
+<question_number>15</question_number>
+<answer>Oklahoma City</answer>
+<question_number>16</question_number>
+<answer>Equal Protection Clause</answer>
+<question_number>17</question_number>
+<answer>English as a second language teachers and tutoring programs</answer>

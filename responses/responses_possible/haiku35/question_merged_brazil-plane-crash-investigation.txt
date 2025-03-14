@@ -1,0 +1,32 @@
+merged_brazil-plane-crash-investigation.txt
+<other>I will carefully analyze the article to answer each question precisely based solely on the text's information.</other>
+
+<question_number>1</question_number>
+<answer>The mention of improvements to the de-icing system since a 1994 crash creates a potential red herring by suggesting the system might be more reliable, which could distract from investigating current potential system failures.</answer>
+
+<question_number>2</question_number>
+<answer>The article suggests a complex conditional statement about speed dropping sharply before the crash, with experts indicating that icing could cause a stall at a higher speed than normally expected, creating a nuanced relationship between speed, altitude, and crash causation.</answer>
+
+<question_number>3</question_number>
+<answer>The ground temperature of around 63 degrees challenges the severe icing theory, as one expert explicitly stated "We're talking about Brazil here, not Antarctica", implying the conditions should not have been conducive to extreme icing.</answer>
+
+<question_number>4</question_number>
+<answer>The plane spinning slowly while plummeting and crashing almost directly on its belly contradicts standard expectations for a typical stall-induced crash trajectory.</answer>
+
+<question_number>5</question_number>
+<answer>The plane's speed did not drop far enough to cause a stall under normal conditions, challenging the primary crash theory unless extremely severe icing was present.</answer>
+
+<question_number>6</question_number>
+<answer>The pilots did not communicate with air traffic controllers or declare any emergency, which conflicts with standard protocol for addressing severe icing conditions.</answer>
+
+<question_number>7</question_number>
+<answer>The crash occurring in a gated community contradicts the assumption of a wide, open emergency landing area that might be expected in a severe icing scenario.</answer>
+
+<question_number>8</question_number>
+<answer>The rubber tube anti-icing system implemented after the 1994 crash paradoxically complicates the investigation by raising questions about whether it was activated or failed.</answer>
+
+<question_number>9</question_number>
+<answer>The plane's rubber tube anti-icing system becomes crucial when considering how ice might have compromised the wing's aerodynamic capabilities.</answer>
+
+<question_number>10</question_number>
+<answer>The plane fell from 17,000 feet, which challenges assumptions about gradual ice accumulation by suggesting a sudden, catastrophic loss of control.</answer>

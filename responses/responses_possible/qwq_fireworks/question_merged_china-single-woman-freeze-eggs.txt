@@ -1,0 +1,46 @@
+merged_china-single-woman-freeze-eggs.txt
+Okay, let's tackle these questions one by one using the article provided. I need to make sure each answer is directly from the text or logically inferred without any external info.
+
+1. **Question 1:** The article says China's leaders are trying to boost birthrate but restrict egg freezing to married women. The contradiction is that while they want more babies, they block single women from a method that could let them delay childbirth, possibly increasing future births. The answer should point out this contradiction.
+
+2. **Question 2:** The court upheld the rule denying Xu, which aligns with existing policies that require marriage. The government's incentives (like subsidies) aim to increase births, but the court's decision restricts access for unmarried women, which might limit their ability to have kids later. So it contradicts the incentives because it prevents some from having children.
+
+3. **Question 3:** The requirement for a birth license plus marriage for women, while men can freeze sperm without conditions, shows gender inequality. The text mentions this directly, so the answer is that it reflects inequality because men don't have the same restrictions.
+
+4. **Question 4:** The court's decision enforces traditional marriage as a prerequisite, showing that traditional family structures (marriage) are prioritized over individual choices. The article states that policies require marriage, so this is about prioritizing traditional structures.
+
+5. **Question 5:** The CCP's role is highlighted as they control reproductive policies, like the one-child policy and now egg freezing rules. The court's decision upholds these policies, showing the Party's influence on such laws.
+
+6. **Question 6:** The ruling ties legal rules (marriage requirement) with social norms (marriage) and economic factors (like maternity benefits for married couples). The article mentions these aspects, so the answer combines them.
+
+7. **Question 7:** The court's decision prioritizes state interests (population control via marriage norms) over individual rights (reproductive choice), showing the tension between state and personal rights. The text mentions Xu's fight for rights vs. the court's ruling.
+
+8. **Question 8:** The court upheld existing policies, showing legal institutions enforce state reproductive policies, not independent rulings. The court's role here is to support the Party's policies.
+
+9. **Question 9:** The case shows traditional values (marriage) vs. modern choices (delaying marriage for career). Xu's desire to work first is a modern aspiration conflicting with traditional norms enforced by policy.
+
+10. **Question 10:** The ban on unmarried women freezing eggs contradicts population goals because it restricts a method that could help increase births by allowing women to have kids later. The article states that the birthrate remains low despite incentives, implying the egg rule hinders this.
+
+Now, check each answer against the article text to ensure accuracy. Make sure answers are concise and use only provided info. Avoid adding extra details. If any question can't be answered, use N/A, but all seem covered here.
+</think>
+
+<question_number>1</question_number>
+<answer>China encourages more births but restricts egg freezing to married women, limiting single women's reproductive options that could eventually increase birthrate.</answer>
+<question_number>2</question_number>
+<answer>Contradicts; court upheld rules denying single women egg freezing, conflicting with incentives meant to boost births.</answer>
+<question_number>3</question_number>
+<answer>Women must be married and have a birth license, while men face no conditions, highlighting gender inequality.</answer>
+<question_number>4</question_number>
+<answer>Prioritizes traditional marriage as a prerequisite for reproductive rights, enforcing state-endorsed family structures.</answer>
+<question_number>5</question_number>
+<answer>Illustrates CCP's direct role in enforcing reproductive policies, like marriage requirements for egg freezing.</answer>
+<question_number>6</question_number>
+<answer>Legal rules (marriage mandate) align with social norms and economic barriers (denied maternity benefits) for unmarried women.</answer>
+<question_number>7</question_number>
+<answer>State prioritizes population control via marriage norms over individual reproductive rights, as seen in the court's rejection.</answer>
+<question_number>8</question_number>
+<answer>Legal institutions enforce state reproductive policies, as the court upheld existing marriage-based restrictions.</answer>
+<question_number>9</question_number>
+<answer>Traditional marriage requirements clash with modern aspirations like career-focused delayed childbirth.</answer>
+<question_number>10</question_number>
+<answer>Banning unmarried women from egg freezing restricts potential future births, undermining efforts to reverse population decline.</answer>

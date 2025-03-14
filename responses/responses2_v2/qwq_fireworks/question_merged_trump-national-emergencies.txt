@@ -1,0 +1,84 @@
+merged_trump-national-emergencies.txt
+Okay, I need to answer these 20 questions based solely on the provided article. Let me go through each question one by one and check the article for the answers. I have to be careful to only use the information given and not infer beyond what's stated.
+
+1. **Question 1:** The first question asks which Republican senator led opposition to Trump's emergency declarations citing executive overreach. Scanning the article, I don't see any mention of a specific Republican senator opposing the declarations. The article states that Republicans control Congress but are unlikely to challenge Trump. So the answer is N/A.
+
+2. **Question 2:** The question is about the mandated barrels of oil per day. The article mentions the US is the largest producer but doesn't specify a mandated production figure. So N/A.
+
+3. **Question 3:** It asks for the percentage increase in border crossings after the declaration. The article says the border is calm compared to Biden's time, but no specific percentage is given. N/A.
+
+4. **Question 4:** The environmental law suspended by the energy emergency. The article mentions the Endangered Species Act and laws like it being bypassed, but specifically names the Endangered Species Act. Wait, let me check again. The text says "expedite permitting... under laws like the Endangered Species Act." So it's not explicitly stated that it was suspended, but the law in question is the Endangered Species Act. Wait, the question says "specifically suspended"—the article says the declaration allows bypassing environmental reviews under such laws, but doesn't say which one was specifically suspended. The article mentions "Endangered Species Act" as an example. Since the question asks which law was specifically suspended, maybe the answer is N/A? Hmm. The article says "expedite permitting... under laws like the Endangered Species Act." So perhaps the answer is the Endangered Species Act, but it's not clear if it was specifically suspended. Alternatively, maybe the answer is N/A. Wait, the question says "specifically suspended", but the article doesn't state any specific law was suspended, just that the emergency allows bypassing them. So maybe N/A.
+
+5. **Question 5:** Funding redirected from DoD for the wall. The article says the declaration gives the option to bypass Congress and direct funding, but doesn't mention an amount. So N/A.
+
+6. **Question 6:** Number of National Guard troops deployed. The article mentions the option to deploy military and National Guard but no specific number. N/A.
+
+7. **Question 7:** Martin H. Redish cited a former president's precedent. The article mentions examples from Bush (1990 Iraq invasion) and Bush Jr. (9/11). The question is about a domestic policy precedent. The article says Douglas Brinkley provided examples like Bush (1990) and Bush (2001). Since Redish is quoted talking about the gap in the law, but the examples are from Brinkley. Wait, the question is about Martin H. Redish's citation. The text says Martin Redish is a constitutional law expert, but the examples given are from Brinkley. The question might be a trick; the article doesn't mention Redish citing a president. So N/A.
+
+8. **Question 8:** Daily cost at Guantanamo. The article mentions 10 migrants there but doesn't give a cost. N/A.
+
+9. **Question 9:** Number of environmental assessments waived in the first week. The article says expedite permitting but no number. N/A.
+
+10. **Question 10:** Brennan Center's criteria for legitimacy. The article says Goitein mentions emergencies should be for sudden crises moving too fast for Congress. The Brennan Center established criteria? The article doesn't state specific criteria, just her opinion. So N/A.
+
+11. **Question 11:** The dollar amount for oil used to imply an emergency despite contrary measures. The article states oil is $76 per barrel, same as 20-year average. So the answer is $76.
+
+12. **Question 12:** Which president's response to terrorism is cited as a legitimate example. The article mentions George W. Bush's 9/11 declaration. So the answer is George W. Bush.
+
+13. **Question 13:** The federal environmental law bypassed for drilling sites. The article mentions "Endangered Species Act" as an example. The question asks which law ensures public scrutiny. The Endangered Species Act requires environmental reviews. So answer is Endangered Species Act.
+
+14. **Question 14:** Construction project advanced via immigration emergency. The article says the declaration allows funding for border wall. So the answer is the border wall.
+
+15. **Question 15:** Current state of southern border as depicted. The article says "relatively calm" so the term is calm.
+
+16. **Question 16:** Legislative act granting broad discretion. The National Emergencies Act of 1976.
+
+17. **Question 17:** Historical event for invasion example. The 1990 Iraq invasion by Saddam, so George H.W. Bush's example.
+
+18. **Question 18:** Action to maintain status quo if joint resolution is filed. The article says Trump can veto the resolution. So the answer is veto.
+
+19. **Question 19:** Agency facing closure related to humanitarian aid. The article mentions U.S. Agency for International Development (USAID).
+
+20. **Question 20:** Critical minerals of a neighboring country linked to statehood remarks. The article says Canada's minerals are mentioned in Trudeau's comments about statehood. So Canada.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>$76</answer>
+<question_number>12</question_number>
+<answer>George W. Bush</answer>
+<question_number>13</question_number>
+<answer>Endangered Species Act</answer>
+<question_number>14</question_number>
+<answer>border wall</answer>
+<question_number>15</question_number>
+<answer>calm</answer>
+<question_number>16</question_number>
+<answer>National Emergencies Act of 1976</answer>
+<question_number>17</question_number>
+<answer>Invasion of Kuwait</answer>
+<question_number>18</question_number>
+<answer>veto</answer>
+<question_number>19</question_number>
+<answer>U.S. Agency for International Development</answer>
+<question_number>20</question_number>
+<answer>Canada</answer>

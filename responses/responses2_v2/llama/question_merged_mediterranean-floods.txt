@@ -1,0 +1,76 @@
+merged_mediterranean-floods.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>intermediate emissions scenario</answer>
+
+<question_number>12</question_number>
+<answer>mountains</answer>
+
+<question_number>13</question_number>
+<answer>France</answer>
+
+<question_number>14</question_number>
+<answer>floodplain areas with steep riverbeds and dense population</answer>
+
+<question_number>15</question_number>
+<answer>Greece</answer>
+
+<question_number>16</question_number>
+<other>This is not directly stated in the article, but we can infer that the North African coast has seen a greater intensification in extreme precipitation events based on the information provided.</other>
+<other>The article mentions that the Mediterranean region is warming 20% faster than the global average, and that this warming is causing an increase in extreme precipitation events.</other>
+<other>It also mentions that the North African coast is particularly vulnerable to flash flooding due to its dense population and steep riverbeds.</other>
+<other>Therefore, it can be inferred that the North African coast has seen a greater intensification in extreme precipitation events.</other>
+<answer>North African coast</answer>
+
+<question_number>17</question_number>
+<other>This is not directly stated in the article, but we can infer that urban development is the primary factor heightening the exposure of properties to flooding hazards in the region.</other>
+<other>The article mentions that urban growth in floodplain areas has increased the risk of flooding, and that more homes and properties are being hit by floods due to urban development and population growth.</other>
+<other>Therefore, it can be inferred that urban development is the primary factor heightening the exposure of properties to flooding hazards in the region.</other>
+<answer>urban development and population growth</answer>
+
+<question_number>18</question_number>
+<other>This is not directly stated in the article, but we can infer that the physical process involving rising air temperature and moisture capacity is mainly implicated in this counterintuitive trend.</other>
+<other>The article mentions that as the temperature of the air rises, so does its capacity to hold water, leading to an increase in extreme precipitation events.</other>
+<other>This suggests that the physical process involving rising air temperature and moisture capacity is mainly implicated in this counterintuitive trend.</other>
+<answer>rising air temperature and moisture capacity </answer>
+
+<question_number>19</question_number>
+<other>This is not directly stated in the article, but we can infer that October is repeatedly associated with the onset of major floods in both Spain and Italy.</other>
+<other>The article mentions that floods killed 223 people in Spain in October, and that almost 28 inches of rain fell in 48 hours in southern France in October.</other>
+<other>This suggests that October is repeatedly associated with the onset of major floods in both Spain and Italy.</other>
+ <answer>October </answer>
+
+ <question_number>20 </question_number>
+ <other>This is not directly stated in the article, but we can infer that a cut-off low is portrayed as forming low-pressure systems that, when air masses interact over the Mediterranean, trigger violent, flood-causing storms. </other >
+ < other > The article mentions that a cut-off low caused Storm Daniel, which strengthened as it crossed the Mediterranean into Libya, killing 13,200 people after two dams burst. </ other >
+ < other > This suggests that a cut-off low is portrayed as forming low-pressure systems that, when air masses interact over the Mediterranean, trigger violent, flood-causing storms. </ other >
+ < answer > cut-off low </ answer >

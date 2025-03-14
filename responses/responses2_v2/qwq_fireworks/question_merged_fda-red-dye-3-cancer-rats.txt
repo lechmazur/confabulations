@@ -1,0 +1,84 @@
+merged_fda-red-dye-3-cancer-rats.txt
+Okay, let's tackle these questions one by one using only the information from the article. I need to be careful to answer exactly what's asked and not infer beyond the text.
+
+1. The question asks about the percentage increase in thyroid cancer in humans projected by the industry study from 1990. The article says the study found thyroid cancer in male rats but estimated fewer than 1 in 100,000 people. The percentage increase isn't given for humans, so N/A.
+
+2. Robert F. Kennedy Jr. isn't linked to a specific cancer in kids in the text. The article mentions health concerns for children but doesn't name a specific cancer he claimed. So N/A.
+
+3. The EU allows Red 3 only in maraschino cherries. Just Born switched to other colors, but the EWG suggested alternatives like carmine or beet coloring. The question asks what Mars should use instead of petroleum-based dyes. The article says some M&Ms use carmine or beet, so those are the alternatives. The answer is carmine or beet.
+
+4. Thomas Galligan didn't mention a health condition other than cancer caused by Red 3. The article states the Center for Science in the Public Interest says the FDA allowed unsafe chemicals, but no specific condition other than cancer is listed here. So N/A.
+
+5. Brian Ronholm's petition linked dyes to serious health problems, but the specific neurological disorder isn't mentioned. The article mentions behavioral changes in kids, but not a specific disorder. So N/A.
+
+6. The International Association of Color Manufacturers said no credible safety concerns. Melanie called Red 3 low-hanging fruit. The article mentions beet, cabbage, and insect-based colorings (like carmine). The question asks for a chemical from insects proposed as an alternative. The answer is carmine.
+
+7. Sarah Gallo's primary reason for switching was cancer risks from the 1990 ban. The study linked to thyroid cancer in rats, so thyroid cancer is the answer.
+
+8. The 2021 data from the Center didn't mention yellow rice causing behavioral changes beyond what's stated. The article says some studies link dyes to behavior changes in kids, but yellow rice isn't tied to a specific one. N/A.
+
+9. Jim Jones stated that human risks aren't supported, so he didn't link it to a specific cancer. The study linked to thyroid cancer in rats, but he didn't confirm that in humans. So N/A.
+
+10. The Environmental Working Group blamed the FDA and Congress for underfunding. The question asks for another body besides Congress. The answer is the FDA.
+
+11. The article states companies must start removing from 2027. The year is 2027.
+
+12. The study used male rats as the test subjects showing carcinogenic effects. The answer is male rats.
+
+13. The dye is petroleum-based. The descriptor is petroleum-based.
+
+14. The 1990 ban was for cosmetics. So the year is 1990.
+
+15. The International Association of Color Manufacturers disagreed with the FDA's decision. Their name is the answer.
+
+16. The estimated risk was fewer than 1 in 100,000 people. The ratio is 1 in 100,000.
+
+17. California banned in 2023. The answer is California.
+
+18. Over 200,000 pounds in 2021. The weight is 200,000 pounds.
+
+19. Mars uses Red 40 or carmine/beet. The answer is Red 40.
+
+20. The FDA reorganized human food programs last year. The organization is the FDA.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>carmine or beet coloring</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>carmine</answer>
+<question_number>7</question_number>
+<answer>thyroid cancer</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>F.D.A.</answer>
+<question_number>11</question_number>
+<answer>2027</answer>
+<question_number>12</question_number>
+<answer>male laboratory rats</answer>
+<question_number>13</question_number>
+<answer>petroleum-based</answer>
+<question_number>14</question_number>
+<answer>1990</answer>
+<question_number>15</question_number>
+<answer>International Association of Color Manufacturers</answer>
+<question_number>16</question_number>
+<answer>fewer than one in 100,000</answer>
+<question_number>17</question_number>
+<answer>California</answer>
+<question_number>18</question_number>
+<answer>200,000 pounds</answer>
+<question_number>19</question_number>
+<answer>Red Dye 40</answer>
+<question_number>20</question_number>
+<answer>F.D.A.</answer>

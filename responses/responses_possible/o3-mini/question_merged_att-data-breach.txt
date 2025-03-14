@@ -1,0 +1,21 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>Use of a shared third‐party cloud (Snowflake) creates a multi-tenant environment that makes securing data more challenging.</answer>
+<question_number>3</question_number>
+<answer>It highlights the risk that unsecured data could compromise sensitive government communications.</answer>
+<question_number>4</question_number>
+<answer>By linking phone numbers to individuals through data broker records, allowing mapping of their call and text interactions.</answer>
+<question_number>5</question_number>
+<answer>There is a risk that sensitive communication networks of federal agencies may be exposed.</answer>
+<question_number>6</question_number>
+<answer>The metadata in the exposed records can be used to map and identify communication networks of individuals in sensitive roles.</answer>
+<question_number>7</question_number>
+<answer>The compromised phone record metadata could be exploited by foreign nation states to benefit from monitoring communication patterns.</answer>
+<question_number>8</question_number>
+<answer>Since the records contain interaction data without content, they can still reveal the structure of sensitive communication networks among government officials.</answer>
+<question_number>9</question_number>
+<answer>Moving IT infrastructure to the cloud places data in a shared environment, increasing the complexity and potential vulnerabilities to breaches.</answer>
+<question_number>10</question_number>
+<answer>The professor’s explanation of increased risks in shared cloud environments directly relates to the use of Snowflake, the platform from which the data was downloaded.</answer>

@@ -1,0 +1,40 @@
+merged_country-without-medals.txt
+<question_number>1</question_number>
+<answer>Smaller countries can succeed by playing to their strengths, like Jamaica in track and field, while larger countries like Bangladesh haven't yet achieved success.</answer>
+<other>The article contrasts population size with Olympic success, highlighting Jamaica and Grenada's achievements despite small populations and Bangladesh's lack of medals despite a large population.</other>
+
+<question_number>2</question_number>
+<answer>Winning a medal can lead to increased investment in sports infrastructure and greater participation, as seen in Costa Rica and potentially Dominica.</answer>
+<other>The article discusses how Costa Rica experienced increased investment in swimming pools and participation after Sylvia Poll's medal, and suggests Dominica's medal could inspire similar changes.</other>
+
+<question_number>3</question_number>
+<answer>Cuba has won significantly more medals than India despite having a smaller population, demonstrating the impact of government investment.</answer>
+<other>The article directly compares Cuba and India, noting Cuba's 235 medals versus India's 35, attributing the difference to deliberate government spending.</other>
+
+<question_number>4</question_number>
+<answer>Smaller countries can improve their odds by focusing on sports where they excel, as Jamaica does with track and field, and Bolivia is considering.</answer>
+<other>The article highlights Jamaica's success in track and field and Bolivia's plan to focus on its strengths to increase medal chances.</other>
+
+<question_number>5</question_number>
+<answer>Strategic investment, like Jamaica's focus on track and field, can lead to success, and Bolivia is studying this approach.</answer>
+<other>The article uses Jamaica as an example of a smaller country achieving success through focused investment and mentions Bolivia's consideration of a similar strategy.</other>
+
+<question_number>6</question_number>
+<answer>Economic status impacts Olympic success, with Nepal being a poor country with low sports investment and Monaco having a high GDP but a small population.</answer>
+<other>The article contrasts Nepal's poverty and low sports investment with Monaco's high GDP and small population, illustrating the complex relationship between economics and Olympic success.</other>
+
+<question_number>7</question_number>
+<answer>Winning a medal can motivate government officials to invest in sports infrastructure, as Thea LaFond-Gadson hopes will happen in Dominica.</answer>
+<other>The article specifically mentions LaFond-Gadson's hope that her medal will encourage the Dominican government to allocate land for a track.</other>
+
+<question_number>8</question_number>
+<answer>Monaco</answer>
+<other>The article states that Monaco has attended the Olympics 32 times without winning a medal and has one of the highest GDPs per capita.</other>
+
+<question_number>9</question_number>
+<answer>6.7</answer>
+<other>Cuba has 235 medals and India has 35. 235/35 = 6.714</other>
+
+<question_number>10</question_number>
+<answer>1671</answer>
+<other>The US has 2975 medals. The next four countries have 1204 + 1058 + 955 + 898 = 4115. 2975 + 4115 = 1671.</other>

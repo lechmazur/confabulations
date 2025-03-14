@@ -1,0 +1,31 @@
+merged_ai-chatbots-chatgpt-math.txt
+<question_number>1</question_number>
+<answer>They were never designed to do math; they were fine-tuned for determining probabilities, not doing rules-based calculations</answer>
+
+<question_number>2</question_number>
+<answer>They excel when they've consumed vast quantities of relevant training data but still perform erratically on math problems</answer>
+
+<question_number>3</question_number>
+<other>Looking at how Khan Academy and other educational applications handle math problems with AI...</other>
+<answer>Khan Academy's Khanmigo sends numerical problems to a calculator program instead of asking the AI to solve the math, while ChatGPT summons help from a calculator program for tasks like large-number division and multiplication</answer>
+
+<question_number>4</question_number>
+<answer>A shift from computers as programmed rule-following machines to neural networks that learn by analyzing vast amounts of data and predicting what comes next</answer>
+
+<question_number>5</question_number>
+<answer>AI chatbots are "more liberal arts major than numbers whiz," which contradicts computing's traditional strength in mathematical calculations</answer>
+
+<question_number>6</question_number>
+<answer>It teaches students to look at things with a critical eye, sharpens critical thinking, and encourages them to compare their answers with the bot's</answer>
+
+<question_number>7</question_number>
+<answer>It shows AI excels at language skills rather than mathematical precision, contrary to traditional computing strengths</answer>
+
+<question_number>8</question_number>
+<answer>It highlights the debate between those who believe large language models are the path to AGI versus skeptics who question whether adding more data and computing power is enough</answer>
+
+<question_number>9</question_number>
+<answer>AI systems excel at language (traditionally associated with liberal arts) while struggling with math (traditionally associated with STEM)</answer>
+
+<question_number>10</question_number>
+<answer>Ferrucci acknowledges AI's impressive language skills but notes that "for a lot of things that really matter, painful precision is required"</answer>

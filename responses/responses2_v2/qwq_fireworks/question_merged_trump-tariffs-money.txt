@@ -1,0 +1,104 @@
+merged_trump-tariffs-money.txt
+Okay, let's tackle these questions one by one using the article provided. I need to make sure I only use the information from the article and follow the strict instructions. Let me start with each question and check the text carefully.
+
+1. **Which European multinational company announced plans to re-domicile in the United States specifically to avoid Trump's proposed tariffs?**
+   - The article mentions "European multinationals" considering re-domiciling, but no specific company is named. So answer N/A.
+
+2. **How much additional computing power did Microsoft agree to provide OpenAI after the Stargate announcement?**
+   - The article states Microsoft will continue providing computing power, but the exact amount isn't mentioned. It mentions a $10B deal with Oracle but not Microsoft's additional amount. So N/A.
+
+3. **What was the primary reason United Airlines cited for launching direct flights between Newark and Greenland?**
+   - The article says United's flights are to improve connectivity, which is a barrier to Greenland's development. The primary reason cited is improving connectivity. The answer is "lack of connectivity" but needs exact phrasing. Wait, the article says "The island's lack of connectivity with the world" so the reason is to address that. The exact quote: "The greatest barrier to economic development has been Greenland's lack of connectivity with the world". So the primary reason is improving connectivity, so the answer is "lack of connectivity with the world" but maybe the question wants the reason cited by the airline. The article says United is starting flights, but the reason given in the text is that it's Greenland's first direct connection, so maybe the answer is "to provide direct connection" but the article doesn't explicitly state United's cited reason. Hmm, perhaps the answer is N/A since it's not explicitly stated why United did it. Wait, the article says "United Airlines is set to begin direct flights from Newark. It will be Greenland's first direct connection to the U.S., potentially bringing in more investors." So the reason cited is "potentially bringing in more investors" but not directly stated as the primary reason. Since it's not explicitly stated, maybe N/A. Alternatively, the article says "The island's lack of connectivity" is the barrier, so United's flights address that. The question asks what United cited, but the article doesn't say United's reason, so N/A.
+
+4. **Which federal agency did Trump propose to replace U.S. Customs and Border Protection for collecting foreign tariffs?**
+   - The article mentions the "External Revenue Service" proposed by Trump to collect tariffs. So the answer is External Revenue Service.
+
+5. **What percentage of women were promoted to Goldman Sachs' management committee in the latest round of appointments?**
+   - The article states the percentage of women on the committee will "shrink" but doesn't give a specific percentage. So N/A.
+
+6. **How much revenue did Critical Metals project from the Nuuk rare-earth mine acquisition in its first year of operation?**
+   - The article says Critical Metals calls the mine a "game-changing" asset but doesn't mention projected revenue. So N/A.
+
+7. **What was the total amount Netflix charged its U.S. customers in price increases following the success of Squid Game and NFL content?**
+   - The article mentions Netflix raised prices but doesn't specify the total amount. So N/A.
+
+8. **Which Chinese technology company submitted a competing bid against Critical Metals for the Tanbreez rare-earth mine?**
+   - The article states China had found a new source and mentions Critical Metals' bid, but no specific Chinese company is named. So N/A.
+
+9. **What deadline did Trump set for federal DEI officials to transition their responsibilities to the new DOGE teams?**
+   - The article says DEI officials were ordered to close by Wednesday evening. The exact deadline is "Wednesday evening", but need to check context. The article mentions "ordered to close up shop by Wednesday evening" in the politics section. Since the article is a newsletter, the exact date isn't given, but the deadline is "Wednesday evening". The question asks for the deadline, so answer "Wednesday evening".
+
+10. **How much did Google's total investment in Anthropic reach after combining previous investments with the newly announced $1 billion?**
+    - The article states Google invested an additional $1B, but doesn't mention previous amounts. So total can't be determined. Answer N/A.
+
+11. **What percentage tariff for China, mentioned along with discussions of tariff levies as a revenue tool in Trump's address, is noted as the aggressive option in the article?**
+    - The article mentions "60 percent levy" as the aggressive option vs. 10%. So answer 60%.
+
+12. **Which agency, proposed in conjunction with the President's inaugural address to capture foreign tariff revenues, is suggested as distinct from traditional customs bodies?**
+    - The External Revenue Service is mentioned as the proposed agency. So answer External Revenue Service.
+
+13. **What is the formal name given to the executive office unit originally described as a nongovernmental panel that has now been integrated into federal agency efforts related to government spending?**
+    - The article says it's now the "United States DOGE Service". So answer United States DOGE Service.
+
+14. **Which element linked to military application concerns in Greenland mining operations does the article reference when discussing the strategic implications of rare-earth resource management?**
+    - The article mentions gallium's potential military applications. So answer gallium.
+
+15. **What is the designated name of the massive artificial intelligence infrastructure project that might eventually invest up to $500 billion and notably excludes a well-known long-term tech partner?**
+    - The project is called Stargate. The excluded partner is Microsoft. So answer Stargate.
+
+16. **Which streaming service, mentioned as achieving its biggest quarterly subscriber gain ever, is highlighted in the article amid concerns about Trump's tariff policies?**
+    - Netflix is mentioned with 19 million new subscribers. Answer Netflix.
+
+17. **What corporate restructuring strategy, mentioned as a potential means for European multinationals to avoid tariffs by altering their operational base, is being considered in the article?**
+    - The article says some European multinationals are considering re-domiciling. So answer re-domiciling.
+
+18. **Which financial institution is noted in the article for executing its most significant round of executive promotions in years during a period of tariff uncertainty?**
+    - Goldman Sachs promoted a crop of executives. Answer Goldman Sachs.
+
+19. **What dollar amount is associated with the President's announced joint venture between OpenAI, SoftBank, and Oracle for building next-generation AI data centers, as described in the text?**
+    - The article mentions $100 billion joint venture. Answer $100 billion.
+
+20. **Which strategically important territory, described as having rich mineral resources and a population of about 57,000, is mentioned as a potential acquisition target that could reshape geopolitical and tariff policies?**
+    - Greenland is mentioned with those details. Answer Greenland.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>External Revenue Service</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>Wednesday evening</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>60%</answer>
+<question_number>12</question_number>
+<answer>External Revenue Service</answer>
+<question_number>13</question_number>
+<answer>United States DOGE Service</answer>
+<question_number>14</question_number>
+<answer>gallium</answer>
+<question_number>15</question_number>
+<answer>Stargate</answer>
+<question_number>16</question_number>
+<answer>Netflix</answer>
+<question_number>17</question_number>
+<answer>re-domicile</answer>
+<question_number>18</question_number>
+<answer>Goldman Sachs</answer>
+<question_number>19</question_number>
+<answer>$100 billion</answer>
+<question_number>20</question_number>
+<answer>Greenland</answer>

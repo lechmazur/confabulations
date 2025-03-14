@@ -1,0 +1,40 @@
+merged_waffle-house-egg-surcharge.txt
+<question_number>1</question_number>
+<answer>$1.15</answer>
+<other>Current retail price per egg is about $0.65, plus a 50-cent surcharge.</other>
+
+<question_number>2</question_number>
+<answer>Grade-A large eggs</answer>
+<other>The article specifies that Waffle House uses "quality, fresh-cracked, Grade-A large eggs."</other>
+
+<question_number>3</question_number>
+<answer>Monday</answer>
+<other>The article states the surcharge went into effect on Monday.</other>
+
+<question_number>4</question_number>
+<answer>highly pathogenic avian influenza</answer>
+<other>The article identifies this as the illness causing the egg shortage.</other>
+
+<question_number>5</question_number>
+<answer>134%</answer>
+<other>Last year's price was $3.33; current price is $7.79. The increase is ($7.79 - $3.33) / $3.33 * 100 = ~134%.</other>
+
+<question_number>6</question_number>
+<answer>272 million eggs</answer>
+<other>The article states Waffle House serves more than 272 million eggs annually.</other>
+
+<question_number>7</question_number>
+<answer>continuing egg shortage</answer>
+<other>The article attributes the surcharge to the "continuing egg shortage" caused by avian influenza.</other>
+
+<question_number>8</question_number>
+<answer>Brooke Rollins</answer>
+<other>Brooke Rollins, Trump's nominee for secretary of agriculture, prioritized addressing animal disease outbreaks.</other>
+
+<question_number>9</question_number>
+<answer>30 million chickens</answer>
+<other>The article mentions that over 30 million chickens were recently culled.</other>
+
+<question_number>10</question_number>
+<answer>price of eggs</answer>
+<other>The article highlights that consumers view egg prices as a barometer of the economy and rising food costs.</other>

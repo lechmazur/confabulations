@@ -1,0 +1,133 @@
+merged_habit-building-streak.txt
+Okay, let's tackle these questions one by one using the article provided. I need to be careful to only use the information in the text and answer exactly what's asked without any extra details.
+
+1. **Question 1:** How many steps did Jerry Seinfeld walk daily as part of his productivity routine?  
+   The article says Jerry Seinfeld "maintains his productivity by writing jokes every single day." It doesn't mention steps. David Sedaris walks 21,000 steps, but that's his example. So answer is N/A.
+
+2. **Question 2:** Which behavioral scientist from UC Berkeley conducted the research...?  
+   Dr. Emiliana Simon-Thomas is from UC Berkeley, but the text mentions her talking about allowing a day off. The research on loss aversion was by Dr. Katy Milkman at UPenn. So UC Berkeley scientist here isn't the one for that study. Answer N/A.
+
+3. **Question 3:** Meditation app Lauren LoGrasso used?  
+   The article mentions she meditates daily but doesn't name an app. Answer N/A.
+
+4. **Question 4:** David Sedaris' walking streak days before writing about it?  
+   The article states he walks 21k steps daily but doesn't mention when he started or writing about it. N/A.
+
+5. **Question 5:** Carol Sable Wade's platform?  
+   She uses Duolingo for her 2000-day streak. The question says London-based platform, but Duolingo isn't London-based. The article doesn't mention location of the app. So N/A.
+
+6. **Question 6:** Time of day Gretchen Rubin visited the museum?  
+   The article says she visits daily but not the time. N/A.
+
+7. **Question 7:** John Wilson's miles run while journaling?  
+   John Wilson journals daily since 2007. The article doesn't mention running miles. The author runs a mile a day. So N/A.
+
+8. **Question 8:** Percentage of Diamond League users with over 1000 days?  
+   The article mentions Carol is in Diamond League, but no percentage given. N/A.
+
+9. **Question 9:** Month Alysa and Jackson started Snapchat?  
+   They've been doing it for nearly 8 years but no start month mentioned. N/A.
+
+10. **Question 10:** Dr. Wendy Wood's recommended word count?  
+   She talks about repetition and context but no specific word count. N/A.
+
+11. **Question 11:** Author's physical activity despite disliking outdoors?  
+   The author runs a mile a day. The answer is running.
+
+12. **Question 12:** Writer's daily steps?  
+   David Sedaris walks 21,000 steps. The question refers to a well-known writer, so that's him.
+
+13. **Question 13:** Strategy for sustaining streaks with limited gaps?  
+   Allow one day off, never two in a row. The article mentions this.
+
+14. **Question 14:** Motivational principle combining loss and gain?  
+   The text says streaks use loss aversion and potential gain. The principle is both together, so "dual motivators" or "loss aversion and potential gain".
+
+15. **Question 15:** Social media for friends' exchange?  
+   Snapchat, as mentioned with Alysa and Jackson.
+
+16. **Question 16:** Duolingo's milestone?  
+   Carol has over 2000 days.
+
+17. **Question 17:** Gretchen's museum?  
+   Metropolitan Museum of Art.
+
+18. **Question 18:** USC scientist on habits?  
+   Dr. Wendy Wood, mentioned as from USC.
+
+19. **Question 19:** Headline with trials causing discomfort?  
+   "Sick in the Name of Science" mentions drug trials causing vomiting, etc.
+
+20. **Question 20:** Unique example?  
+   The routines given are running, steps, journaling, meditation, Duolingo. The author's running is mentioned once. Wait, the author's running is one example. Let me check. The first examples are David's steps, John's journaling, Jerry's writing. The author's own example is running a mile a day. Since others have their own, but the question is which appears only once. Let's see: running (author's example), steps (David), journaling (John), meditation (Lauren), Duolingo (Carol). So the unique one might be running since others are mentioned by others. The question asks which routine appears only once. The author's running is unique in the examples. So answer is running a mile a day. But the question says "routine activity appears only once". Let me check all examples: David's walking steps, John's journaling, Jerry's jokes, author's running, Lauren's meditation, Carol's Duolingo, Gretchen's museum. Each is a different activity. So the only one mentioned once is maybe running? The author's own example. The question says "which single routine activity appears only once". Since all are unique except maybe steps and journaling? Wait, no. Each is a separate example. So the answer is the author's running, since that's the only one the author is using, but the question is about which activity is only mentioned once. All are unique. Wait the first paragraph lists David, John, Jerry, and the author. So the author's running is a unique example. The answer is "running at least one mile a day" but the question asks for the activity. The answer is running.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Article mentions Jerry Seinfeld writes jokes daily, not steps. Steps are David Sedaris' routine.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Dr. Katy Milkman from UPenn discussed loss aversion, not UC Berkeley's Dr. Simon-Thomas.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Lauren LoGrasso's meditation practice isn't tied to a specific app in the text.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>David Sedaris' walking streak duration before writing about it isn't stated.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Carol Sable Wade uses Duolingo, not a London-based platform.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Time of day for Gretchen Rubin's museum visits isn't specified.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>John Wilson journals but no mention of running miles.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>No percentage given for Diamond League users with over 1000 days.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Start month of Alysa and Jackson's Snapchat streak isn't mentioned.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>Dr. Wendy Wood discusses habit repetition, not a specific word count.</other>
+
+<question_number>11</question_number>
+<answer>running</answer>
+
+<question_number>12</question_number>
+<answer>21000</answer>
+
+<question_number>13</question_number>
+<answer>never two in a row</answer>
+
+<question_number>14</question_number>
+<answer>loss aversion and potential gain</answer>
+
+<question_number>15</question_number>
+<answer>Snapchat</answer>
+
+<question_number>16</question_number>
+<answer>2000</answer>
+
+<question_number>17</question_number>
+<answer>Metropolitan Museum of Art</answer>
+
+<question_number>18</question_number>
+<answer>Dr. Wendy Wood</answer>
+
+<question_number>19</question_number>
+<answer>Sick in the Name of Science</answer>
+
+<question_number>20</question_number>
+<answer>running</answer>

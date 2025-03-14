@@ -1,0 +1,84 @@
+merged_josh-white-jr-dead.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the given article and answer exactly as per the instructions. Let me start with the first question.
+
+1. **Question 1:** The first question asks about the television drama series Josh White Jr. had a recurring role in during the 1950s while his father was blacklisted. The article mentions he appeared in "dozens of made-for-television dramas" during that time, but doesn't specify a particular series name. Since there's no specific name given, the answer is N/A.
+
+2. **Question 2:** This asks which Broadway production featured both Josh White Jr. and Christopher Walken when they were at the Professional Children's School. The article states they were classmates there but doesn't mention a specific Broadway show they were in together. So N/A again.
+
+3. **Question 3:** How many years did he perform at the Raven Gallery before moving to Michigan in 1976? The text says he kept a "longstanding commitment to the Raven Gallery" and moved in 1976. However, the start date isn't provided, so we can't calculate the years. N/A.
+
+4. **Question 4:** The song co-written by Josh White Jr. and Hamlisch was "See Saw," which he recorded in 1956. The question asks if it became a hit for another artist in the 1960s folk revival. The article doesn't mention another artist's hit, so N/A.
+
+5. **Question 5:** The civil rights leader collaborating with Josh Sr. during Eleanor's tour? The article says Eleanor Roosevelt was involved, but no other leader is named. Wait, the text says Josh Sr. "joined Eleanor Roosevelt... on a goodwill tour," but doesn't mention another leader. So N/A.
+
+6. **Question 6:** Cause of death for his son Jason? The article mentions Jason died last year (presumably 2023) but doesn't state the cause. So N/A.
+
+7. **Question 7:** Instrument he learned first under his father. The article says he began performing at 4 with his father, a guitarist. It mentions he played guitar, but does it say he learned another first? The text doesn't specify another instrument, so maybe guitar was first. The answer is "guitar" but need to check. Wait, the question says "before switching to guitar as primary." If he started with another, but article says he performed with his father who was a guitarist, maybe he learned guitar first. The article doesn't mention another instrument, so perhaps the answer is N/A? Wait, the article says "the celebrated singer and guitarist Josh White" was his father, and he later carved his own career. It doesn't say he started on another instrument. Maybe the answer is "guitar".
+
+8. **Question 8:** Name of the burglar convicted of murdering Jackie Harris. The article mentions the murder but doesn't name the perpetrator. So N/A.
+
+9. **Question 9:** The award received at the 2024 Folk Americana event. The article says his last performance was there but doesn't mention an award name. So N/A.
+
+10. **Question 10:** Total albums released after 1956. The article doesn't provide a number, so N/A.
+
+11. **Question 11:** The venue in Greenwich Village that hosted integrated audiences. The article mentions Cafe Society where his father performed. So answer is "Cafe Society".
+
+12. **Question 12:** Historic performer in Sugar Hill known for breaking barriers. The neighbors included Marian Anderson, who was a singer known for breaking racial barriers. So "Marian Anderson".
+
+13. **Question 13:** Calamitous event in early 70s that halted his career. The murder of his wife Jackie in 1971. So answer is "the murder of his wife Jackie Harris in 1971".
+
+14. **Question 14:** Governmental inquiry that forced elder's career shift. The House Committee on Un-American Activities (HUAC) blacklisted him. So "House Committee on Un-American Activities".
+
+15. **Question 15:** Midwestern city where a religious figure's visit occurred, emblematic of his revival. The article mentions Detroit when Pope John Paul II visited in 1987. So "Detroit".
+
+16. **Question 16:** Location where he announced retirement a day before death. He died in Rochester, Mich., and the manager said he agreed to retire the day before. The announcement was made there, so "Rochester, Mich.".
+
+17. **Question 17:** Enduring song from elder's repertoire that the son performed. The article mentions "One Meatball" as part of his father's repertoire that he performed. So "One Meatball".
+
+18. **Question 18:** Title of the one-man show about his father. The article states "Josh: The Man and His Music" in 1983. So that's the answer.
+
+19. **Question 19:** Relative who was primary influence in collaborations. His father, Josh White Sr. So "Josh White Sr.".
+
+20. **Question 20:** Setting for his 1980s live gigs. The article says he performed mostly on college campuses. So "college campuses".
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>guitar</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>Cafe Society</answer>
+<question_number>12</question_number>
+<answer>Marian Anderson</answer>
+<question_number>13</question_number>
+<answer>the murder of his wife Jackie Harris in 1971</answer>
+<question_number>14</question_number>
+<answer>House Committee on Un-American Activities</answer>
+<question_number>15</question_number>
+<answer>Detroit</answer>
+<question_number>16</question_number>
+<answer>Rochester, Mich.</answer>
+<question_number>17</question_number>
+<answer>One Meatball</answer>
+<question_number>18</question_number>
+<answer>Josh: The Man and His Music</answer>
+<question_number>19</question_number>
+<answer>Josh White Sr.</answer>
+<question_number>20</question_number>
+<answer>college campuses</answer>

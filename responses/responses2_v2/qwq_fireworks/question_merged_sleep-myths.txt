@@ -1,0 +1,84 @@
+merged_sleep-myths.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article. Let's start with the first question.
+
+1. The question is about the percentage of adults misunderstanding caffeine and sleep debt from the 2019 study's lead author. The article mentions Rebecca Robbins as the lead author of a 2019 study on sleep misconceptions. But the article doesn't specify any percentage related to caffeine consumption and sleep debt. It only says there are common misunderstandings. So this must be N/A.
+
+2. The second question asks which demographic group had the strongest correlation in the 500k study between over 9 hours sleep and respiratory mortality. The article states a 2023 study with nearly 500k participants found those sleeping over 9 hours had 35% higher risk of respiratory disease death. But it doesn't mention specific demographics here. So N/A.
+
+3. Dr. Romaker's research on sleep inertia duration. The article says sleep inertia can last 30 mins to 2 hours per CDC, but Dr. Romaker is quoted about women with apnea not snoring loudly. No mention of her research on duration. So N/A.
+
+4. Harvard expert (Rebecca Robbins) suggests adjusting bedtime by 15 minutes each night. The question asks how many minutes each week to eliminate debt. The article says "go to bed 15 minutes earlier tonight and maybe 15 more the next night." So each night adds 15, but the question is per week? Wait, the exact quote is "Try to go to bed 15 minutes earlier tonight and maybe 15 more the next night." So each night, increasing by 15. But the question is about per week? Wait, the question says "each week"—maybe they mean per night. The answer would be 15 minutes each night. But the question asks "how many minutes earlier each week"—maybe cumulative? But the article says "gradually" so maybe 15 each night. The answer is 15.
+
+5. Hormone changes during awakenings making it hard to sleep. The article mentions Dr. Sajid says if over 20 mins to fall back asleep, get out of bed. But the question is about hormone levels. The text doesn't mention any hormones here. N/A.
+
+6. Sleep medication linked to extended sleep inertia. Dr. Goldschmied mentions antihistamines and sedatives exacerbate it. So antihistamines or sedatives. The question asks which type, so answer is antihistamines (or both, but the question says "type"—maybe antihistamines).
+
+7. Cognitive performance reduction by neurologist Katznelson. The article says sleep deprivation causes worsened memory, mood swings, and creativity. But no specific percentage. N/A.
+
+8. Nights of proper sleep to reverse chronic deprivation. The article doesn't mention a specific number of nights. N/A.
+
+9. Postmenopausal women without loud snoring for apnea. Dr. Romaker noted women with apnea may not snore loudly. The question asks percentage. The article says "some groups" but no exact percentage. N/A.
+
+10. Optimal sunlight time for sleep inertia. Dr. Goldschmied recommends a walk outside in the morning. So morning. The answer is morning.
+
+11. Study linking oversleeping to 35% cardiovascular risk. The 2023 study mentions respiratory, not cardiovascular. The 35% is for respiratory. So N/A.
+
+12. Max weekend sleep-in duration. Dr. Kilkenny says 30 minutes is okay, but hours every weekend is bad. The question asks maximum to avoid debt. The article says "sleeping in for 30 minutes... is generally no cause for concern". So 30 minutes.
+
+13. Demographic least likely to snore with apnea. Dr. Romaker says women with apnea may not snore loudly. So postmenopausal women (as per the previous question's group mentioned).
+
+14. Type 2 diabetes risk increase from 2021 review. The article states "long sleepers were at higher risk... 35% more likely to die from respiratory... a 2021 review found higher risk of Type 2 diabetes compared to 7-8 hours". But the question asks for the percentage increase. The article doesn't specify the exact percentage for diabetes, only that it's higher. So N/A.
+
+15. Sleep disorder linked to weekend oversleeping. Dr. Goldschmied mentions sleep apnea as a possible reason for needing specialist consultation if oversleeping. The article says "disorders like sleep apnea" when talking about consulting a specialist. So sleep apnea.
+
+16. Threshold time for returning to bed. Dr. Sajid says if over 15-20 minutes to fall asleep, get out of bed. The threshold is 15-20 minutes. The question asks the threshold time limit, so 20 minutes.
+
+17. 2019 study by Robbins on sleep inertia and chronic deprivation. The article mentions Robbins' 2019 study on misconceptions, not directly on sleep inertia's causation. So N/A.
+
+18. Mechanism of antihistamines worsening grogginess. The article says they have a "hangover effect" due to being sedatives. The primary mechanism is the sedative effect. So antihistamines' sedative properties.
+
+19. 2023 study participants. The article says "nearly 500,000 participants". So 500,000.
+
+20. Sleep stage disruption causing 3am awakenings. The article says awakenings happen due to shifts between sleep stages. Dr. Goldschmied mentions the body goes through stages and shifts cause awakenings. The specific stage isn't named, but the disruption is between stages. The answer is sleep stages (maybe REM or deep sleep, but the article just says "various sleep stages").
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>15</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>antihistamines</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>morning</answer>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<question_number>12</question_number>
+<answer>30 minutes</answer>
+<question_number>13</question_number>
+<answer>postmenopausal women</answer>
+<question_number>14</question_number>
+<answer>N/A</answer>
+<question_number>15</question_number>
+<answer>sleep apnea</answer>
+<question_number>16</question_number>
+<answer>20 minutes</answer>
+<question_number>17</question_number>
+<answer>N/A</answer>
+<question_number>18</question_number>
+<answer>sedative effects</answer>
+<question_number>19</question_number>
+<answer>500,000</answer>
+<question_number>20</question_number>
+<answer>sleep stages</answer>

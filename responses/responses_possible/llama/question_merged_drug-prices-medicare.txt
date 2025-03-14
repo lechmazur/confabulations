@@ -1,0 +1,33 @@
+merged_drug-prices-medicare.txt
+<question_number>1</question_number>
+<answer>The $2,000 annual cap on patient costs for drugs taken at home will go into effect next year, and the new negotiated prices will take effect in 2026.</answer>
+
+<question_number>2</question_number>
+<answer>The Project 2025 playbook suggests that the number of drugs negotiated by the federal government could be weakened or reversed if former President Donald J. Trump wins the White House in November, particularly with full Republican control of Congress.</answer>
+
+<question_number>3</question_number>
+<answer>Vice President Kamala Harris has focused some of her early presidential campaign on the Biden administration's drug pricing reforms, including the cap on monthly insulin costs for Medicare recipients.</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<other>Xarelto and Farxiga treat the same conditions as Jardiance.</other>
+<answer>$178 - $197 = -$19 for Farxiga, and $197 - $197 = $0 for Xarelto.</answer>
+
+<question_number>10</question_number>
+<other>The companies mentioned in relation to legal challenges to the program are the Pharmaceutical Research and Manufacturers of America and possibly some individual pharmaceutical companies, but only one specific company is mentioned as a drugmaker that has a lawsuit: none. However, Johnson & Johnson is mentioned as a company whose drug prices were negotiated, and also as a company that is part of a lawsuit against the program in another part of the article.</other>
+<other>The total negotiated price for all Johnson & Johnson drugs is $197 + $4,695 + $9,319 = $14,211.</other>
+<answer>$14,211</answer>

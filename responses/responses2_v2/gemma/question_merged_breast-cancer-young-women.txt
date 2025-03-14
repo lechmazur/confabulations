@@ -1,0 +1,46 @@
+merged_breast-cancer-young-women.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+
+<question_number>11</question_number>
+<answer>Estrogen</answer>
+<question_number>12</question_number>
+<answer>40</answer>
+<question_number>13</question_number>
+<answer>Pregnancy</answer>
+
+<question_number>14</question_number>
+<answer>AI</answer>
+<question_number>15</question_number>
+<answer>Colorectal, gastric, kidney, liver</answer>
+<question_number>16</question_number>
+<answer>Childhood nutrition</answer>
+
+
+<question_number>17</question_number>
+<answer>Estrogen-receptor-positive</answer>
+<question_number>18</question_number>
+<answer>Alcohol</answer>
+<question_number>19</question_number>
+<answer>Lowering screening age to 40</answer>
+<question_number>20</question_number>
+<answer>Siobhan Donovan</answer>

@@ -1,0 +1,35 @@
+merged_waffle-house-egg-surcharge.txt
+
+
+<question_number>1</question_number>
+<answer>$1.15</answer>
+<other>Calculated by adding the 50-cent surcharge to the 65-cent per egg cost (from $7.79 per dozen).</other>
+
+<question_number>2</question_number>
+<answer>Grade-A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Article mentions "Monday" but no specific calendar date.</other>
+
+<question_number>4</question_number>
+<answer>avian influenza</answer>
+
+<question_number>5</question_number>
+<answer>134%</answer>
+<other>($7.79 - $3.33)/$3.33 * 100 ≈ 134%</other>
+
+<question_number>6</question_number>
+<answer>272 million</answer>
+
+<question_number>7</question_number>
+<answer>egg shortage and price fluctuations</answer>
+
+<question_number>8</question_number>
+<answer>Brooke Rollins</answer>
+
+<question_number>9</question_number>
+<answer>30 million</answer>
+
+<question_number>10</question_number>
+<answer>price of eggs</answer>

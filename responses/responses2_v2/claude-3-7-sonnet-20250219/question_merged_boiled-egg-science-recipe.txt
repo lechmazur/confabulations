@@ -1,0 +1,75 @@
+merged_boiled-egg-science-recipe.txt
+<question_number>1</question_number>
+<answer>Pellegrino Musto</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions 212-degree water, not 230-degree water, and states the cycle is repeated eight times, but doesn't specify how many times Di Lorenzo personally repeats it.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article mentions 150 degrees Fahrenheit as the ideal temperature for the yolk, but doesn't convert to Celsius. Also, the scientists were trying to one-up chef Carlo Cracco, not Nelson Serrano-Bahri.</other>
+
+<question_number>4</question_number>
+<answer>soaring prices</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article only mentions that J. Kenji Lopez-Alt proposed steaming the egg in a single inch of water, but doesn't specify what utensils are required beyond a pot.</other>
+
+<question_number>6</question_number>
+<answer>Ernesto Di Maio</answer>
+<other>Though the article specifies he is in Naples, not Milan.</other>
+
+<question_number>7</question_number>
+<answer>polyphenols</answer>
+
+<question_number>8</question_number>
+<answer>Emilia Di Lorenzo</answer>
+<other>Though the article doesn't explicitly state she finds runny yolk revolting, only that she's "not a big fan" of the sous vide approach because "it's runny."</other>
+
+<question_number>9</question_number>
+<answer>ferrous sulfide</answer>
+<other>Though this information is mentioned in the article but not attributed to Deb Perelman.</other>
+
+<question_number>10</question_number>
+<answer>1 hour</answer>
+<other>Though the article states this is ideal for the yolk, not the albumen.</other>
+
+<question_number>11</question_number>
+<answer>15</answer>
+<other>The cycle is repeated 8 times, with each cycle having 2 transitions (hot to lukewarm, lukewarm to hot), minus the final transition back to hot which doesn't occur = 8×2-1 = 15 transitions.</other>
+
+<question_number>12</question_number>
+<answer>N/A</answer>
+<other>The article mentions ferrous sulfide but doesn't specify which element in the yolk leads to its formation.</other>
+
+<question_number>13</question_number>
+<answer>foaming pizza</answer>
+
+<question_number>14</question_number>
+<answer>They are the same (150 degrees)</answer>
+<other>The article states the average temperature of the two immersions is 150 degrees, which is also the temperature used for sous vide.</other>
+
+<question_number>15</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any specific appliance required for J. Kenji Lopez-Alt's method beyond steaming in an inch of water.</other>
+
+<question_number>16</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any mistaken attribution in the initial study draft.</other>
+
+<question_number>17</question_number>
+<answer>everything is softer</answer>
+
+<question_number>18</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any specific polymer science principle applied to optimize heat distribution.</other>
+
+<question_number>19</question_number>
+<answer>N/A</answer>
+<other>The article doesn't provide any percentage reduction in protein clumping.</other>
+
+<question_number>20</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention which historical egg-cooking technique's failure inspired the development of the alternating temperature approach.</other>

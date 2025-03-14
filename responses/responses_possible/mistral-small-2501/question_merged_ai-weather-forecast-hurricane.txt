@@ -1,0 +1,21 @@
+merged_ai-weather-forecast-hurricane.txt
+<question_number>1</question_number>
+<answer>Instead of relying on current readings and millions of calculations, an A.I. agent draws on what it has learned about the cause-and-effect relationships that govern the planet's weather. In general, the advance derives from the ongoing revolution in machine learning -- the branch of A.I. that mimics how humans learn. The method works with great success because A.I. excels at pattern recognition. It can rapidly sort through mountains of information and spot intricacies that humans cannot discern. Doing so has led to breakthroughs in speech recognition, drug discovery, computer vision and cancer detection. In weather forecasting, A.I. learns about atmospheric forces by scanning repositories of real-world observations. It then identifies the subtle patterns and uses that knowledge to predict the weather, doing so with remarkable speed and accuracy. Recently, the DeepMind team that built GraphCast won Britain's top engineering prize, presented by the Royal Academy of Engineering. Sir Richard Friend, a physicist at Cambridge University who led the judging panel, praised the team for what he called "a revolutionary advance." In an interview, Remi Lam, GraphCast's lead scientist, said his team had trained the A.I. program on four decades of global weather observations compiled by the European forecasting center. "It learns directly from historical data," he said. In seconds, he added, GraphCast can produce a 10-day forecast that would take a supercomputer more than an hour. Dr. Lam said GraphCast ran best and fastest on computers designed for A.I., but could also work on desktops and even laptops, though more slowly. In a series of tests, Dr. Lam reported, GraphCast outperformed the best forecasting model of the European Center for Medium-Range Weather Forecasts more than 90 percent of the time. "If you know where a cyclone is going, that's quite important," he added. "It's important for saving lives."</answer>
+<question_number>2</question_number>
+<answer>GraphCast was trained on four decades of global weather observations compiled by the European forecasting center.</answer>
+<question_number>3</question_number>
+<answer>Paul G. Allen established the Allen Institute for AI, where Dr. Bretherton is a team leader. The European Center for Medium-Range Weather Forecasts, considered the world's top weather agency, is looking at AI and saying, 'Hey, we've got to match this.'</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>Both involve the misuse of AI technologies to spread misinformation or influence outcomes.</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>GraphCast's learning from historical data can identify subtle patterns and use that knowledge to predict the weather, potentially overcoming the chaotic nature of atmospheric systems.</answer>
+<question_number>9</question_number>
+<answer>GraphCast was trained on four decades of global weather observations, while traditional weather forecast durations have improved from three days a few decades ago to 10 days today.</answer>
+<question_number>10</question_number>
+<answer>Both involve the challenge of blending diverse data sources to create accurate models, with potential biases in the resulting content.</answer>

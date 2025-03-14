@@ -1,0 +1,87 @@
+merged_india-oyo.txt
+Okay, let's tackle these questions one by one based on the article provided. I need to make sure I only use the information given and not any external knowledge. Let me start with the first question.
+
+1. The first question asks about a specific feature Oyo removed from its app in the US due to complaints. The article mentions Oyo revised its policy in Meerut, India, requiring proof of marriage. However, the question specifies the US. The article says Oyo bought Motel 6 and expanded to the US in 2019. The policy change in Meerut isn't mentioned as affecting the US. So the answer might be N/A because the complaint leading to removal in the US isn't discussed. Wait, the question mentions "relationship mode" which was a filter they offered. But the policy change in Meerut was about denying rooms unless proof of marriage. The question says "removed from its app in response to complaints from civil society groups in the US." The article doesn't mention any US complaints leading to removing features. So N/A.
+
+2. The second question refers to an animated video wedding invitation that mentioned Oyo. The article says Neha and her husband included Oyo in their wedding invite. The question asks for the name of the invitation. The text doesn't give a specific name, just describes it as their animated video. So answer is N/A since there's no named invitation.
+
+3. The third question asks what establishment Neha and her husband frequented twice a week before marriage, other than Oyo. The article says they rented Oyo rooms twice a week. Wait, but the question says "other than Oyo hotels," but the text says they used Oyo. Maybe I misread. Let me check again. The article says Neha and her husband used Oyo rooms twice a week when dating. So the answer would be N/A because the question asks for another place they went, but the text only mentions Oyo.
+
+4. The fourth question asks about a local social sensibility in the city where Motel 6 is headquartered (which Oyo bought). The article says Oyo's policy change was in Meerut. The Motel 6 acquisition is mentioned, but where is Motel 6 headquartered? The article doesn't say, so the question's premise might be wrong. Since the policy change was in Meerut, but the question links it to Motel 6's location, which isn't given, so N/A.
+
+5. The fifth question asks about an architectural feature of abandoned monuments used in Manforce ads. The article mentions abandoned monuments in Delhi and Manforce ads showing couples in public spaces like cars, parks, cinemas. The feature of monuments isn't specified, so N/A.
+
+6. The sixth question asks the minimum price in USD for a room in Meerut. The article states Oyo offers rooms for as little as 500 rupees, under $6. So answer is less than $6, but the question specifies Meerut. The policy change is in Meerut, but the price is general. The article doesn't specify if Meerut's price is different. So the answer is less than $6.
+
+7. The seventh question asks the founder's name. The article doesn't mention the founder's name, just that Oyo was founded in 2013 with backers like SoftBank. So N/A.
+
+8. The eighth question about a government regulation in Mumbai similar to Oyo's policy. The article mentions the film "All We Imagine as Light" shows a character using a forest, but no specific regulation is mentioned. So N/A.
+
+9. The ninth question asks the common Google question hotel proprietors asked. The article says one of the first Google searches is "Can I stay in Oyo with my girlfriend?" That's the question. So answer is "Can I stay in Oyo with my girlfriend?"
+
+10. The tenth question asks the city where the policy first applied. The article says Meerut. So answer is Meerut.
+
+11. The eleventh question is the American motel chain Oyo bought. The article says Motel 6. So answer is Motel 6.
+
+12. The twelfth question asks the professor's name who discussed Western exposure and birth control. The article mentions Chirodip Majumdar. So answer is Chirodip Majumdar.
+
+13. The thirteenth question is Neha's city. The article says Neha is based in Bengaluru. So answer is Bengaluru.
+
+14. The fourteenth question is the condom brand mentioned. The article says Manforce. So answer is Manforce.
+
+15. The fifteenth question is the minimum price in rupees. The article says 500 rupees. So answer is 500.
+
+16. The sixteenth question is the search filter term. The article mentions "relationship mode." So answer is relationship mode.
+
+17. The seventeenth question is the investment firm. The article says SoftBank. So answer is SoftBank.
+
+18. The eighteenth question is the 2024 film. The article mentions "All We Imagine as Light." So answer is All We Imagine as Light.
+
+19. The nineteenth question is the concept behind the stigma. The article says "family honor." So answer is family honor.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Article states policy change in Meerut, India, not the US. No mention of US-based complaints leading to feature removal.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Article mentions Neha's wedding invitation referenced Oyo but does not name the invitation.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Neha and her husband used Oyo rooms twice a week; no other establishment mentioned.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Policy change in Meerut (not Motel 6's location) due to local social sensibilities about premarital sex. Motel 6's location not specified in article.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Manforce ads featured public spaces like cars/parks but didn't specify architectural features of monuments.</other>
+<question_number>6</question_number>
+<answer>less than $6</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Article does not name Oyo's founder, only mentions founding year (2013) and investors like SoftBank.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>No specific government regulation mentioned in Mumbai affecting private spaces for couples.</other>
+<question_number>9</question_number>
+<answer>Can I stay in Oyo with my girlfriend?</answer>
+<question_number>10</question_number>
+<answer>Meerut</answer>
+<question_number>11</question_number>
+<answer>Motel 6</answer>
+<question_number>12</question_number>
+<answer>Chirodip Majumdar</answer>
+<question_number>13</question_number>
+<answer>Bengaluru</answer>
+<question_number>14</question_number>
+<answer>Manforce</answer>
+<question_number>15</question_number>
+<answer>500</answer>
+<question_number>16</question_number>
+<answer>relationship mode</answer>
+<question_number>17</question_number>
+<answer>SoftBank</answer>
+<question_number>18</question_number>
+<answer>All We Imagine as Light</answer>
+<question_number>19</question_number>
+<answer>family honor</answer>

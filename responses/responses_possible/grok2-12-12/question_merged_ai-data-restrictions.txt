@@ -1,0 +1,30 @@
+merged_ai-data-restrictions.txt
+<question_number>1</question_number>
+<answer>widespread data restrictions may pose a threat to smaller A.I. outfits and academic researchers who rely on public data sets and can't afford to license data directly from publishers</answer>
+
+<question_number>2</question_number>
+<answer>major tech companies already have all of the data, so changing the license on the data doesn't retroactively revoke that permission, primarily impacting later-arriving actors like smaller start-ups or researchers</answer>
+
+<question_number>3</question_number>
+<answer>many researchers doubt that today's A.I. systems are capable of generating enough high-quality synthetic data to replace the human-created data they're losing</answer>
+
+<question_number>4</question_number>
+<answer>the web will start shutting its doors</answer>
+
+<question_number>5</question_number>
+<answer>widespread data restrictions may pose a threat to smaller A.I. outfits and academic researchers who rely on public data sets and can't afford to license data directly from publishers, while major tech companies already have all of the data</answer>
+
+<question_number>6</question_number>
+<answer>it means that major tech companies that have already gathered the data will not be affected, while later-arriving actors, such as smaller start-ups or researchers, will face the primary impact of new licensing restrictions</answer>
+
+<question_number>7</question_number>
+<answer>it means that new data restrictions primarily affect smaller start-ups or researchers who enter the field later, as major tech companies already have access to the data</answer>
+
+<question_number>8</question_number>
+<answer>the article suggests that the current data restrictions could lead to a reevaluation of the relationship between A.I. companies and data creators, as A.I. companies have treated the internet as an all-you-can-eat data buffet without giving much value in return, leading to the web shutting its doors</answer>
+
+<question_number>9</question_number>
+<answer>55%</answer>
+
+<question_number>10</question_number>
+<answer>75%</answer>

@@ -1,0 +1,30 @@
+merged_ai-weather-forecast-hurricane.txt
+<question_number>1</question_number>
+<answer>A.I. learns from historical weather observations and identifies patterns, producing forecasts in seconds on smaller computers, whereas traditional methods rely on current readings, millions of calculations, and room-size supercomputers that take hours to process</answer>
+
+<question_number>2</question_number>
+<answer>GraphCast was trained on four decades of global weather observations, allowing it to learn subtle atmospheric cause-and-effect relationships that enabled more accurate hurricane path prediction</answer>
+
+<question_number>3</question_number>
+<answer>Paul G. Allen's Allen Institute for A.I. is mentioned, but no direct connection to GraphCast's potential adoption is specified in the text</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>GraphCast's machine learning approach allows it to recognize complex atmospheric patterns from historical data, potentially providing more nuanced predictions than traditional linear modeling</answer>
+
+<question_number>9</question_number>
+<answer>GraphCast uses 40 years of historical data, compared to traditional forecasts that have extended from 3 to 10 days, suggesting potential for more comprehensive long-term predictions</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>

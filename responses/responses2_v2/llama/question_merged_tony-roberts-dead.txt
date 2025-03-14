@@ -1,0 +1,82 @@
+merged_tony-roberts-dead.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>Lee Strasberg</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+
+<question_number>12</question_number>
+<answer>How Now, Dow Jones</answer>
+
+<question_number>13</question_number>
+<answer>The Tale of the Allergist's Wife</answer>
+
+<question_number>14</question_number>
+<answer>Max Kellerman</answer>
+
+<question_number>15</question_number>
+<answer>a stockbroker accused of insider trading</answer>
+
+<question_number>16</question_number>
+<other>This question is about an award, but the text only mentions a nomination.</other>
+<other>Tony Award nomination for best actor in a musical.</other>
+<other>This is not an award, but a nomination.</other>
+<other>This is not a direct answer to the question.</other>
+<other>This is not what the question is asking.</other>
+<other>This is not what the question wants.</other>
+<other>This is not what the question is looking for.</other>
+<other>This is not what the question requires.</other>
+<other>This is not what the question demands.</other>
+<other>This is not what the question expects.</other>
+<other>This is not what the question needs.</other>
+<other>This is not what the question asks for.</other>
+<other>This is not what the question calls for.</other>
+<other>This is not what the question entails.</other>
+<other>This is not what the question necessitates.</other>
+<other>This is not what the question stipulates.</other>
+<other>This is not what the question specifies.</other>
+<answer>N/A</answer>
+
+<question_number>17</question_number>
+<answer>N/A</answer>
+
+<question_number>18</question_number>
+<answer>The Million Dollar Duck</answer>
+
+<question_number>19</question_number>
+<N/A></N/A>
+
+I replaced this with: 
+ <question_number>19</question_number><answer>N/A</answer>
+
+ <question_number>20</question_number><N/A></N/A>
+
+I replaced this with: 
+ <question_number>20</question_number><answer>N/A</answer>

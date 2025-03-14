@@ -1,0 +1,84 @@
+merged_artificial-intelligence-power-emissions.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article. Let me start by going through each question and checking the article for the answers.
+
+1. **Question 1:** The first question asks about the percentage of Microsoft's $80 billion allocated to carbon capture and storage (CCS). Scanning the article, I see a part where Microsoft didn't specify how much of their 2025 investments would be offset by renewables or credits. There's no mention of a specific percentage for CCS here. So the answer should be N/A.
+
+2. **Question 2:** The second question is about which fusion startup the Department of Energy report identified as closest to commercial viability. The article mentions Helion as a fusion startup that Sam Altman invested in, but the report from the Department of Energy is about data center energy use, not fusion. The question might be mixing sources. The answer here is N/A because the report isn't about fusion startups.
+
+3. **Question 3:** The third question asks for the total reduction in emissions from Microsoft's 2020 program. The article states Microsoft promised to remove all historic emissions but doesn't provide a specific number achieved. So N/A.
+
+4. **Question 4:** The fourth question is about the megawatts provided by Three Mile Island to Microsoft. The article says Microsoft is paying to revive Three Mile Island but doesn't mention the exact power output. N/A.
+
+5. **Question 5:** The fifth question asks which company's study showed the largest percentage decrease in emissions via AI traffic optimization. The article mentions Bordoff's optimism but no specific company's study. N/A.
+
+6. **Question 6:** The sixth question is McKinsey's timeline for data centers achieving carbon neutrality. The article says McKinsey projects 20% annual growth but not a carbon neutrality timeline. N/A.
+
+7. **Question 7:** The seventh question requires methane emissions from tripling data center energy use. The article mentions increased methane from gas but no specific metric tons figure. N/A.
+
+8. **Question 8:** Bobby Hollis's highest potential renewable for Microsoft's short-term needs. The article quotes Hollis supporting a multi-tech approach but doesn't name a specific tech. Wait, later Gilbert mentions gas with CCS as quick, but Hollis didn't specify. So N/A.
+
+9. **Question 9:** Percentage of Carbon Direct's clients offsetting AI emissions. The article mentions Gilbert's company helps, but no percentage is given. N/A.
+
+10. **Question 10:** Number of new reactors Google and Amazon announced. The article says they're betting on newer reactors but no specific number. N/A.
+
+11. **Question 11:** Primary short-term fuel despite methane is natural gas. The article clearly states gas is the main short-term solution. Answer: Natural gas.
+
+12. **Question 12:** Aging nuclear facility being revived is Three Mile Island. Directly mentioned. Answer: Three Mile Island.
+
+13. **Question 13:** Year data centers will use 12% of electricity. The article says by 2028. Answer: 2028.
+
+14. **Question 14:** The advanced process Altman mentioned is fusion. The article says Altman believes fusion is near mainstream. Answer: Nuclear fusion.
+
+15. **Question 15:** Tech giant that vowed to remove emissions and is expanding data centers. Microsoft is mentioned. Answer: Microsoft.
+
+16. **Question 16:** Government body supporting the tripling report. The article says the report is supported by the U.S. Department of Energy. Answer: U.S. Department of Energy.
+
+17. **Question 17:** Factor indicating energy consumption change over three years. The article states "expected to as much as triple their energy use". Answer: Tripling.
+
+18. **Question 18:** Canal altering species is Panama Canal. The article mentions Panama Canal and fish distribution. Answer: Panama Canal.
+
+19. **Question 19:** Consultancy projecting 20% growth is McKinsey & Company. Directly stated. Answer: McKinsey & Company.
+
+20. **Question 20:** Emission-reducing tech with high cost is carbon capture and storage. The article mentions CCS as expensive. Answer: Carbon capture and storage (C.C.S.).
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>natural gas</answer>
+<question_number>12</question_number>
+<answer>Three Mile Island</answer>
+<question_number>13</question_number>
+<answer>2028</answer>
+<question_number>14</question_number>
+<answer>nuclear fusion</answer>
+<question_number>15</question_number>
+<answer>Microsoft</answer>
+<question_number>16</question_number>
+<answer>U.S. Department of Energy</answer>
+<question_number>17</question_number>
+<answer>tripling</answer>
+<question_number>18</question_number>
+<answer>Panama Canal</answer>
+<question_number>19</question_number>
+<answer>McKinsey & Company</answer>
+<question_number>20</question_number>
+<answer>carbon capture and storage (C.C.S.)</answer>

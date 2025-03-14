@@ -1,0 +1,54 @@
+merged_human-challenge-trials.txt
+Okay, let's tackle these questions one by one using only the information from the article. 
+
+1. **Question 1:** Which pharmaceutical company funded the monoclonal antibody malaria trial at the University of Maryland School of Medicine that Alexander Laurenson participated in?  
+   - The article mentions the trial at the University of Maryland but doesn't specify a pharmaceutical company's name. It does say funding increased post-pandemic, but no company is named. So answer N/A.
+
+2. **Question 2:** How many volunteers in Dr. Lyke's malaria study experienced severe adverse reactions requiring hospitalization?  
+   - The text states that Mr. Laurenson had symptoms but later found out he had a stomach bug, not malaria. No mention of hospitalizations. Answer N/A.
+
+3. **Question 3:** What was the monetary compensation received by Alexander Laurenson for participating in the mosquito-based malaria trial?  
+   - The article says Oscar Delaney received around $11,000, but Laurenson's compensation isn't specified. So N/A.
+
+4. **Question 4:** How many challenge trial facilities were opened globally between 2020-2023 as a direct result of pandemic funding?  
+   - The article mentions the University of Melbourne and a facility in Antwerp, Belgium. That's two, but are there more? The text doesn't give an exact number. So N/A.
+
+5. **Question 5:** What percentage of the control group in the Baltimore malaria trial developed symptoms within the first week?  
+   - The article says Dr. Lyke told them symptoms would take at least a week. Laurenson felt fine at first but got sick later. Since the first week had no symptoms, the percentage would be 0% for the first week. But wait, the control group's specifics? The text says "a few control subjects would deal with malaria and then get medication." But does it say how many developed symptoms in the first week? The article mentions that if the antibody worked, none in the treatment group would show symptoms. The control group would be expected to get sick, but the timing? The article says symptoms appeared 11 days out for Laurenson, who was in the treatment group (but he had a placebo?), but his case was a false alarm. Wait, the control group would get the parasite without the antibody. The article says "a few control subjects would instead deal with the effects of malaria and then receive a medication." So the control group would develop symptoms, but the question is about the first week. The article says "it would take at least a week for symptoms to develop." So within the first week, maybe none. The answer might be 0%, but the article doesn't state the exact percentage. Hmm, but the question is about the control group. Since the antibody group was supposed to not get sick, the control group would be expected to get symptoms after the week. So within the first week, perhaps 0%? But the article doesn't give a percentage. So N/A.
+
+6. **Question 6:** Which government agency provided the primary funding for the new challenge trial facility in Melbourne?  
+   - The article mentions the University of Melbourne opened a facility but doesn't name a funding agency. So N/A.
+
+7. **Question 7:** How many deaths occurred historically in Walter Reed's yellow fever challenge trials in Cuba?  
+   - The article says Walter Reed did trials in Cuba with contracts outlining risks but doesn't mention deaths. So N/A.
+
+8. **Question 8:** What was the total budget allocated by 1Day Sooner for recruiting volunteers during their first year of operation?  
+   - The article doesn't mention 1Day Sooner's budget. So N/A.
+
+9. **Question 9:** How many hours did Oscar Delaney spend in medical observation after receiving the malaria parasite through the cannula?  
+   - The article says he had bone marrow extracted and received the parasite via cannula, but doesn't specify observation hours. N/A.
+
+10. **Question 10:** What temperature threshold triggered the administration of anti-malarial medication to challenge trial participants in the Imperial College London studies?  
+    - The article doesn't mention a specific temperature threshold for medication. N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>0%</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>

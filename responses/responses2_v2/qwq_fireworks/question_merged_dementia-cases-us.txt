@@ -1,0 +1,72 @@
+merged_dementia-cases-us.txt
+Okay, let's tackle these questions one by one using only the provided article. I need to be careful to answer exactly what's asked without adding any extra info or assumptions.
+
+1. **Question 1**: The study doesn't mention anything about an annual percentage increase in dementia-related deaths linked to APOE4 and untreated hearing loss. The APOE4 part is discussed, but the overlap with hearing loss isn't connected to death rates here. So N/A.
+
+2. **Question 2**: The article says Dr. Langa mentioned possible hormonal factors, but the 48% risk for women was mainly due to longevity. The direct link to menopause isn't stated. The answer isn't there, so N/A.
+
+3. **Question 3**: The Lancet report lists 14 factors, but the ARIC study's recommendations focus on cardiovascular health, strokes, and hearing aids. It doesn't specify how many of the 14 are tied to vascular. So N/A.
+
+4. **Question 4**: The article mentions millennials being in their 70s by 2060, but the "sharpest rise" isn't specified as an age range. The risk increases after 75, but the exact range for millennials isn't given. N/A.
+
+5. **Question 5**: The $600 billion costs are mentioned, but no breakdown by delayed diagnosis or diabetes is provided. So N/A.
+
+6. **Question 6**: The ARIC study includes four states. Mississippi had Black participants with higher risks, but the question asks for a state with lower risk among whites. The article doesn't specify which state had lower risk due to education. N/A.
+
+7. **Question 7**: The study mentions education levels affecting risk, but no specific percentage reduction per decade of education for Black participants in Mississippi is stated. N/A.
+
+8. **Question 8**: Dr. Langa comments on drug efficacy vs. public health. The article says he discussed possible biological factors and critiqued drug benefits. So Dr. Langa.
+
+9. **Question 9**: The risk at 95 is 42%, which is nearly half. The question asks for the age where it's nearly half the lifetime likelihood. 95.
+
+10. **Question 10**: The article states Black Americans' cases will triple. So Black Americans.
+
+11. **Question 11**: The APOE4 two-copy carriers have 59% risk. Directly stated.
+
+12. **Question 12**: Dr. Langa is quoted saying drugs have limited efficacy, favoring lifestyle. So Dr. Langa.
+
+13. **Question 13**: The study used the ARIC (Atherosclerosis Risk in Communities) study's data. Direct answer.
+
+14. **Question 14**: The article says 514,000 annual cases in 2020. So 514,000.
+
+15. **Question 15**: The projection is 12 million by 2060. Directly stated.
+
+16. **Question 16**: Over 100,000 annual deaths from dementia. Exact number given.
+
+17. **Question 17**: The article recommends improving cardiovascular health, treating strokes, and hearing aids. So cardiovascular health.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>Dr. Kenneth Langa</answer>
+<question_number>9</question_number>
+<answer>95</answer>
+<question_number>10</question_number>
+<answer>Black Americans</answer>
+<question_number>11</question_number>
+<answer>59%</answer>
+<question_number>12</question_number>
+<answer>Dr. Kenneth Langa</answer>
+<question_number>13</question_number>
+<answer>Atherosclerosis Risk in Communities study (ARIC)</answer>
+<question_number>14</question_number>
+<answer>514,000</answer>
+<question_number>15</question_number>
+<answer>12 million</answer>
+<question_number>16</question_number>
+<answer>More than 100,000</answer>
+<question_number>17</question_number>
+<answer>Cardiovascular health</answer>

@@ -1,0 +1,90 @@
+merged_college-sports-general-managers.txt
+Okay, let's tackle these questions one by one using the article provided. I need to be careful to only use the information given and not make any assumptions beyond what's written.
+
+1. **Question 1**: Adrian Wojnarowski left ESPN and took a role similar to Lombardi's at North Carolina. The article says he became the general manager of St. Bonaventure's men's basketball. So the answer is "general manager".
+
+2. **Question 2**: Courtney Morgan mentions that retaining their own roster is cheaper. The question asks besides high school recruiting, so the answer is "retaining their own roster".
+
+3. **Question 3**: Villanova's GM Baker Dunleavy's primary role besides donor collectives is assessing finances and creating a philosophy. Lombardi's focus was tactics, so the answer might be "assess finances/creates philosophy" but the question says "mirrors Belichick's focus". Belichick focuses on tactics, so maybe "focus on tactics" but the article says the GM handles player evaluation so maybe "personnel decisions". Wait, the question says "primary responsibility besides donor collectives" – the article says Dunleavy is primary with Friends of Nova (donors) and "assesses finances, creates a philosophy around new player acquisitions". The answer should be "player acquisitions" or "assess finances and create player acquisition philosophy". The exact wording from the text: "assesses the finances, creates a philosophy around new player acquisitions". The primary responsibility besides donors would be "player acquisitions".
+
+4. **Question 4**: Jim Larranaga retired due to the system's issues. The Florida State players sued over unpaid $250k. Future athletes might sue for unpaid promised money. So the answer is "sue over unpaid promised compensation".
+
+5. **Question 5**: Woj uses media connections like the WWE belt. The article mentions he thanked Nick Khan for the WWE title belt and promoted Woj Bomb slides. The capacity here is "raising profile/raising money" but the question asks the capacity, which is his role. The answer is "general manager" but the question says "capacity similar to the WWE belt", which is leveraging connections. The exact role is "general manager", but the action is leveraging media connections to promote via merchandise. The question asks the capacity, so maybe "general manager" but the example is about leveraging media. The answer should be "general manager" but the question's phrasing might need another term. Wait, the question is "in what capacity...", so his role is general manager, but the example is about leveraging media connections. The answer is "general manager".
+
+Wait, the question is phrased as "in what capacity... does he leverage media connections...". The capacity is his role, which is general manager. So answer is "general manager".
+
+6. **Question 6**: Kliff Kingsbury joked that Belichick might avoid doing home visits or cocktail hours. The system Larranaga found exhausting was the current system. The question asks what system Kingsbury sarcastically suggested Belichick would avoid. The answer is "the system, or the lack of a system" but Kingsbury mentioned avoiding home visits, which are part of the traditional recruitment. The system Kingsbury refers to is the traditional recruitment system. The answer is "traditional recruitment system" but the article says Kingsbury said "I don't see my man going in any home visits or doing, like, the cocktail hour after the visits". The system he's avoiding is the traditional recruitment approach. The answer is "traditional recruitment process".
+
+Wait, the question says "system mirroring the one that exhausted Larranaga". Larranaga retired because of "the system, or the lack of a system". So the system Kingsbury sarcastically suggested Belichick would avoid is the traditional recruitment (home visits, etc.), which is part of the old system. The answer is "traditional recruitment process".
+
+7. **Question 7**: Courtney Morgan said conversations about graduation rates are less now. The aspect becoming less focus is "education/graduation rates".
+
+8. **Question 8**: Lombardi says a "philosophical agreement" is needed. The answer is "philosophical agreement".
+
+9. **Question 9**: Morgan said hype videos and graphics were outdated. The answer is "hype videos and graphics".
+
+10. **Question 10**: Baker Dunleavy's position requires legal document review. His role is "general manager".
+
+11. **Question 11**: The lawsuit says each was promised $250,000. The answer is "$250,000".
+
+12. **Question 12**: The WWE collaboration was a St. Bonaventure-themed title belt. The answer is "St. Bonaventure-themed WWE title belt".
+
+13. **Question 13**: Lombardi mentioned a grading system and putting a dollar sign on each player. The methodology is "grading system and monetary valuation".
+
+Wait, let me check each again to ensure accuracy.
+
+1. Adrian's role is GM of St. Bonaventure's basketball, so answer is "general manager".
+
+2. Courtney Morgan says "it is cheaper to retain your own roster" so the answer is "retaining their own roster".
+
+3. Villanova's GM's primary role besides donors is "assess finances and create player acquisition philosophy". The question says "primary responsibility besides donor collectives" so answer is "player acquisitions" or "assess finances/philosophy". The article says "assesses the finances, creates a philosophy around new player acquisitions". The primary responsibility here is "player acquisitions".
+
+4. The lawsuit was over unpaid $250k, so future athletes might sue for unpaid promised compensation. The answer is "sue over unpaid promised compensation".
+
+5. The capacity is his role as GM, so "general manager".
+
+6. Kingsbury's sarcastic suggestion was that Belichick wouldn't do home visits, implying avoiding the traditional recruitment process. The system Larranaga mentioned was "the system, or the lack of a system", so the answer is "traditional recruitment process".
+
+7. Morgan said education matters less now, so answer "education/graduation rates".
+
+8. Lombardi said "philosophical agreement".
+
+9. Hype videos and graphics.
+
+10. Dunleavy's position is GM, so "general manager".
+
+11. $250,000 each.
+
+12. WWE title belt.
+
+13. Lombardi mentioned "grading system and putting a dollar sign on each player" so "grading system and monetary valuation".
+
+All answers should be in fragments as per instructions.
+</think>
+
+<question_number>1</question_number>
+<answer>general manager</answer>
+<question_number>2</question_number>
+<answer>retaining their own roster</answer>
+<question_number>3</question_number>
+<answer>player acquisitions</answer>
+<question_number>4</question_number>
+<answer>sue over unpaid promised compensation</answer>
+<question_number>5</question_number>
+<answer>general manager</answer>
+<question_number>6</question_number>
+<answer>traditional recruitment process</answer>
+<question_number>7</question_number>
+<answer>education/graduation rates</answer>
+<question_number>8</question_number>
+<answer>philosophical agreement</answer>
+<question_number>9</question_number>
+<answer>hype videos and graphics</answer>
+<question_number>10</question_number>
+<answer>general manager</answer>
+<question_number>11</question_number>
+<answer>$250,000</answer>
+<question_number>12</question_number>
+<answer>St. Bonaventure-themed WWE title belt</answer>
+<question_number>13</question_number>
+<answer>grading system and monetary valuation</answer>

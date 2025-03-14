@@ -1,0 +1,63 @@
+merged_action-movies-streaming.txt
+Okay, let's tackle these questions one by one using the article provided. I need to make sure I'm only using the information from the text and not any outside knowledge.
+
+1. **Question 1:** The film in question has a protagonist whose relationship breaks due to infidelity and then they train a new partner in the same field as their ex. Looking at the articles, "Perfect Addiction" mentions Sienna finding another MMA fighter, Kayden, after her ex Jax cheats. She becomes his trainer to get revenge against Jax. That fits here. So answer is "Perfect Addiction".
+
+2. **Question 2:** A character's attempt to reconnect with a former associate endangers loved ones. In "Heart of the Hunter", Klein tries to reconnect with Zuko, leading Molebogeng to take Zuko's girlfriend hostage. So the answer is "Heart of the Hunter".
+
+3. **Question 3:** Historical epic with supernatural and political elements in 18th century West Africa. "House of Ga'a" is set in the Oyo Empire, involves Ga'a's power grab leading to supernatural consequences. So "House of Ga'a".
+
+4. **Question 4:** A past decision not supporting a colleague leads to a hostage situation. In "Non Negotiable", Alan didn't back Vincente, who later kidnaps the president and takes Victoria. So "Non Negotiable".
+
+5. **Question 5:** Protagonist's crisis management skills fail in personal life. Alan is a top negotiator but can't fix his marriage. So "Non Negotiable" again.
+
+6. **Question 6:** Protagonist's physical skill and emotional expression through non-verbal. "Heart of the Hunter" mentions Khoza's fighting and the cinematography capturing his emotions. So "Heart of the Hunter".
+
+7. **Question 7:** Professional skills cause personal relationship breakdown. Alan's job as negotiator might relate, but the article specifically says he can't fix his marriage. So "Non Negotiable".
+
+8. **Question 8:** Navigating supernatural and political threats for power. "House of Ga'a" has Ga'a dealing with both political murder and supernatural evils. So "House of Ga'a".
+
+9. **Question 9:** Past actions haunt both professional and personal life. For Alan in "Non Negotiable", not backing Vincente leads to the hostage situation affecting his marriage. So "Non Negotiable".
+
+10. **Question 10:** Pursuing justice leads to consequences for loved ones. Zuko in "Heart of the Hunter" gets his girlfriend taken hostage when he's pulled back in. Or Vincente in "Non Negotiable" taking Victoria. The question says "pursue justice" but in "Heart of the Hunter", Zuko's trying to save his girlfriend and resist, but Klein's actions lead to the hostage. Maybe "Heart of the Hunter" fits better here.
+
+Wait, let me check again. For question 10, the character's decision to pursue justice leads to unintended consequences for loved ones. In "Heart of the Hunter", Zuko is pulled into action by Klein, leading to his girlfriend being taken. So Klein's decision to reconnect (pursue some goal) endangers Zuko's loved ones. But the question is about the protagonist's decision. Zuko's decision to resist might not be it. Alternatively, in "Non Negotiable", Vincente's quest for revenge leads to taking Victoria. Since Vincente is the antagonist, the protagonist is Alan. Hmm. The question is about the protagonist. So maybe in "Heart of the Hunter", Zuko's decision to get involved (even if reluctantly) leads to his girlfriend being taken. So answer is "Heart of the Hunter".
+
+Let me go through each again to confirm:
+
+1. Perfect Addiction
+2. Heart of the Hunter
+3. House of Ga'a
+4. Non Negotiable
+5. Non Negotiable
+6. Heart of the Hunter
+7. Non Negotiable
+8. House of Ga'a
+9. Non Negotiable
+10. Heart of the Hunter
+
+Wait, for question 9: past actions haunting both professional and personal. Alan's past decision not to back Vincente (professional) leads to the hostage (professional) and affects his marriage (personal). So yes, Non Negotiable.
+
+Everything else seems to align. I think that's all.
+</think>
+
+<question_number>1</question_number>
+<answer>Perfect Addiction</answer>
+<question_number>2</question_number>
+<answer>Heart of the Hunter</answer>
+<question_number>3</question_number>
+<answer>House of Ga'a</answer>
+<question_number>4</question_number>
+<answer>Non Negotiable</answer>
+<question_number>5</question_number>
+<answer>Non Negotiable</answer>
+<question_number>6</question_number>
+<answer>Heart of the Hunter</answer>
+<question_number>7</question_number>
+<answer>Non Negotiable</answer>
+<question_number>8</question_number>
+<answer>House of Ga'a</answer>
+<question_number>9</question_number>
+<answer>Non Negotiable</answer>
+<question_number>10</question_number>
+<answer>Heart of the Hunter</answer>

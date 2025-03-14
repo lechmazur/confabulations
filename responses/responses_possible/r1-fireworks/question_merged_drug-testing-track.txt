@@ -1,0 +1,37 @@
+merged_drug-testing-track.txt
+
+
+<question_number>1</question_number>
+<answer>Ciara Mageean</answer>
+<other>Mageean is Irish and lives in England; no other athlete's nationality matches another's training location. Rechecking: The article states Mageean competes for Ireland but lives in Manchester, England. Other athletes: Emily Mackay (US), Olli Hoare (Australia). No athlete shares nationality with another's location. Correct answer should be N/A.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>tester arrived on day of family funeral</answer>
+
+<question_number>3</question_number>
+<answer>Ciara Mageean</answer>
+
+<question_number>4</question_number>
+<answer>Emily Mackay's panic over potential missed test</answer>
+
+<question_number>5</question_number>
+<answer>testers waking partners causing alarm</answer>
+
+<question_number>6</question_number>
+<answer>acknowledge necessity for clean sport</answer>
+
+<question_number>7</question_number>
+<answer>answering all spam calls</answer>
+
+<question_number>8</question_number>
+<answer>Emily Mackay</answer>
+
+<question_number>9</question_number>
+<answer>testing near Olympic trials increases stress</answer>
+
+<question_number>10</question_number>
+<answer>Olli Hoare</answer>
+
+<other>Correction for Q1: Initial answer was incorrect. The article does not mention any athlete whose nationality matches another's training location. Mageean (Ireland) lives in England (no Irish athletes mentioned besides her). Mackay (US) trains in US, Hoare (Australia) in US. No overlap.</other>

@@ -1,0 +1,56 @@
+merged_alcohol-cancer-heart-stroke.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article mentions that women who have one drink a day may have a lower risk of diabetes, but it doesn't provide any percentage reduction or mention diabetes risk for men consuming two drinks daily.</other>
+
+<question_number>2</question_number>
+<answer>an organization that promotes temperance</answer>
+<other>The article mentions that Dr. Naimi received support for a meeting from "an organization that promotes temperance" but doesn't name the specific organization.</other>
+
+<question_number>3</question_number>
+<answer>Interagency Coordinating Committee on the Prevention of Underage Drinking</answer>
+<other>The report was prepared under the auspices of this committee, which is mentioned in the context of the report's preparation.</other>
+
+<question_number>4</question_number>
+<answer>Institute for Mental Health Policy Research at Canada's Centre for Addiction and Mental Health</answer>
+<other>Dr. Rehm, one of the report's authors, is identified as a senior scientist at this institute.</other>
+
+<question_number>5</question_number>
+<answer>two or more drinks daily</answer>
+<other>The article states that "a reduction in strokes caused by blood clots seen with consumption of a single drink daily disappeared when people had two or more drinks daily" and that drinking two drinks a day "increases the odds of a death caused by alcohol for both men and women."</other>
+
+<question_number>6</question_number>
+<answer>Department of Health and Human Services</answer>
+<other>The report was prepared "under the auspices of the Department of Health and Human Services" by a scientific review panel that included Timothy Naimi, who is the director of the Canadian Institute for Substance Use Research.</other>
+
+<question_number>7</question_number>
+<answer>more than tenfold</answer>
+<other>The article states: "For girls and boys who start drinking at 15, the odds of a death attributed to alcohol increases more than tenfold as the number of drinks they consume increases from one per week to three per day"</other>
+
+<question_number>8</question_number>
+<answer>diabetes</answer>
+<other>The article states: "Women who have one drink a day may have a lower risk of diabetes."</other>
+
+<question_number>9</question_number>
+<answer>National Academies of Sciences, Engineering and Medicine</answer>
+<other>The article states that a review by this organization found that "moderate drinking was linked to fewer heart attack and stroke deaths, and fewer deaths overall, compared with no drinking" while acknowledging "moderate drinking in women was linked to a small but significant increase in breast cancer"</other>
+
+<question_number>10</question_number>
+<answer>any amount</answer>
+<other>The article states: "the increased cancer risk comes with any amount of alcohol consumption and rises as consumption rises."</other>
+
+<question_number>11</question_number>
+<answer>women</answer>
+<other>The article states: "Women face a higher risk of developing liver cancer even at this modest level of drinking [one alcoholic beverage a day]."</other>
+
+<question_number>12</question_number>
+<answer>two drinks</answer>
+<other>The article mentions that in 2020, scientific advisers suggested lowering the recommendation to one drink daily for both men and women, but "the final guidelines made no change in the recommendation of two drinks for men and one for women."</other>
+
+<question_number>13</question_number>
+<answer>Dr. Naimi</answer>
+<other>The article states that "Dr. Naimi received support for a meeting from an organization that promotes temperance" and that he "served as co-chair of the scientific advisory board of the Alcohol Policy Conference"</other>
+
+<question_number>14</question_number>
+<answer>cancer warnings</answer>
+<other>The article states that "the U.S. surgeon general, citing mounting scientific evidence, called for labeling alcohol with cancer warnings similar to those that appear on cigarettes."</other>

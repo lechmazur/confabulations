@@ -1,0 +1,56 @@
+merged_douglas-chrismas-ace-gallery-embezzlement-sentence.txt
+Okay, let's tackle these questions one by one using only the information from the article.
+
+1. **Question 1:** The article mentions that several letters emphasized Chrismas was "completely unselfish" and didn't use proceeds for his lifestyle. The exact number isn't given, but the question asks how many letters specifically mentioned reinvestment. The text says "many of the letters emphasized" but doesn't state a number. Since the exact number isn't provided, answer N/A.
+
+2. **Question 2:** Cliff Einstein was a former chair of the Museum of Contemporary Art in Los Angeles. That's directly stated, so answer "Museum of Contemporary Art".
+
+3. **Question 3:** Robert Kwan's statement mentioned losses over $14 million caused by Chrismas's crimes. The question asks for the amount directly attributed to "great intangible harm". The $14 million is the figure mentioned, so answer $14 million.
+
+4. **Question 4:** Mary Corse is noted as an artist who had 10 of her pieces still with Chrismas. She's mentioned as exhibiting with Pace, so answer "Mary Corse".
+
+5. **Question 5:** Prosecutors argued for 10 years out of a maximum of 15. The maximum is explicitly stated, so answer 15.
+
+6. **Question 6:** The gallery was opened in 1967, and Donald Judd was part of the early shows. The letters reference the 1970s and '80s LA scene, but the decade would be the 1970s since the gallery started in '67. But the question asks when they first exhibited him. Since the article says "early shows" in the 1970s context, answer 1970s.
+
+7. **Question 7:** The article states Mary recovered some paintings but still had 10 left. It doesn't say how many she recovered, so N/A.
+
+8. **Question 8:** Sam Leslie accused Chrismas of diverting funds to a nonoperational museum. The article says Leslie described funds going to a defunct NY gallery and a nonoperational museum. So answer "Sam Leslie".
+
+9. **Question 9:** Leslie's civil judgment said the diverted $14M would have paid all creditors. The question asks the figure necessary to compensate creditors, which is $14 million.
+
+10. **Question 10:** Chrismas was 80 when sentenced. The crimes involved diverting funds during bankruptcy proceedings, but his age when he did it isn't specified. The article says he's 80 now, but the exact age when he diverted isn't given. So N/A.
+
+11. **Question 11:** The artist with 10 works still with him is Mary Corse. The single digit is 10, but the question asks for a single digit. Since 10 is two digits, maybe they want the count as 10? Wait, the question says "single digit"—but 10 isn't a single digit. The article says "about 10 of her pieces." Since the question specifies a single digit, maybe it's a trick. But the exact number given is 10, so answer 10 even though it's two digits? Or maybe it's a mistake. The question might have an error, but per the text, it's 10, so answer 10. Wait the question says "single digit"—so maybe N/A? Hmm. The article states 10, which is two digits. Since the question specifies a single digit, but the answer is 10, which isn't, so N/A? Or maybe they meant the digit '1'? No, the question is about the count. Since the answer is 10, but the question requires a single digit, so N/A. But the question says "if you count the number", so the number is 10. Since it's asking for a single digit, perhaps the answer is N/A. Alternatively, maybe the question is a trick, but I'll go with the article's exact number, which is 10. But the question says "single digit"—so maybe it's a mistake in the question, but per instructions, if can't answer exactly, then N/A. Hmm. I'll need to check again. The exact wording: "what single digit do you identify?" Since 10 is two digits, answer N/A.
+
+12. **Question 12:** The gallery's name is Ace. The letters in "Ace" are 3. The question refers to the gallery that first hosted his exhibitions, which is Ace. So answer 3.
+
+13. **Question 13:** The condemnations come from Judge Kwan and Trustee Leslie. That's two institutional sources (judge and trustee). So the count is 2.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>Museum of Contemporary Art</answer>
+<question_number>3</question_number>
+<answer>$14 million</answer>
+<question_number>4</question_number>
+<answer>Mary Corse</answer>
+<question_number>5</question_number>
+<answer>15</answer>
+<question_number>6</question_number>
+<answer>1970s</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>Sam Leslie</answer>
+<question_number>9</question_number>
+<answer>$14 million</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>10</answer>
+<question_number>12</question_number>
+<answer>3</answer>
+<question_number>13</question_number>
+<answer>2</answer>

@@ -1,0 +1,84 @@
+merged_airlines-delta-profits.txt
+Okay, let's tackle these questions one by one. I need to make sure I use only the information provided in the article. Let me start by reading through the questions again and cross-referencing each with the article.
+
+1. The first question asks about the percentage increase in earnings per share Delta's CEO projected, linked to the tech outage. The article mentions Delta's CEO Ed Bastian said earnings per share would rise more than 10 percent. The tech outage is mentioned as a separate event, but the question connects them. The answer is 10 percent.
+
+2. The second question is about which airline's bankruptcy directly impacted Airbus's ability to meet demand. The article says Spirit Airlines filed for bankruptcy. But does that affect Airbus? The article mentions Boeing's issues and Airbus's backlog, but not directly linked to Spirit's bankruptcy. Hmm, maybe N/A? Wait, the question says "most directly impacted Airbus's ability". The text says after the Boeing incident, Airbus couldn't pick up slack because of their own backlog. The Spirit bankruptcy isn't linked to Airbus's capacity. So maybe N/A? Or is it Spirit? The question might be tricky here. Let me check again. The article states "Spirit Airlines filed for bankruptcy" but the part about Airbus not being able to help is due to their own backlogs. So the answer might be N/A. Wait, the question is phrased as "which airline's bankruptcy filing most directly impacted Airbus's ability..." Since Spirit's bankruptcy isn't connected to Airbus's production capacity, maybe N/A? Or maybe I missed something. Hmm, maybe the answer is N/A here.
+
+3. The third question asks which analyst used the "ducks in a row" metaphor. The article says Ravi Shanker of Morgan Stanley said "it appears that this industry does have its ducks in a row." So the analyst is Ravi Shanker, and the institution is Morgan Stanley. The question asks for the financial institution, so answer is Morgan Stanley.
+
+4. Fourth question: After the CES in Vegas, Delta's Q4 revenue. The article states Delta reported over $15.5 billion in Q4 2024 revenue, which is the record mentioned. So answer is 15.5.
+
+5. Fifth question: Which hedge fund pushed Southwest for changes. The article mentions Elliott Management pushed Southwest. So answer is Elliott Management.
+
+6. Sixth question: Which CEO mentioned continued demand after a record Q4. Delta's CEO Ed Bastian said "As we move into 2025, we expect strong demand..." So answer is Delta Air Lines.
+
+7. Seventh question: Which bank's analyst said "blue skies". The article says Tom Fitzgerald of TD Cowen said "pretty blue skies". So TD Cowen.
+
+8. Eighth question: Which airline had a less contentious battle with Carl Icahn. The article mentions JetBlue had a less contentious battle with Carl Icahn. So JetBlue.
+
+9. Ninth question: Which aviation data firm mentioned Boeing 737 Max usage. The article says Cirium provided that info. So Cirium.
+
+10. Tenth question: Bank of America analyst on demand-supply. Andrew Didora at Bank of America mentioned the demand-over-supply imbalance. So Andrew Didora.
+
+11. Eleventh: Which airline had over $15.5B in Q4. Delta, as stated. So Delta Air Lines.
+
+12. Twelfth: Which airline is delivering best financial year in 100 years. Delta's CEO said that. So Delta.
+
+13. Thirteenth: Which reformed sales strategy for corporate? American Airlines overhauled sales strategy. So American Airlines.
+
+14. Fourteenth: Analyst who compared past issues to black swans. Ravi Shanker of Morgan Stanley. So Morgan Stanley.
+
+15. Fifteenth: Which manufacturer's jet was in the Alaska incident. Boeing 737 Max. So Boeing.
+
+16. Sixteenth: Which airline's exec projected over 10% EPS rise. Delta's CEO. So Delta Air Lines.
+
+17. Seventeenth: Which airline after Carl Icahn? JetBlue, as mentioned earlier.
+
+18. Eighteenth: Which airline capitalized on reduced flights and higher fares? The article mentions Delta's record revenue, but the question says "highlighted as having capitalized". The first part of the article says Delta's report is a preview for others, but the question might refer to Delta. Alternatively, maybe American or others, but the example given is Delta. So Delta.
+
+19. Nineteenth: Which airline had the panel incident. Alaska Airlines. The article states "a panel blew off a Boeing 737 Max during an Alaska Airlines flight".
+
+20. Twentieth: Investment bank's analyst predicting blue skies. Tom Fitzgerald at TD Cowen. So TD Cowen.
+</think>
+
+<question_number>1</question_number>
+<answer>10 percent</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>Morgan Stanley</answer>
+<question_number>4</question_number>
+<answer>15.5</answer>
+<question_number>5</question_number>
+<answer>Elliott Management</answer>
+<question_number>6</question_number>
+<answer>Delta Air Lines</answer>
+<question_number>7</question_number>
+<answer>TD Cowen</answer>
+<question_number>8</question_number>
+<answer>JetBlue Airways</answer>
+<question_number>9</question_number>
+<answer>Cirium</answer>
+<question_number>10</question_number>
+<answer>Andrew Didora</answer>
+<question_number>11</question_number>
+<answer>Delta Air Lines</answer>
+<question_number>12</question_number>
+<answer>Delta Air Lines</answer>
+<question_number>13</question_number>
+<answer>American Airlines</answer>
+<question_number>14</question_number>
+<answer>Morgan Stanley</answer>
+<question_number>15</question_number>
+<answer>Boeing</answer>
+<question_number>16</question_number>
+<answer>Delta Air Lines</answer>
+<question_number>17</question_number>
+<answer>JetBlue Airways</answer>
+<question_number>18</question_number>
+<answer>Delta Air Lines</answer>
+<question_number>19</question_number>
+<answer>Alaska Airlines</answer>
+<question_number>20</question_number>
+<answer>TD Cowen</answer>

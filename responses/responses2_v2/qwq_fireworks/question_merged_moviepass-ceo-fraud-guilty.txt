@@ -1,0 +1,132 @@
+merged_moviepass-ceo-fraud-guilty.txt
+Okay, let's tackle these questions one by one. The user wants answers strictly based on the given article, so I need to go through each question and check the text for exact information.
+
+1. **Monthly revenue from AI/big data**: The article mentions Farnsworth claimed they had these capabilities but says they didn't. It doesn't mention revenue numbers, so N/A.
+
+2. **Subscribers transitioned to new system**: The article says MoviePass returned in 2022 with a new system, but there's no number on how many subscribers moved, so N/A.
+
+3. **Hedge fund behind the model**: The article mentions DeepSeek in a separate paragraph, but it's unclear if they developed the model. The text says Farnsworth's company ran MoviePass, but no hedge fund is named as the originator. So N/A.
+
+4. **Amount Farnsworth took from Vinco**: The article states he took "millions" but doesn't specify an exact figure. Since it's not a number, N/A.
+
+5. **When discrepancy discovered**: The text doesn't mention when investigators found out, just that Farnsworth concealed it. N/A.
+
+6. **Percentage using less frequently**: The model projected fewer uses, but three million used it fully. The article doesn't give a percentage. N/A.
+
+7. **Who proposed $9.95 price**: The article says Farnsworth was CEO when the plan was $9.95, but no specific person proposed it. N/A.
+
+8. **Role of Florida prosecutors**: They prosecuted Farnsworth, but the article doesn't detail their role in uncovering AI claims specifically. Maybe N/A unless implied.
+
+Wait, the article says Farnsworth pleaded guilty in the Southern District, so maybe they were involved. But the question is about their role in uncovering AI misrepresentations. The article states prosecutors said he lied about the tech, so maybe they uncovered it. Hmm. The answer might be "prosecutors" but the question is about the Southern District's role. The article mentions they handled his case, so their role was part of the prosecution. Maybe the answer is "prosecutors" but the question specifies Southern District. Since the article says he pleaded guilty there, perhaps the prosecutors there played a role. But the article doesn't explicitly state their role in uncovering it, just that they charged him. So maybe N/A.
+
+9. **Spent on developing big-data**: The article doesn't mention costs for developing the claimed tech. N/A.
+
+10. **Movie theater partnership**: The article says the unlimited plan paid theaters full price but doesn't name any specific chain. N/A.
+
+11. **Executive hiding unviability**: The article says Farnsworth knew the plan wasn't tested and hid it. So the answer is Theodore Farnsworth.
+
+12. **Admitted guilt in both MoviePass and Vinco**: Farnsworth pleaded guilty to both MoviePass securities fraud and Vinco conspiracy. So yes, he's the one.
+
+13. **Executive concealing the gimmick and exaggerating analytics**: Again, Farnsworth is described as doing both. So him again.
+
+14. **Claimed AI tools despite evidence**: Farnsworth made those claims, per the article. So him.
+
+15. **Misled investors about untested model and AI**: Yes, Farnsworth did that. So him.
+
+16. **Admitted to securities fraud over MoviePass**: The first question's answer is Farnsworth.
+
+17. **Figure linked to subscription strategy and concealing losses**: Farnsworth again.
+
+18. **Presented as profitable and advanced**: Farnsworth.
+
+19. **Executive leading to legal repercussions**: Farnsworth, as he's the one with charges.
+
+20. **Admission about untested model and losses**: Farnsworth.
+
+Wait, for question 12, the answer is Farnsworth and Lowe? Wait, the question says "both a movie subscription service and a separate firm by promoting unsustainable tech claims". Farnsworth had MoviePass and Vinco. Lowe only had MoviePass? The article says Lowe pleaded guilty to conspiracy related to MoviePass. So Farnsworth is the one involved in both. So question 12's answer is Theodore Farnsworth.
+
+All others pointing to Farnsworth. The rest where info isn't present get N/A. Let me confirm each:
+
+1. N/A
+
+2. N/A
+
+3. N/A
+
+4. N/A (millions is vague)
+
+5. N/A
+
+6. N/A
+
+7. N/A
+
+8. N/A (since the role isn't detailed)
+
+9. N/A
+
+10. N/A
+
+11. Theodore Farnsworth
+
+12. Theodore Farnsworth
+
+13. Theodore Farnsworth
+
+14. Theodore Farnsworth
+
+15. Theodore Farnsworth
+
+16. Theodore Farnsworth
+
+17. Theodore Farnsworth
+
+18. Theodore Farnsworth
+
+19. Theodore Farnsworth
+
+20. Theodore Farnsworth
+
+So that's all the answers. Let me make sure I didn't miss any. The article doesn't mention any other names for these questions except Farnsworth and Lowe. But for question 11-20, all refer to Farnsworth except maybe question 12: the question says "both a movie subscription service and a separate firm". Farnsworth led both MoviePass (via Helios) and Vinco. So he's the one. Lowe only MoviePass. So yes, Farnsworth for all those.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>Theodore Farnsworth</answer>
+<question_number>12</question_number>
+<answer>Theodore Farnsworth</answer>
+<question_number>13</question_number>
+<answer>Theodore Farnsworth</answer>
+<question_number>14</question_number>
+<answer>Theodore Farnsworth</answer>
+<question_number>15</question_number>
+<answer>Theodore Farnsworth</answer>
+<question_number>16</question_number>
+<answer>Theodore Farnsworth</answer>
+<question_number>17</question_number>
+<answer>Theodore Farnsworth</answer>
+<question_number>18</question_number>
+<answer>Theodore Farnsworth</answer>
+<question_number>19</question_number>
+<answer>Theodore Farnsworth</answer>
+<question_number>20</question_number>
+<answer>Theodore Farnsworth</answer>

@@ -1,0 +1,58 @@
+merged_bmi-obesity-definition.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article states there are 18 medical conditions, but doesn't specify how many require immediate intervention at a BMI of 30.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions Wegovy and Zepbound, but doesn't exclude any specific pharmaceutical company’s drug.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any alternative biomarker considered by the American Heart Association.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article doesn't specify a minimum B.M.I. cutoff for pediatric patients.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article lists conditions but doesn't link any specifically to irreversible organ damage.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article doesn't discuss the World Health Organization’s stance on metabolic syndrome.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention a specific percentage of body fat measured via DEXA scan.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any commission member disagreeing about psychological disorders.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article doesn't discuss discrepancies between B.M.I. and waist-to-hip ratio by demographic group.</other>
+<question_number>10</question_number>
+<answer>40 inches</answer>
+<other>The article states "For a man, a waist the threshold would be at least 40 inches."</other>
+<question_number>11</question_number>
+<answer>DEXA scans</answer>
+<other>The article states "Other tools for health professionals include…DEXA scans, a type of X-ray."</other>
+<question_number>12</question_number>
+<answer>34.6 inches</answer>
+<other>The article states "If a woman's waist is more than 34.6 inches, she most likely has too much fat."</other>
+<question_number>13</question_number>
+<answer>David M. Nathan</answer>
+<other>The article states "But unlike B.M.I., waist measurements are often performed incorrectly in medical settings. It is unrealistic, Dr. Nathan said, "to say the whole world is going to change to this." As they would have it, you wouldn't treat hypertension until the person has a stroke," Dr. Nathan added.</other>
+<question_number>14</question_number>
+<answer>Francesco Rubino</answer>
+<other>The article states "The commission's chair, Dr. Francesco Rubino, a bariatric surgeon at King's College London. (Dr. Rubino consults for makers of obesity drugs and medical devices.)"</other>
+<question_number>15</question_number>
+<answer>pre-clinical obesity</answer>
+<other>The article states "Their condition would be called pre-clinical obesity."</other>
+<question_number>16</question_number>
+<answer>American Heart Association</answer>
+<other>The article states "The commission's approach fits with that of the American Heart Association, which endorsed the report."</other>
+<question_number>17</question_number>
+<answer>stroke</answer>
+<other>The article states "As they would have it, you wouldn't treat hypertension until the person has a stroke," Dr. Nathan added.</other>
+<question_number>18</question_number>
+<answer>Gina Kolata</answer>
+<other>The article states "By Gina Kolata" and "Gina Kolata reports on diseases and treatments..."</other>
+<question_number>19</question_number>
+<answer>40</answer>
+<other>The article states "The commission said those with a B.M.I. of 40 or greater have clinical obesity on the basis of their B.M.I. alone -- there is no need to assess their body fat."</other>

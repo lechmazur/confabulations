@@ -1,0 +1,40 @@
+merged_2024-election-map-data.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article doesn't explicitly mention what type of data presentation was rejected for the current map that would have better depicted popular vote count.</other>
+
+<question_number>2</question_number>
+<answer>73 percent</answer>
+<other>The article states: "It currently includes results for more than 110,000 precincts, or 73 percent of all votes, and will be updated as more data is collected."</other>
+
+<question_number>3</question_number>
+<answer>early or mail-in absentee ballots</answer>
+<other>The article mentions that "Many places do not include early or mail-in absentee ballots in the precinct data they release" which would cause misrepresentation of voter turnout.</other>
+
+<question_number>4</question_number>
+<answer>putting the data into precinct boundaries</answer>
+<other>The article states that "getting the results into a data table was only half the battle. The other half was putting the data into precinct boundaries"</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article doesn't clearly specify which initial step would have been less time-consuming if data-curious individuals had focused only on perfectly aligned areas.</other>
+
+<question_number>6</question_number>
+<answer>not accounting for population</answer>
+<other>The article mentions that a drawback of the choropleth approach is "that it does not account for population; a sparsely populated area where a candidate won by 25 points is shaded the same way as a densely populated one with the same margin."</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article doesn't specify what type of submitted information would become less crucial in this hypothetical scenario.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article doesn't clearly indicate which limitation would become irrelevant if they abandoned the choropleth approach for a population density-accurate method.</other>
+
+<question_number>9</question_number>
+<answer>local knowledge and insights</answer>
+<other>The article mentions that by sharing "local knowledge and insights, you'll help us create a more accurate map of election results."</other>
+
+<question_number>10</question_number>
+<answer>each entity has its own way of releasing data</answer>
+<other>The article states: "Each of these entities has its own way of releasing such data, and there is no nationwide source of this information." This challenge would remain regardless of which years were being compared.</other>

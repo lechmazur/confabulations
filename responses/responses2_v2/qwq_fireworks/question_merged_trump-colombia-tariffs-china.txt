@@ -1,0 +1,90 @@
+merged_trump-colombia-tariffs-china.txt
+Okay, I need to tackle these 20 questions based solely on the provided article. Let me go through each one carefully.
+
+1. **Question 1**: The article mentions that MedSource planned to expand but the political incident (tariffs) happened. The expansion included adding a second story to the factory. However, the exact percentage increase isn't stated. The text says they wanted to add a second story but needed clarity on tax incentives. Since the percentage isn't given, maybe it's N/A. Wait, but maybe "adding a second story" implies doubling capacity? The article says costs were within 10% of China, but that's cost, not capacity. Hmm, no, the question is about production capacity increase before the incident. The article doesn't specify the percentage, so answer N/A.
+
+2. **Question 2**: The U.S. military branch buying stretchers. The article states, "strikers that would be purchased by the U.S. military." It doesn't specify which branch. So N/A.
+
+3. **Question 3**: After IP theft in Jiangsu, Fagley moved production to India. The article says he moved to India but doesn't mention a city. So N/A.
+
+4. **Question 4**: The secure route bypassing Suez and Panama. The article mentions a corridor from Cartagena to U.S. East Coast ports via dotted lines on a map, avoiding both canals. The answer is the route via Cartagena to East Coast, but the question asks for the name. The text says "a corridor that avoided both the Panama and the Suez canals" and linked to ports like Jacksonville. The specific route isn't named, but maybe "direct Atlantic route"? The article doesn't name it, so perhaps the answer is "N/A".
+
+Wait, the article says "a corridor that avoided both the Panama and the Suez canals, one free and clear..." So maybe the answer is the route through the Atlantic? The question asks for the name, but the article doesn't specify a name. So N/A.
+
+5. **Question 5**: Regulatory body in the US causing higher costs. The article mentions "higher American wages and the costs of complying with domestic regulations." But which regulatory body? It's not named. So N/A.
+
+6. **Question 6**: African tribe brought as slaves to Cartagena. The article says "enslaved people brought from Africa." No specific tribe is mentioned. N/A.
+
+7. **Question 7**: The illness in Ms. Pajaro's old home. The text mentions "mosquitoes bearing dengue fever." So dengue fever.
+
+8. **Question 8**: Food served in Daffach's restaurant. The article says Elias Daffach worked in the family restaurant business. No specific type of food is mentioned. N/A.
+
+9. **Question 9**: Month and year MedSource started producing disposable sheets. The article says production started at a leased factory in 2022. The exact month isn't given. N/A.
+
+10. **Question 10**: Plastic type derived from petroleum in Colombia. The article says Cartagena is a petroleum hub with stocks of a key material derived from petroleum—plastics. The specific type isn't named. N/A.
+
+11. **Question 11**: Month and year Trump announced the tariff. The incident happened on Sunday when he announced the 25% tariff. The article mentions "An earlier version..." but the exact date isn't given except that it's recent. The article's context places it as "Sunday afternoon" when the Colombian president refused the flights. Since the article was written in 2023 (as per "late 2023" events), but the specific month isn't stated. The text says "Sunday" but no month/year. N/A.
+
+Wait, the article mentions "in late 2023" for Houthi attacks, but the tariff announcement is after that? The tariff was announced after the deportation issue, which is part of the current events in the article. The exact date isn't provided, so answer N/A.
+
+12. **Question 12**: Years after foundation to Colombia shift. MedSource was founded in 2002. They started in Colombia in 2022 (producing in 2022). 2022 - 2002 = 20 years.
+
+13. **Question 13**: Days shorter from Cartagena vs China. The article says the journey from Cartagena is a week (7 days) vs China's four weeks (28 days). 28-7=21 days shorter. So 21.
+
+14. **Question 14**: Primary product from Bogota supplier. The article says the largest supplier of fabric in Bogota supplies raw materials. The product would be fabric. The primary product is fabric, but the question asks for the product made by the Bogota factory. The article says "largest supplier of fabric", so fabric. But maybe the factory produces fabric for MedSource's products like sheets and stretchers. The answer is fabric.
+
+15. **Question 15**: Percentage cost difference between Colombia and China. The article states costs in Colombia were "generally within 10 percent of those in China." So the difference is 10% (Colombia is 10% more expensive? Or within 10% either way? The answer is "within 10 percent," so the difference is 10%.
+
+16. **Question 16**: Political figure influencing nearshoring. The article says Trump's tariffs on China and Mexico pushed companies to nearshore, so Trump.
+
+17. **Question 17**: Colonial era when Cartagena started as an entry point. The text says "the Spanish, who arrived seeking to extract valuable commodities. It grew as an entry point for enslaved people..." So Spanish colonial era, which is in the 16th century. The answer is "Spanish colonial era."
+
+18. **Question 18**: Shipping route closure due to conflict. The Houthi rebels in Yemen targeted ships in the Red Sea, affecting Suez Canal. The critical route was the Suez Canal closure.
+
+19. **Question 19**: Days for Cartagena to U.S. East Coast. The article says "the journey could be completed in only a week," so 7 days.
+
+20. **Question 20**: Government trade bureau reporting investments. The article mentions ProColombia as the government trade bureau reporting $7.6 billion since 2018.
+
+Now, let me verify each answer against the text again to ensure accuracy.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>dengue fever</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>2022</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<question_number>12</question_number>
+<answer>20</answer>
+<question_number>13</question_number>
+<answer>21</answer>
+<question_number>14</question_number>
+<answer>fabrics</answer>
+<question_number>15</question_number>
+<answer>10%</answer>
+<question_number>16</question_number>
+<answer>Donald Trump</answer>
+<question_number>17</question_number>
+<answer>Spanish colonial era</answer>
+<question_number>18</question_number>
+<answer>Suez Canal</answer>
+<question_number>19</question_number>
+<answer>7</answer>
+<question_number>20</question_number>
+<answer>ProColombia</answer>

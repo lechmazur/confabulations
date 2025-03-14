@@ -1,0 +1,30 @@
+merged_brazil-plane-crash-investigation.txt
+<question_number>1</question_number>
+<answer>The mention of improvements to the de-icing system since 1994 might mislead by suggesting the system should have prevented the crash, potentially diverting attention from other causes or system malfunctions.</answer>
+
+<question_number>2</question_number>
+<answer>The article suggests that the plane's speed drop should not cause a stall unless icing was severe, creating a conditional relationship between speed, icing severity, and stall occurrence.</answer>
+
+<question_number>3</question_number>
+<answer>The 63-degree ground temperature challenges the severe icing theory, as it suggests pilots could have descended to warmer air to melt ice.</answer>
+
+<question_number>4</question_number>
+<answer>The plane's slow spinning descent contradicts the typical rapid, nose-down fall expected in most stall-induced crashes.</answer>
+
+<question_number>5</question_number>
+<answer>The plane's last recorded speed of about 325 mph was not low enough to cause a stall under normal conditions, challenging the primary stall theory unless icing was extremely severe.</answer>
+
+<question_number>6</question_number>
+<answer>The pilots' failure to communicate with air traffic controllers about descending to a lower altitude conflicts with standard protocol for addressing severe icing.</answer>
+
+<question_number>7</question_number>
+<answer>The warm ground temperature of 63 degrees contradicts the assumption of severe icing conditions.</answer>
+
+<question_number>8</question_number>
+<answer>The improved de-icing system complicates the investigation by suggesting it should have worked, raising questions about potential failures or malfunctions.</answer>
+
+<question_number>9</question_number>
+<answer>The ATR 72-500's sensitivity to ice is crucial for the icing theory, as its anti-icing system's effectiveness or potential malfunction could significantly impact ice accumulation.</answer>
+
+<question_number>10</question_number>
+<answer>The plane's fall from 17,000 feet challenges assumptions about gradual ice accumulation, suggesting a sudden loss of lift at a relatively high altitude where severe icing would be more likely than at lower, warmer altitudes.</answer>

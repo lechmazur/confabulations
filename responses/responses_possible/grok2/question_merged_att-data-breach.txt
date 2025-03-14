@@ -1,0 +1,30 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>Through data broker records, phone numbers can be traced back to individuals, which could expose communication networks for people in national security roles.</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>Through data broker records, phone numbers can be traced back to individuals, which could expose communication networks for people in sensitive positions.</answer>
+
+<question_number>7</question_number>
+<answer>The most likely beneficiary of this specific data are foreign nation states or foreign actors.</answer>
+
+<question_number>8</question_number>
+<answer>Through data broker records, phone numbers can be traced back to individuals, which could expose communication networks for government officials.</answer>
+
+<question_number>9</question_number>
+<answer>When companies outsource data to the cloud, customers are increasingly exposed to potential data breaches because the cloud infrastructure is shared with many other entities, making it trickier to secure.</answer>
+
+<question_number>10</question_number>
+<answer>The professor explains that moving IT infrastructure to the cloud increases the complexity of security due to shared environments, which directly relates to the AT&T data breach involving the third-party cloud platform Snowflake.</answer>

@@ -1,0 +1,75 @@
+merged_alcohol-surgeon-general-warning.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the given article. Let me go through each question carefully.
+
+1. **Which member of Trump's incoming administration cited personal experience with AA meetings as motivation for supporting new cancer warning labels on alcohol?**
+   - The article mentions Robert F. Kennedy Jr. as the choice to head HHS and notes he attends AA meetings. So the answer is Robert F. Kennedy Jr.
+
+2. **How many percentage points higher is the lifetime breast cancer risk for women who drink exactly 1.5 drinks per day compared to those who drink less than weekly?**
+   - The article gives specific numbers: 11.3% for <1 drink/week, 13.1% for 1/day, 15.3% for 2/day. But the question is about 1.5 drinks. Since the data is given for 1 and 2 drinks, there's no exact figure for 1.5. So N/A.
+
+3. **What year did the WHO first mandate cancer warning labels on alcohol products in member nations?**
+   - The article says WHO says no safe limit, but doesn't mention when they mandated labels. It says 47 nations have warnings, but WHO's mandate isn't specified. So N/A.
+
+4. **According to the rodent studies mentioned, which specific organ showed the highest concentration of tumors when exposed to ethanol-spiked drinking water?**
+   - The rodent study says they developed "large numbers of tumors all over their bodies." No specific organ mentioned as highest. So N/A.
+
+5. **What percentage of Americans in the 2019 AICR survey identified alcohol as more carcinogenic than obesity?**
+   - The article states fewer than half recognized alcohol as a risk, while 89% knew about tobacco. But it doesn't compare to obesity. The article says alcohol is third after tobacco and obesity as a preventable cause. But the survey question didn't ask about comparison. So N/A.
+
+6. **How many months after Ireland's cancer warning label implementation did South Korea adopt their liver cancer warning requirement?**
+   - South Korea's label is mentioned first, and Ireland's is planned for 2026. The article doesn't say South Korea adopted after Ireland. So N/A.
+
+7. **What biological mechanism did the surgeon general identify as the primary pathway through which acetaldehyde triggers DNA mutation in breast tissue?**
+   - The article says acetaldehyde binds to DNA and damages it. The primary pathway is acetaldehyde binding to DNA. So answer is acetaldehyde binding to DNA.
+
+8. **What was the statistical correlation coefficient between daily alcohol consumption and atrial fibrillation risk in the National Academies review?**
+   - The review found a link between alcohol and atrial fibrillation but didn't mention a specific correlation coefficient. So N/A.
+
+9. **How many Canadian provinces completed the warning label study before industry opposition led to its termination?**
+   - The article mentions a federally funded Canadian study was terminated, but doesn't specify provinces. So N/A.
+
+10. **What percentage reduction in cancer risk did Dr. Murthy calculate for each standard drink reduction below the current guidelines?**
+    - The article says "less is better" but doesn't give a specific percentage reduction per drink. So N/A.
+
+11. **Given Robert F. Kennedy Jr.'s history with AA, what percentage increase in relative risk of mouth cancer did the Canadian study, terminated due to industry opposition, attribute to consuming two alcoholic drinks daily?**
+    - The Canadian study was terminated, so its findings aren't mentioned. The article says other studies found 40% increase for mouth cancer at 1 drink/day. But the question asks about the terminated study, which we don't have data on. So N/A.
+
+12. **If Donald J. Trump were to implement Dr. Murthy's recommendation, mirroring South Korea's approach, what type of tumor, based on the global study of 28 million people, would the warning label specifically mention as being linked to acetaldehyde in animal experiments?**
+    - South Korea's label is for liver cancer. The global study links alcohol to various cancers, but the animal experiments mention tumors all over. However, the question asks what the label would specifically mention. Since South Korea's label is liver cancer, mirroring that would mean liver cancer. So liver cancer.
+</think>
+
+<question_number>1</question_number>
+<answer>Robert F. Kennedy Jr.</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>acetaldehyde binding to DNA</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+
+<question_number>12</question_number>
+<answer>liver cancer</answer>

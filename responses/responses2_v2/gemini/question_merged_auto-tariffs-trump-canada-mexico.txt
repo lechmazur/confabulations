@@ -1,0 +1,55 @@
+merged_auto-tariffs-trump-canada-mexico.txt
+<question_number>1</question_number>
+<answer>One</answer>
+<other>The article states that GM produces about 25 percent of its pickups for the U.S. market in Mexico.  If they were to fully localize production, they would theoretically no longer need that Mexican production, which is described as a portion of their output, implying a single plant or a set of plants considered as one production unit in Mexico.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions tariffs on Chinese goods but doesn't specify the rate.  Therefore, we cannot calculate the adjusted sticker price of the Mach E even with the assumption of a linear relationship.</other>
+<question_number>3</question_number>
+<answer>Pickups</answer>
+<other>The article mentions pickups as being among the most profitable vehicles sold by U.S. automakers, and GM produces a significant portion of its pickups in Mexico, making them vulnerable to the proposed tariffs.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>While the article mentions Hyundai's investment, it doesn't provide enough information to determine the exact correlation between investment size and tariff impact mitigation. Therefore, we cannot calculate how much more Ford would need to invest.</other>
+<question_number>5</question_number>
+<answer>25%</answer>
+<other>The proposed tariff is 25%, and the question assumes a direct correlation between sales decline and workforce reduction.</other>
+<question_number>6</question_number>
+<answer>12.5%</answer>
+<other>The Bernstein report states that about half (50%) of the components in U.S.-made vehicles are imported.  A 25% tariff on 50% of the vehicle's value would add 12.5% to the overall cost.</other>
+<question_number>7</question_number>
+<answer>Imposing tariffs on imports from Canada and Mexico</answer>
+<other>The article explicitly mentions this action by Mr. Trump as potentially disrupting the transnational operations facilitated by these agreements.</other>
+<question_number>8</question_number>
+<answer>AlixPartners</answer>
+<other>Mark Wakefield, from AlixPartners, is quoted discussing the industry's wait-and-see approach and the possibility of the tariffs being a negotiating tactic.</other>
+<question_number>9</question_number>
+<answer>Hyundai</answer>
+<other>The article specifically mentions Hyundai's $7.6 billion investment in Georgia as a strategy to avoid tariff-related issues.</other>
+<question_number>10</question_number>
+<answer>United States-Mexico-Canada Agreement (USMCA)</answer>
+<other>The article clearly states this as the agreement that replaced NAFTA.</other>
+<question_number>11</question_number>
+<answer>A 25% tariff on a fully assembled vehicle made in Mexico</answer>
+<other>The article explicitly states this scenario would force a 25% increase in the sticker price.</other>
+<question_number>12</question_number>
+<answer>Simon Geale</answer>
+<other>The article quotes Simon Geale, from Proxima, explaining the link between lower sales and workforce reductions.</other>
+<question_number>13</question_number>
+<answer>Mark Wakefield</answer>
+<other>The article identifies Mark Wakefield, from AlixPartners, as making this characterization of the tariffs.</other>
+<question_number>14</question_number>
+<answer>Ford</answer>
+<other>The article specifically mentions Ford declining to comment and producing the electric Mustang Mach E in Mexico.</other>
+<question_number>15</question_number>
+<answer>Erik Gordon</answer>
+<other>The article quotes Erik Gordon, a business professor at the University of Michigan, expressing this belief.</other>
+<question_number>16</question_number>
+<answer>Three decades</answer>
+<other>The article explicitly states this timeframe for the transnational nature of North American automaking.</other>
+<question_number>17</question_number>
+<answer>Re-engineering cross-border supply chains</answer>
+<other>The article highlights this as a difficult and costly process due to the just-in-time nature of parts delivery.</other>
+<question_number>18</question_number>
+<answer>$150 billion</answer>
+<other>The article mentions this figure as the annual value of vehicles moving from Canada and Mexico into the United States.</other>

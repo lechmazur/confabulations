@@ -1,0 +1,33 @@
+merged_alphabet-google-earnings.txt
+<question_number>1</question_number>
+<answer>$1.2 billion operating profit</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>Google Cloud</answer>
+
+<question_number>4</question_number>
+<answer>Wiz rejecting Google's $23 billion acquisition offer</answer>
+
+<question_number>5</question_number>
+<answer>Eliminating third-party cookies on Chrome</answer>
+
+<question_number>6</question_number>
+<answer>Wiz accepting Google's acquisition offer</answer>
+<other>This answer is inferred as the opposite of what happened in the article.</other>
+<other>The actual answer in the text is that Wiz rejected the offer.</other>
+
+<question_number>7</question_number>
+<answer>Google Cloud</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article does not mention a specific business decision that could have addressed the slowing growth rate.</other>
+
+<question_number>9</question_number>
+<answer>Google Cloud</answer>
+
+<question_number>10</question_number>
+<answer>Artificial Intelligence (A.I.)</answer>

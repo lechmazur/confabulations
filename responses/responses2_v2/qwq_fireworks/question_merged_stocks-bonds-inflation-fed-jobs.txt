@@ -1,0 +1,94 @@
+merged_stocks-bonds-inflation-fed-jobs.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article. Let me start by reading through each question carefully and then scanning the article for the exact details.
+
+1. **Question 1:** The first question asks about the specific Federal Reserve-controlled interest rate that was cut while longer rates rose. The article mentions the Fed cuts a very short-term rate. The exact term used is "very short-term rate". So the answer should be that rate, but the article doesn't name it specifically. Wait, maybe it refers to the federal funds rate? But the text says "the Fed only directly sets a very short-term rate". Since the article doesn't name it, maybe the answer is "N/A". Wait, but maybe the question expects the term "short-term rate" even if not named. Hmm, the question says "specific Federal Reserve-controlled interest rate". Since the article doesn't specify the exact name, maybe it's N/A. Wait, let me check again. The article says "the Fed only directly sets a very short-term rate". The problem is the question asks for the "specific" rate's name. Since the article doesn't name it, like federal funds rate, then answer is N/A? Or maybe "short-term rate" is acceptable? The question might be expecting that, but the instructions say if the exact term isn't there, N/A. Hmm, tricky. Let me note this and come back.
+
+2. **Question 2:** The currency's appreciation due to higher US rates. The article says "The dollar continued its long-running rise, as the expectation of higher interest rates in the United States maintained its allure..." So the answer is the US dollar.
+
+3. **Question 3:** Delay in labor market data. The first line says "Data delayed at least 15 minutes". So the delay is 15 minutes.
+
+4. **Question 4:** 10-year Treasury yield increase over the week. The article states "The yield on the 10-year U.S. Treasury note... rose 0.17 percentage points for the week".
+
+5. **Question 5:** UK's 10-year gilt yield rise. The article says "the yield on the 10-year note rising 0.24 percentage points".
+
+6. **Question 6:** 30-year mortgage rate's peak period. The article says "reached its highest level since early July".
+
+7. **Question 7:** U.S. government raised via bond auctions. The article mentions "$119 billion".
+
+8. **Question 8:** After which month the Fed would not consider rate cuts. The strategist Matthew Ryan says "until at least June".
+
+9. **Question 9:** UK bond with most substantial weekly yield increase. The article states that UK's 10-year gilt had "on course for its biggest one-week move in a year". So the answer is the 10-year gilt.
+
+10. **Question 10:** Treasury note underpinning loans. The article says "the yield on the 10-year U.S. Treasury note... underpins a host of corporate and consumer loans". So the 10-year note.
+
+11. **Question 11:** Employment report cited. The article mentions "Friday's jobs report".
+
+12. **Question 12:** Strategist who said peak yields not reached. The quote is from Seema Shah: "the peak for yields has not yet been reached".
+
+Going back to question 1. The article says the Fed sets a very short-term rate, but doesn't name it. The question asks for the "specific" rate. Since the article doesn't name it, like federal funds rate, maybe the answer is N/A. Wait, but maybe the "short-term rate" is considered specific enough? The question might be looking for that, but since the article doesn't use the exact name, maybe N/A. Alternatively, the article says "the Fed only directly sets a very short-term rate", so the answer is "very short-term rate". But the question says "specific Federal Reserve-controlled interest rate". The Fed's main rate is the federal funds rate. Since the article doesn't mention that name, perhaps the answer is N/A. Hmm, but maybe the question expects the term used in the article: "very short-term rate". The question says "specific" so maybe the answer is "very short-term rate".
+
+Alternatively, perhaps the article does mention the federal funds rate? Let me check again. Scanning through: "the Fed has been cutting the interest rates it controls" and "the Fed only directly sets a very short-term rate". Since the article doesn't name it, the answer would be N/A. Wait, but the question might accept "very short-term rate" as the answer. Since the article uses that term, maybe that's acceptable. I'll go with "very short-term rate" as the answer.
+
+Now, compiling all answers:
+
+1. <question_number>1</question_number>
+   <answer>very short-term rate</answer> or N/A? Hmm, maybe the article doesn't name it, so N/A. Wait the article says "the Fed only directly sets a very short-term rate", so the answer is "very short-term rate" as per the text. So I'll use that.
+
+2. <question_number>2</question_number>
+   <answer>dollar</answer>
+
+3. <question_number>3</question_number>
+   <answer>15 minutes</answer>
+
+4. <question_number>4</question_number>
+   <answer>0.17 percentage points</answer>
+
+5. <question_number>5</question_number>
+   <answer>0.24 percentage points</answer>
+
+6. <question_number>6</question_number>
+   <answer>early July</answer>
+
+7. <question_number>7</question_number>
+   <answer>$119 billion</answer>
+
+8. <question_number>8</question_number>
+   <answer>June</answer>
+
+9. <question_number>9</question_number>
+   <answer>10-year gilt</answer>
+
+10. <question_number>10</question_number>
+    <answer>10-year U.S. Treasury note</answer>
+
+11. <question_number>11</question_number>
+    <answer>jobs report</answer>
+
+12. <question_number>12</question_number>
+    <answer>Seema Shah</answer>
+</think>
+
+<question_number>1</question_number>
+<answer>very short-term rate</answer>
+<question_number>2</question_number>
+<answer>dollar</answer>
+<question_number>3</question_number>
+<answer>15 minutes</answer>
+<question_number>4</question_number>
+<answer>0.17 percentage points</answer>
+<question_number>5</question_number>
+<answer>0.24 percentage points</answer>
+<question_number>6</question_number>
+<answer>early July</answer>
+<question_number>7</question_number>
+<answer>$119 billion</answer>
+<question_number>8</question_number>
+<answer>June</answer>
+<question_number>9</question_number>
+<answer>10-year gilt</answer>
+<question_number>10</question_number>
+<answer>10-year U.S. Treasury note</answer>
+<question_number>11</question_number>
+<answer>jobs report</answer>
+<question_number>12</question_number>
+<answer>Seema Shah</answer>

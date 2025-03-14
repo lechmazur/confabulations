@@ -1,0 +1,69 @@
+merged_emergency-911-calls-tech-outage.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article and follow the instructions strictly.
+
+1. **Question 1:** Which state's emergency management spokesperson mentioned both I.T. teams and statewide alert systems in their statement?
+   - Looking through the article, Oregon's spokesperson Erin Zysett mentioned IT teams working on fixes and that statewide alert systems were mostly unaffected. So the answer should be Oregon.
+
+2. **Question 2:** What connection exists between the CrowdStrike outage and the closure of a municipal building in a Cleveland suburb?
+   - The article mentions Hudson (a Cleveland suburb) closed City Hall due to utility billing and phone systems being down, which were affected by the outage. So the closure was because of the systems being down from CrowdStrike.
+
+3. **Question 3:** What was the cause of the false fire alarms in buildings around San Francisco?
+   - The text states the false alarms were caused by the CrowdStrike outage. Directly answered.
+
+4. **Question 4:** What was the reason for the manual operation of emergency dispatchers in Portland, Ore.?
+   - Portland's dispatchers had to work manually because their computer systems were down due to the outage. The systems were back by 6 a.m.
+
+5. **Question 5:** What was the result of the firewall unintentionally preventing calls from getting through in Massachusetts?
+   - The article says Massachusetts emergency agencies directed the public to alternative numbers. So the result was directing to alternative numbers.
+
+6. **Question 6:** What was the reason for the closure of City Hall in Hudson, a suburb of Cleveland?
+   - The closure was because utility billing and phone systems were down due to the outage. The article explicitly states this.
+
+7. **Question 7:** In which state did problems with 911 emergency lines begin to emerge on Thursday night?
+   - Alaska's 911 issues started Thursday night. The article mentions Alaska State Troopers noted the outage.
+
+8. **Question 8:** What was the reason why some 911 centers lost use of their digital call systems and had to switch to analog phones?
+   - The reason is the nationwide CrowdStrike outage. The article says Alaska's centers had to switch because of this.
+
+9. **Question 9:** Which state's entire 911 system was affected by an outage in April?
+   - The April outage affected South Dakota entirely. The text mentions "the entire state of South Dakota" in April.
+
+10. **Question 10:** In which city did firefighters respond to 20 false fire alarms due to a technology-related outage?
+    - San Francisco had 20 false alarms between 2:34 and 2:50 a.m. caused by the CrowdStrike issue.
+
+I need to ensure all answers are directly from the text. Let me check again for each:
+
+1. Oregon – yes, mentioned both IT teams and alert systems.
+2. The outage caused systems to be down, leading to closure – correct.
+3. CrowdStrike outage – yes.
+4. Computer systems down from outage – yes.
+5. Firewall issue in MA led to using alternative numbers – yes.
+6. Systems down (utility and phone) – yes.
+7. Alaska on Thursday night – correct.
+8. Nationwide CrowdStrike outage – yes.
+9. South Dakota in April – correct.
+10. San Francisco – yes.
+
+All answers are present in the article. No N/A needed here.
+</think>
+
+<question_number>1</question_number>
+<answer>Oregon</answer>
+<question_number>2</question_number>
+<answer>CrowdStrike outage caused utility billing and phone systems to be down</answer>
+<question_number>3</question_number>
+<answer>CrowdStrike outage</answer>
+<question_number>4</question_number>
+<answer>Computer systems were down due to the outage</answer>
+<question_number>5</question_number>
+<answer>Emergency agencies directed them to alternative numbers</answer>
+<question_number>6</question_number>
+<answer>Utility billing and phone systems were down due to the outage</answer>
+<question_number>7</question_number>
+<answer>Alaska</answer>
+<question_number>8</question_number>
+<answer>Nationwide technology-related outage (CrowdStrike)</answer>
+<question_number>9</question_number>
+<answer>South Dakota</answer>
+<question_number>10</question_number>
+<answer>San Francisco</answer>

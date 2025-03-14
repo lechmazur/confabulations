@@ -1,0 +1,19 @@
+merged_airlines-delta-profits.txt
+<question_number>1</question_number>
+<answer>Boeing's production delays</answer>
+<other>The text explicitly states that Boeing's slowed production and delayed deliveries of jets disrupted airline plans, while Airbus's lack of capacity to compensate exacerbated the issue.  Spirit's bankruptcy and Airbus engine inspections are mentioned as separate challenges, not directly linked to the carriers' expansion limitations caused by the Boeing issue.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The text doesn't describe a sequence of events creating an "irreversible supply chain bottleneck" disproportionately affecting airlines with older fleets. It mentions Boeing's production slowdown due to the 737 Max issue, Airbus's full order books, and Airbus engine problems, but not in a way that connects them as a chain of events specifically impacting older fleets.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>While the text mentions Southwest's cost-cutting and JetBlue's premium seating expansion, it doesn't explicitly connect these strategies as divergent responses to the same market pressures described in the fourth and eighth paragraphs. The fourth paragraph discusses general industry challenges, and the eighth focuses on airlines' improving financial positions due to reduced flights and increased fares.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article mentions business travel rebounding, international flights being profitable, and aircraft delivery delays. However, it doesn't establish a "critical path dependency" that specifically advantages carriers with existing widebody fleets over those relying on narrowbody orders.</other>
+<question_number>5</question_number>
+<answer>Boeing 737 Max panel issue, technology outage, Spirit Airlines bankruptcy</answer>
+<other>These three crises are mentioned as contributing to capacity reduction, which in turn led to increased pricing power for the airlines.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article mentions "the last five years" of challenges and projects stability for 2025, but it doesn't explicitly analyze the cumulative effects of pandemic recovery, investor interventions, and fuel cost normalization to establish a conflict between these two timeframes.</other>

@@ -1,0 +1,69 @@
+merged_mastercard-26-million-pay-discrimination.txt
+<question_number>1</question_number>
+<answer>Approximately 12.1%</answer>
+<other>Mastercard paid $26 million while Goldman Sachs paid $215 million. $26M/$215M = 0.1209 or about 12.1%</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article only mentions that Mastercard agreed to "hire a psychologist to assess bias in its workplace" but doesn't specify any particular assessment tool recommended by Outten & Golden.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article mentions a "D.E.I. Retreat" article but doesn't provide information about any new title bestowed upon a Mastercard executive overseeing revised diversity initiatives.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>While the article mentions "Silicon Valley Workers Quietly Protest" and that tech employees have "objected with subtle acts of defiance," it doesn't specify what form of protest Mastercard employees adopted.</other>
+
+<question_number>5</question_number>
+<answer>2027</answer>
+<other>The article states Mastercard agreed to "conduct annual pay equity audits for three years." If we assume they begin immediately after the court filing in 2024, they would conclude in 2027.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>While the article mentions Bill Gates, it doesn't describe any specific historical event he analyzed that influenced Mastercard's decision to settle.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article mentions "DeepSeek's Rise" but doesn't provide information about a hedge fund whose AI firm developed an algorithm used to identify pay discrepancies at Mastercard.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>While the article mentions "A Start-Up's Claim of a Miracle" about an unproven blood filter, it doesn't connect this to Mastercard considering implementing such technology.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article mentions that Mastercard "improperly assigned women and people of color to job levels below their experience" but doesn't specify a particular job title that was most frequently misassigned.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>While the article states that Mastercard underpaid "roughly 7,500 employees," it doesn't specify how many of these were affected specifically by job level misassignments.</other>
+
+<question_number>11</question_number>
+<answer>$26 million</answer>
+
+<question_number>12</question_number>
+<answer>Three years</answer>
+
+<question_number>13</question_number>
+<answer>Mastercard</answer>
+
+<question_number>14</question_number>
+<answer>Cara Greene</answer>
+
+<question_number>15</question_number>
+<answer>Goldman Sachs</answer>
+<other>Goldman Sachs paid $215 million, which is larger than Mastercard's $26 million and Google's $118 million.</other>
+
+<question_number>16</question_number>
+<answer>N/A</answer>
+<other>While the article states the underpayment started in 2016, it doesn't specify when the complaint was filed beyond saying "on Tuesday." Without knowing the current year from the article, we can't calculate the full years.</other>
+
+<question_number>17</question_number>
+<answer>Hire a psychologist</answer>
+
+<question_number>18</question_number>
+<answer>Mark Zuckerberg</answer>
+
+<question_number>19</question_number>
+<answer>Second-largest</answer>

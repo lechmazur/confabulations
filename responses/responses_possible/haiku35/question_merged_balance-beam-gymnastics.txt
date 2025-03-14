@@ -1,0 +1,37 @@
+merged_balance-beam-gymnastics.txt
+<question_number>1</question_number>
+<answer>0.2</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>1 difficulty rating (G vs. H)</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>1.0</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>G</answer>
+
+<other>Reasoning for answers:
+Q1: Article states if a switch ring leap isn't executed perfectly, gymnast might get credit for only a switch leap, which is 0.2 less in difficulty.
+Q2-5, 7, 9: Insufficient information to calculate precise difficulty scores.
+Q6: Article mentions full-twisting double tuck is G, while double-twisting double tuck is H.
+Q8: Article indicates maximum deduction for a fall is 1.0.
+Q10: Article states full-twisting double tuck is G difficulty rating.</other>

@@ -1,0 +1,80 @@
+merged_zimbabwe-white-rhinoceros-local-tourism.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the article provided and answer exactly what's asked. Let me start with question 1.
+
+1. The first question asks how many hours per day the Cobras patrol before rotating shifts. The article mentions that the Cobras work 24 hours a day, seven days a week. But the question is about the duration before rotating. Since it's 24/7, they probably do 24-hour shifts. But the question says "per day" and "before rotating shifts with the next team." Hmm, maybe it's 24 hours, but the answer might be 24. Let me check the text again. The exact phrase is "24 hours a day, seven days a week, guarding the rhinos..." So their shifts are 24 hours? Or do they rotate shifts every certain hours? The question is about how many hours per day they spend patrolling before rotating. The article doesn't specify shift length, just that they are there 24/7. So maybe the answer is N/A because it doesn't specify the shift duration before rotation. Wait, maybe the question is implying per shift? Not sure. Let me note that.
+
+2. The second question is about the total cost of constructing the Mlevu Sanctuary's security infrastructure from the community fund. The article says the community fund received about $100,000 from Ngamo's tourism fees, but for Mlevu, it's mentioned that they have none of the facilities yet except the school. The article doesn't mention the construction cost of Mlevu's security. So N/A.
+
+3. The third question asks which former poacher became the head trainer for new Cobra recruits. The article mentions that many of the Cobras were once poachers themselves, but it doesn't name any specific individual who became the head trainer. So N/A.
+
+4. Fourth question: casualties the Cobras suffered. The article says the danger is real but doesn't mention any specific number of casualties. So N/A.
+
+5. Mortality rate during transport. The article says the two rhinos were being relocated and that the program has been successful, but there's no mention of any deaths during transport. It just says they were drugged and moved. So maybe 0%, but the question is phrased as "mortality rate during transport" – but the text doesn't state any deaths, so maybe N/A? Or since it's not mentioned, the answer is N/A.
+
+6. International conservation organization that funded the Cobra training. The article mentions a philanthropic American hedge fund manager who started the repopulation program, but the Cobra unit's training funding isn't specified. It says Mr. Butcher and others are involved, but no organization name. So N/A.
+
+7. Months to habituate first pair at Ngamo. The article states that the Ngamo sanctuary's pilot project started in 2022 with a pair, and now after a few years (the article is from 2023?), the rhinos are allowing visits. Wait, the article says "a few years later, the project has accomplished both, with more than 2,500 visitors..." So if it started in 2022 and the article is current, maybe 3 years? But the question is how many months to fully habituate before allowing visits. The text says "within a year" the rhinos would be acclimated. For the first pair in Ngamo, the article says they've been there a few years but the initial time frame mentioned is a year. So the answer is 12 months? Let me check again. The article says "within a year, the rhinos would be fully acclimated..." So the answer is 12.
+
+8. Minimum distance visitors must keep. The article doesn't specify any exact distance, just mentions that during the walk, the rhinos were 20 feet away, but that's an example. The safety protocols' minimum distance isn't stated. So N/A.
+
+9. Number of local guides employed initially at Ngamo. The article mentions Vusa Ncube as a guide but doesn't state the number when it first opened. So N/A.
+
+10. The month of the journey. The first paragraph says "September in northwest Zimbabwe". So the answer is September.
+
+11. The community with the 2,500-acre sanctuary is Mlevu, as stated when the convoy arrives there. The question refers to the welcome with schoolchildren holding banners. So Mlevu.
+
+12. The name of the ex-poacher group. The article calls them the Cobras. That's the answer.
+
+13. The individual leading the relocation is Mark Butcher, mentioned as the former ranger and current manager of Imvelo. So his name.
+
+14. The Ngamo sanctuary's area is 420 acres, as per the pilot project description. The question asks for the total area in acres, so 420.
+
+15. The community fund amount from Ngamo's tourism is about $100,000.
+
+16. The school benefiting is Ngamo primary school, which now has a roof and textbooks from Oxford.
+
+17. The American figure is a hedge fund manager who's been working for over 25 years. The article doesn't name him, just refers to him as "a philanthropic American hedge fund manager". So N/A since the name isn't given.
+
+18. The open-air train is the Elephant Express, mentioned near the lioness with cubs.
+
+19. The animal returned is the rhinoceros, part of the Big Five that was absent and being reintroduced.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>12</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>September</answer>
+<question_number>11</question_number>
+<answer>Mlevu</answer>
+<question_number>12</question_number>
+<answer>Cobras</answer>
+<question_number>13</question_number>
+<answer>Mark Butcher</answer>
+<question_number>14</question_number>
+<answer>420</answer>
+<question_number>15</question_number>
+<answer>$100,000</answer>
+<question_number>16</question_number>
+<answer>Ngamo primary school</answer>
+<question_number>17</question_number>
+<answer>N/A</answer>
+<question_number>18</question_number>
+<answer>Elephant Express</answer>
+<question_number>19</question_number>
+<answer>rhinoceros</answer>

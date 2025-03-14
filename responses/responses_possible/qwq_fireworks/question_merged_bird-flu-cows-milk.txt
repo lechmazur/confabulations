@@ -1,0 +1,59 @@
+merged_bird-flu-cows-milk.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the article provided and answer exactly based on what's there. Let me start by reading through the questions again and then check the article for each answer.
+
+1. **Question 1**: The question is about genomic sequencing and wildlife's role in spreading H5N1 between farms. The article mentions that genomic sequencing showed viruses in wild blackbirds matched those on farms, suggesting they might transport the virus. So the answer is that it suggests wild birds could be spreading it between farms.
+
+2. **Question 2**: Asymptomatic cows having more virus in noses than sick ones challenges the progression understanding. The article says this might mean the infection starts in the respiratory tract before moving to mammary glands. So it challenges the idea that symptoms come first or that progression is different.
+
+3. **Question 3**: Presence in nasal swabs and urine complicates the milk-based spread narrative. The study found virus in other areas, so relying on milk might not be enough. The answer should be that it shows other transmission routes exist beyond milk.
+
+4. **Question 4**: Spread to cats and raccoons challenges cow/equipment controls. Since other animals can get it, just controlling cows and equipment isn't enough. The study implies that wildlife on farms can spread it even if cows are managed.
+
+5. **Question 5**: Genomic similarities in blackbirds and farms mean wild birds could spread it. The article says blackbirds had virus matching farms, so they might transport it. Answer is that wild birds could be spreading it between farms.
+
+6. **Question 6**: The wild animals found miles away were blackbirds. The article says two infected blackbirds were found near a Texas farm and their virus matched Texas and Kansas farms. So the answer is wild blackbirds.
+
+7. **Question 7**: Unexpected finding about asymptomatic cows is that they have virus in nose/urine, so milk testing isn't enough. The article mentions surveillance should focus on nasal/urine samples, so current methods (milk) are insufficient.
+
+8. **Question 8**: Asymptomatic cows shed virus in nose/urine more than milk, contradicting milk-based assumption. The article states asymptomatic cows had more virus in nose/urine than milk, so transmission isn't just via milk.
+
+9. **Question 9**: Genomic analysis showing spread to multiple species means farm controls aren't enough. Since other animals get it, just controlling cows isn't sufficient. The answer is that it shows other species spread it, so farm measures alone aren't enough.
+
+10. **Question 10**: The correlation is that asymptomatic cows have more virus in noses than sick ones. The article says asymptomatic cows had more nasal virus, which is the unexpected finding.
+
+Now, I need to make sure each answer is directly from the article and in the required format. Let me check each again quickly.
+
+1. Genomic sequencing suggests wild birds (like blackbirds) transport virus between farms. Answer correct.
+2. Challenges progression understanding by indicating nasal start before mammary. Correct.
+3. Complicates milk-only narrative by showing other routes. Correct.
+4. Cats/raccoons mean other species spread it, so controlling cows isn't enough. Correct.
+5. Blackbirds with matching virus imply they spread it. Correct.
+6. Wild blackbirds. Correct.
+7. Asymptomatic shed in nose/urine, so milk testing isn't enough. Correct.
+8. Virus in nose/urine more than milk in asymptomatic. Correct.
+9. Spread to other species means farm controls insufficient. Correct.
+10. Asymptomatic have more nasal virus than sick cows. Correct.
+
+All answers seem to be directly from the article. No N/A needed here because all questions are addressed in the text.
+</think>
+
+<question_number>1</question_number>
+<answer>Wild birds may transport the virus between farms</answer>
+<question_number>2</question_number>
+<answer>Indicates infection may start in respiratory tract before mammary glands</answer>
+<question_number>3</answer>
+<answer>Shows virus spreads via respiratory/urinary routes</answer>
+<question_number>4</question_number>
+<answer>Spread to other species undermines cow/equipment-only controls</answer>
+<question_number>5</question_number>
+<answer>Wild birds could transport virus between farms</answer>
+<question_number>6</question_number>
+<answer>Wild blackbirds</answer>
+<question_number>7</question_number>
+<answer>Surveillance should test nasal/urine samples</answer>
+<question_number>8</question_number>
+<answer>Virus detected more in nose/urine than milk in asymptomatic cows</answer>
+<question_number>9</question_number>
+<answer>Infection of multiple species limits farm-focused measures' effectiveness</answer>
+<question_number>10</question_number>
+<answer>Asymptomatic cows had more nasal virus than symptomatic cows</answer>

@@ -1,0 +1,21 @@
+merged_ai-chatbots-chatgpt-math.txt
+<question_number>1</question_number>
+<answer>They were not designed to do math.</answer>
+<question_number>2</question_number>
+<answer>They excel when they have seen similar questions before, but struggle with novel problems.</answer>
+<question_number>3</question_number>
+<answer>Khan Academy's A.I. tutor, Khanmigo, uses a calculator program for numerical problems, while traditional systems would rely on programmed rules.</answer>
+<question_number>4</question_number>
+<answer>The shift is from rule-based systems to data-driven learning, where A.I. learns by analyzing vast amounts of data.</answer>
+<question_number>5</question_number>
+<answer>It shows that A.I. excels in language tasks, not necessarily in mathematical calculations, challenging the traditional view of computing as primarily focused on math.</answer>
+<question_number>6</question_number>
+<answer>It provides an opportunity for students to critically analyze and compare their own solutions with the chatbot's, fostering critical thinking.</answer>
+<question_number>7</question_number>
+<answer>It highlights the limitations of A.I. in mathematical tasks, suggesting that its strengths lie more in language processing and pattern recognition.</answer>
+<question_number>8</question_number>
+<answer>It raises questions about the reliance on large language models and the need for a broader approach that incorporates logic and common sense reasoning.</answer>
+<question_number>9</question_number>
+<answer>It challenges the traditional distinction by showing that A.I. excels in language-based tasks, often associated with liberal arts, while struggling with math, typically associated with STEM fields.</answer>
+<question_number>10</question_number>
+<answer>He emphasizes the need for "painful precision" in critical applications, suggesting that while AI's language skills are impressive, structured software is still essential for tasks requiring accuracy.</answer>

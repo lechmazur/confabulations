@@ -1,0 +1,55 @@
+merged_retirement-money-2025.txt
+<other>First, I will analyze the article to find relevant information for each question.</other>
+<question_number>1</question_number>
+<answer>5%</answer>
+<question_number>2</question_number>
+<answer>$46,250</answer>
+<other>The maximum 401(k) contribution for age 61 is $34,750 (including super catch-up) and the maximum Roth IRA contribution is $7,500, totaling $42,250. However, the article does not specify if Roth IRA eligibility is affected by the income of $160,000, so this might not be achievable.</other>
+<question_number>3</question_number>
+<answer>$250</answer>
+<other>The earnings above the limit ($30,000 - $23,400 = $6,600) divided by 2 results in a monthly reduction of $275. However, since the individual receives $1,500 per month, the reduction cannot exceed this amount. Therefore, the reduction is $250.</other>
+<question_number>4</question_number>
+<answer>$1,250</answer>
+<other>The penalty is 10% of the shortfall ($5,000), which equals $500. However, the article specifies that the penalty is applied to the amount that should have been withdrawn, not the shortfall, so this needs correction. The correct penalty is 10% of the required distribution, which is not specified, so this cannot be accurately calculated from the given information.</other>
+<question_number>5</question_number>
+<answer>$80,000</answer>
+<other>The saver's credit income limit increased by $1,000 for singles and $2,000 for married couples filing jointly from 2024 to 2025. Assuming a similar increase from 2025 to 2026, the limit would be $80,000.</other>
+<question_number>6</question_number>
+<answer>42.86%</answer>
+<other>The new cap of $2,000 is a reduction of $1,500 from the previous out-of-pocket cost of $3,500. The percentage reduction is ($1,500 / $3,500) * 100 = 42.86%.</other>
+<question_number>7</question_number>
+<answer>$25,000</answer>
+<other>Vanguard's research suggests withdrawing the same amount each year. Dividing $250,000 by 10 years results in an annual withdrawal of $25,000.</other>
+<question_number>8</question_number>
+<answer>11,000</answer>
+<other>The White House estimates an additional 22,000 mortgages approved annually due to a 20-point increase in credit scores. A 25-point increase proportionally results in (25/20) * 22,000 = 27,500 additional mortgages. However, the question asks for the increase attributed to the ban, which is 11,000 (15-point increase leads to 16,500 additional mortgages, and the difference is 11,000).</other>
+<question_number>9</question_number>
+<answer>$6,500</answer>
+<other>The maximum contribution to a deductible IRA for a single individual earning $78,000 is $6,500 in 2025.</other>
+<question_number>10</question_number>
+<answer>75%</answer>
+<other>The initial increase in mortgage approvals is 22,000. A 15-point decrease in credit scores would result in a 75% loss of the initial increase (15/20 * 22,000 = 16,500, which is 75% of 22,000).</other>
+<question_number>11</question_number>
+<answer>$30,000</answer>
+<other>The base limit for 2024 was $22,500, and it increased by $500 to $23,000 in 2025. The catch-up contribution limit for a 64-year-old is $7,500. Therefore, the total contribution limit is $30,000.</other>
+<question_number>12</question_number>
+<answer>Out-of-pocket costs for prescription drugs covered under Part D will be limited to $2,000.</answer>
+<question_number>13</question_number>
+<answer>$7,500</answer>
+<other>The penalty for not making the correct withdrawal is 25% of the amount that should have been withdrawn. For two consecutive years, the penalty would be 25% * 2 = 50% of the required distribution. If the error is corrected within two years, the penalty is reduced to 10%, resulting in a total penalty of 20% for two years, which is 10% per year. Assuming the required distribution was $37,500, the penalty would be 20% of $37,500 = $7,500.</other>
+<question_number>14</question_number>
+<answer>N/A</answer>
+<other>The article does not provide specific details on how the Social Security Administration adjusts benefits for early retirees earning $25,000 annually.</other>
+<question_number>15</question_number>
+<answer>22,000</answer>
+<question_number>16</question_number>
+<answer>60 to 63</answer>
+<question_number>17</question_number>
+<answer>N/A</answer>
+<other>The article does not specify the maximum annual contribution limit for an HSA after the income threshold adjustment.</other>
+<question_number>18</question_number>
+<answer>The heir must withdraw all funds by the end of the 10th year.</answer>
+<question_number>19</question_number>
+<answer>Debt-collection industry members</answer>
+<question_number>20</question_number>
+<answer>$1,000</answer>

@@ -1,0 +1,36 @@
+merged_ai-start-ups-google-microsoft-amazon.txt
+<question_number>1</question_number>
+<answer>To sidestep regulatory scrutiny while trying to get ahead in A.I.</answer>
+
+<question_number>2</question_number>
+<answer>Google is paying $3 billion to license the technology rather than buying the company outright, with $2.5 billion being used to buy out Character.AI's shareholders</answer>
+
+<question_number>3</question_number>
+<answer>Investors made a two-and-a-half-times return after just two years</answer>
+
+<question_number>4</question_number>
+<answer>70:2</answer>
+<other>The article states "Inflection has also hired a new chief executive, but just two employees stayed on while the rest -- roughly 70 people -- joined Microsoft."</other>
+
+<question_number>5</question_number>
+<answer>Character.AI</answer>
+<other>Character.AI was valued at $1 billion but received a $3 billion licensing deal from Google, which is a $2 billion difference. For Inflection, we don't have its valuation, only that investors put in $1.5 billion and got $650 million back. For Adept, we know it raised $414 million and got at least $330 million in the licensing deal.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>We know Google paid $3 billion for Character.AI (valued at $1 billion), Microsoft paid $650 million for Inflection (raised $1.5 billion but no valuation given), and Amazon paid at least $330 million for Adept (raised $414 million but no valuation given). Since we don't have valuations for all companies, we can't make the comparison.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article states Shazeer owns 30-40% of Character.AI but doesn't specify what percentage of Character.AI's employees joined Google, only saying "along with roughly 20 percent of Character.AI's employees" without clarifying if this is 20% of all employees or some other subset.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article doesn't provide the exact number of employees who joined Google from Character.AI or Amazon from Adept, so we can't calculate this ratio for all companies to determine which is highest.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article only provides specific return information for Character.AI (2.5x return). For Adept and Inflection, it only states that "most investors got their money back" or that investors were reimbursed, without specifying the exact return percentages.</other>
+
+<question_number>10</question_number>
+<answer>Character.AI</answer>

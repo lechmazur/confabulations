@@ -1,0 +1,31 @@
+merged_avoid-rental-car-toll-fees.txt
+<question_number>1</question_number>
+<answer>They would be charged twice.</answer>
+<other>The text states that activating the rental car's transponder while also using a personal E-ZPass results in being charged twice.</other>
+<question_number>2</question_number>
+<answer>Do not activate the rental car's built-in transponder.</answer>
+<other>The text advises not to activate the rental car's transponder to avoid being charged a daily usage fee and to prevent double charges when using a personal E-ZPass.</other>
+<question_number>3</question_number>
+<answer>Orlando</answer>
+<other>The text mentions Orlando as the city where travelers can use the QR code toll pass, and it also references Denver's Union Station as a recently redesigned transportation hub, but the question asks for a city with both features. Since Orlando is the only city mentioned in the context of the QR code toll pass, it is the most appropriate answer based on the provided information.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The text does not provide a direct correlation between the toll payment methods and Provincetown's identity as described in the "52 Places" section.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The text does not provide the duration of the Empire Builder Route, making it impossible to compare it with the "Pay Toll Now" feature's maximum usage period.</other>
+<question_number>6</question_number>
+<answer>Using a toll-pay app like Ecotoll or avoiding toll roads with mapping apps.</answer>
+<other>While the text mentions Ecotoll as covering regions including parts of the Northeast, it also suggests avoiding toll roads using apps like Google Maps or Waze. Given the context of the Camargue region's landscape, either option could be suitable, but the most direct answer based on the text would be using a toll-pay app or avoiding tolls.</other>
+<question_number>7</question_number>
+<answer>Both involve exploring places that might otherwise be overlooked.</answer>
+<other>The Empire Builder Route explores lesser-known places along the route, similar to how the article explores lesser-known tips and tricks for toll payments, both aiming to uncover options that might be missed.</other>
+<question_number>8</question_number>
+<answer>Temporary accounts allow travelers to manage toll payments flexibly, mirroring the transient nature of travel where stays are temporary.</answer>
+<other>The text discusses temporary accounts in the context of New York's "Pay Toll Now" feature, which aligns with the transient nature of travel described in the "52 Places" section.</other>
+<question_number>9</question_number>
+<answer>Using a toll-pay app like Ecotoll or avoiding toll roads with mapping apps.</answer>
+<other>The text suggests Ecotoll as a toll payment option and also mentions the possibility of avoiding toll roads altogether using mapping apps, which aligns with experiencing the "push and pull" of landscapes in the Camargue.</other>
+<question_number>10</question_number>
+<answer>They will be charged twice.</answer>
+<other>The text explicitly warns that activating the rental car's transponder while using a personal E-ZPass will result in being charged twice.</other>

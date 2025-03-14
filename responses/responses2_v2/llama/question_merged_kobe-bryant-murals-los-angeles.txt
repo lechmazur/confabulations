@@ -1,0 +1,65 @@
+merged_kobe-bryant-murals-los-angeles.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</answer>
+<answer>Purple</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+
+<question_number>12</question_number>
+<other>This question contains an incorrect premise, as the article does not mention the location of Kay Luz's artwork as being near where wildfires ravaged Pacific Palisades.</other>
+<answer>N/A</answer>
+
+<question_number>13</question_number>
+<answer>Faded white</answer>
+
+<question_number>14</question_number>
+<other>This question contains an incorrect premise, as the article does not mention the name of the alleyway.</other>
+<answer>N/A</answer>
+
+<question_number>15</question_number>
+<other>This question contains an incorrect premise, as the article does not mention the year when the gym owner gave Louie Palsino permission to paint the angel mural.</other>
+However, <other>we can infer that it was in 2020, as it was on the overcast January morning that Bryant died.</other>
+So, <answer>2020</answer>
+
+<question_number>16</question_number>
+<other>This question contains an incorrect premise, as the article does not mention Jonas Never working for a professional sports team before creating the mural.</other>
+However, <other>it does mention that he has worked on projects for some of Los Angeles's professional sports teams.</other>
+So, <answer>N/A</answer>
+
+<question_number>17</question_number>
+<other>This question contains an incorrect premise, as the article does not mention Kobe Bryant being on the cover of the video game franchise created by 2K.</other>
+However, <other>it does mention that 2K creates the popular NBA 2K basketball franchise.</other>
+So, <answer>NBA 2K</answer>
+
+<question_number>18</question_number>
+<answer>Over 90,000</answer>
+
+<question_number>19</question_number>
+<answer>Pizza shop</answer>

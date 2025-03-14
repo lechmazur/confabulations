@@ -1,0 +1,32 @@
+merged_driver-data-sold-for-pennies.txt
+<other>Analyzing the article to extract relevant information for the questions.</other>
+
+<question_number>1</question_number>
+<answer>Verisk paid Hyundai for potential future earnings from customers who affirmatively opted into the insurance feature, reflecting that consumer consent was tied to activating the Bluelink service at the dealership.</answer>
+
+<question_number>2</question_number>
+<answer>Wejo</answer>
+
+<question_number>3</question_number>
+<answer>G.M.'s previous location data sharing occurred every one to three seconds, which is more frequent than the typical interval between traffic light changes.</answer>
+
+<question_number>4</question_number>
+<answer>G.M. previously shared data with Wejo, a company in which G.M. had an investment.</answer>
+
+<question_number>5</question_number>
+<answer>Honda's data sharing agreement lasted four years, which is shorter than the average new car loan term of five to six years.</answer>
+
+<question_number>6</question_number>
+<answer>Hyundai's data sharing agreement lasted six years, which is longer than the typical new vehicle warranty period of three to five years.</answer>
+
+<question_number>7</question_number>
+<answer>G.M.'s current data sharing practices involve anonymized location information, unlike its previous arrangement with Wejo, which included precise location data.</answer>
+
+<question_number>8</question_number>
+<answer>G.M.</answer>
+
+<question_number>9</question_number>
+<answer>The amount Hyundai earned per car from data sharing (61 cents) is significantly less than the cost of a typical oil change.</answer>
+
+<question_number>10</question_number>
+<answer>Windshield wipers can indicate weather conditions and provide insights into road safety and driving conditions.</answer>

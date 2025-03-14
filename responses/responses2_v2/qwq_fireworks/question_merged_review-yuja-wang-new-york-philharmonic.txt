@@ -1,0 +1,60 @@
+merged_review-yuja-wang-new-york-philharmonic.txt
+Okay, let's tackle these questions one by one using only the information from the article. 
+
+1. **Question 1:** The article mentions Yuja Wang's former teacher Gary Graffman. So the answer should be Gary Graffman.
+
+2. **Question 2:** The article says the audience erupted at the end of the Gershwin piece, but doesn't mention the duration of applause for the Janacek Capriccio. So N/A.
+
+3. **Question 3:** The question asks about innovations from a specific period. The article states that Stravinsky's concerto is neo-Baroque, but doesn't mention Wang introducing innovations. So N/A.
+
+4. **Question 4:** The article notes Wang's embellishments in Gershwin, but doesn't specify which movement caused the brass reaction. N/A.
+
+5. **Question 5:** The article mentions "wind instruments" in Stravinsky's concerto and "lower brass" in Janacek, but doesn't give exact numbers. N/A.
+
+6. **Question 6:** The Capriccio was commissioned by a Czech musician who lost his right arm. The article doesn't name him. So N/A.
+
+7. **Question 7:** The article compares this performance to a previous one at Carnegie Hall? Wait, the text doesn't mention a prior Carnegie performance. So N/A.
+
+8. **Question 8:** The "milky legato" is described as Wang's playing style, but no technical modification is mentioned. So N/A.
+
+9. **Question 9:** The Gershwin's finale had an eruption, implying it got the longest ovation. The article says the audience erupted at the end of "Rhapsody in Blue".
+
+10. **Question 10:** The article doesn't mention where the original performance was. So N/A.
+
+11. **Question 11:** Stravinsky's concerto had balance issues due to Wang's conducting. The article says his concerto had counterpoint and tuba entrances had fumbled starts. So Stravinsky.
+
+12. **Question 12:** The "dangerous stunt" atmosphere during Janacek's piece was due to her conducting from the piano, using her right hand to cue. The article mentions her right hand cuing the brass. So her use of right hand to cue.
+
+13. **Question 13:** The Philharmonic's familiarity with Grofe's orchestration meant they handled coordination better than in Stravinsky. The article says they have Gershwin "in their bones", so that familiarity helped them, unlike in Stravinsky where balance was an issue. So their familiarity mitigated the challenges.
+
+14. **Question 14:** The "interregnum season" allowed risky experiments because the Philharmonic had otherwise been conservative. The article says the concert was an exciting experiment during a time without a music director. So the absence of a music director (interregnum) enabled it.
+</think>
+
+<question_number>1</question_number>
+<answer>Gary Graffman</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>Rhapsody in Blue</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>Stravinsky</answer>
+<question_number>12</question_number>
+<answer>her right hand cuing the brass</answer>
+<question_number>13</question_number>
+<answer>their familiarity with the piece</answer>
+<question_number>14</question_number>
+<answer>the interregnum season without a music director</answer>

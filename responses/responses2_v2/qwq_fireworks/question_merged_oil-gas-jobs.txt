@@ -1,0 +1,84 @@
+merged_oil-gas-jobs.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information provided in the article and strictly follow the instructions. 
+
+Starting with question 1: "Which Indian city did Matthew Waguespack relocate to when he transitioned from field work to supporting Exxon's offshore operations?" The article mentions Exxon's operations in Bengaluru, India, but Matthew Waguespack's move is to an industrial gas supplier in Louisiana. There's no mention of him moving to India. So the answer here is N/A.
+
+Question 2: "How many oil and gas companies filed for bankruptcy protection specifically during the fourth quarter of 2020?" The article says "more than 100 producers and service firms seeking bankruptcy protection in 2020" but doesn't specify the fourth quarter. So N/A.
+
+Question 3: "What was the hourly wage premium that oil and gas workers earned compared to manufacturing workers in November 2024?" The article states that by last fall (which is 2024), the premium had narrowed to over 30%. The exact figure isn't given, but the closest is "little more than 30%". Since it's approximate, maybe 30%? But the question says "hourly wage premium". The article mentions the premium over manufacturing, construction, etc., so 30% is the answer.
+
+Question 4: "How much additional annual revenue did EQT generate after acquiring the pipeline company and reducing its workforce by 15%?" The article mentions EQT cutting the workforce but doesn't state revenue changes. N/A.
+
+Question 5: "What percentage of Chevron's $1 billion Indian engineering facility investment was allocated to hiring local geologists?" The article doesn't specify percentages for hiring. N/A.
+
+Question 6: "During which month in 2020 did oil prices first drop below zero, leading to Matthew Waguespack's layoff?" The article says "during the pandemic, when oil prices briefly plunged below zero" and mentions Mr. Waguespack was laid off in early 2020. The exact month isn't given. N/A.
+
+Question 7: "How many former Schlumberger employees found jobs in renewable energy sectors within 6 months of the 2020 industry downturn?" The article doesn't mention numbers of employees moving to renewables. N/A.
+
+Question 8: "What was the total dollar value of cost savings achieved by oil companies through implementing remote monitoring technology between 2020-2024?" No specific figures are provided. N/A.
+
+Question 9: "How much did Cody Owlett's average monthly income increase after switching from pressure-washing equipment to selling merchandise on eBay?" The article says he could earn a similar income, so maybe no increase? Or it's not specified. N/A.
+
+Question 10: "What percentage of ConocoPhillips' workforce reduction following the Marathon Oil acquisition was specifically from engineering positions?" The article states 500 jobs lost in Texas due to ConocoPhillips' acquisition but doesn't specify percentages by role. N/A.
+
+Question 11: "What percentage of Exxon's shale division workforce was laid off after the company tripled its well output per rig compared to 2018 levels?" The article mentions Bart Cahir's comment on output but no layoffs percentage. N/A.
+
+Question 12: "In what year did the interviewee who transitioned to reselling discounted merchandise on eBay leave the oil and gas industry, marking a shift away from the cyclical nature of service positions?" The article says Cody Owlett quit in 2023. So the answer is 2023.
+
+Question 13: "How many employees did EQT retain after its workforce reduction, following the acquisition of a pipeline company and subsequent restructuring..." The article only mentions a 15% reduction, not the exact number retained. N/A.
+
+Question 14: "What was the average hourly wage, excluding overtime, of the worker near the northern edge of Pennsylvania who later found success in e-commerce..." The article states Cody Owlett earned about $35 an hour. So $35.
+
+Question 15: "What was the total number of oil and gas producers and service firms that sought bankruptcy protection in 2020, according to Haynes Boone..." The article says "more than 100" so exact number isn't given. N/A.
+
+Question 16: "What specific role did Chris Wright hold at Liberty Energy when he commented on the trend..." The article says he was the chief executive of Liberty Energy. So CEO.
+
+Question 17: "What was the peak number of barrels of oil per day the U.S. produced..." The article states "nearly 13.5 million barrels a day last fall" (2024). So 13.5 million.
+
+Question 18: "What was the name of the oil field services company, before its name change, where Matthew worked..." The article mentions "Schlumberger" before known as. So Schlumberger.
+
+Question 19: "What was the reduced annual salary, in 2019 dollars, of the former Permian Basin worker..." The article says his pay shrank to around $105,000 from $130,000 in 2019. So $105,000.
+
+Question 20: "Besides engineering and technology, what other specific professional area... did Western companies initially focus on when outsourcing to Bengaluru?" The article mentions IT, HR, and supply chain management. So those areas. The question asks for one, so maybe "information technology" or "IT".
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>30%</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<question_number>12</question_number>
+<answer>2023</answer>
+<question_number>13</question_number>
+<answer>N/A</answer>
+<question_number>14</question_number>
+<answer>$35</answer>
+<question_number>15</question_number>
+<answer>N/A</answer>
+<question_number>16</question_number>
+<answer>chief executive</answer>
+<question_number>17</question_number>
+<answer>13.5 million</answer>
+<question_number>18</question_number>
+<answer>Schlumberger</answer>
+<question_number>19</question_number>
+<answer>$105,000</answer>
+<question_number>20</question_number>
+<answer>information technology</answer>

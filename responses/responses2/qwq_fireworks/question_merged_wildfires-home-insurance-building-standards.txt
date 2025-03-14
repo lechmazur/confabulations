@@ -1,0 +1,16 @@
+merged_wildfires-home-insurance-building-standards.txt
+Okay, let's tackle these questions one by one. 
+
+First question: How many states have adopted the I.B.H.S. standards as mandatory for new constructions and retrofitting? The article mentions that California and Oregon have their own requirements, but they are not as stringent as the I.B.H.S. standards. So the I.B.H.S. standards themselves aren't adopted as mandatory by any states. The answer should be 0 or N/A. The question asks specifically about states adopting the I.B.H.S. standards, but the article says states have their own which are less strict. So the answer is N/A because the text doesn't say any states made I.B.H.S. standards mandatory.
+
+Second question: Total acreage in California 2023. The text says "in California, where fires have consumed more than roughly 220,000 acres of land in just this year". The exact figure is stated as over 220,000, but the question is about the total mentioned. The wording is a bit tricky with "more than roughly", but the number given is 220,000. So the answer is 220,000.
+
+Third question: Allstate's requested rate increase. The text says "This month, State Farm asked California's insurance regulator to approve a 30 percent rate increase..." The question is about Allstate, but the article doesn't mention Allstate requesting an increase this month. It only mentions State Farm. So the answer is N/A because Allstate's request isn't mentioned.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>220,000</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>

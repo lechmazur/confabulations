@@ -1,0 +1,44 @@
+merged_china-swimming-doping-medals.txt
+Okay, let's tackle these questions one by one using the article provided.
+
+1. **Question 1**: How does the scrutiny differ between Chinese swimmers and Michael Phelps? The article mentions Zhang Yufei asking why Phelps wasn't questioned when he won many golds. So the answer is that Chinese swimmers face suspicion when swimming fast, unlike Phelps.
+
+2. **Question 2**: Which swimmer failed to medal in their dominant events? The text says Qin Haiyang didn't medal in breaststroke events he won at worlds. So Qin Haiyang.
+
+3. **Question 3**: What metric shows underperformance? The article states they had fewer golds (2) than Tokyo (3) despite more total medals. So gold medals.
+
+4. **Question 4**: Who set a world record without prior positives? Pan Zhanle won 100m freestyle with a record and isn't listed in positives. So Pan Zhanle.
+
+5. **Question 5**: Tests on Wang before the Games? The article says Wang was tested 11 times in two weeks before Paris. Answer is 11.
+
+6. **Question 6**: The medication in the 23 swimmers' tests? The NYT reported trimetazidine (TMZ). So trimetazidine.
+
+7. **Question 7**: Event the US lost for first time? The men's 4x100 medley relay, taken by China's relay. So that event.
+
+8. **Question 8**: Justification for the 23 swimmers? Contaminated hotel kitchen. So food contamination.
+
+9. **Question 9**: Number of swimmers with positives at Paris? The article says a dozen. So 12.
+
+10. **Question 10**: Yu Yiting's surprise? She was "quite surprised" and said they cooperated, blaming the hotel. So she was surprised because they didn't know how it happened, citing cooperation and contamination.
+</think>
+
+<question_number>1</question_number>
+<answer>suspected when swimming fast</answer>
+<question_number>2</question_number>
+<answer>Qin Haiyang</answer>
+<question_number>3</question_number>
+<answer>gold medals</answer>
+<question_number>4</question_number>
+<answer>Pan Zhanle</answer>
+<question_number>5</question_number>
+<answer>11</answer>
+<question_number>6</question_number>
+<answer>trimetazidine</answer>
+<question_number>7</question_number>
+<answer>men's 4x100-meter medley relay</answer>
+<question_number>8</question_number>
+<answer>food contamination</answer>
+<question_number>9</question_number>
+<answer>12</answer>
+<question_number>10</question_number>
+<answer>ingested from a tainted kitchen at a hotel</answer>

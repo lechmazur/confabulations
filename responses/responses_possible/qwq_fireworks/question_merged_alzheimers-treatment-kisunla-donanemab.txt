@@ -1,0 +1,70 @@
+merged_alzheimers-treatment-kisunla-donanemab.txt
+Okay, let's tackle these questions one by one using the article provided. I need to make sure I only use the information given and not any external knowledge.
+
+1. **Primary reason for skepticism about Kisunla's approval despite slowing decline**: The article mentions experts like Dr. Greicius who think the risks might outweigh the slight benefits. Also, there's the point about no noticeable benefit to patients/families. So the main reason is the belief that risks outweigh the modest benefits.
+
+2. **Impact of anti-amyloid focus on other treatments**: The article says some experts worry this focus might discourage patients from joining trials for other treatments (like tau or inflammation drugs). The exact phrase was "might discourage patients from participating in trials for treatments that could be better."
+
+3. **Dr. Greicius on amyloid removal and clinical response**: He stated there's no correlation between amyloid removal and individual clinical improvement. The article quotes him directly on that.
+
+4. **Higher swelling/bleeding rates' impact on safety perception**: The article notes that while comparisons are hard due to differences, the higher rates might make Kisunla seem riskier than Leqembi. But the answer should be that it raises safety concerns, making perception worse.
+
+5. **Justification for Kisunla's higher cost**: The article says the price reflects the expectation that patients can stop once amyloid is cleared, reducing long-term treatment. So the answer is because patients can discontinue after plaques are cleared.
+
+6. **Impact on willingness to join other trials**: The article mentions experts think focus on anti-amyloid might discourage participation in other trials. The exact quote was "emphasis on anti-amyloid drugs might discourage patients from participating in trials for treatments that could be better."
+
+7. **Reducing inconvenience via discontinuation**: The article states that since patients can stop after plaques are cleared, it reduces treatment duration, hence inconvenience. The answer is allowing discontinuation after amyloid clearance.
+
+8. **Targeted protein allowing discontinuation**: The article clearly states amyloid is the target. When cleared, patients can stop.
+
+9. **Expert criticizing lack of correlation**: Dr. Michael Greicius is named as the one who raised this point.
+
+10. **Factor suggesting earlier treatment is better**: The trial found that patients with intermediate tau levels (indicating earlier stage) had slower decline. So the presence of intermediate tau levels compared to high ones shows earlier treatment helps more.
+
+Now I need to check each answer against the text to ensure accuracy. For example, question 4: the article says donanemab had higher rates than Leqembi, but comparisons are hard. Still, the higher rates would contribute to safety concerns. The answer is that it raises safety concerns, which is valid.
+
+All answers should be concise, using exact terms from the text where possible. If any question isn't directly addressed, mark N/A. But looking through the questions, all seem covered in the article. Let me confirm each one again quickly:
+
+1. Skepticism due to risk-benefit concerns. Check.
+
+2. Discouraging other trials. Check.
+
+3. No correlation per Greicius. Check.
+
+4. Higher safety risks. Check.
+
+5. Stopping after clearance. Check.
+
+6. Same as question 2, but phrased differently. The answer is the same: discouraging participation in other trials.
+
+7. Discontinuation possibility. Check.
+
+8. Amyloid. Check.
+
+9. Dr. Greicius. Check.
+
+10. Tau levels. Check.
+
+Looks good. Now format the answers properly.
+</think>
+
+<question_number>1</question_number>
+<answer>skepticism over risks outweighing modest benefits</answer>
+<question_number>2</question_number>
+<answer>might discourage participation in other trials</answer>
+<question_number>3</question_number>
+<answer>no correlation</answer>
+<question_number>4</question_number>
+<answer>raises safety concerns</answer>
+<question_number>5</question_number>
+<answer>patients can discontinue after plaques cleared</answer>
+<question_number>6</question_number>
+<answer>might discourage participation in other trials</answer>
+<question_number>7</question_number>
+<answer>allows discontinuation after amyloid clearance</answer>
+<question_number>8</question_number>
+<answer>amyloid</answer>
+<question_number>9</question_number>
+<answer>Dr. Michael Greicius</answer>
+<question_number>10</question_number>
+<answer>intermediate tau levels</answer>

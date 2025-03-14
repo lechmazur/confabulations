@@ -1,0 +1,132 @@
+merged_everything-must-go-dorian-lynskey.txt
+Okay, let's tackle these questions one by one. First, I need to go through each question and check the article for the exact information required. Since the user wants only answers based on the given text, I have to be careful not to assume anything beyond what's written.
+
+1. The first question asks which Silicon Valley executive Ted Chiang criticized. The article mentions Ted Chiang talking about "Silicon Valley tech bros" being interested in AI safety over industry regulation. But it doesn't name a specific executive. So that's N/A.
+
+2. The second question is about how many years after Byron wrote "Darkness" Max Ehrlich published "The Big Eye." The article says Byron wrote it after the 1816 volcano eruption, and Ehrlich's novel was in 1949. So 1816 to 1949 is 133 years. Wait, but the article says "1816, after the eruption of a volcano in Southeast Asia resulted in a 'year without a summer' in Europe. Lord Byron wrote the poem 'Darkness'..." So Byron wrote "Darkness" in 1816. Ehrlich's novel was 1949. 1949 minus 1816 is 133. So the answer is 133.
+
+3. The third question asks about a temperature threshold for collapse. The article doesn't mention any specific temperature, so N/A.
+
+4. The fourth question is about the anthropologist referenced by Lynskey for the survivalist narrative theory. The article says "citing an anthropologist" but doesn't name them. So N/A.
+
+5. The fifth question is the name of the Southeast Asian volcano from 1816. The article mentions the 1816 eruption was in Southeast Asia, but the specific name isn't given. Wait, actually, it just says "a volcano in Southeast Asia" without naming it. So N/A.
+
+6. Sixth question: Susan Sontag's categories of apocalyptic scenarios. The article says Lynskey immersed himself in Sontag's literary criticism but doesn't specify the number of categories. So N/A.
+
+7. Seventh: Percentage of Americans who believe they'd survive. The article doesn't provide any statistics like this, so N/A.
+
+8. Eighth: Nobel laureate who predicted "On the Beach" would save the world. The article mentions a Nobel Prize-winning scientist (not named) who thought the movie would save the world. Since the scientist isn't named, answer is N/A.
+
+9. Ninth: Average survival length in post-apocalyptic works. The article doesn't give any numerical data on this, so N/A.
+
+10. Tenth: Sales of David Brin's critique before being discredited. The article mentions Brin's criticism but no sales figures or discrediting info. N/A.
+
+11. Eleventh: Page difference between Lynskey's current book and his previous one. The current book is 500 pages. The previous was a "biography of George Orwell's novel 1984" but its page count isn't given. So N/A.
+
+12. Twelfth: Percentage of the book dedicated to Byron's "Darkness." The article doesn't specify percentages of the book's content, so N/A.
+
+13. Thirteenth: Film adaptation prize for "On the Beach." The article only says the scientist thought the movie "saved the world," but no prize is mentioned. N/A.
+
+14. Fourteenth: Year Max Ehrlich's novel was published. The article states "The Big Eye" (1949), so 1949.
+
+15. Fifteenth: Natural disaster that inspired Ling Ma's "Severance." The article says Ling Ma's novel has a "semi-surreal sendup of a workplace" and mentions "a not-so-distant future where industrial-agricultural experiments in America's heartland have blanket the globe..." but the specific disaster isn't linked to a 1816-type event. Wait, the question says "mirroring the 1816 'year without a summer'". The article mentions that the 1816 event led to Byron's poem. Ling Ma's novel's disaster isn't specified as the same type. The article says "decades into an eerie imagined future" for "The Morningside," but for "Severance" it's about a workplace dystopia. The question might be a trick; the article doesn't link Ling Ma's work to that specific disaster. So N/A.
+
+16. Sixteenth: Name of the well-armed prepper character. The article mentions "well-armed preppers" but doesn't name a specific character, so N/A.
+
+17. Seventeenth: Tech advancement prioritized over regulation. The article says tech bros prefer AI safety over industry regulation. The specific tech is AI (friendly A.I.), so the answer is "friendly A.I." or "AI safety," but the question asks for the advancement they prioritized. The article says "the question of how to create friendly A.I. is simply more fun to think about than the problem of industry regulation," so the tech is "friendly AI."
+
+18. Eighteenth: Sequel to "Station Eleven." The article lists "Station Eleven" but doesn't mention a sequel. N/A.
+
+19. Nineteenth: Number of survivors needed. The article says "you need at least a few survivors" but doesn't specify a number. So N/A.
+
+20. Twentieth: Government regulation in "The Morningside." The article says Tea Obreht's book is set in climate collapse, but specific regulation isn't mentioned. N/A.
+
+Wait, let me check each again:
+
+1. N/A (no specific executive)
+
+2. 1949 - 1816 = 133 years. So 133.
+
+3. N/A (no temp)
+
+4. N/A (no name)
+
+5. N/A (no volcano name)
+
+6. N/A (no number)
+
+7. N/A
+
+8. N/A (scientist not named)
+
+9. N/A
+
+10. N/A
+
+11. N/A (previous book page count not given)
+
+12. N/A (no percentage)
+
+13. N/A (no prize)
+
+14. 1949
+
+15. N/A (not linked to 1816 disaster)
+
+16. N/A
+
+17. "friendly A.I."
+
+18. N/A
+
+19. N/A
+
+20. N/A
+
+Wait, for question 17, the answer is "friendly A.I." because the question asks for the specific tech that tech bros prioritized over regulation. The article states exactly that. So that's correct.
+
+For question 14, the article says "Max Ehrlich's novel 'The Big Eye' (1949)", so the answer is 1949.
+
+Okay, that's all. Now, time to format the answers properly.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>133</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<question_number>12</question_number>
+<answer>N/A</answer>
+<question_number>13</question_number>
+<answer>N/A</answer>
+<question_number>14</question_number>
+<answer>1949</answer>
+<question_number>15</question_number>
+<answer>N/A</answer>
+<question_number>16</question_number>
+<answer>N/A</answer>
+<question_number>17</question_number>
+<answer>friendly A.I.</answer>
+<question_number>18</question_number>
+<answer>N/A</answer>
+<question_number>19</question_number>
+<answer>N/A</answer>
+<question_number>20</question_number>
+<answer>N/A</answer>

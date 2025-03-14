@@ -1,0 +1,127 @@
+merged_albania-kushner-trump.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article and answer strictly based on that. Let me start with the first question.
+
+1. The first question asks for the total amount of Middle Eastern sovereign wealth fund investment specifically allocated to the Sazan island development project. The article mentions that Affinity Partners has $4.6 billion from Saudi Arabia and other Middle East sovereign wealth funds, but it doesn't specify how much of that went to Sazan. So I think this is N/A because the allocation isn't detailed.
+
+2. The second question is about which Albanian government agency did the environmental impact assessment. The article says the Strategic Investment Committee gave approval and mentions clearing environmental concerns, but it doesn't name a specific agency. So maybe N/A here too.
+
+3. The third question asks for the number of hotel rooms. The article doesn't mention the number of rooms in the eco-resort, so N/A.
+
+4. The Strategic Investment Committee's role regarding buried munitions: the article states they will work to clear buried munitions, so their role was to oversee that process. The answer is they had to clear them.
+
+5. The fifth question is when Kushner and Abehsera first discussed the project with Albanian officials. The article doesn't give a start date, so N/A.
+
+6. Transportation improvements for the ferry: the article only mentions the ferry connection as part of the plan but doesn't detail infrastructure improvements. So N/A.
+
+7. How much of the $4.6B is from Saudi Arabia? The article says "mostly" from Saudi and others, but no exact percentage. So N/A.
+
+8. NATO operations from Sazan: the article mentions the Serbia project's building was bombed by NATO in 1999, but Sazan was a military base. It doesn't say which NATO operations were there, so N/A.
+
+9. Ivanka's ownership stake: the article says she's helping but doesn't mention her ownership. N/A.
+
+10. Jobs created: the article doesn't mention job numbers, so N/A.
+
+11. Total funding for the Serbian project: the $4.6B is for Affinity Partners, but the Serbian project's funding isn't specified. N/A.
+
+12. US role in accelerating Albania's approval: the article says the US is trying to get Serbia to align with them, but no info on US accelerating Sazan. N/A.
+
+13. Other projects besides Albania and Serbia: the article says "two major real-estate deals" including those two, so other projects would be zero? Wait, the question says "how many other international deals... besides Albania and Serbia". The article says "two major deals" (Albania and Serbia), so other than those two, there are none. So answer 0?
+
+Wait, but the article says "two major real-estate deals that Mr. Kushner is pursuing along with Mr. Abehsera that involve foreign governments." So besides those two, the answer would be N/A because the text doesn't mention others. Hmm. The question says "how many other international real-estate deals... besides the Albania and Serbia projects?" The article only mentions those two, so the answer is 0? Or since it's not stated, N/A? The article says "two major deals" which are the two mentioned. So "0" is the answer here. Wait, but the question is phrased as "how many other", so if the article says there are two projects, then besides those two, there are none. So answer 0. But I need to check the exact wording. The article says "the partnership received preliminary approval last year to build a luxury hotel complex in Belgrade, Serbia... This project is just one of two major real-estate deals..." So the two are Albania and Serbia. So the answer is 0. But maybe the article says "two major deals", so other than those two, none. So answer 0. But maybe the user considers that the article only mentions those two, so it's 0. So I'll go with 0 here.
+
+14. Environmental remediation beyond munitions: the article mentions environmental or legal concerns but doesn't specify what else besides munitions. So N/A.
+
+15. Percentage of the Belgrade building structurally sound: the article doesn't give a percentage, so N/A.
+
+16. Podcast name where Ivanka talked about the project: the article says she mentioned it in a podcast but doesn't name it. N/A.
+
+17. Clinton admin official criticizing: the article mentions Virginia Canter, who worked under Obama and Clinton. So her name is Virginia Canter.
+
+18. Other transportation besides ferry: the article only mentions ferry. N/A.
+
+19. Primary funding source over $2B: the article says "mostly from Saudi Arabia and other Middle East sovereign wealth funds", so Saudi Arabia is the primary.
+
+20. Other Albanian government branch involved: the Strategic Investment Committee is part of the government, but the article doesn't mention another branch. N/A.
+
+Let me double-check each to ensure I didn't miss any details.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Article states Affinity Partners has $4.6B from Saudi Arabia and others but doesn't specify allocation to Sazan project.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>No specific agency named for conducting environmental assessment; mentions Strategic Investment Committee's role but not an agency.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>No mention of hotel room count in development proposal.</other>
+
+<question_number>4</question_number>
+<answer>Clear the site of potential buried munitions and examine environmental/legal concerns</answer>
+<other>Document states government will work with partners to clear munitions and resolve other issues.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>No specific start date for discussions with Albanian officials provided.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>No details on transportation infrastructure improvements beyond ferry mentioned.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>States funding is "mostly" from Saudi Arabia but does not specify exact percentage.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>Article mentions Sazan was a military base but does not specify NATO operations conducted there.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Ivanka's involvement is stated but no ownership stake percentage given.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>Job creation numbers not disclosed in the text.</other>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+<other>Total funding for Serbian project not specified separately from $4.6B Affinity Partners total.</other>
+
+<question_number>12</question_number>
+<answer>N/A</answer>
+<other>No mention of U.S. government accelerating Sazan approval process.</other>
+
+<question_number>13</question_number>
+<answer>0</answer>
+<other>Text specifies two projects (Albania and Serbia), so none others are mentioned.</other>
+
+<question_number>14</question_number>
+<answer>N/A</answer>
+<other>Only buried munitions and "other environmental/legal concerns" mentioned, no specifics beyond that.</other>
+
+<question_number>15</question_number>
+<answer>N/A</answer>
+<other>No structural soundness percentage provided for Belgrade building.</other>
+
+<question_number>16</question_number>
+<answer>N/A</answer>
+<other>Podcast name not disclosed in the article.</other>
+
+<question_number>17</question_number>
+<answer>Virginia Canter</answer>
+<other>Virginia Canter is cited as a former Clinton/Obama ethics lawyer criticizing the deals.</other>
+
+<question_number>18</question_number>
+<answer>N/A</answer>
+<other>Only ferry connection mentioned as transportation infrastructure.</other>
+
+<question_number>19</question_number>
+<answer>Saudi Arabia</answer>
+<other>Article states funding is "mostly from Saudi Arabia and other Middle East sovereign wealth funds."</other>
+
+<question_number>20</question_number>
+<answer>N/A</answer>
+<other>No other government branch mentioned beyond Strategic Investment Committee.</other>

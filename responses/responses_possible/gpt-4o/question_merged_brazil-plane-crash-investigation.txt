@@ -1,0 +1,32 @@
+merged_brazil-plane-crash-investigation.txt
+<other>Let's analyze the article to answer the questions.</other>
+
+<question_number>1</question_number>
+<answer>The mention of improvements to the de-icing system since 1994 could mislead investigators to overlook other potential causes, assuming the system should have prevented icing issues.</answer>
+
+<question_number>2</question_number>
+<answer>The article suggests that the plane's speed did not drop enough to cause a stall unless icing was severe, creating a conditional statement that the crash could be due to severe icing if the speed was insufficient to cause a stall on its own.</answer>
+
+<question_number>3</question_number>
+<answer>The anti-icing system's potential failure is challenged by the crash location's temperature of 63 degrees, which should have been warm enough to prevent severe icing.</answer>
+
+<question_number>4</question_number>
+<answer>The plane spinning slowly as it fell contradicts the expectation of a more chaotic descent typical of a stall-induced crash.</answer>
+
+<question_number>5</question_number>
+<answer>The plane's last recorded speed was not low enough to cause a stall, challenging the theory that the crash was due to a stall unless icing was extremely severe.</answer>
+
+<question_number>6</question_number>
+<answer>The pilots did not communicate with air traffic controllers about any emergency, conflicting with standard protocol to report severe icing conditions.</answer>
+
+<question_number>7</question_number>
+<answer>The temperature at the crash location was around 63 degrees, contradicting the assumption that icing would be severe enough to cause a crash.</answer>
+
+<question_number>8</question_number>
+<answer>The improved de-icing system implemented after the 1994 incident complicates the investigation by suggesting that icing should not have been a significant issue.</answer>
+
+<question_number>9</question_number>
+<answer>The aircraft's specifications include rubber tubes on the wings for de-icing, which becomes crucial when considering the icing theory.</answer>
+
+<question_number>10</question_number>
+<answer>The plane began to fall from 17,000 feet, challenging assumptions about gradual ice accumulation, as icing typically occurs at higher altitudes.</answer>

@@ -1,0 +1,76 @@
+merged_china-us-companies-entity-list.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article mentions companies being added to both lists but doesn't specify which companies appeared on both lists simultaneously.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article only mentions that China "banned the export of rare minerals to the United States" but doesn't specify which minerals.</other>
+
+<question_number>3</question_number>
+<answer>38</answer>
+<other>The article states "China's Ministry of Commerce said it added 28 companies to an export control list" and "placed 10 companies on what it calls an 'unreliable entities list'". 28 + 10 = 38 companies total.</other>
+
+<question_number>4</question_number>
+<answer>Trump</answer>
+<other>The article states "It began during Mr. Trump's first term, after he took aim at China with tariffs and restrictions on trade."</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article doesn't specify any particular dual-use item exported by Lockheed Martin that triggered its inclusion.</other>
+
+<question_number>6</question_number>
+<answer>140</answer>
+<other>The article states "the Biden administration has also expanded its restrictions on Chinese companies and imposed bans on dual-use products, recently targeting 140 Chinese companies."</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>While the article mentions "Chinese officials have sought to use pandas as leverage to cultivate relationships with local U.S. politicians, shape policy on Taiwan," it doesn't specify which state or city's politicians.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article mentions 140 Chinese companies facing restrictions but doesn't specify any numerical threshold used to determine which companies.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article doesn't name any specific Boeing executive who was personally barred.</other>
+
+<question_number>10</question_number>
+<answer>28</answer>
+<other>The article states "China's Ministry of Commerce said it added 28 companies to an export control list to 'safeguard national security and interests.'"</other>
+
+<question_number>11</question_number>
+<answer>10</answer>
+<other>The article states "And it placed 10 companies on what it calls an 'unreliable entities list' related to the sale of arms to Taiwan"</other>
+
+<question_number>12</question_number>
+<answer>Raytheon Missile Systems</answer>
+<other>The article states "Among the companies called out by China were the leading American makers of defense systems, including Raytheon Missile Systems"</other>
+
+<question_number>13</question_number>
+<answer>Companies benefiting China's economy</answer>
+<other>The article quotes Michael Hart saying "Normally the actions China takes do not impact companies who are benefiting China's economy"</other>
+
+<question_number>14</question_number>
+<answer>Nvidia</answer>
+<other>The article states "Chinese regulators have announced an investigation into the American computer chip company Nvidia"</other>
+
+<question_number>15</question_number>
+<answer>Donald J. Trump</answer>
+<other>The article states "With weeks to go before President-elect Donald J. Trump takes the office with a promise to impose new tariffs and sanctions on China"</other>
+
+<question_number>16</question_number>
+<answer>Chinese drones</answer>
+<other>The article states "On Thursday, the administration said it was considering a new rule that could restrict or ban Chinese drones in the United States."</other>
+
+<question_number>17</question_number>
+<answer>Rare minerals</answer>
+<other>The article states Chinese regulators have "banned the export of rare minerals to the United States"</other>
+
+<question_number>18</question_number>
+<answer>Trump's first term</answer>
+<other>The article states "It began during Mr. Trump's first term, after he took aim at China with tariffs and restrictions on trade."</other>
+
+<question_number>19</question_number>
+<answer>Alexandra Stevenson</answer>
+<other>The article identifies "Alexandra Stevenson is the Shanghai bureau chief for The Times, reporting on China's economy and society."</other>

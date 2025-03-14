@@ -1,0 +1,48 @@
+merged_capital-one-savings-interest.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article and follow the strict instructions.
+
+1. **First question**: The lawsuit mentions Capital One avoided $2 billion by not converting accounts. The question asks what percentage of that was justified by increased ATM fees. The article says banks make up for low rates with perks like branches and ATMs, but there's no specific percentage mentioned. So answer is N/A.
+
+2. **Second question**: The Treasury Secretary who replaced Rohit Chopra and paused litigation. The article states the new acting director is Scott Bessent. So the answer is Scott Bessent.
+
+3. **Third question**: If a customer had the median $10k in Chase's standard account (0.01% rate) for a decade, how much would they earn? The article says over the last decade, 0.01% would give $10. The lowest rate of Capital One's 360 Savings was 0.3%, which is 30 times higher. So 0.3% over 10 years would be 0.3%*10 = 3% of $10k = $300. The multiple is $300 vs $10, so 30 times. The question says "multiple of that gained interest", so 30 times. Answer is 30.
+
+4. **Fourth question**: Scott Pearson argued against a requirement similar to notifying customers about better mortgage rates. He said banks don't have to tell customers about better deals. The specific regulatory change the Bureau was pushing was requiring banks to inform customers of better accounts. The answer would be the obligation to inform existing customers about better accounts at the same bank.
+
+5. **Fifth question**: Highest advertised rate on original 360 Savings before 360 Performance. The article says Capital One advertised it as having "one of the nation's highest savings rates" but doesn't specify the rate. The answer is N/A.
+
+6. **Sixth question**: The study commissioned by Capital One found some customers check savings less than once a month. The question asks maximum times per year the least attentive check. If less than once a month, that's up to 12 times a year. So maximum is 12. But the article says "less than once a month" so maybe even less. Wait, the question says "maximum number of times per year the least attentive customers were found to check". Since they check less than once a month, the max would be 11 times (since 12 would be once a month). But the article says "many people check... less than once a month" and "half don't know their interest rate". The exact number isn't given. The question is about the maximum number for the least attentive. Since it's "less than once a month", the maximum possible would be 11. But the article doesn't specify exact numbers, so answer N/A.
+
+7. **Seventh question**: The article says Capital One didn't email existing customers until the investigation. The question asks what other communication they used before the investigation. The bureau alleges they told employees not to volunteer info, so maybe in-branch? The answer might be in-person (branch) communication, but the article doesn't mention any other method besides email. Since they didn't use email, and employees weren't supposed to mention it, maybe no other communication. The answer is N/A.
+
+8. **Eighth question**: Interest rate gap between 360 Savings and Performance when murders declined. The article mentions in 2023, the 360 Savings rate was 1/10th of Performance. The murder rate decline is mentioned in 2023. The gap in 2023 was 30 times (0.3% vs 0.01%), but wait, the 360 Savings was 0.3% vs Performance's higher rate. The article says in 2023, the original was 1/10th of the new. So if Performance was, say, 3%, then the gap is 3% vs 0.3% which is 2.7%, or 270 basis points. The exact rate isn't given, so N/A.
+
+9. **Ninth question**: Legal precedent before 2010 that Dodd-Frank contradicts. Peterson says Dodd-Frank established liability for taking advantage of consumers. The question asks for a precedent that financial institutions have no fiduciary duty. The article says Pearson noted there's case law saying banks don't owe fiduciary obligations. The answer would be the existing case law, but the question asks for a specific precedent name. The article doesn't mention a specific case name, so N/A.
+
+10. **Tenth question**: Wells Fargo's rate is 0.01%. Double the median is $20k. Annual interest is 0.01% of $20k = $0.20, so rounded to nearest dollar is $0. Answer is $0.
+
+11. **Eleventh question**: Percentage unearned by Chase (0.01% vs competitive ~4%). The difference is 3.99% of $10k is ~$399. The percentage of the balance is (399/10,000)*100 = 3.99%, so ~4%. The question says "percentage of the $10k" so answer is 3.99% rounded to 4%. But the article says the high-yield is ~4%, so difference is 4% - 0.01% = 3.99%, so 3.99% of the balance, which is ~4%. The answer is 4%.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>Scott Bessent</answer>
+<question_number>3</question_number>
+<answer>30</answer>
+<question_number>4</question_number>
+<answer>informing existing customers of better accounts at the same bank</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>0</answer>
+<question_number>11</question_number>
+<answer>3.99%</answer>

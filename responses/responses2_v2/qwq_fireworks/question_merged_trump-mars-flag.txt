@@ -1,0 +1,59 @@
+merged_trump-mars-flag.txt
+Okay, let's tackle these questions one by one using only the information from the article. 
+
+1. **Question 1:** Which NASA official did Trump initially plan to appoint as acting administrator before changing his decision to Janet Petro?  
+   The article mentions that Trump nominated Jared Isaacman but then appointed Janet Petro as acting administrator, bypassing James Free. Wait, the article says Trump bypassed James Free, who was the third-highest official. The previous acting admin might have been the associate administrator typically, but the question is about who Trump initially planned to appoint before choosing Janet Petro. The article states that Janet Petro was chosen instead of James Free. So the answer is James Free.
+
+2. **Question 2:** How many Starship rockets did SpaceX successfully land on Mars prior to Trump's Inaugural Address?  
+   The article says Musk planned to send uncrewed Starships to Mars in 2026. Before the speech, there's no mention of any landings on Mars. So the answer is 0.
+
+3. **Question 3:** What was the total budget allocation Trump announced for the Mars mission during his speech?  
+   The article states Trump left specifics like budget cuts unsaid. No budget figure was mentioned in his speech, so N/A.
+
+4. **Question 4:** Which former NASA programs did Trump explicitly state would be cut to fund the Mars initiative?  
+   The article says Trump left specifics like which programs would be cut unsaid. He didn't mention any explicitly, so N/A.
+
+5. **Question 5:** What technological breakthrough did Elon Musk announce regarding methane extraction on Mars during the inauguration?  
+   The article mentions methane extraction tech is still hypothetical and Musk didn't announce a breakthrough during the event. So N/A.
+
+6. **Question 6:** When did Trump first reveal the detailed timeline for the Mars colony?  
+   He mentioned wanting to land on Mars during his term but didn't provide a detailed timeline. The article says he didn't specify exact dates, so N/A.
+
+7. **Question 7:** What role did Janet Petro play in developing the new Mars policy before her appointment?  
+   The article doesn't mention her role before being appointed as acting admin. It only states her current position, so N/A.
+
+8. **Question 8:** How many astronauts would be in the first Mars landing mission?  
+   The article doesn't specify the number of astronauts, so N/A.
+
+9. **Question 9:** What modifications did SpaceX make to address CO2 scrubbing?  
+   The article mentions the life-support system needs to scrub CO2 but doesn't say SpaceX made modifications yet. So N/A.
+
+10. **Question 10:** Which international agencies did Trump mention collaborating with?  
+    The article doesn't mention any international agencies, so N/A.
+
+11. **Question 11:** What CO2 scrubbing tech was confirmed for 2026 missions?  
+    The article states the 2026 missions would test landing, but not specific CO2 tech. So N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>James Free</answer>
+<question_number>2</question_number>
+<answer>0</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>N/A</answer>

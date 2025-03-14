@@ -1,0 +1,98 @@
+merged_na-beer-wine-cocktails-industry.txt
+Okay, let's tackle these questions one by one using only the information from the article. I need to be careful not to infer anything beyond what's stated. Let me go through each question step by step.
+
+1. **Question 1**: The percentage of Diageo's total portfolio after acquiring Ritual. The article says Diageo acquired Ritual and sells nonalcoholic versions of Tanqueray, Captain Morgan, and Guinness. But there's no info on the percentage they represent. So, N/A.
+
+2. **Question 2**: Aplos's functional ingredients and Target partnership. The article mentions Aplos uses hemp and lion's mane, but the Target partnership was by Sechey, not Aplos. The question asks about a health condition beyond wellness, but the text doesn't specify a condition. So N/A.
+
+3. **Question 3**: Projected increase based on growth rate. The article states nonalcoholic sales rose 67% since 2022. But the question asks for the dollar amount after the surgeon general's warning. The $818M is 2023, but growth rate is 67%, so maybe 2023's $818M plus 67%? Wait, but the question says "based on the growth rate between 2022 and the NielsenIQ report". The NielsenIQ report mentions $818M last year (2023?) which is up 67% from 2022. So 2022 sales would be 818/(1.67) ≈ 490M. But the question is about projected increase after the warning. The article doesn't give a specific projection. So N/A.
+
+4. **Question 4**: The retailer in Charleston partnering with Target. The article says Sechey is the retailer in Charleston that partnered with Target. That's directly stated. So answer is Sechey.
+
+5. **Question 5**: Diageo's tequila-based nonalcoholic. The article mentions Diageo's nonalcoholic versions of their spirits, but not a specific tequila-based one like Per Se's margarita. So N/A.
+
+6. **Question 6**: Number of board members with alcohol experience. Aplos's board includes Vanessa Kay (LVMH) and Matt Bruhn (Pabst). That's two. The question says "based on the number mentioned", so 2.
+
+7. **Question 7**: Total revenue when wine peaked. The article says wine peaked 5 years ago (assuming current year is 2023, so 2018). But no revenue numbers for that year. N/A.
+
+8. **Question 8**: The former president of a brewing company. The article mentions Matt Bruhn, former president of Pabst Brewing. So his name is Matt Bruhn.
+
+9. **Question 9**: Gen Z's zebra striping percentage. The article says 13% of alcohol drinkers consumed nonalcs in 2024 vs 6% in 2023. But the question asks for Gen Z's adoption rate if zebra striping increased at the same rate. The text doesn't link Gen Z's rate to the 6-13% change. So N/A.
+
+10. **Question 10**: Percentage increase in nonalcoholic sales since 2022. The article states sales rose 67% since 2022. So answer is 67%.
+
+11. **Question 11**: Entrepreneur who said alcohol is default. The quote is from Hally Turner of Per Se, stating that alcohol is the default and stopping feels like an attack. So Hally Turner.
+
+12. **Question 12**: State fair with mocktails. The article mentions Minnesota State Fair featured Per Se's drinks. So Minnesota.
+
+13. **Question 13**: Company with nonalcoholic Tanqueray and Ritual acquisition. Diageo did both. So Diageo.
+
+14. **Question 14**: Board member from LVMH subsidiary. Vanessa Kay was a former managing director at Moet Hennessy (LVMH). So Vanessa Kay.
+
+15. **Question 15**: Generational cohort consuming less. The article says Gen Z drinks less. So Gen Z.
+
+16. **Question 16**: Retailer with Sechey. Target is mentioned as partnering with Sechey. So Target.
+
+17. **Question 17**: Research firm stating doubled consumption. IWSR's Marten Lodewijks said the proportion doubled. So IWSR.
+
+18. **Question 18**: Brand with functional ingredients. Aplos is described as marketing as functional with hemp and lion's mane. So Aplos.
+
+19. **Question 19**: Health risk in advisory. The surgeon general linked alcohol to some cancers. So cancer.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>Sechey</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>2</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>Matt Bruhn</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>67%</answer>
+
+<question_number>11</question_number>
+<answer>Hally Turner</answer>
+
+<question_number>12</question_number>
+<answer>Minnesota</answer>
+
+<question_number>13</question_number>
+<answer>Diageo</answer>
+
+<question_number>14</question_number>
+<answer>Vanessa Kay</answer>
+
+<question_number>15</question_number>
+<answer>Gen Z</answer>
+
+<question_number>16</question_number>
+<answer>Target</answer>
+
+<question_number>17</question_number>
+<answer>IWSR</answer>
+
+<question_number>18</question_number>
+<answer>Aplos</answer>
+
+<question_number>19</question_number>
+<answer>cancer</answer>

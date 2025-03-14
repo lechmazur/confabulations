@@ -1,0 +1,71 @@
+merged_melba-montgomery-dead.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>Mary Hartman, Mary Hartman</answer>
+
+<question_number>3</question_number>
+<answer>fiddle player and voice teacher</answer>
+
+<question_number>4</question_number>
+<answer>1958</answer>
+
+<question_number>5</question_number>
+<answer>George Jones: The Life and Times of a Honky Tonk Legend</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>Things That Keep You Going</answer>
+
+<question_number>9</question_number>
+<answer>Patty Loveless</answer>
+
+<question_number>10</question_number>
+<answer>United Artists Records</answer>
+
+<question_number>11</question_number>
+<answer>We Must Have Been Out of Our Minds</answer>
+
+<question_number>12</question_number>
+<answer>No Charge</answer>
+
+<question_number>13</question_number>
+<answer>2010</answer>
+
+<question_number>14</question_number>
+<answer>down-to-earth hard-core country singer</answer>
+
+<question_number>15</question_number>
+<answer>Peanut (Earl)</answer>
+
+<question_number>16</question_number>
+<answer>Baby Ain't That Fine</answer>
+
+<question_number>17</question_number>
+<answer>1990s</answer>
+
+<question_number>18</question_number>
+<answer>her husband's (Jack Solomon)</answer>
+
+<question_number>19</question_number>
+<other>This question is asking about a song that was later transformed into a rollicking version featured on a famous daytime soap opera.</other>
+<other>The song "Something to Brag About" was later made into a rollicking version by Mary Kay Place and Willie Nelson.</other>
+<other>This version was featured on the nighttime soap opera "Mary Hartman, Mary Hartman", not daytime.</other>
+<other>The question is asking about a daytime soap opera, but the article only mentions a nighttime soap opera.</other>
+<other>The correct answer should be "N/A" since the article does not mention a daytime soap opera.</other>
+<other>This is an example of how to use the <other></other> tags to show reasoning steps.</other>
+<other>The answer is still "N/A" because the article does not mention a daytime soap opera.</other>
+<answer>N/A</answer>
+
+<question_number>20</question_number>
+<other>This question is asking about Ms. Montgomery's birthplace and the initial influence on her musical journey.</other>
+<other>The article states that Ms. Montgomery was born in Iron City, Tennessee, but raised in Florence, Alabama.</other>
+<other>Florence, Alabama is sometimes confused with her birthplace, but it is actually her hometown.</other>
+<other>The correct answer should be Iron City, Tennessee.</other>
+<answer<Iron City, Tennessee></answer>

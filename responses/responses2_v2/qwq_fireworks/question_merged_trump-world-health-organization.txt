@@ -1,0 +1,74 @@
+merged_trump-world-health-organization.txt
+Okay, I need to go through each question and answer them based only on the provided article. Let me start by reading through the article again to make sure I don't miss any details.
+
+Question 1: Which Republican lawmakers specifically opposed the pandemic treaty due to concerns about manufacturing and supply chain provisions?
+Looking at the article, it says "some Republican lawmakers viewed the agreement as a threat to American sovereignty." But it doesn't mention specific names. So the answer should be N/A.
+
+Question 2: How many days after Trump's initial threat to withdraw from WHO did the CDC lose access to global surveillance data?
+The article states that leaving WHO would mean CDC has no access to global data, but there's no timeline given for when the threat was made versus when access was lost. Since the withdrawal was blocked by Biden, the CDC didn't actually lose access. So N/A.
+
+Question 3: What was the primary reason cited by Lawrence O. Gostin for why the pandemic treaty negotiations failed in the previous year?
+The article says "Talks on the treaty broke down last year," but doesn't mention Gostin's reason for the failure. He commented on the withdrawal's impact, not the treaty's failure. So N/A.
+
+Question 4: During which month in 2020 did China first share the coronavirus genetic sequence data through WHO channels?
+The article says "When China characterized the genetic sequence of the novel coronavirus in 2020, it released the information to W.H.O." But no specific month is mentioned. So N/A.
+
+Question 5: What percentage of the WHO's $6.8 billion budget came from U.S. contributions during Trump's presidency?
+The article mentions the U.S. contributed an "outsize share," but no exact percentage is given. So N/A.
+
+Question 6: Who was the WHO director that Trump specifically criticized for the organization's COVID-19 response?
+The article doesn't name any specific director, only referring to the WHO's mishandling. So N/A.
+
+Question 7: Which provisions of the joint resolution from 1948 determined the timeline for repayment of outstanding WHO dues?
+The article states that the joint resolution requires a year's notice and payment of financial obligations for the current fiscal year. So the answer is the provisions requiring a year's notice and payment of dues.
+
+Question 8: What amount did China contribute to WHO compared to the U.S. during the period Trump cited in his executive order?
+Trump complained that China pays less, but the article doesn't provide specific amounts. So N/A.
+
+Question 9: How many reforms did Trump's executive order enumerate as urgently needed by WHO?
+The article says "failure to adopt urgently needed reforms" but doesn't specify the number. So N/A.
+
+Question 10: What date did the formal withdrawal process begin after Trump's July 2020 announcement?
+The article mentions Trump took formal steps in July 2020, but the exact date isn't given. So N/A.
+
+Question 11: What specific pathogen surveillance policies were included in the failed "pandemic treaty" that led conservative lawmakers to view it as a threat to American sovereignty?
+The treaty included "surveillance of pathogens, rapid sharing of outbreak data, and building up local manufacturing and supply chains." The article says conservatives opposed it, so the answer is the surveillance of pathogens, etc.
+
+Question 12: Which U.S. federal agency would lose access to critical outbreak data related to Zika virus tracking if the withdrawal is finalized?
+The article says CDC would lose access to global data, including for Zika. So CDC.
+
+Question 13: Which conflict zone did the W.H.O. specifically provide aid to in 2023?
+The article mentions Gaza as an example, but it doesn't specify 2023. The mission includes Gaza, so maybe answer Gaza, but since the article doesn't mention 2023 specifically, maybe N/A. Wait, the article says "war-torn areas like Gaza" in its mission description, but not in 2023. So the question asks for 2023, which isn't in the text. So N/A.
+
+Question 14: Which emerging epidemic listed in the article prompted the W.H.O. to collaborate with the U.S. CDC on data sharing prior to the withdrawal announcement?
+The article mentions Zika, Ebola, and Covid-19 as examples of epidemics tracked by WHO. The collaboration with CDC is mentioned in the context of China sharing the coronavirus sequence. So the answer is the coronavirus pandemic (Covid-19).
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>year's notice and pay its financial obligations</answer>
+<question_number>8</question_number>
+<answer>China pays less</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>surveillance of pathogens, rapid sharing of outbreak data, building local manufacturing/supply chains</answer>
+<question_number>12</question_number>
+<answer>Centers for Disease Control and Prevention</answer>
+<question_number>13</question_number>
+<answer>N/A</answer>
+<question_number>14</question_number>
+<answer>Covid-19</answer>

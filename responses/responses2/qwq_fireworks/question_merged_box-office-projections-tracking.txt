@@ -1,0 +1,33 @@
+merged_box-office-projections-tracking.txt
+Okay, let's tackle these questions one by one. First, I need to make sure I only use the information from the provided article. Let me read through the questions again and check each against the article.
+
+1. **Question 1:** The first question asks how Coca-Cola's acquisition of Columbia Pictures led directly to Kevin Goetz's book "Audience-ology." The article mentions that Coca-Cola pushed for estimates, which started the prediction game. However, the book by Goetz is mentioned as his work, but the article doesn't explicitly state that the acquisition directly led to the book. The book's title is mentioned in the context of Goetz's authorship, but the cause (Coca-Cola's influence) and effect (the book) aren't directly connected here. So maybe the answer is N/A?
+
+2. **Question 2:** The exact dollar figure projected by National Research Group for "Furiosa" over Memorial Day. The article says "Projected by some to bring in $40 million..." but doesn't specify if that's the National Research Group's number. The question specifies the National Research Group, but the text doesn't attribute the $40M to them. So maybe N/A?
+
+3. **Question 3:** The year Columbia introduced opening weekend estimates. The article says estimates have been a fixture since the 1980s, and Coca-Cola bought Columbia in 1982. It says Coca-Cola pushed the National Research Group to create estimates. So maybe the year is 1982? But the question is about Columbia Pictures introducing it. Since the article says the estimates started due to Coca-Cola's push post-acquisition, perhaps the answer is 1982. But the exact year isn't stated, just the decade. The question asks for the exact year, so maybe N/A?
+
+4. **Question 4:** The analytics firm Kevin Goetz founded in the 80s, acquired by Coca-Cola. The article says Kevin Goetz is the founder of Screen Engine/ASI, but it was the National Research Group that Coca-Cola pushed. The article mentions Screen Engine/ASI as his firm, but there's no mention of it being acquired by Coca-Cola. The Coca-Cola part is about pushing National Research Group. So the answer here might be Screen Engine/ASI, but the acquisition part is incorrect. The question says the firm was founded by Goetz in the 80s and later acquired by Coca-Cola. But the article says Coca-Cola pushed National Research Group, not Screen Engine. So maybe N/A?
+
+5. **Question 5:** The number of screens "Barbie" was initially planned on before being bumped. The article says "you might bump it up from playing on two screens to six." The example is hypothetical, using "if you're an exhibitor and you know you've got a 'Barbie' coming, you might bump it from two to six." So the initial was two screens. The question asks what they initially planned, so the answer is 2.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article states that Coca-Cola's acquisition led to the push for box office estimates but does not directly link this to Kevin Goetz's book "Audience-ology." The book is mentioned as Goetz's work, but no causal connection to Coca-Cola's actions is provided.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions "Furiosa" was projected by "some" to earn $40 million, but it does not specify that the National Research Group provided this figure. The question specifically asks about the National Research Group's projection, which is not stated.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article states opening-weekend estimates became a fixture in the 1980s after Coca-Cola's 1982 acquisition of Columbia Pictures. However, it does not specify the exact year Columbia introduced the concept, only the decade.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Kevin Goetz founded Screen Engine/ASI, but the article does not mention this firm being acquired by Coca-Cola. Coca-Cola worked with the National Research Group, not Screen Engine/ASI, which was founded later and unrelated to the acquisition.</other>
+
+<question_number>5</question_number>
+<answer>2</answer>
+<other>The article states theater owners "might bump it up from playing on two screens to six" using "Barbie" as an example, indicating the initial planned screens were two.</other>

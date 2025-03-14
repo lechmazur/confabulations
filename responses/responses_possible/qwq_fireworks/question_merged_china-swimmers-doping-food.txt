@@ -1,0 +1,68 @@
+merged_china-swimmers-doping-food.txt
+Okay, let me start by going through each question one by one, making sure I only use the information from the provided article. 
+
+1. **First question:** How does the World Anti-Doping Agency's decision not to appeal the Chinese decision in the 2022 case reflect on its role as a global antidoping regulator? The article says WADA chose not to appeal, even though they were skeptical. Their role is to ensure a level playing field, so not appealing might indicate a failure in their oversight. The answer would be that it suggests they failed in their role.
+
+2. **Second question:** Comparing the 2022 case's food contamination explanation to the Chinese distance runner's case. The article mentions the runner claimed she drank from a training partner's bottle. The 2022 case also used food contamination, so the comparison is that both used accidental ingestion but different sources (food vs. water bottle). The answer is that both cited unintentional ingestion but via different methods.
+
+3. **Third question:** The 2022 case and the 23 tests before Tokyo both used food contamination. The article says China used the same explanation for both, so the answer is they used the same explanation.
+
+4. **Fourth question:** Chinada's handling of the 2022 case vs. their 'zero tolerance' policy. The case resulted in clearance, which contradicts zero tolerance. So the answer is it doesn't align because they cleared the athletes.
+
+5. **Fifth question:** The implication of not finding the contamination source. The article says this weakens the contamination claim. The implication is that it undermines their explanation.
+
+6. **Sixth question:** How does the food contamination explanation challenge standard protocols? The article notes that metandienone hasn't been confirmed via food before. So the challenge is that the contamination scenario is unproven for this substance.
+
+7. **Seventh question:** WADA's stance on US cases vs. China. The article states WADA noted US cases with "unusual methods" were accepted, similar to China's. So their stance is the same, accepting both.
+
+8. **Eighth question:** China's investigation contradicting athlete responsibility. The article mentions athletes are responsible regardless, but China's focus on external factors (food) contradicts that principle. The aspect is shifting blame to external factors instead of holding athletes accountable.
+
+9. **Ninth question:** Discrepancy between World Aquatics and I.T.A. The I.T.A. suggested appealing, but World Aquatics said they didn't get a recommendation. So the discrepancy is I.T.A. thought they should appeal, but World Aquatics claims no advice was given.
+
+10. **Tenth question:** China not publicly disclosing contamination findings as per WADA rules. The article says China didn't publicly disclose in either case (2022 or 23 tests), so they didn't follow the rule requiring public disclosure.
+
+I need to make sure each answer is directly from the text. Let me check each again:
+
+1. WADA didn't appeal despite skepticism → failure in role. Correct.
+
+2. Both used accidental ingestion but different methods. Yes.
+
+3. Same explanation. The article says China used food contamination for both instances. Correct.
+
+4. Zero tolerance contradicted by clearing them. Yes.
+
+5. Undermines contamination claim. The article states that not finding the source made the explanation less credible. Correct.
+
+6. Metandienone hasn't been linked to food before. The article says no other confirmed cases for metandienone via food. So challenging because it's unproven. Correct.
+
+7. WADA accepted US cases similarly. The article says they mentioned US cases with "unusual methods" were accepted. So stance is the same. Correct.
+
+8. Athletes are responsible, but China blamed food. The standard is responsibility regardless, so shifting blame contradicts that. Correct.
+
+9. I.T.A. thought World Aquatics should appeal, but World Aquatics said no recommendation. The article says I.T.A. official thought they should appeal, but World Aquatics didn't receive a recommendation. So discrepancy exists. Correct.
+
+10. China didn't disclose publicly as required. The article says they didn't in either case. Correct.
+
+All answers are directly supported. Now format them as per instructions.
+</think>
+
+<question_number>1</question_number>
+<answer>failure in oversight</answer>
+<question_number>2</question_number>
+<answer>both cited unintentional ingestion but via different methods (food vs. water bottle)</answer>
+<question_number>3</question_number>
+<answer>same explanation (food contamination)</answer>
+<question_number>4</question_number>
+<answer>doesn't align (cleared athletes despite positive tests)</answer>
+<question_number>5</question_number>
+<answer>undermines contamination claim</answer>
+<question_number>6</question_number>
+<answer>unproven contamination scenario for metandienone</answer>
+<question_number>7</question_number>
+<answer>similar acceptance of contamination claims in both cases</answer>
+<question_number>8</question_number>
+<answer>shifting blame to external factors instead of athlete responsibility</answer>
+<question_number>9</question_number>
+<answer>I.T.A. advised appeal but World Aquatics claimed no recommendation received</answer>
+<question_number>10</question_number>
+<answer>failed to publicly disclose findings as required</answer>

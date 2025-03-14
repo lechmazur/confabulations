@@ -1,0 +1,21 @@
+merged_ai-data-restrictions.txt
+<question_number>1</question_number>
+<answer>Smaller A.I. companies and academic researchers might face challenges in accessing high-quality training data because they can't afford to license data directly from publishers, unlike major tech companies.</answer>
+<question_number>2</question_number>
+<answer>Changing data licenses for A.I. training primarily affects later-arriving actors, such as smaller start-ups or researchers, rather than major tech companies that have already gathered extensive data.</answer>
+<question_number>3</question_number>
+<answer>According to the article, many researchers doubt that today's A.I. systems are capable of generating enough high-quality synthetic data to replace the human-created data they're losing.</answer>
+<question_number>4</question_number>
+<answer>The potential consequence is that the web will start shutting its doors, meaning more data sources will become restricted or unavailable.</answer>
+<question_number>5</question_number>
+<answer>Smaller A.I. companies and researchers rely on public data sets and can't afford to license data directly from publishers, making them more vulnerable to data restrictions compared to major tech companies.</answer>
+<question_number>6</question_number>
+<answer>The implication is that major tech companies that have already gathered extensive data will not be affected by new licensing restrictions, while new entrants will face more barriers.</answer>
+<question_number>7</question_number>
+<answer>The statement suggests that major tech companies, which have already gathered extensive data, will not be significantly impacted, whereas new entrants, such as smaller start-ups or researchers, will face more challenges.</answer>
+<question_number>8</question_number>
+<answer>The article suggests that the current data restrictions might lead to a reevaluation of the relationship by prompting A.I. companies to consider the value they provide to data creators and potentially seek more collaborative or compensatory arrangements.</answer>
+<question_number>9</question_number>
+<answer>55%</answer>
+<question_number>10</question_number>
+<answer>75%</answer>

@@ -1,0 +1,37 @@
+merged_drug-prices-medicare.txt
+<question_number>1</question_number>
+<answer>The $2,000 annual cap will go into effect in 2025 (next year), while the negotiated prices take effect in 2026</answer>
+
+<question_number>2</question_number>
+<answer>Project 2025 argues the drug price negotiation program should be repealed, which would prevent the planned increase in drugs to be negotiated</answer>
+
+<question_number>3</question_number>
+<answer>Harris cast the tiebreaking vote for the legislation that delivered the drug price negotiation program and has made "take on Big Pharma" a stated presidential campaign priority</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article only provides an overall 22% reduction figure across all drugs, not individual drug savings percentages.</other>
+
+<question_number>5</question_number>
+<answer>$1,716</answer>
+<other>Medicare would save 22% overall, so applying that same percentage reduction to Judy's current cost of $2,200: $2,200 - ($2,200 × 0.22) = $1,716</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article doesn't provide information about pre-negotiation Medicare spending for each drug separately.</other>
+
+<question_number>7</question_number>
+<answer>Januvia</answer>
+<other>Januvia has the lowest monthly price at $113, so it would take the most refills to reach $2,000: $2,000 ÷ $113 = 17.7 months (18 refills)</other>
+
+<question_number>8</question_number>
+<answer>92.5%</answer>
+<other>The three most expensive medications are Imbruvica ($9,319), Stelara ($4,695), and Enbrel ($2,355), totaling $16,369. The total for all 10 drugs is $17,699. Percentage: ($16,369 ÷ $17,699) × 100 = 92.5%</other>
+
+<question_number>9</question_number>
+<answer>$19</answer>
+<other>Jardiance and Farxiga both treat diabetes, heart failure and chronic kidney disease. Their price difference is $197 - $178 = $19.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article mentions drugmakers have filed legal challenges but doesn't specify which individual companies are involved in these legal challenges.</other>

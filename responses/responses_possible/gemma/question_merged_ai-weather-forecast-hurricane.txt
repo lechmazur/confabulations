@@ -1,0 +1,21 @@
+merged_ai-weather-forecast-hurricane.txt
+<question_number>1</question_number>
+<answer>Instead of relying on current readings and millions of calculations, an A.I. agent draws on what it has learned about the cause-and-effect relationships that govern the planet's weather.</answer>
+<question_number>2</question_number>
+<answer>GraphCast was trained on four decades of global weather observations compiled by the European forecasting center.</answer>
+<question_number>3</question_number>
+<answer>Paul G. Allen founded the Allen Institute for A.I., where Dr. Bretherton, who is impressed by the European center's interest in A.I., is a team leader.</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>Both involve the potential for manipulation and the spread of misinformation.</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>By learning patterns from historical data, GraphCast can potentially identify recurring atmospheric behaviors and make more accurate predictions despite the chaotic nature of weather systems.</answer>
+<question_number>9</question_number>
+<answer>GraphCast's training data spans four decades, while traditional forecasts have only recently extended to 10 days from three decades ago.</answer>
+<question_number>10</question_number>
+<answer>Both involve the challenge of integrating diverse sources of information and the potential for biases to influence the final output.</answer>

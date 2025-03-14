@@ -1,0 +1,71 @@
+merged_ai-business-startups.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the article provided and answer each exactly as per the instructions. Let me start with the first question.
+
+1. The first question asks which technology the entrepreneur who made colorful mittens (Skittenz) used to decipher legal agreements for trade shows. The article mentions Steven Bright, the founder of Skittenz, used ChatGPT for translating patent documents and deciphering legal agreements. So the answer should be ChatGPT.
+
+2. The second question is about the metaphor Steven Bright used. The text says he compared AI to "stilts to get through an obstacle -- to get through a minefield." So the metaphor is stilts.
+
+3. The third question is about the percentage from Gusto. The article states that roughly a fifth of businesses created last year used AI. A fifth is 20%, so that's the answer.
+
+4. The fourth question is the funding amount for Jamie Steven's app, Orb.net. The text says he raised $700,000 from angel investors. So that's the number.
+
+5. Jamie Steven's mantra when using ChatGPT was mentioned as "Don't trust and verify." That's the phrase here.
+
+6. The task Skittenz's founder used ChatGPT for that a patent lawyer might do is translating patent documents into understandable terms. So the answer is patent documents.
+
+7. The dedicated communication channel was a Slack channel named specifically? The article says "a dedicated Slack channel," but doesn't give a name. Wait, maybe it's called "Slack channel" but the exact name isn't provided. Hmm, the question asks for the name. The article just says "dedicated Slack channel" without a specific name. So maybe the answer is Slack channel, but the question might be looking for the exact name. Wait, the text says "they used a dedicated Slack channel" but didn't name it. So perhaps the answer is "N/A" because there's no specific name given. Wait, but the question says "the name of the dedicated communication channel". Since the article only refers to it as "a dedicated Slack channel" without a specific name, the answer would be N/A. Wait, but maybe the name is "Slack channel"? But that's the platform, not the channel's name. The article doesn't mention a specific name, so it's N/A.
+
+Wait, let me check again. The article says: "The students began sharing their ideas for use cases on a dedicated Slack channel." So the name is just "a dedicated Slack channel" but no specific name. So the answer is N/A because there's no name given.
+
+8. The working paper's reason for young firms using AI: the paper's authors wrote that they are "general-purpose technologies that are not expensive to use." So the answer is because they are not expensive to use.
+
+9. E. Darren Liddell's obstacle with A.I. user matching was privacy issues involving user information. The article says "there were some privacy issues to iron out involving how the A.I. technology would incorporate user information."
+
+10. The legal documents Steven Bright used ChatGPT to translate were patent documents. The text says he used it to "translate patent documents into understandable terms."
+
+Wait, let me go through each again carefully.
+
+1. Technology for legal agreements: ChatGPT. Correct.
+
+2. Metaphor: stilts to navigate a minefield. The exact quote is "stilts to get through an obstacle -- to get through a minefield". The metaphor is "stilts".
+
+3. 20% from Gusto. Yes.
+
+4. $700,000. Correct.
+
+5. "Don't trust and verify" – exactly as written.
+
+6. The task related to patents: translating patent documents. So the answer is translating patent documents, but the question asks what specific task traditionally needed a patent lawyer. The task is translating/understanding patent documents, so the answer is "translating patent documents into understandable terms" but the question is phrased as "what task... that traditionally might have required consulting a patent lawyer?" So the task is dealing with patent documents, so the answer is "translating patent documents".
+
+7. The name of the Slack channel isn't given, so N/A.
+
+8. The reason from the paper: "because they are 'general-purpose technologies' that are not expensive to use." So the answer is "because they are not expensive to use".
+
+9. Privacy issues with user information. The question is about the obstacle when implementing A.I. for user matching. The answer is privacy issues involving user information.
+
+10. The legal documents were patent documents. The question specifies "legal documents", so the answer is "patent documents".
+
+Alright, I think that's all. Let me make sure each is correctly mapped.
+</think>
+
+<question_number>1</question_number>
+<answer>ChatGPT</answer>
+<question_number>2</question_number>
+<answer>stilts</answer>
+<question_number>3</question_number>
+<answer>20%</answer>
+<question_number>4</question_number>
+<answer>$700,000</answer>
+<question_number>5</question_number>
+<answer>Don't trust and verify</answer>
+<question_number>6</question_number>
+<answer>translating patent documents</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Article mentions a "dedicated Slack channel" but does not provide its name.</other>
+<question_number>8</question_number>
+<answer>they are not expensive to use</answer>
+<question_number>9</question_number>
+<answer>privacy issues involving how the A.I. technology would incorporate user information</answer>
+<question_number>10</question_number>
+<answer>patent documents</answer>

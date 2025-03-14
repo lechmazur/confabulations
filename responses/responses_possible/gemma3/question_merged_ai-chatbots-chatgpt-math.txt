@@ -1,0 +1,31 @@
+merged_ai-chatbots-chatgpt-math.txt
+<question_number>1</question_number>
+<answer>They were never designed to do it</answer>
+<other>The article directly states this as a reason.</other>
+<question_number>2</question_number>
+<answer>Vast quantities of relevant training data can lead to proficiency, but erratic performance remains</answer>
+<other>The article mentions that chatbots excel when they've consumed large amounts of data, but still have shortcomings.</other>
+<question_number>3</question_number>
+<answer>Khan Academy sends numerical problems to a calculator program instead of asking the A.I. to solve them</answer>
+<other>This is a specific example given in the article.</other>
+<question_number>4</question_number>
+<answer>A shift from tireless, fast, accurate calculating machines to systems that learn by analyzing data</answer>
+<other>The article contrasts early computers with modern A.I.</other>
+<question_number>5</question_number>
+<answer>It suggests A.I. is more of a "liberal arts major" than a "numbers whiz"</answer>
+<other>The article uses this analogy to describe the current state of A.I.</other>
+<question_number>6</question_number>
+<answer>A focal point of discussion comparing student and bot solutions</answer>
+<other>The article describes how teachers are using errors as teaching moments.</other>
+<question_number>7</question_number>
+<answer>A move from excelling at calculations to excelling at language</answer>
+<other>The article highlights the shift in A.I.'s strengths.</other>
+<question_number>8</question_number>
+<answer>It adds grist to a debate between large language models and "world modeling"</answer>
+<other>The article describes two opposing viewpoints in A.I. research.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article does not directly address this comparison.</other>
+<question_number>10</question_number>
+<answer>Language skills are impressive, but accuracy is lacking</answer>
+<other>Ferrucci finds the technology impressive for language, not accuracy.</other>

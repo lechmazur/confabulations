@@ -1,0 +1,46 @@
+merged_boeing-safety-door-plugs.txt
+Okay, let's tackle these questions one by one. The user wants answers strictly based on the provided article, so I need to make sure I don't use any outside knowledge. Let me go through each question carefully.
+
+1. The first question asks how Spirit AeroSystems contractors' testimony relates to work culture and safety standards. The article mentions that Spirit workers felt like "cockroaches" and there was tension. The NTSB chairwoman linked this to a culture prioritizing production over safety. So the answer should connect their treatment to the broader culture issues.
+
+2. Boeing employees testified about long hours. The article says Lund acknowledged issues and said they're working on changes. So their testimony relates to the company's efforts to implement cultural and safety changes.
+
+3. Spirit contractors' work conditions (like pressure) tie into production pressures leading to safety lapses. The testimony shows how production pressures affect safety, as the chairwoman pointed out.
+
+4. The NTSB found Boeing missed bolts because of production pressures. The investigation highlights that Boeing struggles to balance schedules with safety, leading to the incident.
+
+5. The missing bolts and lack of documentation show quality control issues. The NTSB's findings here point to challenges in addressing those issues.
+
+6. Employees' work conditions (long hours) relate to Boeing's efforts to improve safety and processes. Lund mentioned changes to prevent sacrificing safety for production.
+
+7. The senior VP was Elizabeth Lund, who testified about redesign plans and acknowledged the issues.
+
+8. After the incident, the FAA prohibited Boeing from increasing 737 production until quality issues were addressed.
+
+9. Homendy's statements linked production pressures (like pushing employees to work long hours) to safety lapses, as she cited worker testimonies.
+
+10. The missing documentation is about whether the door plug was reinstalled after repair. The article says there's no record of its reinstallation, only removal.
+
+I need to make sure each answer is directly from the text and doesn't infer beyond what's stated. Let me check each against the article again to confirm details like names and exact terms.
+</think>
+
+<question_number>1</question_number>
+<answer>It highlights how subcontractor treatment reflects broader cultural issues prioritizing production over safety.</answer>
+<question_number>2</question_number>
+<answer>Employees' testimony about excessive work hours directly informed Boeing's stated efforts to improve culture and safety protocols.</answer>
+<question_number>3</question_number>
+<answer>Testimony about poor treatment and pressure to work long hours connects to systemic production pressures undermining safety standards.</answer>
+<question_number>4</question_number>
+<answer>NTSB found missing bolts and unauthorized panel removal showed Boeing struggled to prioritize safety over production deadlines.</answer>
+<question_number>5</question_number>
+<answer>Lack of documentation for door plug reinstallation and bolt installation exposed ongoing quality control failures.</answer>
+<question_number>6</question_number>
+<answer>Worker testimony about unsustainable work conditions directly spurred Boeing's stated cultural and procedural reforms.</answer>
+<question_number>7</question_number>
+<answer>Elizabeth Lund</answer>
+<question_number>8</question_number>
+<answer>Federal Aviation Administration prohibited increasing 737 production until quality issues were addressed.</answer>
+<question_number>9</question_number>
+<answer>Homendy cited worker testimonies about excessive work hours as evidence production demands caused safety lapses.</answer>
+<question_number>10</question_number>
+<answer>No documentation exists to verify whether the door plug was reinstalled after rivet repairs.</answer>

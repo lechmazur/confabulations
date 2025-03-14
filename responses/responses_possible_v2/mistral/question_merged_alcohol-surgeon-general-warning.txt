@@ -1,0 +1,33 @@
+merged_alcohol-surgeon-general-warning.txt
+<question_number>1</question_number>
+<answer>Robert F. Kennedy Jr.</answer>
+
+<question_number>2</question_number>
+<answer>3</answer>
+
+<question_number>3</question_number>
+<answer>acetaldehyde</answer>
+
+<question_number>4</question_number>
+<answer>South Korea</answer>
+
+<question_number>5</question_number>
+<answer>49.5%</answer>
+<other>Calculated as 89% (tobacco) - 39.5% (alcohol) = 49.5%</other>
+
+<question_number>6</question_number>
+<answer>federally funded Canadian study</answer>
+
+<question_number>7</question_number>
+<answer>1.8</answer>
+<other>Calculated as 13.1% (one drink daily) - 11.3% (less than weekly) = 1.8%</other>
+
+<question_number>8</question_number>
+<answer>atrial fibrillation</answer>
+
+<question_number>9</question_number>
+<answer>2000</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article mentions "one of every six," which cannot be converted to an exact percentage without rounding.</other>

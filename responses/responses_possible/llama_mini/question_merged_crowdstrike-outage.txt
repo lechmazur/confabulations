@@ -1,0 +1,31 @@
+merged_crowdstrike-outage.txt
+<question_number>1</question_number>
+<answer>It inadvertently provided a strategic advantage to adversaries like Putin and Xi Jinping by giving them a more detailed road map for disruption in an election year.</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>National Security Agency (NSA) and GCHQ (Britain's code-making and code-breaking agency)</answer>
+
+<question_number>4</question_number>
+<answer>The article's discussion of criminal activities relates to concerns expressed by a recently retired British intelligence official in that he worries more about criminals than nation-state attacks, and the article mentions that criminals will be gleaning lessons from the CrowdStrike debacle.</answer>
+
+<question_number>5</question_number>
+<answer>The connection that can be drawn between the article's mention of a museum incident and the broader themes of cybersecurity vulnerabilities is that even the best efforts to recover from a ransomware attack can fail, highlighting the challenges of cybersecurity.</answer>
+
+<question_number>6</question_number>
+<answer>The parallel that can be drawn between the cause of Friday's incident and potential future election interference is that both could be caused by exploiting vulnerabilities in software, with Friday's incident being caused by human error and future election interference potentially being caused by malicious actors.</answer>
+
+<question_number>7</assistant<|end_header_id|>
+
+The connection that exists between the cybersecurity incident and concerns about critical infrastructure mentioned earlier in the article is that the incident highlighted the vulnerability of critical infrastructure, such as hospital systems and electric grids, to cyberattacks.</answer>
+
+<question_number>8</question_number>
+<answer>The article's mention of a specific malware, Volt Typhoon, relates to the broader discussion of nation-state cyber threats in that it is a form of malware used by China to target American critical infrastructure.</answer>
+
+<question_number>9</question_number>
+<answer>The parallel that can be drawn between the actions of Russian hackers in 2020 and the potential consequences of Friday's incident is that both involved exploiting vulnerabilities in software to gain access to sensitive systems, with the Russian hackers gaining access to government departments and companies, and Friday's incident potentially providing a roadmap for future disruptions.</answer>
+
+<question_number>10</question_number>
+<answer>The connection that exists between the cybersecurity incident and concerns about protecting a specific Asian territory mentioned in the article is that China's military hackers could potentially use similar tactics to distract Americans from an invasion of Taiwan.</answer>

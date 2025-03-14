@@ -1,0 +1,64 @@
+merged_trump-damac-data-centers.txt
+Okay, let's tackle these questions one by one using only the information provided in the article. I need to be careful to answer exactly what's asked without making any assumptions beyond the text.
+
+1. **Question 1**: The article mentions that DAMAC paid Trump between $2 million to $10 million before the golf courses were built, according to 2016 financial disclosures. The question asks for millions in licensing fees before construction. The answer should be the range given: $2 to $10 million.
+
+2. **Question 2**: The text says DAMAC partnered with Versace, Fendi, and others before the Trump collaboration. Since the Trump deal started in 2013, the European fashion houses mentioned earlier (like Fendi and Versace) are the answer. Fendi is a European brand.
+
+3. **Question 3**: The article states DAMAC promotes properties in Saudi Arabia but doesn't provide specific total values delivered during Trump's first term. So, N/A.
+
+4. **Question 4**: The article doesn't mention the first meeting date at Mar-a-Lago for their initial partnership. The 2013 golf course deal might have been discussed earlier, but the exact meeting date isn't given. N/A.
+
+5. **Question 5**: Edgnex's North America presence was a "blank spot" before the announcement, so zero data centers there. Answer is 0.
+
+6. **Question 6**: The article doesn't specify the ratio of international vs. local buyers for DAMAC Hills. N/A.
+
+7. **Question 7**: The Trump sons Donald Jr. and Eric attended Sajwani's daughter's wedding in 2018, but the groundbreaking for the second golf course isn't mentioned. The question is about the second course's groundbreaking, which the article doesn't detail. N/A.
+
+8. **Question 8**: No mention of DAMAC's stock price change after the Miami project announcement. N/A.
+
+9. **Question 9**: The 2011 disputes with Egypt were settled, but the exact amount isn't stated. The article only mentions the lawsuit outcome, not the settlement figure. N/A.
+
+10. **Question 10**: The article doesn't specify job numbers per state for Edgnex's data centers. N/A.
+
+11. **Question 11**: The Trump International Golf Club is part of DAMAC Hills, which has homes up to $4M each. The question asks how many homes are in DAMAC Hills. The article mentions 47k delivered and 33k in pipeline, but the exact number for DAMAC Hills isn't given. N/A.
+
+12. **Question 12**: The $2-10 million figure before the golf course opened is the same as question 1. So, $2 to $10 million.
+
+13. **Question 13**: Edgnex operates in 10 countries including Saudi Arabia and mentions expansion in Middle East, Asia, Europe. The article specifically mentions Saudi Arabia and Asia, but which Asian country? It doesn't name others except maybe the UAE (Dubai) but that's Middle East. Wait, the question says "besides Saudi Arabia, what Asian country?" The article doesn't list specific Asian countries beyond Saudi (Middle East) and maybe China via the company they partnered with in 2018. The 2018 project involved a Chinese government company. So China is in Asia. So answer: China.
+
+14. **Question 14**: Sajwani posted a picture on X (formerly Twitter) with Trump and Musk. The article says he posted on X.
+
+15. **Question 15**: The article states homes in DAMAC Hills sell for up to $4 million each. So the maximum price is $4 million.
+</think>
+
+<question_number>1</question_number>
+<answer>2 to 10</answer>
+<question_number>2</question_number>
+<answer>Fendi</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>0</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<question_number>12</question_number>
+<answer>2 to 10</answer>
+<question_number>13</question_number>
+<answer>China</answer>
+<question_number>14</question_number>
+<answer>X</answer>
+<question_number>15</question_number>
+<answer>4</answer>

@@ -1,0 +1,34 @@
+merged_glamping-outdoor-resorts.txt
+Okay, let's tackle these questions one by one using the article provided. 
+
+1. **How many vintage Airstreams are available for guests at Yonder Escalante?**  
+The article mentions that Yonder Escalante (now Ofland Escalante) has 20 deluxe cabins added to their existing 20-acre property. The original accommodations included vintage Airstreams and tiny cabins. It states there are now 52 rooms total, including the Airstreams. The new deluxe cabins are 20, so subtracting that from 52 gives 32 other rooms. But the question specifically asks for the number of vintage Airstreams. The article says "vintage Airstreams that can sleep up to three people and tiny cabins for two." Since the total before adding the 20 was 32 (52-20), but the article doesn't specify how many Airstreams there are exactly. Wait, maybe I missed it. Let me check again. The article says: "There are now 52 rooms, including vintage Airstreams that can sleep up to three people and tiny cabins for two. The new deluxe cabins, which can sleep four guests, are Ofland's most spacious accommodations..." So the 52 rooms include all types: Airstreams, tiny cabins, and the new deluxe cabins. The article doesn't give exact numbers for Airstreams. So the answer is N/A because the exact number isn't provided.
+
+2. **What is the name of the company that partnered with Outdoorsy to create the luxury glamping tents in Texas Hill Country?**  
+The article states: "Created by Outdoorsy, the peer-to-peer RV rental company..." So Outdoorsy did it alone. The question asks for a partner, but there's no mention of another company. Therefore, the answer is N/A because no partner is named.
+
+3. **In what year did the founders of Under Canvas launch their new initiative, Few & Far, which offers glamping experiences in Africa and Chile?**  
+The article says "a new initiative from the founders of the glamping company Under Canvas, Few & Far has begun creating outdoor and glamping experiences..." The word "new" might imply recent, but the article doesn't specify the year. The example given is a trip in August (presumably 2024?), but the article's context might be current. Since the exact year isn't mentioned, the answer is N/A.
+
+4. **Besides shuffleboard and darts, what other game is available to play at the Texas Hill Country location?**  
+Looking at the Texas Hill Country section: "Play shuffleboard, darts and other games." The "other games" aren't specified. Wait, the article says "there's also a cafe for light bites. When you need provisions... It's also less than a half-hour drive to Fredericksburg... Prefer to stay in? Catch a movie night or play shuffleboard, darts and other games." The question asks for the name of the other game besides shuffleboard and darts. Since it's only mentioned as "other games" without specifics, the answer is N/A. Wait, maybe I missed it. Let me check again. The text says "other games" but doesn't list them. So the answer is N/A.
+
+5. **What is the name of the cafe at the glamping spot near Yosemite National Park where guests can purchase light bites?**  
+The Yosemite area spot is called Wildhaven. The article says: "A clubhouse makes it a breeze to get food, wine, beer and cider. You can also pick up kits to make s'mores and picnic items." The cafe isn't named; it's referred to as the "clubhouse." Since the question asks for the cafe's name, and it's not provided, the answer is N/A.
+
+6. **What is the name of the company that originally owned and operated the Ofland Escalante property?**  
+The article mentions that the property "changed its name this year from Yonder Escalante." So the original name was Yonder Escalante, implying that the company was Yonder. Therefore, the original company's name was Yonder (Escalante). So the answer is Yonder Escalante or Yonder. Since the article says "changed its name this year from Yonder Escalante," the original company was Yonder Escalante. So the answer is Yonder Escalante.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>Yonder Escalante</answer>

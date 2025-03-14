@@ -1,0 +1,80 @@
+merged_venu-sports-streaming-service.txt
+Okay, let's tackle these questions one by one using the provided article. I need to make sure I only use the information given and not any outside knowledge.
+
+1. **Question 1:** The merger between Disney's Hulu and Fubo is mentioned, but the article doesn't specify which judge approved it. It just says Disney and Fubo formed the new company. So, answer is N/A.
+
+2. **Question 2:** The article mentions Fubo sued them first. Then DirecTV and EchoStar wrote letters, but it's not clear if they filed lawsuits. The question asks for total lawsuits. Only Fubo's is confirmed. So N/A because we don't know if others filed.
+
+3. **Question 3:** The new entity is a merger between Hulu and Fubo. Disney owns 70%, but the question is about Warner Bros.'s stake. The article doesn't mention Warner Bros. in the new company, so N/A.
+
+4. **Question 4:** DirecTV’s letter mentions Nat Geo Wild and Cartoon Network as examples. The article states "non-sports channels like Nat Geo Wild and the Cartoon Network," so those are the ones.
+
+5. **Question 5:** The article says Venu was discontinued without launching, so subscriber count at shutdown would be 0 or N/A. The text doesn't mention any subscribers, so N/A.
+
+6. **Question 6:** The FCC released the transcript of a "60 Minutes" interview involving Kamala Harris. The lawsuit with Trump and Politico mentions records from agencies paying for subscriptions. The article says "Records show agencies paid for subscriptions," but not which specific outlet. Wait, the question says "subscription records cited as evidence in the lawsuit involving Trump’s claims about Politico." The article says "Records show agencies paid for subscriptions." The answer might be the FCC, but the question is about which media's records? Wait, the Politico part says "Records show agencies paid for subscriptions." So the answer is "N/A" because the article doesn't name a specific media outlet's records, just that agencies paid for subscriptions. Wait, the question is about the lawsuit involving Trump's claims about payments to Politico. The records cited would be the agencies' payments, but the outlet is Politico. The article says "Records show agencies paid for subscriptions." So maybe the answer is "Politico" but the exact wording is unclear. Wait the article says "President Trump spread unfounded claims that the government had paid Politico and other news media outlets for positive coverage of Democrats. Records show agencies paid for subscriptions." So the records are about the agencies paying for subscriptions, which includes Politico. But the question is asking which media outlet's subscription records were cited. The answer would be Politico? But the article says "Records show agencies paid for subscriptions" but doesn't specify which outlet's records. Hmm. The question might be N/A because the exact records aren't named. Alternatively, the answer could be "N/A".
+
+7. **Question 7:** The article mentions ESPN's new service but doesn't state its price. The original Venu price was $42.99, but the question asks what ESPN's price was to undercut that. Since the article doesn't mention ESPN's price, answer is N/A.
+
+8. **Question 8:** The article says Venu included non-sports shows but doesn't name specific ones. So N/A.
+
+9. **Question 9:** Judge Garnett's ruling cited antitrust laws, but the question asks which federal agency's regulations. Antitrust laws are typically under the FTC or DOJ, but the article doesn't mention specific agencies. The answer is N/A.
+
+10. **Question 10:** The management team was led by Pete Distad, the former Apple exec. The question asks who led the team aiming for $42.99, so answer is Pete Distad.
+
+11. **Question 11:** The judge who blocked with injunction was Margaret Garnett, as per the article. The decision about lessening competition was hers.
+
+12. **Question 12:** The injunction was granted a week before the Aug 23 launch, so the block was before the launch date.
+
+13. **Question 13:** The competitor that merged with Hulu is Fubo, which was the niche service. The article says Disney combined Hulu with Fubo.
+
+14. **Question 14:** The price was $42.99 as stated in the article's description of Venu.
+
+15. **Question 15:** DirecTV's letter mentioned evaluating options and urged the judge. The question is which provider did that, so DirecTV.
+
+16. **Question 16:** ESPN was mentioned as debuting its own service after Venu's end.
+
+17. **Question 17:** Disney merged its Hulu with Fubo, so Disney is the company involved in the realignment.
+
+18. **Question 18:** Target audience was sports fans who wanted a bundle cheaper than $80 cable but more than a la carte. The article says "the fan who liked sports enough to pay $42.99... but did not want to pay $80..."
+
+19. **Question 19:** After satellite providers' letters, the next day Venu was discontinued. The outcome was the service being shut down.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>1</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>Nat Geo Wild and the Cartoon Network</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>Pete Distad</answer>
+<question_number>11</question_number>
+<answer>Judge Margaret Garnett</answer>
+<question_number>12</question_number>
+<answer>August 23, 2024</answer>
+<question_number>13</question_number>
+<answer>Fubo</answer>
+<question_number>14</question_number>
+<answer>$42.99</answer>
+<question_number>15</question_number>
+<answer DirecTV</answer>
+<question_number>16</question_number>
+<answer>ESPN</answer>
+<question_number>17</question_number>
+<answer>Disney</answer>
+<question_number>18</question_number>
+<answer>sports fans</answer>
+<question_number>19</question_number>
+<answer>discontinuation</answer>

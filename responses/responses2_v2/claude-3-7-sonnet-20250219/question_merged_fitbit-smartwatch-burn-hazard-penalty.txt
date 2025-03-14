@@ -1,0 +1,60 @@
+merged_fitbit-smartwatch-burn-hazard-penalty.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article doesn't connect the 2014 Force wristband recall to the Ionic battery defect. It states that injury reports for the Ionic represented "fewer than 0.01 percent of all Ionic watches sold" but doesn't provide data about the Force wristband recall.</other>
+
+<question_number>2</question_number>
+<answer>$299</answer>
+<other>The article states: "At the time of the 2022 recall, owners were offered $299 after returning their Ionic watches and received a discount code for select Fitbit devices, according to the consumer commission."</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article mentions "an unproven blood filter" in a separate story about "Two U.S. companies" in Antigua, but this is unrelated to Fitbit. It appears in what seems to be a list of other article headlines at the end.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article only mentions burns as injuries related to the Ionic smartwatch. While it mentions skin irritation for the Force wristbands in 2014, it doesn't indicate Ionic users experienced similar issues.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article only mentions Bill Gates in what appears to be a headline for another article at the end, stating he "is taking a break from the future to examine his past," but doesn't connect this to Fitbit's compliance policies.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any concerns from the U.S. Consumer Product Safety Commission regarding the Flex wristbands. It only states that Fitbit "avoided a recall of its Flex wristbands" by adding warnings.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article mentions the $12.25 million civil penalty for the Ionic smartwatch issues but doesn't provide financial impact information related to the Force wristband recall.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article doesn't specify in which year Fitbit received the most reports of third-degree burns. The mention of Mark Zuckerberg and President Trump appears to be from a separate article headline at the end.</other>
+
+<question_number>9</question_number>
+<answer>firmware</answer>
+<other>The article states: "in early 2020, Fitbit had issued a firmware update to reduce the potential for battery overheating." DeepSeek is only mentioned in what appears to be another article headline at the end.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article mentions that "many companies have scaled back their programs" regarding D.E.I. efforts in what appears to be another article headline, but doesn't connect this to Fitbit's response to Force wristband complaints.</other>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+<other>The article doesn't provide Fitbit's reason for delaying the firmware update. It only states that Fitbit issued a firmware update in early 2020 but didn't recall the device until 2022.</other>
+
+<question_number>12</question_number>
+<answer>N/A</answer>
+<other>The article mentions "two cases of third-degree burns" globally but doesn't specify how many occurred specifically in the U.S. market.</other>
+
+<question_number>13</question_number>
+<answer>adding a warning about nickel allergies and a sizing guideline</answer>
+<other>The article states: "But the company avoided a recall of its Flex wristbands later that year, after similar complaints, by adding a warning about nickel allergies and a sizing guideline to prevent users from wearing the wristbands too tightly."</other>
+
+<question_number>14</question_number>
+<answer>N/A</answer>
+<other>The article only mentions nickel allergies in relation to the Flex wristbands in 2014, not in relation to design modifications prior to the Ionic model's release.</other>
+
+<question_number>15</question_number>
+<answer>N/A</answer>
+<other>The article mentions Google's acquisition terms regarding not using Fitbit's health data to target ads, but doesn't connect this to the timeline or scope of the Ionic recall.</other>

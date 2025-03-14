@@ -1,0 +1,80 @@
+merged_us-emissions-solar-wind-power.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article only mentions that emissions from oil and gas operations dropped roughly 3.7 percent in 2024, not 2023.</other>
+
+<question_number>2</question_number>
+<answer>natural gas</answer>
+<other>The article states that "Over the next few years, many utilities are planning to meet this demand, at least in part, by delaying retirements of existing coal plants or burning more natural gas." Since natural gas is mentioned as a specific energy source that will be used to meet rising demand, it's a logical inference.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article only states that "low-carbon energy and transportation now make up fully 5 percent of total U.S. private investment" but doesn't provide the percentage before the Inflation Reduction Act.</other>
+
+<question_number>4</question_number>
+<answer>0.2 percent</answer>
+<other>The article states that "emissions from the power sector increased an estimated 0.2 percent" in the same year when the US produced record oil and near-record natural gas with the 40% methane reduction.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>While the article mentions a 40% reduction in methane leakage per cubic foot between 2014-2024, it doesn't provide enough information to calculate when it would reach zero assuming linear continuation.</other>
+
+<question_number>6</question_number>
+<answer>1.8 percent</answer>
+<other>The article states "emissions from America's industrial sector -- which includes steel, cement and chemicals -- fell by 1.8 percent in 2024" which is the same period when electricity demand surged due to heat.</other>
+
+<question_number>7</question_number>
+<answer>20 percent</answer>
+<other>The article states "Since 2005, United States emissions have fallen roughly 20 percent" and this is the current reduction level when the Rhodium Group reported the surge in electricity demand.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article doesn't provide emissions data for the industrial and transportation sectors in the year when the Inflation Reduction Act was passed (2022).</other>
+
+<question_number>9</question_number>
+<answer>90 percent</answer>
+<other>The article states "Nearly 10 percent of new car sales in 2024 were less-polluting electric vehicles" so we can infer that approximately 90% were gasoline-powered vehicles.</other>
+
+<question_number>10</question_number>
+<answer>0.2 percent decrease</answer>
+<other>The article states "greenhouse gas emissions dropping just a fraction, 0.2 percent, compared to the year before" in 2024, which is the same year mentioned when discussing Orsted and Equinor.</other>
+
+<question_number>11</question_number>
+<answer>natural gas use rose to record highs</answer>
+<other>The article states that "natural gas use also rose to record highs" in response to the increased electricity demand from heat and data centers.</other>
+
+<question_number>12</question_number>
+<answer>increased natural gas burning in power plants</answer>
+<other>The article states "emissions levels stayed relatively flat last year because demand for electricity surged nationwide, which led to a spike in the amount of natural gas burned by power plants."</other>
+
+<question_number>13</question_number>
+<answer>40 percent</answer>
+<other>The article states "Between 2014 and 2024, U.S. companies appear to have reduced the amount of methane that escaped, per each cubic feet of gas they produced, by 40 percent"</other>
+
+<question_number>14</question_number>
+<answer>natural gas</answer>
+<other>The article indicates that natural gas use increased to record highs, offsetting gains from renewable energy and coal plant retirements.</other>
+
+<question_number>15</question_number>
+<answer>transportation</answer>
+<other>The article states "transportation, the nation's largest source of greenhouse gases, saw an 0.8 percent rise in emissions last year."</other>
+
+<question_number>16</question_number>
+<answer>spike in natural gas burned by power plants</answer>
+<other>The article states that emissions stayed flat because "demand for electricity surged nationwide, which led to a spike in the amount of natural gas burned by power plants."</other>
+
+<question_number>17</question_number>
+<answer>coal</answer>
+<other>The article states "natural gas use also rose to record highs, while coal use declined only slightly."</other>
+
+<question_number>18</question_number>
+<answer>industrial sector</answer>
+<other>The article states "emissions from America's industrial sector -- which includes steel, cement and chemicals -- fell by 1.8 percent in 2024."</other>
+
+<question_number>19</question_number>
+<answer>methane</answer>
+<other>The article states companies "have reduced the amount of methane that escaped, per each cubic feet of gas they produced, by 40 percent"</other>
+
+<question_number>20</question_number>
+<answer>50 percent</answer>
+<other>The article mentions "President Biden's goal of slashing greenhouse gases 50 percent below 2005 levels by 2030."</other>

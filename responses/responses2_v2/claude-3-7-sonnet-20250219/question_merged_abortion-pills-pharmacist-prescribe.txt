@@ -1,0 +1,80 @@
+merged_abortion-pills-pharmacist-prescribe.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article doesn't specify what percentage of patients experienced excessive bleeding. It only mentions that pharmacists asked patients about excessive bleeding during follow-up, but doesn't provide statistics on how many actually experienced it.</other>
+
+<question_number>2</question_number>
+<answer>0</answer>
+<other>The article states this is a pilot program in Washington State and "the idea is expected to be tried in other states where abortion remains legal" - indicating no other states have implemented similar programs yet.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article mentions that "The Texas attorney general recently sued an abortion provider in New York" but doesn't specify which anti-abortion organization was involved in this lawsuit.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article states "Last year, Walgreens and CVS began dispensing mifepristone in some states" but doesn't specify exactly how many states besides Washington.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article mentions the Comstock Act in relation to mailing abortion medication, but doesn't connect it to Dr. Hogue or restricting pharmacists from prescribing birth control pills specifically.</other>
+
+<question_number>6</question_number>
+<answer>$40</answer>
+<other>The article states "They paid $40, significantly less than many services" regarding the cost for patients in the pilot program.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article mentions Brian Noble as the chief executive of the Family Policy Institute of Washington and an evangelical pastor, but doesn't state that he approved the prescribing protocol.</other>
+
+<question_number>8</question_number>
+<answer>November</answer>
+<other>The article states the pilot program was conducted "between Oct. 31 and Nov. 26" so it concluded in November.</other>
+
+<question_number>9</question_number>
+<answer>Honeybee Health</answer>
+<other>The article identifies Honeybee Health as the California-based mail-order pharmacy that shipped the pills to patients.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article doesn't connect the 10-week pregnancy limit specifically to states where Walgreens and CVS dispense mifepristone.</other>
+
+<question_number>11</question_number>
+<answer>Washington</answer>
+<other>The article states "The protocol was filed with the state's Health Department and was approved by an obstetrician-gynecologist" referring to Washington State's program.</other>
+
+<question_number>12</question_number>
+<answer>10 weeks</answer>
+<other>The article states patients "could be up to 10 weeks pregnant" to be eligible for the program.</other>
+
+<question_number>13</question_number>
+<answer>Chain pharmacies</answer>
+<other>The article states pharmacists worked for "various employers, including chain and community pharmacies, hospitals and insurance companies."</other>
+
+<question_number>14</question_number>
+<answer>$40</answer>
+<other>The article states "They paid $40, significantly less than many services."</other>
+
+<question_number>15</question_number>
+<answer>Dr. Nouhavandi</answer>
+<other>The article states "Dr. Nouhavandi said the project's patient consultation form asked for slightly more information than abortion services where doctors or nurse practitioners issue prescriptions. 'We went a little deeper about medical history,' she said."</other>
+
+<question_number>16</question_number>
+<answer>Dr. Ingrid Skop</answer>
+<other>The article quotes Dr. Ingrid Skop saying "Pharmacists, who do not receive clinical training, should not be distributing these dangerous drugs" and that they are "pushing these medically unsupervised abortions."</other>
+
+<question_number>17</question_number>
+<answer>Food and Drug Administration</answer>
+<other>The article states "it could try to reinstate Food and Drug Administration regulations that required that only doctors prescribe mifepristone."</other>
+
+<question_number>18</question_number>
+<answer>Walgreens</answer>
+<other>The article mentions "Last year, Walgreens and CVS began dispensing mifepristone in some states."</other>
+
+<question_number>19</question_number>
+<answer>October 31</answer>
+<other>The article states the pilot program was conducted "between Oct. 31 and Nov. 26."</other>
+
+<question_number>20</question_number>
+<answer>Honeybee Health</answer>
+<other>The article states "Prescriptions were transmitted to Honeybee Health, a California-based mail-order pharmacy that works with many telemedicine abortion services, which shipped the pills to patients."</other>

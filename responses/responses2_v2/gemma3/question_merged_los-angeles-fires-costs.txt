@@ -1,0 +1,55 @@
+merged_los-angeles-fires-costs.txt
+<question_number>1</question_number>
+<answer>Disney</answer>
+<other>The article states Disney closed its headquarters.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions profits wiped out, but not the number of quarters.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article mentions Edison International's decline and Constellation Energy's valuation, but doesn't provide a combined loss.</other>
+<question_number>4</question_number>
+<answer>Elon Musk</answer>
+<other>The article mentions Elon Musk scaling back expectations for his $2 trillion initiative.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article mentions Meta could gain market share, but doesn't specify a percentage.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article mentions potential legal liabilities costing billions, but doesn't specify the amount for Edison International.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article mentions canceled events and productions, but doesn't provide a total value.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article only mentions Britain's bond market.</other>
+<question_number>9</question_number>
+<answer>100,000</answer>
+<other>The article states more than 100,000 Californians lost coverage.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article provides damage estimates but not actual insurance claims filed.</other>
+<question_number>11</question_number>
+<answer>Edison International</answer>
+<other>The article states Edison International's shares tumbled.</other>
+<question_number>12</question_number>
+<answer>State Farm</answer>
+<other>The article states State Farm dropped 70 percent of its customers.</other>
+<question_number>13</question_number>
+<answer>AccuWeather</answer>
+<other>The article states AccuWeather estimated the costs.</other>
+<question_number>14</question_number>
+<answer>Edison International</answer>
+<other>The article references Edison International's stock fall.</other>
+<question_number>15</question_number>
+<answer>Mark Zuckerberg</answer>
+<other>The article states Zuckerberg didn't mention advertisers.</other>
+<question_number>16</question_number>
+<answer>Calpine</answer>
+<other>The article states Calpine is nearing a $30 billion sale.</other>
+<question_number>17</question_number>
+<answer>Biden administration</answer>
+<other>The article states the Biden administration plans new export restrictions.</other>
+<question_number>18</question_number>
+<answer>Donald Trump</answer>
+<other>The article associates Trump with the policies influencing bond markets.</other>

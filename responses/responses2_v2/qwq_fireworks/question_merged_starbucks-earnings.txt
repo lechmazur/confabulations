@@ -1,0 +1,117 @@
+merged_starbucks-earnings.txt
+Okay, let's tackle these questions one by one based on the article provided. I need to be careful and make sure I only use the information from the text. Let's start with the first question.
+
+1. The first question asks which former Starbucks executive with over two decades of experience was appointed to lead the company's new technology initiatives. Scanning the article, I remember that under the leadership changes, Meredith Sandland was mentioned as taking over store development and design. However, the article states she's from Empower Delivery, a restaurant software company, so maybe she's not a former Starbucks exec. The article also mentions Belinda Wong, a 25-year veteran who retired. But the question is about someone appointed to lead tech initiatives. Wait, the article says Meredith Sandland was named to take over store development and design. The tech initiatives part might be part of her role? Or maybe Mike Grams? The article says she's in charge of store development and design, and the tech part is mentioned in the context of Starbucks using technology for mobile ordering. Hmm, the article doesn't explicitly name a former Starbucks exec with over two decades leading tech. Maybe the answer is N/A? Wait, the question says "former Starbucks executive", but Meredith Sandland isn't a former Starbucks exec. The article says she's from Empower Delivery. The 25-year veteran was Belinda Wong, who retired. The other departing execs are Sara Trilling and Arthur Valdez. The new appointees are Mike Grams (from Taco Bell) and Meredith Sandland. So no one with over two decades at Starbucks is leading tech initiatives. So answer N/A?
+
+Wait, the question is about leading technology initiatives. The article mentions Starbucks is leaning into technology for mobile ordering. But the specific leader isn't named here. The closest is Meredith Sandland's role in store development and design, but that's not exactly tech. So maybe the answer is N/A.
+
+2. The second question asks how much additional revenue Starbucks generated in China after implementing the four-minute guarantee. The article states same-store sales in China fell 6%, but it doesn't mention any specific revenue increase from the four-minute service. The four-minute goal is part of Niccol's plan, but the article doesn't provide numbers on revenue from that. So answer N/A.
+
+3. The third question is about percentage improvement in customer satisfaction from condiment stations and bathroom restrictions. The article mentions these changes but doesn't provide any specific percentage. So N/A.
+
+4. The fourth question asks how many corporate positions were eliminated. The article says Starbucks is planning to cut corporate jobs but hasn't specified the number. So N/A.
+
+5. The fifth question is about the quarterly earnings target Brian Niccol set for the end of fiscal 2025. The article mentions the first quarter of FY2025 (ended Dec 29) had same-store sales down 4%, but no specific target number is given. So N/A.
+
+6. The sixth question asks which competitor Starbucks acquired for expansion in the Southeast. The article mentions expansion plans in Texas and Southeast but doesn't mention any acquisitions. So N/A.
+
+7. The seventh question is about Meredith Sandland's technological innovation in her first month. The article says she's taking over store development and design, but no specific tech innovation is named. N/A.
+
+8. The eighth question: investment in remodeling for traditional atmosphere. The article talks about restoring the coffeehouse atmosphere but doesn't mention the amount invested. N/A.
+
+9. The ninth question: average reduction in wait times at 3,000 stores. The article says staffing was increased there but doesn't give a percentage reduction. N/A.
+
+10. The tenth question asks the precise service target related to beverage delivery time. The article states the goal is four minutes or less. So answer "four minutes or less".
+
+11. Eleventh question: specific performance objective related to order fulfillment. The same as the four-minute target. So again, "four minutes or less".
+
+12. Twelfth question: monetary figure awarded to Niccol. The article says $96 million. So that's the answer.
+
+13. Thirteenth question: pricing policy discontinued affecting net income. The article mentions termination of charging more for non-dairy milks. So "charging more for non-dairy products".
+
+14. Fourteenth question: number of US stores with increased hours. The article says 3,000 stores. So 3,000.
+
+15. Fifteenth question: departing exec overseeing supply chain. The article mentions Arthur Valdez, head of supply chain, is leaving. So his name.
+
+16. Sixteenth question: amenity restricted to paying customers. The article says bathrooms restricted to paying customers. So "bathrooms".
+
+17. Seventeenth question: aspect of physical growth emphasized in regions like Texas. The article says expanding in those areas with "great economics", so the answer is "expanding stores" or "store expansion".
+
+18. Eighteenth question: operational metric the CEO is focusing on. The four-minute service time is the focus. So "four minutes or less".
+
+Now I need to check each question again to ensure I didn't miss anything.
+
+1. The first question specifically asks for a former Starbucks executive with over two decades. The only 25-year veteran was Belinda Wong, but she retired. The new hires are from outside. So no one from Starbucks with that experience is leading tech. So N/A.
+
+2. No numbers on China revenue from the four-minute service.
+
+3. No satisfaction percentages.
+
+4. No number on corporate cuts.
+
+5. No earnings target mentioned.
+
+6. No acquisition mentioned.
+
+7. No specific tech from Sandland.
+
+8. No investment figure.
+
+9. No average reduction in wait times given.
+
+10. Yes, four minutes.
+
+11. Same as 10.
+
+12. $96 million.
+
+13. Non-dairy pricing.
+
+14. 3,000 stores.
+
+15. Arthur Valdez.
+
+16. Bathrooms.
+
+17. Expanding stores in those regions.
+
+18. Four minutes.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Question asks for a former Starbucks executive with over two decades leading tech initiatives, but Meredith Sandland and Mike Grams are new hires from other companies. Belinda Wong retired but isn't tied to tech leadership.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>four minutes or less</answer>
+<question_number>11</question_number>
+<answer>four minutes or less</answer>
+<question_number>12</question_number>
+<answer>$96 million</answer>
+<question_number>13</question_number>
+<answer>charging more for nondairy products</answer>
+<question_number>14</question_number>
+<answer>3,000</answer>
+<question_number>15</question_number>
+<answer>Arthur Valdez</answer>
+<question_number>16</question_number>
+<answer>bathrooms</answer>
+<question_number>17</question_number>
+<answer>expanding stores</answer>
+<question_number>18</question_number>
+<answer>four minutes or less</answer>

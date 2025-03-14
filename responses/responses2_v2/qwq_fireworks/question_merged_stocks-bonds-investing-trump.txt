@@ -1,0 +1,76 @@
+merged_stocks-bonds-investing-trump.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information given in the article and follow the strict instructions. Let me go through each question carefully.
+
+1. The first question asks about the approximate annual percentage return for a diversified index fund over the past two calendar years including dividends. The article says, "annual returns for the S&P 500 of roughly 25 percent, including dividends, for each of the last two calendar years." So the answer should be 25%.
+
+2. The second question is about the fund that relied on a prominent chipmaker for AI. The article mentions "Nvidia, which makes chips for A.I., gained 171 percent." Also, the Semiconductor UltraSector ProFund had over half its assets in Nvidia. So the critical vulnerability is Nvidia.
+
+3. The third question contrasts the Fed's inflation outlook with bond market sentiment. The article states that rising yields are due to the bond market seeing "a strong possibility of sharply rising prices" while the Fed thinks inflation is going down. The economic risk here is inflation.
+
+4. The author emphasizes including fixed-income investments alongside U.S. stocks. The text says, "Hold diversified, fixed-income investments, too, as well as a broad range of international equities." So fixed-income is the answer.
+
+5. The average U.S. domestic stock fund's growth in the three-month period after Election Day. The article says, "the average U.S. domestic stock fund rose less than 1 percent" in the last three months of the year. But the surge was from Election Day through Nov. 11, so the three-month period mentioned here might be the quarter where they gained 2.3% (the S&P 500's gain). Wait, the question says "following a surge starting from Election Day" so the three-month period after that surge? Wait the article says "for the last three months of the year, the average U.S. domestic stock fund rose less than 1 percent". So the answer is less than 1%, but the question says "approximate growth percentage". The exact phrase is "rose less than 1 percent". Since it's approximate, maybe 1%? But the question says "approximate", so maybe the answer is "less than 1%" but the instructions say to use numbers. Hmm. The exact answer is "less than 1 percent". But the question asks for approximate percentage, so perhaps just 1%? Wait, but the article says "less than 1 percent" so maybe the answer is "less than 1%" but the format wants a number. The instructions say to answer with fragments, so "less than 1".
+
+Wait, the question is "what was the approximate growth percentage of the average U.S. domestic stock fund during the three-month period mentioned?" The article says "rose less than 1 percent". So approximate would be "less than 1%", but maybe the answer is just 1%? Or exactly "less than 1%". The instructions say to use the exact figures. Since it's stated as "less than 1 percent", maybe the answer is "less than 1". But the question says "approximate", so maybe just 1%? Wait, the exact answer is that it rose less than 1 percent, so the approximate is "less than 1%". But the answer needs to be in the box. The instructions say to answer with sentence fragments or words. So the answer is "less than 1%".
+
+But I need to check the exact wording again. The article says: "the average U.S. domestic stock fund rose less than 1 percent, according to Morningstar, the financial services company." So the answer is "less than 1 percent". The question asks for the approximate percentage, so the answer is "less than 1%".
+
+6. The company linked to military contracting and AI with over 300% return. The article mentions Palantir Technologies as a military contractor using AI, which had a return of 340.5%. So the answer is Palantir Technologies.
+
+7. Municipal bond funds' annual return. The article says "municipal bonds 2.7 percent" for the year. So 2.7%.
+
+8. The energy form the administration wants to eliminate. The article states "eliminate wind-powered electric generation". So wind-powered.
+
+9. The historical market phenomenon from early 2000s mentioned as a warning. The article refers to the dot-com bubble burst in 2000, leading to a crash. The specific phenomenon is the bubble burst in 2000, so the answer is the dot-com bubble burst or the 2000 crash. The article says "the market rose too high, forming a bubble that burst in March 2000". So the answer is the dot-com bubble burst.
+
+10. The company with Bitcoin strategy's return. MicroStrategy is mentioned as buying Bitcoin, with a 359% return. So 359%.
+
+Let me go through each again quickly to confirm.
+
+1. 25% - correct.
+
+2. Nvidia - yes.
+
+3. Inflation risk. The bond market's assessment is inflation risks, so the answer is inflation.
+
+4. Fixed-income.
+
+5. Less than 1%.
+
+6. Palantir.
+
+7. 2.7%.
+
+8. Wind-powered.
+
+9. The dot-com bubble burst (the article mentions the 2000 bubble and crash).
+
+10. 359%.
+
+Now, check if any questions have N/A. All answers seem present based on the text. Let me check each question again against the article.
+
+Question 5: The three-month period after Election Day through Nov. 11 had a surge, but the last three months of the year (which would be after that surge) had less than 1%. The question says "following a surge starting from Election Day, what was the approximate growth... during the three-month period mentioned?" The article says "for the last three months of the year, the average U.S. domestic stock fund rose less than 1 percent". The three-month period mentioned in the context is the last three months, so the answer is less than 1%.
+
+All others look okay. I think that's all.
+</think>
+
+<question_number>1</question_number>
+<answer>25%</answer>
+<question_number>2</question_number>
+<answer>Nvidia</answer>
+<question_number>3</question_number>
+<answer>Inflation</answer>
+<question_number>4</question_number>
+<answer>Fixed-income</answer>
+<question_number>5</question_number>
+<answer>less than 1%</answer>
+<question_number>6</question_number>
+<answer>Palantir Technologies</answer>
+<question_number>7</question_number>
+<answer>2.7%</answer>
+<question_number>8</question_number>
+<answer>wind-powered</answer>
+<question_number>9</question_number>
+<answer>dot-com bubble</answer>
+<question_number>10</question_number>
+<answer>359%</answer>

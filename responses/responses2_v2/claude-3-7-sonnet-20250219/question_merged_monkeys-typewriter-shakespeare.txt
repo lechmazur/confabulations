@@ -1,0 +1,35 @@
+merged_monkeys-typewriter-shakespeare.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>Borel's law (which states: "Events with a sufficiently small probability never occur")</answer>
+
+<question_number>3</question_number>
+<answer>Jay Falletta</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article only mentions the probability of typing the first word of Hamlet's soliloquy (1 in 900), not the complete first act.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article mentions Dawkins discusses typing monkeys in his book but doesn't specify what evolutionary algorithm he proposed as an alternative.</other>
+
+<question_number>11</question_number>
+<answer>Dawkins argues progress is possible if typing is "cumulative" or "iterative," while Woodcock's paper assumes non-cumulative typing without learning</answer>

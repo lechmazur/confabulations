@@ -1,0 +1,37 @@
+merged_car-insurance-rates-inflation.txt
+<question_number>1</question_number>
+<answer>40 percent or more reduction</answer>
+
+<question_number>2</question_number>
+<answer>Improving credit score</answer>
+
+<question_number>3</question_number>
+<answer>51 percent</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<other>Reasoning for answers:
+Q1: Article states increasing deductible to $1000 could save 40 percent or more
+Q2: Article shows credit score improvement can reduce premiums by 49 percent
+Q3: Article indicates drivers with fair credit pay 49 percent more than those with excellent credit
+Q4: Cannot calculate total maximum percentage reduction from available information
+Q5-Q10: Insufficient specific information to calculate precise premium differences</other>

@@ -1,0 +1,52 @@
+merged_dc-plane-helicopter-crash-cause.txt
+Okay, let's tackle these questions one by one based on the article provided. I need to make sure I only use the information given and avoid any external knowledge. Let's start with the first question.
+
+1. The first question asks for the call sign of the American Airlines flight that was rerouted to Runway 33. The article mentions that the flight was an American Airlines flight, but it doesn't provide the specific call sign or flight number. The text says they were rerouted from Runway 1 to Runway 33, but no flight number is given. So the answer here would be N/A.
+
+2. The second question is about the first officer's hours worked that day. The article states that the first officer had been with the airline for almost two years but doesn't mention their hours worked on that specific day. Since there's no info on their daily hours, the answer is N/A.
+
+3. The third question asks what aircraft the helicopter would have been flying behind if it followed Route 4. The article says the helicopter was instructed to follow Route 4 and fly behind a regional jet. So the answer should be regional jet.
+
+4. Robert Isom's assessment of the controller's performance isn't mentioned. The article quotes him saying the pilots were experienced, but nothing about his opinion on the controller's dual role or the runway reroute. So N/A here.
+
+5. The fifth question asks for the name of the supervisor who allowed the controller to leave. The article mentions a person briefed on the staffing but doesn't name the supervisor. So N/A.
+
+6. The tail number of the helicopter isn't provided anywhere in the text. The article refers to it as a Black Hawk, but no tail number given. N/A again.
+
+7. The seventh question is about measures FAA implemented before the crash to mitigate shortages. The article talks about chronic shortages and staffing issues but doesn't mention specific measures taken beforehand. So N/A.
+
+8. The final altitude before collision for the American Airlines jet isn't stated. The helicopter's altitude was mentioned as above 300 feet instead of below 200, but the jet's altitude isn't given. Answer N/A.
+
+9. The specific type of military aircraft frequently mentioned isn't listed. The article mentions military flights but doesn't name a specific type like fighter jets or others. N/A.
+
+10. The frequency used by the helicopter isn't specified in the text. The article mentions different frequencies for planes and helicopters but doesn't give exact numbers. N/A.
+
+11. The critical safety technology missing is likely something like TCAS (Traffic Collision Avoidance System) or ADS-B, but the article mentions "safety lapses" and "growing holes in the system" but doesn't name a specific tech. Wait, the article says "safety experts had been warning for years: Growing holes in the aviation system could lead to the kind of crash..." but doesn't specify the tech. Hmm, maybe "ADS-B" or another system? Wait, the article says "they have occurred amid rising congestion... a chronic shortage of air traffic controllers..." but the question is about a specific technology. Wait, the article might not mention it. Let me check again. The article says "safety experts had been warning for years: Growing holes in the aviation system..." but the answer might be "ADS-B" or "TCAS". Alternatively, the article might not mention it. Wait, the article says "the helicopter was supposed to be flying closer to the bank of the Potomac River and lower to the ground as it traversed the busy Reagan National airspace" but no specific tech. Since the question is about a technology or protocol cited by experts, maybe "ADS-B" (Automatic Dependent Surveillance-Broadcast) which improves tracking? The article doesn't explicitly name it, so maybe N/A? Wait, the article states "the country's aviation safety apparatus failed" but the exact tech isn't mentioned. Hmm. Since it's asking for a critical technology repeatedly cited by experts, perhaps the article mentions something. Wait, the article says "growing holes in the aviation system" but maybe the answer is "ADS-B" but since it's not in the text, it's N/A. Alternatively, maybe the article mentions "visual flight rules" being an issue? The article says "American Airlines pilots most likely did not see the helicopter" implying visual issues, but the required tech might be something like ADS-B. Since the article doesn't specify, I'll have to go with N/A here.
+
+12. The annual document cited in The Times' 2023 investigation is mentioned as "Air Traffic Controller Workforce Plan" which is an annual report to Congress. The article says "the most recent Air Traffic Controller Workforce Plan, an annual report to Congress that contains target and actual staffing levels." So the answer is Air Traffic Controller Workforce Plan.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>regional jet</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<question_number>12</question_number>
+<answer>Air Traffic Controller Workforce Plan</answer>

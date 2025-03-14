@@ -1,0 +1,31 @@
+merged_crowdstrike-microsoft-outage-software.txt
+<question_number>1</question_number>
+<answer>The article states that the "Blue Screen of Death" was the color of the error message background, which indicates the severity of the technological failure.</answer>
+
+<question_number>2</question_number>
+<answer>The article states that the global software outage was caused by "a routine upgrade that somehow went off the rails" from CrowdStrike.</answer>
+
+<question_number>3</question_number>
+<answer>The article states that George Kurtz initially "seemed to minimize the outage" and it was "hours later" that he apologized.</answer>
+
+<question_number>4</question_number>
+<answer>Matt Mitchell, a hacker and founder of CryptoHarlem, is the person who said CrowdStrike should have had a test machine to emulate some of their clients' old boxes.</answer>
+
+<question_number>5</question_number>
+<answer>Mikko Hypponen, a security expert and chief research officer at WithSecure, said that the traditional way to fix a balky computer - turning it off and then turning it on again - was still the only solution.</answer>
+
+<question_number>6</question_number>
+<answer>The article states that CrowdStrike's stock market valuation "was heading to $100 billion, at least before the outage caused some investors to jump ship".</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article does not mention the number of employees CrowdStrike has. It only states that CrowdStrike is "not some tiny start-up" and was founded in 2011, but does not provide the number of employees.</other>
+
+<question_number>8</question_number>
+<answer>Mikko Hypponen, a security expert and chief research officer at WithSecure, is the person who said CrowdStrike's failure was a result of a single point of failure.</answer>
+
+<question_number>9</question_number>
+<answer>Mikko Hypponen described CrowdStrike's customers' typical way of maintaining their fleet as "with centralized controls".</answer>
+
+<question_number>10</question_number>
+<answer>Brody Nisbet, an executive at CrowdStrike, suggested a possible workaround of "walk[ing] to every laptop, type on the keyboard, and reboot[ing] it manually".</answer>

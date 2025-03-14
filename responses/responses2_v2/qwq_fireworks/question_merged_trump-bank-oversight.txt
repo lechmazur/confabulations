@@ -1,0 +1,86 @@
+merged_trump-bank-oversight.txt
+Okay, let me go through each question one by one based on the article provided. I need to make sure I don't use any external knowledge, only the information in the text.
+
+1. The first question asks which Trump-appointed judge specifically authored the ruling that forced the Fed to reconsider its stress test disclosure policies. The article mentions that the Fed pointed to "the evolving legal landscape" as a reason for the change, but doesn't name any specific judge. So, I should answer N/A.
+
+2. The second question is about how many TV ads banking lobbyists ran featuring farmers and grocery shoppers. The article states that the bank lobby ran TV ads with those groups, but it doesn't specify a number. So N/A again.
+
+3. The third question asks for the percentage reduction in capital requirements calculated by the Bank Policy Institute. The text mentions that Jeremy Kress said the changes would "likely allow banks to reduce their capital cushions over time," but there's no specific percentage. Hence, N/A.
+
+4. The fourth question is about which international body raised concerns about Barr's Basel III rules. The article says the U.S. tried to make the Basel III endgame stricter than the international plan, but doesn't mention an international body objecting. So N/A.
+
+5. The fifth question asks the month in 2023 when Silicon Valley Bank met with the Fed. The article mentions their implosion but not any specific meeting dates. N/A.
+
+6. The sixth question is about the total dollar amount of capital required under Barr's proposal. The article doesn't give a figure here, just that it was stricter. N/A.
+
+7. The seventh question asks who first proposed averaging stress test results. The Fed's announcement mentioned considering averaging, but the article doesn't name an individual who first proposed it. So N/A.
+
+8. The eighth question is the number of meetings between lobbyists and Fed officials. The text doesn't mention a specific number. N/A.
+
+9. The ninth question asks the deadline set by the Fed for the new stress test changes. The article says the Fed announced on Dec 23 they would make changes but doesn't state a specific deadline. N/A.
+
+10. The tenth question is which major international bank supported Barr's resignation. The article says big banks like JPMorgan and Goldman Sachs are part of the Bank Policy Institute, which sued the Fed, but there's no mention of them supporting his resignation. N/A.
+
+11. The eleventh question is about the Fed official who stepped down to avoid a legal dispute. The article clearly states Michael S. Barr resigned to avoid a legal fight with Trump's team. So answer is Michael S. Barr.
+
+12. The twelfth question asks the day and time the Fed announced stress test changes. The article says on Dec 23 at 4 p.m. Fed announced the changes. So that's the answer.
+
+13. The thirteenth question is the title of the regulatory blueprint for post-2008 reforms. The article refers to "Basel III endgame" as the proposal. So that's the answer.
+
+14. The fourteenth question is about a Fed panel member implicated in transparency debates. The article mentions Michelle Bowman as a possible replacement, but not directly linked to transparency. The text might refer to someone else, but I don't see a name here. N/A.
+
+15. The fifteenth question is the reporter mentioned. The end of the article says Jeanna Smialek covers the Fed and economy. So answer is Jeanna Smialek.
+
+16. The sixteenth question is the legal encounter that caused an official's departure. The article says Barr stepped down to avoid a legal fight over demotion. So the legal dispute with Trump's team.
+
+17. The seventeenth question is the financial crisis referenced as the catalyst. The article mentions the 2008 financial crisis. So 2008 financial crisis.
+
+18. The eighteenth question is the advocacy group that sued. The plaintiffs include the Bank Policy Institute, American Bankers Association, and Chamber of Commerce. The question specifies the one representing JPMorgan and Goldman Sachs, which is the Bank Policy Institute.
+
+19. The nineteenth question is the former Fed governor who pioneered stress tests. The article mentions Daniel K. Tarullo as the one who helped pioneer stress tests. So Daniel K. Tarullo.
+
+20. The twentieth question is the University of Pennsylvania expert. The text mentions Christina Parajon Skinner as a potential candidate. So her name is the answer.
+
+Now, I'll structure each answer with the required tags, ensuring no markdown and only the specified tags. For any questions not directly answered in the article, I'll put N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>Michael S. Barr</answer>
+<question_number>12</question_number>
+<answer>December 23 at 4 p.m.</answer>
+<question_number>13</question_number>
+<answer>Basel III endgame</answer>
+<question_number>14</question_number>
+<answer>N/A</answer>
+<question_number>15</question_number>
+<answer>Jeanna Smialek</answer>
+<question_number>16</question_number>
+<answer>Legal fight with Trump’s team over his demotion</answer>
+<question_number>17</question_number>
+<answer>2008 financial crisis</answer>
+<question_number>18</question_number>
+<answer>Bank Policy Institute</answer>
+<question_number>19</question_number>
+<answer>Daniel K. Tarullo</answer>
+<question_number>20</question_number>
+<answer>Christina Parajon Skinner</answer>

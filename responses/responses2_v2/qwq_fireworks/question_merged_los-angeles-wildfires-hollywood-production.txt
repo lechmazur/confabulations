@@ -1,0 +1,68 @@
+merged_los-angeles-wildfires-hollywood-production.txt
+Okay, I need to answer these questions based only on the provided article. Let me go through each question one by one, making sure to check the text for exact information.
+
+1. The question is asking what percentage of the $750 million proposed by Newsom goes to reality TV. The article mentions that reality TV has seen a steep decline, but nowhere does it specify that the $750 million is allocated to reality TV or any specific percentage for it. So the answer should be N/A.
+
+2. The question asks how many members of the International Alliance signed the #StayinLA petition. The article states that thousands signed the petition, but it doesn't give an exact number. So N/A.
+
+3. The question is about the Hulu documentary Gabriel Patay worked on. The text says he finished a documentary for Hulu. The name given is "Remarkably Bright Creatures," but wait, that's the Netflix movie mentioned earlier. Wait, let me check again. The article mentions Olivia Newman's film "Remarkably Bright Creatures" with Netflix. For Gabriel Patay, it just says "a documentary for Hulu," but no title is provided. So the answer is N/A.
+
+4. Marco Cordero lost pets in the fire? The article says John and Marta lost their pet chickens. Marco Cordero is mentioned as a director of photography but no pets are mentioned for him. So N/A.
+
+5. Adrienne McDonnell's neighborhood was Sunset Mesa in Malibu. The article mentions Kamala Harris toured Pacific Palisades, not Sunset Mesa. So the answer is Sunset Mesa. But the question says "also toured by Kamala"—no, Kamala was in Pacific Palisades. So the answer is Sunset Mesa, but the question's second part is incorrect. Since the question asks the name of the neighborhood where she lost her house, it's Sunset Mesa. The part about Kamala is a distractor. So answer is Sunset Mesa.
+
+6. The survey by NYT mentioned 38 states, but the question asks how many besides California were named. The article mentions Georgia and New Mexico by name. So that's two states. Answer is 2.
+
+7. The economic contribution is over $115 billion annually. The question says to combine with production losses, but the figure given is $115 billion. So the answer is 115.
+
+8. The drop in location shooting days since 2016's peak is 40%, as stated. So 40%.
+
+9. When the fires broke out, only two major studio movies were affected because only two were shooting. Answer is 2.
+
+10. The cinematographer who called his land "a worthless strip..." is John W. Rutland, age 44. So 44.
+
+11. Pre-strike share was 35%, post was 27%. The difference is 8 percentage points. So 8.
+
+12. The proposal is to increase from $330M to $750M. The increase is 750-330=420. So 420.
+
+13. Luminate study says TV series down 23% since 2022. So 23%.
+
+14. The union reported 8,100 members in evacuation zones. So 8100.
+
+15. Gabriel Patay and his wife spent nine years restoring their home. Answer is 9.
+
+16. The union stated at least 300 members lost homes. So 300.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>Sunset Mesa</answer>
+<question_number>6</question_number>
+<answer>2</answer>
+<question_number>7</question_number>
+<answer>115</answer>
+<question_number>8</question_number>
+<answer>40</answer>
+<question_number>9</question_number>
+<answer>2</answer>
+<question_number>10</question_number>
+<answer>44</answer>
+<question_number>11</question_number>
+<answer>8</answer>
+<question_number>12</question_number>
+<answer>420</answer>
+<question_number>13</question_number>
+<answer>23</answer>
+<question_number>14</question_number>
+<answer>8100</answer>
+<question_number>15</question_number>
+<answer>9</answer>
+<question_number>16</question_number>
+<answer>300</answer>

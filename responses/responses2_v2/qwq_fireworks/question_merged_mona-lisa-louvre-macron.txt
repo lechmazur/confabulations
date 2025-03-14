@@ -1,0 +1,84 @@
+merged_mona-lisa-louvre-macron.txt
+Okay, let's tackle these questions one by one using the article provided. I need to be careful to only use the information given and not make any assumptions beyond what's written.
+
+1. **Question 1:** The architectural feature commissioned by François Mitterrand mentioned in the article is the glass pyramid. The text says the pyramid was commissioned in the 1980s by Mitterrand and is now outdated with overheating and noise issues. So the answer is the glass pyramid.
+
+2. **Question 2:** The article states that the Louvre's annual budget is nearly $300 million, with most coming from its own resources like ticket sales and brand licensing. However, the exact percentage from brand licensing isn't specified. The text mentions that about a third is from the state, so the rest (two-thirds) are from other sources, but brand licensing specifically isn't broken down. So this is N/A.
+
+3. **Question 3:** The labor union Sud-Solidaires criticized the new entrance, but the question mentions Venus de Milo. Wait, the union's statement was about the entrance not solving problems, but the Venus isn't specifically mentioned. The article says the union criticized the entrance but doesn't link it to the Venus. So maybe N/A? Wait, the question asks which union argued the new entrance fails to resolve overcrowding near Venus de Milo. The article says the union said it wouldn't solve problems but didn't mention Venus specifically. So the answer is N/A.
+
+4. **Question 4:** Macron aims to double student visitors to 900,000 per year. The current is half that, so the additional is 450,000? Wait, the question asks how many additional. The article says the goal is to double to 900k, so the increase is 450,000. But the answer should be 900,000? Wait the question says "additional student visitors"—the current number isn't given. The article says "doubling the number of student visitors to 900,000 per year." So the target is 900k, which is the total, not the increase. But the question is about how many additional. Since the article doesn't state the current number, this can't be determined. Wait, maybe the question is asking the new total? The question says "aim to attract by emphasizing art education"—the answer is 900,000.
+
+5. **Question 5:** The article says the Louvre was a former palace until 1682 when French kings lived there. The last monarch there would be before 1682. Louis XIV moved the court to Versailles in 1682, so the last king was Louis XIV before that. Wait, actually, Louis XIV was the king then. The article says "until 1682," so the last was Louis XIV.
+
+6. **Question 6:** Laurence des Cars' memo mentioned water leaks, temperature variations, etc. The question is about structural integrity of Cour Carrée. The Cour Carrée is the eastern courtyard where the new entrance is. The memo's issues include water leaks, but the structural issue for Cour Carrée isn't specified. The article says the glass pyramid is outdated, but Cour Carrée's problem? The text says "everywhere the building is suffering" but not specifically Cour Carrée's structural issue. So N/A.
+
+7. **Question 7:** The article states increased fees for non-EU visitors starting 2026. So the answer is visitors from outside the European Union.
+
+8. **Question 8:** The total cost isn't disclosed. The article says the new entrance is paid by the museum's funds but no overall cost. So N/A.
+
+9. **Question 9:** The Mona Lisa is moving to a new space connected to the Seine entrance. The article mentions the new entrance near Seine and the Mona Lisa's new room under Cour Carrée. So Mona Lisa.
+
+10. **Question 10:** The glass pyramid was part of the 1980s overhaul. The article says "1980s" but doesn't give the exact year. So the question asks for the year, but only the decade is given. Since exact year isn't provided, answer N/A.
+
+11. **Question 11:** The president announced moving the Mona Lisa, which is the 16th-century artwork mentioned (Leonardo's masterpiece). So Mona Lisa.
+
+12. **Question 12:** The budget is $300M, with a third from the state, so two-thirds from own resources. The question asks the fraction from own resources instead of state. Two-thirds is 2/3, so 2/3 or approximately 66.6%. The answer should be in fraction. The article says "most of which comes from its own resources... with about a third funded by the French state." So the fraction is 2/3 (since 1 - 1/3 = 2/3). The answer is 2/3.
+
+13. **Question 13:** The new entrance is expected by 2031 at latest. The article says "expected to be finished by 2031 at the latest."
+
+14. **Question 14:** The pricing change is higher fees for non-EU visitors starting 2026.
+
+15. **Question 15:** Critics said the new entrance wouldn't solve problems. The question is which initiative they opposed. The union said the entrance project was a "mammoth project" that wouldn't help. So the new entrance is the initiative they criticized.
+
+16. **Question 16:** The glass pyramid is cited as overheating and noisy. The article mentions "the glass pyramid was structurally outdated -- overheated during the summer, and too noisy year-round."
+
+17. **Question 17:** The target is 12 million visitors per year.
+
+18. **Question 18:** The target for students is 900,000 annually.
+
+19. **Question 19:** The current main entrance is the Louvre Pyramid, which handles 30k daily. The new eastern entrance near Seine aims to reduce congestion there. So the existing entrance is the Louvre Pyramid (glass pyramid).
+
+20. **Question 20:** François Mitterrand is the former president who commissioned the glass pyramid, contrasting with Macron's current plans.
+</think>
+
+<question_number>1</question_number>
+<answer>glass pyramid</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>900,000</answer>
+<question_number>5</question_number>
+<answer>Louis XIV</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>visitors from outside the European Union</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>Mona Lisa</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>Mona Lisa</answer>
+<question_number>12</question_number>
+<answer>2/3</answer>
+<question_number>13</question_number>
+<answer>2031</answer>
+<question_number>14</question_number>
+<answer>increasing ticket prices for visitors from non-European Union countries</answer>
+<question_number>15</question_number>
+<answer>new entrance</answer>
+<question_number>16</question_number>
+<answer>glass pyramid</answer>
+<question_number>17</question_number>
+<answer>12 million</answer>
+<question_number>18</question_number>
+<answer>900,000</answer>
+<question_number>19</question_number>
+<answer>Louvre Pyramid</answer>
+<question_number>20</question_number>
+<answer>François Mitterrand</answer>

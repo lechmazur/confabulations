@@ -1,0 +1,80 @@
+merged_new-york-times-q4-2024-earnings.txt
+<question_number>1</question_number>
+<other>I need to calculate what percentage of the $165.1 million total advertising revenue was print advertising before the decline. The article states digital advertising revenue was up 9.5% and print advertising revenue was down 16.4%, but doesn't give the exact breakdown of digital vs print advertising revenue. Without knowing the actual amounts or percentages, I cannot calculate this.</other>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<other>The adjusted operating profit for the fourth quarter was $170.5 million, which was a 10.7% increase from the previous year. If similar growth is expected, I would multiply $170.5 million by 1.107 to get the projected amount.</other>
+<answer>$188.74 million</answer>
+
+<question_number>3</question_number>
+<other>The company's cash and marketable securities increased from $709.2 million to $911.9 million, which is an increase of $202.7 million. They added 350,000 digital-only subscribers in the last quarter. So the increase per new subscriber would be $202.7 million ÷ 350,000 = $579.14 per subscriber. However, this calculation assumes all the increase in cash is attributable to these new subscribers, which isn't necessarily true.</other>
+<answer>$579.14</answer>
+
+<question_number>4</question_number>
+<other>The article mentions that print subscribers declined from 660,000 to 610,000 (a loss of 50,000), but it doesn't mention any loss of digital subscribers. In fact, it states they added 1.1 million net digital-only subscribers in 2024. Since we don't know if there were any digital subscribers lost (only the net gain is provided), we cannot determine the total number of subscribers lost across both platforms.</other>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<other>The article mentions that the quarterly dividend increased from 13 cents to 18 cents per share, and that the board approved a new $350 million class A share repurchase program. However, we don't know how many shares are outstanding, so we can't calculate what the total dividend payout would be.</other>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<other>The total revenue for Q4 2024 was $726.6 million. The total subscriber count is mentioned as "more than 11.4 million" (which includes 610,000 print subscribers and the rest digital). To calculate average revenue per subscriber, I would divide $726.6 million by the number of subscribers. However, this assumes all revenue comes from subscribers, which isn't necessarily true as the company has advertising and other revenue streams.</other>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<other>The article mentions that print subscribers at the end of 2022 were 730,000. However, it doesn't provide any specific subscriber counts for Wirecutter and The Athletic at the end of 2024, so I cannot make this comparison.</other>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<other>The article states the company expects digital-only subscription revenue to increase up to 17% and digital advertising revenue to rise in the high single digits. However, without knowing what percentage of total revenue these components represent, I cannot calculate the projected increase in total revenue.</other>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<other>Operating costs for Q4 were $580 million and adjusted operating profit was $170.5 million. The total of these is $750.5 million. Total revenue was $726.6 million. So the percentage would be ($750.5 million ÷ $726.6 million) × 100%. However, this exceeds 100%, which suggests there may be some overlap or accounting differences between these figures that aren't explained in the article.</other>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<other>Print subscribers declined from 660,000 at the end of 2023 to 610,000 at the end of 2024, which is a decline of 50,000 or about 7.58%. If this rate continues, then by the end of 2025, there would be 610,000 × (1 - 0.0758) = 563,762 subscribers, and by the end of 2026, there would be 563,762 × (1 - 0.0758) = 521,008 subscribers.</other>
+<answer>521,008</answer>
+
+<question_number>11</question_number>
+<other>The article states that adjusted operating profit for the fourth quarter increased 10.7% from a year earlier, and adjusted operating profit for the full year was up 16.8% from 2023. The question asks for the percentage increase reported for the full-year adjusted operating profit.</other>
+<answer>16.8%</answer>
+
+<question_number>12</question_number>
+<other>The article explicitly states: "The Times added more than 1.1 million net digital-only subscribers in 2024"</other>
+<answer>1.1 million</answer>
+
+<question_number>13</question_number>
+<other>The article states: "The Times said it had spent $10.8 million in 2024 on litigation costs relating to a copyright infringement lawsuit it filed in December 2023 against OpenAI and Microsoft."</other>
+<answer>$10.8 million</answer>
+
+<question_number>14</question_number>
+<other>The article explicitly states: "Total advertising revenue in the quarter was largely flat at $165.1 million"</other>
+<answer>$165.1 million</answer>
+
+<question_number>15</question_number>
+<other>The article states that print subscribers fell to 610,000 at the end of 2024, down from 660,000 at the end of 2023. The decline is 660,000 - 610,000 = 50,000.</other>
+<answer>50,000</answer>
+
+<question_number>16</question_number>
+<other>The article states: "The company had $911.9 million in cash and marketable securities at the end of 2024"</other>
+<answer>$911.9 million</answer>
+
+<question_number>17</question_number>
+<other>The article states: "The Times said on Wednesday that its board had approved a new $350 million class A share repurchase program."</other>
+<answer>$350 million class A share repurchase program</answer>
+
+<question_number>18</question_number>
+<other>The article states: "Subscription revenue grew 8.4 percent to $466.6 million in the fourth quarter, driven by an increase from digital-only products."</other>
+<answer>digital-only products</answer>
+
+<question_number>19</question_number>
+<other>The article states that the company added 350,000 digital-only subscribers in the last quarter, pushing the total subscriber count to more than 11.4 million. However, this 11.4 million includes both digital and print subscribers. The article mentions 610,000 print subscribers at the end of 2024, so digital-only subscribers would be approximately 11.4 million - 610,000 = 10.79 million.</other>
+<answer>10.79 million</answer>
+
+<question_number>20</question_number>
+<other>The article explicitly states: "Operating costs grew 6 percent to $580 million for the quarter."</other>
+<answer>6 percent</answer>

@@ -1,0 +1,31 @@
+merged_abortion-pills-pharmacist-prescribe.txt
+<question_number>1</question_number>
+<answer>4</answer>
+<other>43 patients / 10 pharmacists = 4.3, rounded to 4.</other>
+<question_number>2</question_number>
+<answer>requiring that only doctors prescribe mifepristone</answer>
+<other>The article explicitly states this.</other>
+<question_number>3</question_number>
+<answer>Dr. Ingrid Skop, vice president and director of medical affairs at the Charlotte Lozier Institute</answer>
+<other>Directly stated in the article.</other>
+<question_number>4</question_number>
+<answer>follow-up calls asking about bleeding and fever</answer>
+<other>The article details these specific questions.</other>
+<question_number>5</question_number>
+<answer>Comstock Act</answer>
+<other>The article specifically names this act.</other>
+<question_number>6</question_number>
+<answer>birth control and morning-after pills</answer>
+<other>The article provides this example.</other>
+<question_number>7</question_number>
+<answer>10</answer>
+<other>The article states "up to 10 weeks pregnant."</other>
+<question_number>8</question_number>
+<answer>$40</answer>
+<other>The article explicitly states this fee.</other>
+<question_number>9</question_number>
+<answer>professor emeritus of pharmacy</answer>
+<other>The article identifies Don Downing with this title.</other>
+<question_number>10</question_number>
+<answer>American Pharmacists Association</answer>
+<other>Michael Hogue is identified as the chief executive of this organization.</other>

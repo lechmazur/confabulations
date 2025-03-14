@@ -1,0 +1,13 @@
+merged_2025-cruise-vacations.txt
+<question_number>1</question_number>
+<answer>Royal Caribbean</answer>
+<other>The article mentions Royal Caribbean is developing a private beach club in Nassau, Bahamas.  It also says that Royal Caribbean's Star of the Seas will launch from Port Canaveral, Florida. The question connects the beach club with the "sister ship of the world's largest cruise vessel".  The article states that Star of the Seas is the sister ship of Icon of the Seas (the world's largest).  Since the question asks which cruise line is doing both, the answer is Royal Caribbean.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions Carnival Corporation is developing a private beach in the Celebration Key area on Grand Bahama.  It also mentions a 1095-day voyage, but doesn't specify where it was supposed to make port calls. Therefore, it's impossible to determine if the locations are the same.</other>
+<question_number>3</question_number>
+<answer>MSC World America</answer>
+<other>The article states that MSC World America will have water slides, a ropes course, bumper cars, and a roller rink (water/ground entertainment). It also mentions a "strong European influence" for this ship.</other>
+<question_number>4</question_number>
+<answer>Star of the Seas</answer>
+<other>The article says Star of the Seas shares many features with Icon of the Seas. It also states that Star of the Seas launches from Port Canaveral, Florida, and that Royal Caribbean is developing a private beach in Florida. Thus, both are in Florida.</other>

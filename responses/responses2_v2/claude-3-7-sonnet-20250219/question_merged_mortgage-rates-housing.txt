@@ -1,0 +1,40 @@
+merged_mortgage-rates-housing.txt
+<question_number>1</question_number>
+<answer>0.43 percentage points</answer>
+<other>The article states that Greg McBride "expects mortgage rates to end 2025 around 6.5 percent" and the current rate is 6.93%. So the decrease would be 6.93% - 6.5% = 0.43 percentage points.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions the services sector expanded in December and that the 10-year yield briefly rose above 4.7% on Wednesday, hitting its highest level since April. However, it doesn't attribute this analysis to the Columbia University professor (Stijn Van Nieuwerburgh), nor does it specify which month saw the peak in the 10-year Treasury yield.</other>
+
+<question_number>3</question_number>
+<answer>3 percent</answer>
+<other>The article states: "Many homeowners have felt trapped by the low rates they secured early in the pandemic, when the average 30-year rate was around 3 percent"</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article doesn't provide enough information to calculate the pace of increase between late September and the current Freddie Mac report, so we can't project what the rate would be by the end of the next quarter.</other>
+
+<question_number>5</question_number>
+<answer>4.7 percent</answer>
+<other>The article states: "On Wednesday, the 10-yield briefly rose above 4.7 percent, hitting its highest level since April." This is mentioned in the context of factors including "data showing the U.S. services sector expanded in December."</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article mentions a "monthslong decline" in mortgage rates before late September, but doesn't specify what the lowest rate was during that period.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>While the article mentions that economists said Trump's tariff plans "would be inflationary," it doesn't specify any percentage points for this inflationary impact.</other>
+
+<question_number>8</question_number>
+<answer>8 percent</answer>
+<other>The article states: "The housing market has been stuck for years, with mortgage rates rising rapidly in 2022 and 2023, peaking close to 8 percent."</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any projection from the Columbia University professor (Stijn Van Nieuwerburgh) about the 30-year mortgage rate by the end of 2025. The only projection mentioned is from Greg McBride of Bankrate.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article doesn't provide information about how the mortgage rate projection would change if the Fed made three rate reductions instead of two.</other>

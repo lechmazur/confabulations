@@ -1,0 +1,30 @@
+merged_ai-data-restrictions.txt
+<question_number>1</question_number>
+<answer>Smaller A.I. companies and academic researchers might face challenges because widespread data restrictions limit access to high-quality data, and they cannot afford to license data directly from publishers.</answer>
+
+<question_number>2</question_number>
+<answer>Major tech companies already have extensive data, so changing data licenses primarily impacts smaller start-ups and researchers rather than the established companies.</answer>
+
+<question_number>3</question_number>
+<answer>Many researchers doubt that today's A.I. systems can generate enough high-quality synthetic data to replace the human-created data they are losing.</answer>
+
+<question_number>4</question_number>
+<answer>If A.I. companies continue to exploit web data without giving value in return, website owners may increasingly restrict access, limiting future data availability.</answer>
+
+<question_number>5</question_number>
+<answer>Major tech companies already possess large amounts of data, while smaller A.I. companies and researchers rely on public datasets, making them more vulnerable to data restrictions.</answer>
+
+<question_number>6</question_number>
+<answer>Since major tech companies already have the data, changing licenses does not affect their past access, but it restricts future access for smaller players and researchers.</answer>
+
+<question_number>7</question_number>
+<answer>Later-arriving actors, such as smaller start-ups and researchers, are disproportionately affected by data restrictions because major tech companies already possess extensive datasets.</answer>
+
+<question_number>8</question_number>
+<answer>The restrictions may force A.I. companies to reconsider their approach to data collection and potentially negotiate fairer agreements with data creators.</answer>
+
+<question_number>9</question_number>
+<answer>55%</answer>
+
+<question_number>10</question_number>
+<answer>75%</answer>

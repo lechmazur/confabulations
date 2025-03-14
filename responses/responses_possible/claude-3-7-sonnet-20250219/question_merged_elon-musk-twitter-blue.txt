@@ -1,0 +1,40 @@
+merged_elon-musk-twitter-blue.txt
+<question_number>1</question_number>
+<answer>Walter Isaacson</answer>
+<other>Isaacson suggested "a really low price point" because "this is something that everyone is going to sign up for," which aligns with Musk's eventual $8/month decision, compared to Sacks' $20 suggestion and Calacanis' $99/year proposal.</other>
+
+<question_number>2</question_number>
+<answer>The U.S. midterm elections</answer>
+<other>The article states that the launch was moved to November 9, the day after the election, after Crawford warned Musk about potential election interference.</other>
+
+<question_number>3</question_number>
+<answer>Both decisions were driven by fear of financial loss</answer>
+<other>Musk initially agreed to wait on implementing certain Twitter Blue features due to election concerns that could damage Twitter's reputation, and later reacted strongly to advertiser threats because he feared "losing hundreds of millions of dollars in revenue in a snap."</other>
+
+<question_number>4</question_number>
+<answer>Both involved impersonation issues that could cause harm</answer>
+<other>La Russa sued over a parody account making jokes about serious team incidents including a player's death, while employees warned Musk that verification-buying accounts could lead to harassment campaigns or even someone dying.</other>
+
+<question_number>5</question_number>
+<answer>He kept it quiet to avoid system overload, but the chaos from fake accounts created a different kind of system breakdown</answer>
+<other>Musk decided to keep the launch quiet because he was "worried that a press announcement would lead to an overload of Twitter's systems," but the quiet launch led to widespread impersonation and confusion that ultimately forced them to shut down the service.</other>
+
+<question_number>6</question_number>
+<answer>The democratization of verification</answer>
+<other>Musk wanted to sell verification badges as "the ultimate democratization of the site," and ironically, the chaos of impersonation accounts did make verification meaningless for everyone, effectively eliminating the "lords & peasants system" he complained about.</other>
+
+<question_number>7</question_number>
+<answer>He hated the "two-tiered class system" but the result was a "hodgepodge of paid, free and fake identifiers signifying little more than confusion"</answer>
+<other>Musk wanted to eliminate what he saw as a class system between verified and unverified users, but the result was even more confusion about what verification actually meant.</other>
+
+<question_number>8</question_number>
+<answer>Musk defined a serious incident as "death or serious injury" but dismissed employee warnings that "somebody could die" from verification abuse</answer>
+<other>When asked what would constitute a serious incident requiring action, Musk mentioned death or serious injury, yet earlier he had dismissed employee Christian Dowell's warning that verification abuse could lead to someone dying.</other>
+
+<question_number>9</question_number>
+<answer>His panic over losing advertising revenue contradicted his goal of making Twitter less dependent on ads</answer>
+<other>Musk's plan for Blue was to "wean the company off its dependence on advertising," yet when advertisers threatened to pull out, he immediately panicked and shut down the service, revealing his continued dependence on ad revenue.</other>
+
+<question_number>10</question_number>
+<answer>The "obvious train wreck" prediction came true</answer>
+<other>A Blue worker wrote in their journal that "It was such an obvious train wreck, that the main job of everyone on the team was to make sure it was the safest train wreck possible," which is exactly what happened when the service launched and had to be quickly shut down due to widespread impersonation.</other>

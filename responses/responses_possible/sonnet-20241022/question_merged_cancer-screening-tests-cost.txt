@@ -1,0 +1,32 @@
+merged_cancer-screening-tests-cost.txt
+<question_number>1</question_number>
+<answer>Improved treatment for colon cancer, changing diets, and exposures to other factors like medications</answer>
+
+<question_number>2</question_number>
+<answer>Studies repeatedly failed to show that people live longer if they are screened</answer>
+
+<question_number>3</question_number>
+<answer>The increase in screening did not accelerate the decline in death rates</answer>
+
+<question_number>4</question_number>
+<answer>The effects of screening on mortality are so small that huge clinical trials are needed to detect them</answer>
+
+<question_number>5</question_number>
+<answer>The absolute risk only fell from 3% to 2%, representing just one percentage point, with no change in overall mortality rate</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>While improved treatment is mentioned, the article doesn't specifically discuss how this affects the perceived value of screening</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article only mentions changing diets as a speculative factor but doesn't explain how it might influence death rates</other>
+
+<question_number>8</question_number>
+<answer>Screening barely lowers the death rate from the cancer being screened because some cancers are deadly from the start, and detecting them may not help</answer>
+
+<question_number>9</question_number>
+<answer>While cancer death rates have been plummeting, experts debate the reasons, and it's considered a mistake to attribute this solely or mostly to screening</answer>
+
+<question_number>10</question_number>
+<answer>The article mentions improved treatment, changing diets, and exposure to other factors like medications as possible alternative explanations</answer>

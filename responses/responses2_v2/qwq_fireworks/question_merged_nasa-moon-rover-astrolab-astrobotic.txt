@@ -1,0 +1,64 @@
+merged_nasa-moon-rover-astrolab-astrobotic.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the article provided and follow the instructions strictly. Let's start with question 1.
+
+1. The question asks how many millions NASA saved by using a dummy instead of VIPER. The article mentions that canceling VIPER saved $84 million. The answer should be 84. 
+
+2. The second question is about which rover manufacturer collaborated with Blue Origin on dust mitigation. The article talks about Astrolab's FLIP rover testing dust mitigation, but doesn't mention Blue Origin. So N/A.
+
+3. The primary reason for dismantling VIPER? The article says NASA decided to cancel the mission, not because of technical issues but to save money. The reason given was to save funds. But the question is about the reason for dismantling. Wait, the article says NASA would disassemble VIPER, but the primary reason cited by officials was to save money. So answer is to save $84 million. Wait, the exact reason given by NASA? The article says "NASA officials said that instead, the finished rover would be disassembled. In addition, they said NASA would still pay $323 million to Astrobotic. Thus, canceling the mission would save NASA a relatively paltry amount -- $84 million". So the reason for dismantling is the cancellation, and the reason for cancellation? The article doesn't state a technical reason, just that NASA canceled it. The primary reason cited for dismantling is the mission cancellation. But the question asks for the reason to dismantle instead of proceeding. The article says NASA canceled the mission, so the primary reason would be the mission cancellation. But the question says "primary technical reason cited". Hmm. Wait, the article says VIPER was over budget and behind schedule but completed. So maybe the reason for dismantling isn't a technical issue. The question might be a trick. Since the reason given by NASA was to save money, not a technical problem, so the answer is N/A because there's no technical reason mentioned for dismantling. The dismantling is due to cancellation, which was a budget decision, not a technical issue. So answer N/A.
+
+4. When did Astrolab partner with SpaceX for FLEX? The article says Astrolab booked FLEX on a future Starship flight. But the article doesn't mention when the partnership was announced. So N/A.
+
+5. Modifications to Griffin's interfaces for FLIP? The article says Astrolab's rover matches the interfaces already. So no modifications needed. Answer: None. But the question is about modifications made. Since it says the payload matched existing interfaces, Astrobotic didn't need to modify. So answer N/A, or "none". The question asks what modifications were made. Since they didn't need to, answer is N/A? Or maybe "none". The article says "payload that matched the interfaces already for the lander", so no changes. So answer: None. Wait, the question is phrased as "modifications did Astrobotic make". Since they didn't have to make any, the answer would be "none". But the instructions say to use sentence fragments. So "none".
+
+6. How many successful missions had Astrolab completed before Griffin? The article says Astrolab is a small startup and this is their first announced mission. So zero. Answer: 0.
+
+7. Which international agency bought VIPER parts? The article mentions proposals to continue VIPER without NASA funding, but doesn't name any agency. So N/A.
+
+8. Original launch date for VIPER? The article doesn't specify the original date, only that it was canceled in July last year and Astrobotic's mission is later this year. No exact date given. So N/A.
+
+9. How much did Astrolab pay NASA for VIPER data? The article doesn't mention Astrolab paying NASA for data. So N/A.
+
+10. Lead engineer for adapting Griffin? The article doesn't name any engineer responsible. N/A.
+
+11. Which company's rover will test dust mitigation with commercial payloads? Astrolab's FLIP is doing that. The answer is Astrolab.
+
+12. The larger rover after FLIP? The article mentions FLEX as the larger one. Answer: FLEX.
+
+13. Which mission's failure in Jan 2023 led to Astrolab's opportunity? The article says Astrobotic's first mission failed in January last year (2023), leading to the open spot. So answer: Astrobotic's first lunar mission.
+
+14. Primary reason for disassembling VIPER? The article says NASA canceled the mission to save money. The reason given was saving $84M. So answer: To save $84 million.
+
+15. Which political shift mentioned affecting focus? The article mentions the new Trump administration interested in Mars over the moon. So answer: The Trump administration.
+</think>
+
+<question_number>1</question_number>
+<answer>84</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>None</answer>
+<question_number>6</question_number>
+<answer>0</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>Astrolab</answer>
+<question_number>12</question_number>
+<answer>FLEX</answer>
+<question_number>13</question_number>
+<answer>Astrobotic's first lunar mission</answer>
+<question_number>14</question_number>
+<answer>To save $84 million</answer>
+<question_number>15</question_number>
+<answer>The Trump administration</answer>

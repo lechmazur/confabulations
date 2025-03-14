@@ -1,0 +1,76 @@
+merged_south-carolina-nuclear-power-data-centers.txt
+Alright, let's tackle these questions one by one using the provided article. I need to be careful to only use the information given and not infer anything beyond what's written. Let's start with the first question.
+
+1. **Question 1**: The first question asks about the percentage of the mothballed reactors' construction completed under Dominion Energy's management. The article mentions that the two incomplete reactors were owned by Santee Cooper, while Dominion Energy runs the existing reactor built in 1982. Since Dominion didn't manage the construction of the mothballed reactors, the answer should be N/A because the article doesn't state any construction under their management.
+
+2. **Question 2**: The article states that the project stalled due to improvements in energy efficiency and a hydraulic fracturing boom that provided cheap natural gas. The CEO's statement mentions natural gas as a competing source. So the answer is natural gas.
+
+3. **Question 3**: The text lists Microsoft, Amazon, and Alphabet as tech giants supporting nuclear reactors. However, it doesn't mention any of them purchasing a completed facility. The question specifies a company that "purchased a completed nuclear facility," which isn't stated, so N/A.
+
+4. **Question 4**: The project was proposed in 2007. The article doesn't mention the intended completion year, so N/A.
+
+5. **Question 5**: The investment firm handling the sale is Centerview Partners, hired by Santee Cooper, not Dominion Energy. The question asks which firm Dominion hired, so N/A.
+
+6. **Question 6**: Environmentalists are mentioned as critics, but no specific group is named. So N/A.
+
+7. **Question 7**: The article says Silicon Valley workers protested with "subtle acts of defiance," not specifying the form. Since the exact protest method isn't listed, N/A.
+
+8. **Question 8**: The article mentions Bill Gates is "taking a break from the future to examine his past," but no book title is given. N/A.
+
+9. **Question 9**: Dominion Energy acquired South Carolina Electric & Gas in 2019 and manages the operational reactor. The answer is Dominion Energy.
+
+10. **Question 10**: The CEO Jimmy Staton's statement encapsulates the decision. The answer is Jimmy Staton.
+
+11. **Question 11**: The bidding ends May 5. The answer is May 5.
+
+12. **Question 12**: The expenditure is $9 billion by Santee Cooper and its partner. The answer is $9 billion.
+
+13. **Question 13**: The reactors were abandoned in 2017. The answer is 2017.
+
+14. **Question 14**: The technology being reconsidered despite costs and waste is nuclear power. The answer is nuclear power.
+
+15. **Question 15**: Alphabet (Google's parent) is mentioned, so the answer is Alphabet.
+
+16. **Question 16**: The Energy Department finalized the loan guarantee. The answer is the Energy Department.
+
+17. **Question 17**: The existing reactor built in 1982 is not part of the sale. The answer is the operational reactor (or its name, but the article just calls it the one built in 1982).
+
+18. **Question 18**: President Trump supports nuclear despite opposing Biden's policies. The answer is President Trump.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>natural gas</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>Dominion Energy</answer>
+<question_number>10</question_number>
+<answer>Jimmy Staton</answer>
+<question_number>11</question_number>
+<answer>May 5</answer>
+<question_number>12</question_number>
+<answer>$9 billion</answer>
+<question_number>13</question_number>
+<answer>2017</answer>
+<question_number>14</question_number>
+<answer>nuclear power</answer>
+<question_number>15</question_number>
+<answer>Alphabet</answer>
+<question_number>16</question_number>
+<answer>Energy Department</answer>
+<question_number>17</question_number>
+<answer>operating nuclear reactor</answer>
+<question_number>18</question_number>
+<answer>President Trump</answer>

@@ -1,0 +1,70 @@
+merged_musk-spacex-trump-nasa-astronauts.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>a week or two</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>Don Pettit</answer>
+
+<question_number>12</question_number>
+<answer>Elon Musk, Jeff Bezos is also mentioned but not in the context of criticizing the current administration for this reason, Donald Trump also criticized the current administration for this reason.</answer>
+
+<other>This answer could be shortened to just "Elon Musk" and "Donald Trump" as both are mentioned in the article as criticizing the current administration for leaving astronauts in orbit too long.</other>
+
+<question_number>13</question_number>
+<answer>SpaceX</answer>
+
+<question_number>14</question_number>
+<answer>Suni Williams</answer>
+
+<question_number>15</question_number>
+<answer>late March</answer>
+
+<question_number>16</question_number>
+<answer>Starliner</answer>
+
+<question_number>17</question_number>
+<answer>Russia</answer>
+
+<other>The text does not explicitly mention "Russia", but it does mention "Russian astronauts", from which we can infer that the nation is Russia.</other>
+
+<question_number>18</question_number>
+<answer>Axiom Space of Houston</answer>
+
+<other>This answer could be shortened to just "Axiom Space" as that is the company name.</other>
+
+<question_number>19</question_number>
+<answer>SpaceX, Blue Origin is also mentioned but not in the context of a test flight malfunction and subsequent FAA investigation.</answer>
+
+<other>This answer could be shortened to just "SpaceX" as that is the only company mentioned in the context of a test flight malfunction and subsequent FAA investigation.</other>
+
+<question_number>20</question_number>
+<answer>NASA, The FAA is also mentioned but not in the context of scheduling crew returns.</answer>
+
+<other>This answer could be shortened to just "NASA" as that is the only agency mentioned in the context of scheduling crew returns.</other>

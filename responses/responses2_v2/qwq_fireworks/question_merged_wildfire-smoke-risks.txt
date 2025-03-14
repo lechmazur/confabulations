@@ -1,0 +1,84 @@
+merged_wildfire-smoke-risks.txt
+Okay, let's tackle these questions one by one based on the provided article. I need to make sure I only use the information given and don't infer anything beyond that. Let me go through each question carefully.
+
+1. The first question asks about the projected increase in mortality if Santa Ana winds blew inland instead of towards the ocean, as per Dr. El-Hasan's perspective. The article mentions Dr. Gould's statement that mortality could go up by 50% if emissions continue. But the question ties it to the wind direction. The article says Santa Ana winds are blowing smoke toward the ocean, unlike the 2023 Canadian fires that affected the East Coast. However, the 50% figure from Dr. Gould isn't specifically linked to wind direction changes. Since the question is hypothetical and the article doesn't provide that specific data, I think this is N/A.
+
+2. The second question is about a compound adhering to drywall from the toxic brew mentioned by the American Lung Association's director. The pediatrician Dr. Patel lists "volatile organic compounds, polycyclic aromatic hydrocarbons and hexavalent chromium." The question asks which is most likely to adhere to drywall. The article says smoke and ash stick to rugs, sofas, and drywall. The last mentioned compound here is hexavalent chromium. So maybe that's the answer.
+
+3. The third question refers to the Nature study and the doubling of wildfires leading to erosion of PM2.5 progress. The article states that in nearly three-quarters of U.S. states, wildfire smoke eroded about 25% of progress since 2016. If the trend continues, the majority (so at least 50% but the article says three-quarters) would have 25% erosion. The answer is 25%.
+
+4. Dr. Miller's research on vehicle exhaust affects the liver, kidney, brain, pregnancy, etc. The question asks which organ not mentioned in wildfire context but affected by vehicle exhaust is likely to be similarly affected. The article mentions liver and kidney as examples. Since the question wants one not directly mentioned in wildfire context, maybe the liver or kidney. But the question specifies "most likely" so perhaps liver?
+
+5. The fifth question asks about the air quality index level that would trigger ER visits in New York, based on LA's mortality increase. The article says LA's pollution could raise daily mortality 5-15%, and the 2023 Canadian fires caused spikes in ER visits when smoke reached the East Coast. The AQI in LA reached "dangerous" levels. So dangerous levels would be the trigger. But the question asks for the specific index level mentioned for LA. The article says "dangerous" levels, so the answer is "dangerous".
+
+6. The sixth question is about the pollutant contributing to 25% erosion of PM2.5 progress. The article mentions PM2.5 specifically in the Nature study, so the pollutant is PM2.5.
+
+7. The seventh question asks the duration of exposure used as a benchmark by Dr. Reid. She says fires affect the same population repeatedly, so the exposure is repeated. The question is about acute vs chronic. The article doesn't give a specific time frame, so N/A.
+
+8. The eighth question asks which country, not compared to Canada, would have similar cardiovascular effects from same smoke levels. The article says Canadian fires emitted more CO2 than all but three countries. So the country that's not mentioned would be one of those three. But the question is about cardiovascular effects, so maybe any of those top three emitters. But the article doesn't name them, so N/A.
+
+9. The ninth question is about medical equipment in short supply during dangerous AQI. The article mentions air purifiers as recommended by Dr. Patel. So the answer is air purifiers.
+
+10. Tenth question: If California's auto/factory pollution decline halted, what mortality increase? The article says LA's current levels raise mortality 5-15%. If wildfire smoke erodes gains, maybe that's the range. But the question is about San Francisco, but the article doesn't specify a different rate. So 5-15% is the answer. Since the question asks for a specific percentage, maybe 5-15% as a range.
+
+11. The article states wildfire smoke causes up to 675,000 premature deaths annually. So that's the answer.
+
+12. The pollutant with 25% progress erosion is PM2.5, as per the Nature study.
+
+13. The expert warning about 50% increase is Dr. Gould from UCSD, not a Southern California health org. Wait, the American Lung Association's director is Dr. El-Hasan. The article says Dr. Gould from UCSD was part of the Nature study. The question specifies the expert from Southern California health organization. Dr. El-Hasan is with Kaiser Permanente and the Lung Association. So his name would be the answer.
+
+14. The last compound mentioned by Dr. Patel in her list is hexavalent chromium.
+
+15. The recommended mask is N95.
+
+16. The primary site where particles enter is the lungs.
+
+17. The phrase used by Dr. Reid is "Wildfire season is no longer a season."
+
+18. The meteorological phenomenon is Santa Ana winds.
+
+19. The factor is more than doubled, so "more than doubled".
+
+20. Health systems send out air quality alerts to vulnerable patients.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>hexavalent chromium</answer>
+<question_number>3</question_number>
+<answer>25%</answer>
+<question_number>4</question_number>
+<answer>liver</answer>
+<question_number>5</question_number>
+<answer>dangerous</answer>
+<question_number>6</question_number>
+<answer>PM 2.5</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>air purifier</answer>
+<question_number>10</question_number>
+<answer>5 to 15 percent</answer>
+<question_number>11</question_number>
+<answer>675,000</answer>
+<question_number>12</question_number>
+<answer>PM 2.5</answer>
+<question_number>13</question_number>
+<answer>Dr. El-Hasan</answer>
+<question_number>14</question_number>
+<answer>hexavalent chromium</answer>
+<question_number>15</question_number>
+<answer>N95 masks</answer>
+<question_number>16</question_number>
+<answer>lungs</answer>
+<question_number>17</question_number>
+<answer>"Wildfire season is no longer a season"</answer>
+<question_number>18</question_number>
+<answer>Santa Ana winds</answer>
+<question_number>19</question_number>
+<answer>more than doubled</answer>
+<question_number>20</question_number>
+<answer>air quality alerts</answer>

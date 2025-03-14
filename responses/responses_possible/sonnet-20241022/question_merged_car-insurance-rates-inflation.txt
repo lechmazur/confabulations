@@ -1,0 +1,34 @@
+merged_car-insurance-rates-inflation.txt
+<question_number>1</question_number>
+<other>Safe driving course saves 10%, and $1000 deductible saves 40% or more from base premium of $2,300</other>
+<answer>50% or more reduction</answer>
+
+<question_number>2</question_number>
+<other>Article mentions 49% higher premiums for fair vs excellent credit, which is larger than other specific percentage reductions mentioned</other>
+<answer>credit score</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<other>While the article provides some specific percentage changes for individual factors, it doesn't provide enough information to calculate combined effects of multiple factors or make precise comparisons between different combinations of factors. Many questions require assumptions about how different discounts would interact, which isn't specified in the article.</other>

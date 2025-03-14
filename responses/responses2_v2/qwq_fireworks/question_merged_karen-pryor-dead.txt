@@ -1,0 +1,44 @@
+merged_karen-pryor-dead.txt
+Okay, let me tackle these questions one by one. I need to make sure I only use the information from the article provided. Let's start with the first question.
+
+1. The question is asking which university denied Karen Pryor entry into its ornithology program because of her gender, leading her to study the same subject as her first husband. The article says she went to Cornell University and wanted to major in ornithology but was told women couldn't be accepted because there were no bathrooms for them in the woods. So the answer is Cornell University.
+
+2. The second question is about how many years the social scientist who observed dolphin communication at Sea Life Park spent studying with B.F. Skinner. The article mentions Gregory Bateson spent eight years there observing dolphin communication. But the question specifies studying the principles of positive reinforcement with Skinner. Wait, Skinner is mentioned as having done experiments, but Bateson's time at Sea Life Park was for observing communication. The article says Gregory Bateson spent eight years there. The question might be a bit tricky here. The answer is 8 years.
+
+3. The title of the book by the person who oversaw Sea Life Park (Kenneth Norris) as a marine park and research center. The article says Karen Pryor wrote "Lads Before the Wind: Adventures in Porpoise Training" (1975). But the question is about the person who oversaw the park, which was Kenneth Norris. The article doesn't mention a book by Norris, so this might be N/A. Wait, the question says "the title of the book written by the person who oversaw Sea Life Park..." The article states that Sea Life Park was overseen by Kenneth Norris, but there's no mention of a book by him. So the answer would be N/A.
+
+4. The essay collection by Karen's father that inspired her to use positive reinforcement with humans, like her mother. Her father was Philip Wylie, who wrote "Generation of Vipers" in 1943. The article says that book "excoriated modern life." The question links it to her applying positive reinforcement to human interactions. The article doesn't explicitly say that the essay collection inspired her techniques, but it's the only book mentioned by her father. So maybe the answer is "Generation of Vipers," but the question states that the book inspired her to apply the techniques. Since the article doesn't make that connection, perhaps it's N/A. Wait, the question says "inspired her to apply positive reinforcement techniques to human interactions." The article does mention her father's book, but not directly linking it to her methods. So maybe N/A.
+
+5. The breed of pheasant the Pryors raised. The article says they were raising pheasants to pay the bills before Tap decided to build the marine park. But the breed isn't specified. So answer is N/A.
+
+6. The specific technique other than extinction that Karen Pryor described as counterproductive. The question mentions her most famous book "Don't Shoot the Dog!" where she talks about positive reinforcement. She mentions that punishment like beating a child or whipping a horse is counterproductive. So the technique is punishment or fear-based methods. The answer would be "punishment" or "fear" but the exact term from the text. The article says "fear will modify the behavior..." and "nagging only reinforces the nagger's tendency to nag more; rarely does it elicit any positive reaction..." Wait, the question asks for a technique other than extinction. The article says that fear-based methods (punishment) are counterproductive. The answer is "punishment" or "fear". The exact term used in the book would be "punishment" as per the text.
+
+7. The name of the deep sea diver and salmon farmer, son of a famous aviator (Charles Lindbergh) she married. The article says in 1983 she married Jon Lindbergh, son of Charles Lindbergh. So answer is Jon Lindbergh.
+
+8. The government position she held after her tuna industry recommendations. The article states she was appointed to the Marine Mammal Commission by Reagan in 1984. The question links this to her tuna recommendations, which were made with Dr. Norris. So the position is Marine Mammal Commission member.
+
+9. The name of the marine park her husband built in Florida. Wait, the article says her husband built the first marine park in Hawaii, called Sea Life Park. The question says Florida, but the text says Hawaii. So the answer would be N/A because it's in Hawaii, not Florida.
+
+10. The specific marine mammal other than dolphins she trained. The article mentions an otter who did tricks with a hoop. So the answer is otter.
+</think>
+
+<question_number>1</question_number>
+<answer>Cornell University</answer>
+<question_number>2</question_number>
+<answer>8</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>punishment</answer>
+<question_number>7</question_number>
+<answer>Jon Lindbergh</answer>
+<question_number>8</question_number>
+<answer>Marine Mammal Commission</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>otter</answer>

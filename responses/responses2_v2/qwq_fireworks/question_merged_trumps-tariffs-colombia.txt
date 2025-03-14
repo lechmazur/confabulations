@@ -1,0 +1,84 @@
+merged_trumps-tariffs-colombia.txt
+Okay, let's tackle these questions one by one based on the article provided. I need to be careful to only use the information given and follow the strict instructions. Let's start with the first question.
+
+1. The first question asks how many multigenerational, family-owned manufacturers in Louisville Peter S. Goodman visited. The article mentions he visited "multigenerational, family-owned manufacturers" in Louisville, but it doesn't specify the exact number. So the answer here is N/A because the number isn't stated.
+
+2. The second question is about the name of the trade official in Bogota who thought Colombia was off the radar. The article refers to "a Colombian trade official" but doesn't provide her name. So again, N/A.
+
+3. Third question: John Ray managed the bankruptcy of which company before FTX? The text says John Ray managed the bankruptcy of Enron before taking over FTX. That's clear, so the answer is Enron.
+
+4. The fourth question asks about the specific aircraft involved in the Washington collision. The article mentions an Army helicopter but doesn't specify the model. The exact type isn't given, so N/A.
+
+5. Fifth question: Which brokerage allows betting on Kalshi contracts? The article states Kalshi will let users bet via brokerages, but doesn't name a specific one. The answer is N/A.
+
+6. Sixth question: The settlement amount between K5 Global and FTX? The article says the terms weren't made public, so N/A.
+
+7. Seventh question: What product from MedSource Labs is being considered in Colombia? The article says MedSource Labs makes medical equipment but doesn't name a specific product. N/A.
+
+8. Eighth question: The woman Jonathan Kaye punched. The article mentions he was filmed punching a woman but doesn't name her. N/A.
+
+9. Ninth question: Other Chinese AI model besides DeepSeek's R1 that Amazon offers? The article only mentions DeepSeek's R1, so N/A.
+
+10. Tenth question: Percentage increase in iPhone sales? The article says iPhone sales dropped but apps and services boosted profits. No percentage given for iPhone, so N/A.
+
+11. Eleventh question: Which nation was off the radar but faced threats over immigrant flights? Colombia is mentioned as threatened by Trump after refusing to accept deported immigrants via military flights. So Colombia.
+
+12. Twelfth question: Retailer redirecting production to avoid Beijing tensions? Walmart is mentioned as shifting production to Mexico, India, etc. So Walmart.
+
+13. Thirteenth question: Prediction market aiming for trillion-dollar asset class? Kalshi's CEO mentions this goal. Answer: Kalshi.
+
+14. Fourteenth question: $14B merger targeted by antitrust lawsuit? Hewlett Packard's takeover of Juniper Networks. Yes, that's the one.
+
+15. Fifteenth question: Which company adopted DeepSeek's R1? Amazon is stated here. The question is about which company, so Amazon.
+
+16. Sixteenth question: U.S. state with Louisville's manufacturers? The article mentions Louisville, Kentucky. So Kentucky.
+
+17. Seventeenth question: President associated with tariffs? The entire article revolves around Trump's policies. Answer: Trump.
+
+18. Eighteenth question: Firm that settled with FTX for shareholder recoveries? K5 Global settled with FTX. So K5 Global.
+
+19. Nineteenth question: Country initially safe from China but then had issues? Mexico was an alternative but faced tariffs. Colombia was also mentioned as initially off the radar but then threatened. Wait, the question says "initially seen as off the radar for U.S. tariffs later faced threats over deported immigrant military flights". The article states Colombia was threatened over immigrant flights, so the answer is Colombia.
+
+20. Twentieth question: Second tech giant to adopt DeepSeek's R1? The article says Amazon followed Microsoft. So Microsoft was first, but the question asks which was second? Wait, the article says "following Microsoft", so Amazon is the second. The question asks which was the second, so the answer is Amazon. Wait, the question says "which tech giant's cloud service was reported as the second to adopt". The article states "Amazon is the latest U.S. tech company to embrace DeepSeek. The tech giant is now offering DeepSeek's R1 AI model... following Microsoft." So Amazon is the second, so the answer is Amazon.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>Enron</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>Colombia</answer>
+<question_number>12</question_number>
+<answer>Walmart</answer>
+<question_number>13</question_number>
+<answer>Kalshi</answer>
+<question_number>14</question_number>
+<answer>Hewlett Packard's takeover of Juniper Networks</answer>
+<question_number>15</question_number>
+<answer>Amazon</answer>
+<question_number>16</question_number>
+<answer>Kentucky</answer>
+<question_number>17</question_number>
+<answer>President Trump</answer>
+<question_number>18</question_number>
+<answer>K5 Global</answer>
+<question_number>19</question_number>
+<answer>Mexico</answer>
+<question_number>20</question_number>
+<answer>Amazon</answer>

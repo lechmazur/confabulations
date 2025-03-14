@@ -1,0 +1,33 @@
+merged_crowdstrike-delta-tech-outage.txt
+<question_number>1</question_number>
+<answer>It contributed to a "misleading narrative that CrowdStrike is responsible for Delta's IT decisions and response to the outage"</answer>
+
+<question_number>2</question_number>
+<answer>The investigation may reveal that Delta was "especially vulnerable" with systems "more dependent on pieces of software that were affected by CrowdStrike"</answer>
+
+<question_number>3</question_number>
+<answer>Delta estimated $500 million in costs while CrowdStrike claimed liability should be limited to less than $10 million</answer>
+
+<question_number>4</question_number>
+<answer>Delta struggled more than others; American and United rebounded faster</answer>
+
+<question_number>5</question_number>
+<answer>Delta struggled for four days while many carriers recovered within a day or two</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article states that Delta canceled about 5,000 flights and about three in four of the remaining flights were delayed, but doesn't provide the total number of flights or exact number of delayed flights to calculate a ratio.</other>
+
+<question_number>7</question_number>
+<answer>Delta canceled about 37 percent of its schedule while Southwest canceled more than a third of its scheduled flights</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article doesn't provide the financial impact of Southwest's 2022 disruption, only that they canceled nearly 17,000 flights.</other>
+
+<question_number>9</question_number>
+<answer>$125 million per day</answer>
+<other>Based on $500 million total cost over four days of disruption.</other>
+
+<question_number>10</question_number>
+<answer>CrowdStrike's proposed liability limit (less than $10 million) is less than Delta's daily costs (tens of millions per day)</answer>

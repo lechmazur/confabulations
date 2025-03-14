@@ -1,0 +1,65 @@
+merged_language-humpback-whale-song.txt
+<question_number>1</question_number>
+<answer>Zipf's law</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions recordings near New Caledonia, not Altadena, California. The Altadena reference is about a bear in a crawl space, unrelated to whale recordings.</other>
+
+<question_number>3</question_number>
+<answer>moan</answer>
+
+<question_number>4</question_number>
+<answer>6</answer>
+<other>According to Zipf's law, the frequency is inversely proportional to rank. If a subsequence is used 6 times less frequently than the most common one, it would be the 6th ranked subsequence.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article doesn't discuss Wisdom the albatross's vocalizations or their structural patterns.</other>
+
+<question_number>6</question_number>
+<answer>one-third</answer>
+<other>According to Zipf's law as described in the article, "the most common word is used about twice as frequently as the second most common word, three times as frequently as the third most common word."</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article doesn't discuss bear vocalizations or how they might change during a "song revolution."</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any specific subsequences recorded in waters around Egypt. The Egypt reference is about a spotted hyena, not whale songs.</other>
+
+<question_number>9</question_number>
+<answer>Inbal Arnon</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article mentions that researchers transformed songs into "long sequences of basic sound elements" but doesn't specify the exact number of these elements.</other>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+<other>The article mentions that singing can attract predators' attention but doesn't specify which predator species.</other>
+
+<question_number>12</question_number>
+<answer>N/A</answer>
+<other>The article only mentions the first and second most common subsequences, not the third.</other>
+
+<question_number>13</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any cetacean species that violates Menzerath's law.</other>
+
+<question_number>14</question_number>
+<answer>N/A</answer>
+<other>Shane Gero actually described the study as "elegant" and "convincing" and didn't identify any methodological flaws.</other>
+
+<question_number>15</question_number>
+<answer>N/A</answer>
+<other>The article doesn't explicitly rule out any non-cetacean animal's communication system as lacking Zipf's law patterns.</other>
+
+<question_number>16</question_number>
+<answer>N/A</answer>
+<other>The article doesn't provide exact inverse rank-frequency ratios or mention any deviations from Zipf's law for least common subsequences.</other>
+
+<question_number>17</question_number>
+<answer>N/A</answer>
+<other>The article doesn't correlate the Eaton fire with any disruptions in humpback whale song transmission patterns.</other>

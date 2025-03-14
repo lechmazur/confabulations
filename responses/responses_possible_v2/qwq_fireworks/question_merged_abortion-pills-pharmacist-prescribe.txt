@@ -1,0 +1,68 @@
+merged_abortion-pills-pharmacist-prescribe.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the article provided and follow the instructions strictly. Let's start with the first question.
+
+1. The first question asks for the rounded average number of patients served per pharmacist during the Washington pilot program's timeframe (Oct 31 to Nov 26). The article states that 10 pharmacists prescribed to 43 patients. To find the average, I divide 43 by 10, which is 4.3. Rounded, that's 4. So the answer should be 4.
+
+2. The second question is about which FDA regulation the Trump admin might reinstate. The article mentions that they could try to reinstate FDA regulations requiring only doctors to prescribe mifepristone. The specific regulation is the one that required doctors to prescribe mifepristone. So the answer is the requirement that only doctors can prescribe mifepristone.
+
+3. The third question asks for the individual who criticized pharmacist prescribing as "medically unsupervised" and dangerous. The article quotes Dr. Ingrid Skop, VP at the Charlotte Lozier Institute, saying that exact phrase. So her title and affiliation are given, so the answer is Dr. Ingrid Skop, vice president and director of medical affairs at the Charlotte Lozier Institute.
+
+4. The fourth question is about the safety-monitoring process that must be replicated if moving to in-person from telehealth. The article mentions that during follow-ups, pharmacists contacted patients asking about bleeding, fever, pain, etc. The specific process is the follow-up contact to check on symptoms like bleeding and pain. The answer should be follow-up contact or the questions about symptoms.
+
+5. The fifth question refers to a 151-year-old federal act that could be used to restrict mailing. The article mentions the Comstock Act, which is 151 years old. So the answer is the Comstock Act.
+
+6. The sixth question asks for a category of medications pharmacists already prescribe as a precedent. The article says in many states, pharmacists can prescribe birth control and morning-after pills. So the answer is birth control or morning-after pills.
+
+7. The seventh question is the maximum gestational age. The pilot required patients to be up to 10 weeks pregnant. So the answer is 10 weeks.
+
+8. The eighth question is the fee charged. The article says patients paid $40. So the answer is $40.
+
+9. The ninth question asks which co-director's academic title shows his pioneering role. The article mentions Don Downing, a co-director and professor emeritus of pharmacy at the University of Washington. His title is professor emeritus.
+
+10. The tenth question is about the organization's CEO who supported pharmacist accessibility. The article quotes Michael Hogue, CEO of the American Pharmacists Association. So the answer is the American Pharmacists Association.
+
+Let me check each again to ensure accuracy.
+
+1. 43 patients divided by 10 pharmacists is indeed 4.3, rounded to 4. Correct.
+
+2. The FDA regulation requiring only doctors to prescribe mifepristone. The text says "reinstate Food and Drug Administration regulations that required that only doctors prescribe mifepristone". So that's correct.
+
+3. Dr. Ingrid Skop from Charlotte Lozier Institute. The quote is there. Correct.
+
+4. The follow-up questions about bleeding, pain, etc. The article says they asked those questions during follow-up. The answer should be the follow-up questions about symptoms like bleeding and pain. The question asks for the process to be replicated, so "follow-up contact" or the specific questions. The exact answer might be the questions about symptoms. The article says "asking questions like: 'Have you had excessive bleeding...?'" So the process is the follow-up contact with those questions. The answer should be the follow-up contact.
+
+5. Comstock Act. Yes, the article says "Comstock Act could be invoked".
+
+6. Birth control and morning-after pills. The article states "many states, pharmacists can prescribe birth control and morning-after pills." Correct.
+
+7. 10 weeks. The article says "could be up to 10 weeks pregnant." Correct.
+
+8. $40. The article says "they paid $40." Correct.
+
+9. Don Downing's title is professor emeritus of pharmacy. Correct.
+
+10. Michael Hogue, CEO of American Pharmacists Association. The article says his organization supports accessibility. Correct.
+
+All answers seem to be directly from the text. No need for N/A here. I think that's all.
+</think>
+
+<question_number>1</question_number>
+<answer>4</answer>
+<question_number>2</question_number>
+<answer>requirement that only doctors prescribe mifepristone</answer>
+<question_number>3</question_number>
+<answer>Dr. Ingrid Skop, vice president and director of medical affairs at the Charlotte Lozier Institute</answer>
+<question_number>4</question_number>
+<answer>follow-up contact to ask about bleeding, fever, pain, or other symptoms</answer>
+<question_number>5</question_number>
+<answer>Comstock Act</answer>
+<question_number>6</question_number>
+<answer>birth control and morning-after pills</answer>
+<question_number>7</question_number>
+<answer>10</answer>
+<question_number>8</question_number>
+<answer>$40</answer>
+<question_number>9</question_number>
+<answer>professor emeritus of pharmacy</answer>
+<question_number>10</question_number>
+<answer>American Pharmacists Association</answer>

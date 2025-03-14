@@ -1,0 +1,33 @@
+merged_airlines-delta-profits.txt
+Okay, let's tackle these questions one by one based on the article provided. 
+
+Starting with question 1: It asks which single operational constraint was the most critical limitation for U.S. carriers' expansion plans in late 2024, considering Boeing's production delays, Airbus' engine issues, and Spirit's bankruptcy. The article mentions that Boeing's problem (a panel blew off a 737 Max) caused production slowdowns and delivery delays. Airbus had order backlogs and engine problems that required inspections, affecting their planes. Spirit's bankruptcy is mentioned as another crisis. The text says the Boeing issue forced airlines to delay plans because Airbus couldn't pick up the slack. So the key here is that the Boeing delays plus Airbus's inability to compensate made expansion hard. The answer might be Boeing's production delays because it's explicitly stated that Boeing's issues caused airlines' plans to be disrupted and Airbus couldn't help. 
+
+Question 2: The precise sequence of events involving Boeing's issues, Airbus backlog, and Pratt & Whitney engines leading to a bottleneck for older fleets. The article says a Boeing 737 Max incident led Boeing to slow production and delay deliveries. Then it mentions Airbus had long order backlogs and their planes had engine problems (Pratt & Whitney, maybe?) causing inspections. The text states that because both Boeing and Airbus had backlogs, and Airbus planes had engine issues, airlines couldn't get new planes, so older fleets couldn't be replaced, creating a bottleneck for those relying on older planes. The sequence is Boeing's incident → production slowdown → Airbus can't help due to backlogs and their own engine issues → older fleets can't be replaced. The answer should list these events in order.
+
+Question 3: Southwest's cost-cutting vs. JetBlue's premium seats showing strategic divergence. The article mentions Southwest made changes to lower costs after Elliott Management's push, while JetBlue added premium seats to increase profits. The fourth paragraph talks about industry cost controls and fare increases, and the eighth mentions JetBlue's strategy. The divergence is cost reduction vs. premium pricing. So the answer is that Southwest focused on cost reduction while JetBlue targeted premium revenue, showing different strategies to market pressures.
+
+Question 4: The critical path dependency from business travel recovery, international routes, and aircraft delays favoring carriers with widebody fleets. The article says carriers with widebodies (like Delta, United, American) can take advantage of business and international travel, which need widebodies. But aircraft delivery delays (Boeing and Airbus) mean those without widebodies can't expand. So the dependency is that existing widebody fleets allow these carriers to capitalize on business/international demand despite delays in getting new planes. So the answer is carriers with existing widebodies can utilize current fleets for profitable routes while others wait for deliveries.
+
+Question 5: Three crises in safety (Boeing incident), tech (outage causing cancellations), and financial (Spirit bankruptcy) that reduced capacity, thus letting airlines raise prices. The text says after these crises, airlines reduced flights/seats, leading to higher fares. So the three are Boeing's safety issue, the tech outage, and Spirit's bankruptcy. All reduced capacity, leading to pricing power.
+
+Question 6: The temporal framing conflict between past 5 years of black swan events and 2025 stability. The article mentions the last five years had constant unexpected issues ("every bird in the sky was a black swan"), but projections for 2025 are positive due to cost controls, activist changes, and fuel stability. The conflict is that despite past unpredictability, they're now projecting stability because of the mentioned factors. The answer is that the past five years' constant crises (like pandemic, safety issues, bankruptcies) contrast with 2025's stability from resolved factors like activist interventions and normalized fuel costs.
+</think>
+
+<question_number>1</question_number>
+<answer>Boeing's production delays</answer>
+
+<question_number>2</question_number>
+<answer>Boeing's 737 Max incident slowed production → Airbus backlog prevented compensation → Pratt & Whitney engine issues halted some Airbus planes → older fleets couldn't be replaced</answer>
+
+<question_number>3</question_number>
+<answer>Southwest focused on cost reduction while JetBlue prioritized premium revenue strategies</answer>
+
+<question_number>4</question_number>
+<answer>Carriers with existing widebody fleets could leverage business/international demand without relying on delayed narrowbody deliveries</answer>
+
+<question_number>5</question_number>
+<answer>Boeing 737 Max safety incident, airline tech outage, and Spirit Airlines bankruptcy</answer>
+
+<question_number>6</question_number>
+<answer>The industry's past five years of constant disruptions contrast with 2025 optimism due to pandemic recovery, activist-driven reforms, and stabilized fuel costs</answer>

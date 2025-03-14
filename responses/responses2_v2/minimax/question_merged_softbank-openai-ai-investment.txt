@@ -1,0 +1,91 @@
+merged_softbank-openai-ai-investment.txt
+<question_number>1</question_number>
+<answer>Ilya Sutskever</answer>
+<other>He was the chief scientist and a co-founder who left after Sam Altman's brief firing.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article does not specify the exact amount SoftBank invested in the October funding round.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article does not detail the primary technical innovation that allowed DeepSeek to use fewer computer chips.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article mentions the Stargate project but does not specify when the partnership with Oracle was first announced.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article does not provide information on the allocation percentage for developing OpenAI o3's reasoning capabilities.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article does not mention which government agency initially approved the Stargate data center project.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article does not specify Ilya Sutskever's role in developing OpenAI o3 before his departure.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article does not provide a comparison of the computing power required by DeepSeek's system versus OpenAI's chatbot.</other>
+<question_number>9</question_number>
+<answer>$90 billion</answer>
+<other>The valuation difference between OpenAI ($340 billion) and SpaceX (higher than $250 billion) is $90 billion.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article does not mention who is leading the investigation into DeepSeek's alleged data harvesting.</other>
+<question_number>11</question_number>
+<answer>Deep Research</answer>
+<other>OpenAI recently released a tool called Deep Research to counter threats by synthesizing information from across the internet.</other>
+<question_number>12</question_number>
+<answer>$500 billion</answer>
+<other>The total investment in computing infrastructure from the Stargate venture, combining contributions from all parties, is $500 billion.</other>
+<question_number>13</question_number>
+<answer>OpenAI o3</answer>
+<other>OpenAI unveiled OpenAI o3 in December, which requires more computing power for operation.</other>
+<question_number>14</question_number>
+<answer>ChatGPT</answer>
+<other>ChatGPT is the online chatbot that initially sparked the AI boom.</other>
+<question_number>15</answer>
+<answer>1.59 times</answer>
+<other>The valuation would be 1.59 times greater ($250 billion / $157 billion).</other>
+<question_number>16</question_number>
+<answer>Job loss due to AI bots</answer>
+<other>Most large employers downplayed the likelihood that AI bots will take jobs, contrasting with Klarna's approach.</other>
+<question_number>17</question_number>
+<answer>DeepSeek</answer>
+<other>DeepSeek is the Chinese start-up whose chatbot's answers have been documented to include Chinese propaganda.</other>
+<question_number>18</question_number>
+<answer>$6.6 billion</answer>
+<other>The total amount of the fund-raising deal completed in October was $6.6 billion.</other>
+<question_number>19</question_number>
+<answer>Copyright infringement</answer>
+<answer>The New York Times accused OpenAI and Microsoft of copyright infringement related to AI systems.</answer>
+<question_number>20</question_number>
+<answer>SpaceX</answer>
+<other>SpaceX, led by Elon Musk, would remain the only private company with a higher valuation than OpenAI.</other>
+<question_number>21</question_number>
+<answer>$90 billion</answer>
+<other>The difference between the two valuation figures ($340 billion and $250 billion) is $90 billion.</other>
+<question_number>22</question_number>
+<answer>$525 billion</answer>
+<other>The total amount involving both investments is $525 billion ($500 billion for Stargate plus $25 billion from SoftBank).</other>
+<question_number>23</question_number>
+<answer>OpenAI</answer>
+<other>OpenAI is investigating whether its own data was used by DeepSeek.</other>
+<question_number>24</question_number>
+<answer>Sam Altman's firing and reinstatement</answer>
+<other>The controversial decision was the firing of Sam Altman and his subsequent reinstatement.</other>
+<question_number>25</question_number>
+<answer>OpenAI o3</answer>
+<answer>OpenAI introduced OpenAI o3 as the new AI technology.</answer>
+<question_number>26</question_number>
+<answer>Oracle</answer>
+<other>Oracle is the well-known software company mentioned as partnering with SoftBank and OpenAI in the Stargate project.</other>
+<question_number>27</question_number>
+<answer>DeepSeek</answer>
+<other>DeepSeek is the start-up that revealed its capability to build an AI system with fewer chip dependencies.</other>
+<question_number>28</question_number>
+<answer>Ilya Sutskever</answer>
+<other>Ilya Sutskever is identified as both a co-founder and the chief scientist that left the company.</other>
+<question_number>29</question_number>
+<answer>October</answer>
+<other>OpenAI completed the financing round in October.</other>
+<question_number>30</question_number>
+<answer>SoftBank</answer>
+<other>SoftBank is the Japanese conglomerate noted as being in talks for a separate $25 billion investment.</other>

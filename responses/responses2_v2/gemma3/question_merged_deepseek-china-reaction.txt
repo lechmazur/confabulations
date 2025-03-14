@@ -1,0 +1,61 @@
+merged_deepseek-china-reaction.txt
+<question_number>1</question_number>
+<answer>Hu Xijin</answer>
+<other>The article explicitly states Hu Xijin made this argument.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article does not mention any company's stock price surge or Nvidia halting chip exports.</other>
+<question_number>3</question_number>
+<answer>Li Qiang</answer>
+<other>The article states Liang Wenfeng met with Li Qiang.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article does not provide a specific date for the censorship of queries.</other>
+<question_number>5</question_number>
+<answer>Stargate</answer>
+<other>Fancaiju referred to the $100 billion A.I. initiative as "Interstellar Graveyard."</other>
+<question_number>6</question_number>
+<answer>Carnegie Mellon</answer>
+<other>The article states Kaifu Lee studied at Carnegie Mellon.</other>
+<question_number>7</question_number>
+<answer>Tiananmen Square massacre</answer>
+<other>The article lists this event as one censored by DeepSeek’s chatbot.</other>
+<question_number>8</question_number>
+<answer>Tom Zhang</answer>
+<other>The article identifies Tom Zhang as the HR expert making this claim.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article does not mention SoftBank's investment percentage in DeepSeek.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article does not mention a DeepSeek employee with a Ph.D. in quantum computing or a paper on censorship-resistant A.I.</other>
+<question_number>11</question_number>
+<answer>DeepSeek</answer>
+<other>The article explicitly states DeepSeek sparked the panic and debate.</other>
+<question_number>12</question_number>
+<answer>Liang Wenfeng</answer>
+<other>The article describes Liang Wenfeng as initiating the project and being a symbol of China’s prowess.</other>
+<question_number>13</question_number>
+<answer>Liang Wenfeng</answer>
+<other>The article states his visit generated the hashtag.</other>
+<question_number>14</question_number>
+<answer>Nvidia chips</answer>
+<other>The article highlights the difference in chip usage between DeepSeek and its U.S. counterparts.</other>
+<question_number>15</question_number>
+<answer>Censorship rules</answer>
+<other>The article states A.I. models are subject to these rules.</other>
+<question_number>16</question_number>
+<answer>Liang Wenfeng</answer>
+<other>The article quotes Liang Wenfeng making this argument.</other>
+<question_number>17</question_number>
+<answer>Tsinghua and Peking University graduates</answer>
+<other>The article states these graduates outperform those from Stanford and MIT.</other>
+<question_number>18</question_number>
+<answer>United States</answer>
+<other>The article states U.S. restrictions inadvertently helped Chinese companies.</other>
+<question_number>19</question_number>
+<answer>Stargate</answer>
+<other>The article states Fancaiju rebranded it as "Interstellar Graveyard."</other>
+<question_number>20</question_number>
+<answer>Fancaiju</answer>
+<other>The article identifies Fancaiju as making this comparison.</other>

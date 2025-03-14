@@ -1,0 +1,53 @@
+merged_los-angeles-landslide-risk.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article and follow the instructions strictly.
+
+1. **Question 1:** The article mentions that the Palisades fire had mostly low to moderate burn severity, while the Eaton fire was likely to have more moderate to high burn severity. However, it doesn't specify the exact percentage of high burn severity in the Eaton fire. So the answer should be N/A.
+
+2. **Question 2:** Jayme Laber described a light drizzly rain that goes on and on as posing the least risk. The question asks for the specific type of precipitation, so "a really light drizzly rain" is the answer.
+
+3. **Question 3:** The article states that the state carved debris basins near the San Gabriel Mountains (where Eaton fire burned), but it doesn't mention the number. Since the question is about Santa Monica Mountains, which isn't specified, the answer is N/A.
+
+4. **Question 4:** The article says the 2017 Thomas fire led to a debris flow in Montecito that killed 23 and damaged over 400 homes. The question asks how many were displaced, but displacement isn't mentioned. The number of damaged/destroyed homes is given, but displaced people aren't specified. So N/A.
+
+5. **Question 5:** The first early warning system was started by the National Weather Service and Geological Survey in 2005. The name isn't given, just the fact that it's the first. So N/A.
+
+6. **Question 6:** The article mentions Kamala Harris's visit but doesn't state the year. Since the article's context is 2024 (Austyn is part of the 2024-25 class), but the exact year isn't specified for her visit. So N/A.
+
+7. **Question 7:** The hydrologist says debris flows have a shorter reach than floods but are more destructive. The question is about reach, so "less reach than floods" but the answer should be "shorter reach" or similar. The article states "floods often have a longer reach", so answer is "less reach" or "shorter".
+
+8. **Question 8:** The article says neither homeowners' nor federal flood insurance covers debris flows, which are considered landslides. So no insurance is mentioned as covering it. Therefore, answer is N/A.
+
+9. **Question 9:** The three ingredients are steep slopes, burned soils, and rain. The third is rain. The question specifies garden-variety rainstorm, so "rain" is the answer.
+
+10. **Question 10:** The article says roughly a dozen members of the teams were studying the Palisades and Eaton fires. "Dozen" is 12, but the question is specifically about the Palisades fire. Since the Eaton map is still under review, but the teams were part of both, but the exact number isn't specified beyond "dozen". So answer is 12? But the question asks for the Palisades specifically. The initial teams were "roughly a dozen" for both, so maybe 12. But the article says "Roughly a dozen members... are studying the edges of the Eaton and Palisades fires". So the dozen is for both, but the question is about Palisades alone. Since it's not specified, maybe N/A. Wait, the question says "assessing the Palisades fire" but the dozen is for both. The article doesn't split the number between the two fires. So N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>a really light drizzly rain</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>less reach than floods</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>rain</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>

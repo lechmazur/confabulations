@@ -1,0 +1,59 @@
+merged_2024-olympics-france-food.txt
+Okay, let's tackle these questions one by one. The user wants answers based strictly on the article provided. I need to make sure each answer is directly from the text or logically inferred.
+
+1. The first question asks why the pop-up restaurants are unique compared to past Olympics. The article mentions that France is creating a large number of pop-up restaurants on a scale beyond any past Games. The answer should be that it's the scale and number of pop-up restaurants.
+
+2. The second question combines UNESCO heritage, a centuries-old structure, and a beach sport. The Eiffel Tower (centuries-old?), Gustave 24 restaurant there, and beach volleyball. The article says in the Eiffel Tower, people can enjoy moules frites (Belgian-French dish) while watching beach volleyball. UNESCO heritage is French cuisine, so that fits.
+
+3. The third question involves a monarch's residence (Versailles), equestrian events, and lobster ravioli. The article states at Versailles, they can feast on lobster ravioli while watching equestrian events. So that's the answer.
+
+4. The culinary program reflects both tradition and multiculturalism. The text says France wants to show its gastronomy and the multicultural country it's become. So the answer is showcasing traditional French cuisine alongside multicultural influences.
+
+5. The venue with a restaurant named after a historical figure (Gustave?), serving moules frites (Belgian-French), overlooking beach volleyball (introduced in 1996). The Eiffel Tower's Gustave 24 restaurant serves moules frites and overlooks beach volleyball. The historical figure might be Gustave Eiffel, but the article just says Gustave 24, so maybe the name is the key. The sport is beach volleyball, which was introduced in 1996 Atlanta. So the venue is the Eiffel Tower.
+
+6. The connection between IOC's future plans, pandemic event, and North Carolina. The article mentions Felix Zafra from On Location (NC) oversaw Tokyo 2020 which was canceled due to pandemic, and now they're doing Paris and future Olympics. So the answer is On Location (NC) handled Tokyo's pop-ups canceled by pandemic and is now involved in future IOC plans.
+
+7. The most expensive dining is the 15k euro boat dinner by chefs Alain Ducasse and Jean-Philippe Berens. It's on a boat (maritime), French chefs, and includes delegations from all nations. So the answer combines those elements.
+
+8. The restaurant combining contemporary art (Palais de Tokyo is a contemporary art museum), virtual reality, and three foods: chouquettes, bao, gazpacho. The article mentions the Palais de Tokyo food hall has those items plus VR swimming.
+
+9. Sustainability goals, Roland-Garros (tennis venue), and produce delivery concerns. The chef Carrie Solomon at Roland-Garros mentions anxiety over produce delivery due to sustainability requirements (80% French) and logistics.
+
+10. The program challenges perceptions by making French food accessible (like the vegan hot dog) but also offers the ultra-luxurious boat dinner. The article says Zafra aims to show French food is accessible, but the 15k dinner is the luxury part.
+
+Wait, let me check each again to ensure accuracy. For question 5, the name Gustave 24—maybe "Gustave" is the historical figure (like Gustave Eiffel?), but the article doesn't explicitly state that. However, the restaurant is in the Eiffel Tower, so maybe that's the link. The answer should be the Eiffel Tower's Gustave 24. 
+
+Also, question 9: Roland-Garros is a tennis venue, and the sustainability part (80% French produce) is mentioned in the context of her concerns. That's correct.
+
+Everything seems covered. Now, format the answers properly without markdown.
+</think>
+
+<question_number>1</question_number>
+<answer>Scale of pop-up restaurants beyond any past Games</answer>
+
+<question_number>2</question_number>
+<answer>Gustave 24 in Eiffel Tower serving moules frites while viewing beach volleyball</answer>
+
+<question_number>3</question_number>
+<answer>Versailles' lobster ravioli with equestrian events</answer>
+
+<question_number>4</question_number>
+<answer>Showcases traditional French cuisine alongside multicultural offerings</answer>
+
+<question_number>5</question_number>
+<answer>Eiffel Tower's Gustave 24 serving moules frites overlooking beach volleyball</answer>
+
+<question_number>6</question_number>
+<answer>On Location (NC) managed Tokyo's canceled pop-ups and now oversees IOC's future Games</answer>
+
+<question_number>7</question_number>
+<answer>15,000-euro boat cruise dinner by Alain Ducasse/Jean-Philippe Berens with international delegations</answer>
+
+<question_number>8</question_number>
+<answer>Palais de Tokyo's food hall with chouquettes, bao, gazpacho, and VR swimming</answer>
+
+<question_number>9</question_number>
+<answer>Roland-Garros chef's produce delivery concerns under French-sourced sustainability rules</answer>
+
+<question_number>10</question_number>
+<answer>Offers accessible options like vegan hot dogs while featuring 15k-euro luxury boat dinners</answer>

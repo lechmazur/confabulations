@@ -1,0 +1,67 @@
+merged_wildfires-schools-close-la-county.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>62</answer>
+<other>The article states "At least 18 of the 80 school districts in the county issued statements announcing that schools would close for the day." So 80-18=62 districts remained open.</other>
+
+<question_number>3</question_number>
+<answer>Eaton fire</answer>
+<other>The article mentions that Azusa Unified School District cited the "nearby Eaton fire" as a reason for closure, but does not mention Las Virgenes Unified School District citing this specific fire.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Several districts mentioned expecting to reopen on Thursday, but none announced closures specifically for Thursday instead of Wednesday.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>1</answer>
+<other>Only the Eaton fire is explicitly named in the article as impacting school closure decisions.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article doesn't state that Matthew Mpoke Bigg covered Kamala Harris's tour. He is identified as "a London-based reporter on the Live team at The Times" but his role in covering the specific tour is not mentioned.</other>
+
+<question_number>11</question_number>
+<answer>Azusa Unified School District</answer>
+
+<question_number>12</question_number>
+<answer>El Monte City School District</answer>
+
+<question_number>13</question_number>
+<answer>Temple City Unified School District</answer>
+
+<question_number>14</question_number>
+<answer>Las Virgenes Unified School District</answer>
+
+<question_number>15</question_number>
+<answer>Alhambra Unified School District</answer>
+
+<question_number>16</question_number>
+<answer>Matthew Mpoke Bigg</answer>
+
+<question_number>17</question_number>
+<answer>Azusa Unified School District</answer>
+<other>Azusa Unified School District mentioned the Eaton fire, but the article doesn't mention when they planned to reopen.</other>
+
+<question_number>18</question_number>
+<answer>Monrovia Unified School District</answer>
+
+<question_number>19</question_number>
+<answer>Temple City Unified School District</answer>
+<other>Temple City Unified School District mentioned downed trees, power outages, and damage, but did not connect these to the Eaton fire specifically.</other>
+
+<question_number>20</question_number>
+<answer>Los Angeles Unified School District</answer>

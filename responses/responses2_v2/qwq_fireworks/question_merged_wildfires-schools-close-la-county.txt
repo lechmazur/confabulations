@@ -1,0 +1,148 @@
+merged_wildfires-schools-close-la-county.txt
+Okay, let's tackle these questions one by one. I need to be careful and only use the information given in the article. Let me start by reading through each question again and then check the article for the answers.
+
+1. **Question 1:** Which school district mentioned Kamala Harris's tour? The article mentions Kamala Harris touring fire damage, but I need to check if any school district's closure was linked to her visit. Scanning through the school districts listed, none of their closure reasons mention her. So the answer is N/A.
+
+2. **Question 2:** How many districts remained open? The article says at least 18 out of 80 closed. The question is about how many stayed open. The article doesn't state the exact number open, just that 18 closed. Since it's "at least" 18, the exact number can't be inferred. Answer N/A.
+
+3. **Question 3:** Both Azusa and Las Virgenes cited a wildfire name. Azusa mentions the Eaton fire. Las Virgenes' closure was "out of caution" but didn't mention a specific fire. So no common named fire. Answer N/A.
+
+4. **Question 4:** San Marino required insurance documentation? The article says San Marino closed due to power outages but no mention of insurance steps. The insurance part is in a different section about the regulator, not the district. Answer N/A.
+
+5. **Question 5:** District closed Thursday instead of Wednesday? The article states some expected to reopen Thursday, but closures were on Wednesday. No mention of a district delaying closure to Thursday. Answer N/A.
+
+6. **Question 6:** Flooding from firefighting? The reasons given are wind, power outages, etc. No mention of flooding from firefighting efforts. Answer N/A.
+
+7. **Question 7:** Total named wildfires impacting closures? Only "Eaton fire" is mentioned by Azusa. Others don't name fires. So total is 1. Answer 1.
+
+8. **Question 8:** Collaboration with insurance commissioner? The insurance part is a separate paragraph about the regulator, not any school district's announcement. Answer N/A.
+
+9. **Question 9:** Neighboring wildfire from Malibu? Santa Monica-Malibu is a district, but their closure is due to high winds, not a neighboring fire. No mention of a Malibu-started fire affecting others. Answer N/A.
+
+10. **Question 10:** Matthew's role in covering Harris's tour? The article says he's a reporter covering the wildfires and mentions Harris's tour as part of the coverage. So his role is reporter. Answer reporter.
+
+11. **Question 11:** District citing volatile winds and Eaton fire? Azusa's announcement mentions both. So answer Azusa Unified School District.
+
+12. **Question 12:** Uncertainty of power service with winds? El Monte's announcement cites strong winds and uncertainty of power service. Answer El Monte City School District.
+
+13. **Question 13:** Downed trees, power outages, etc.? Temple City mentions those. Answer Temple City Unified School District.
+
+14. **Question 14:** "Out of abundance of caution" with next day reopening? Las Virgenes says that and expects to reopen Thursday. Answer Las Virgenes Unified School District.
+
+15. **Question 15:** Closure focused only on safety without events? Alhambra's statement is "ensure safety... without mentioning winds or power. Answer Alhambra Unified School District.
+
+16. **Question 16:** London-based journalist? Matthew Mpoke Bigg is mentioned. Answer Matthew Mpoke Bigg.
+
+17. **Question 17:** Eaton fire affected and implied to resume? Azusa mentions Eaton fire but the reopening detail isn't linked to it. The article says they expected to reopen, but the connection isn't there. Answer Azusa Unified School District.
+
+18. **Question 18:** Only high winds, no other factors? Monrovia cites "high winds impacting our region" without other issues. Answer Monrovia Unified School District.
+
+19. **Question 19:** Downed trees but no Eaton connection? Temple City mentioned those issues, but the Eaton fire was mentioned by Azusa. So Temple City's issues aren't linked to Eaton. Answer Temple City Unified School District.
+
+20. **Question 20:** District before one citing high winds? Looking at the list order after Los Angeles Unified (which closed some schools) comes Monrovia, which cites high winds. So the one before Monrovia is Valle Lindo? Wait, the list order in the article: The list after "Valle Lindo School District" is the last one. Wait, need to check the order in the article's list. Let me recount:
+
+The school districts listed in order after the example of Azusa are:
+
+Alhambra, Arcadia, Azusa, Burbank, Duarte, El Monte, Glendale, La Canada, Las Virgenes, Los Angeles Unified, Monrovia, Mountain View, Pasadena, San Marino, Santa Monica-Malibu, South Pasadena, Temple City, Valle Lindo.
+
+Wait the exact order from the text:
+
+After Azusa's announcement, the list continues:
+
+Alhambra... Arcadia... Azusa (repeated?), Burbank, Duarte, El Monte, Glendale, La Canada, Las Virgenes, Los Angeles Unified, Monrovia, Mountain View, Pasadena, San Marino, Santa Monica-Malibu, South Pasadena, Temple City, Valle Lindo.
+
+Wait, the actual order as written:
+
+The article lists the districts after the Azusa example as:
+
+- Alhambra: closed, safety reason.
+
+- Arcadia: closed, precautions.
+
+- Azusa: closed (repeats Azusa, but maybe typo?)
+
+Wait the article says:
+
+"Here is a list of some of the school districts that have announced closures: Alhambra... Arcadia... Azusa... Burbank... Duarte... El Monte... Glendale... La Canada... Las Virgenes... Los Angeles Unified... Monrovia... Mountain View... Pasadena... San Marino... Santa Monica-Malibu... South Pasadena... Temple City... Valle Lindo."
+
+Wait the order is:
+
+1. Alhambra
+
+2. Arcadia
+
+3. Azusa
+
+4. Burbank
+
+5. Duarte
+
+6. El Monte
+
+7. Glendale
+
+8. La Canada
+
+9. Las Virgenes
+
+10. Los Angeles Unified (some closures)
+
+11. Monrovia (high winds)
+
+12. Mountain View (high winds)
+
+13. Pasadena
+
+14. San Marino (power outages)
+
+15. Santa Monica-Malibu (high winds?)
+
+16. South Pasadena
+
+17. Temple City (damage from wind)
+
+18. Valle Lindo
+
+The question asks which district is noted only for announcing closures at some schools without details, appearing before the one that cited high winds. Los Angeles Unified says "closures at some schools." The next district after that is Monrovia, which cited high winds. So the answer would be Los Angeles Unified School District. Because the question says "noted only for announcing closures at some schools without extra details" (LAUSD did that) and comes before Monrovia, which cited high winds. So answer Los Angeles Unified School District.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>1</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>reporter</answer>
+<question_number>11</question_number>
+<answer>Azusa Unified School District</answer>
+<question_number>12</question_number>
+<answer>El Monte City School District</answer>
+<question_number>13</question_number>
+<answer>Temple City Unified School District</answer>
+<question_number>14</question_number>
+<answer>Las Virgenes Unified School District</answer>
+<question_number>15</question_number>
+<answer>Alhambra Unified School District</answer>
+<question_number>16</question_number>
+<answer>Matthew Mpoke Bigg</answer>
+<question_number>17</question_number>
+<answer>Azusa Unified School District</answer>
+<question_number>18</question_number>
+<answer>Monrovia Unified School District</answer>
+<question_number>19</question_number>
+<answer>Temple City Unified School District</answer>
+<question_number>20</question_number>
+<answer>Los Angeles Unified School District</answer>

@@ -1,0 +1,45 @@
+merged_eaton-fire-power-lines-edison.txt
+<question_number>1</question_number>
+<answer>3 seconds</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>19</answer>
+<other>The article states "19 of the company's employees had also lost their homes in the fire" but doesn't specify which fire (Eaton or Hurst). Since the context is primarily about the Eaton fire, I'm inferring it refers to the Eaton fire.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article mentions they found signs of damage from arcing on inactive equipment, but doesn't specify what type of electrical equipment was damaged during the January 19 testing.</other>
+
+<question_number>5</question_number>
+<answer>January 19</answer>
+
+<question_number>6</question_number>
+<answer>Southern California Edison</answer>
+
+<question_number>7</question_number>
+<answer>Whisker Labs</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article mentions Edison found signs of arcing damage on inactive equipment but doesn't specify the location.</other>
+
+<question_number>9</question_number>
+<answer>100 miles per hour</answer>
+
+<question_number>10</question_number>
+<answer>The New York Times</answer>
+
+<question_number>11</question_number>
+<answer>Cut power to three distribution circuits</answer>
+
+<question_number>12</question_number>
+<answer>$10 billion</answer>
+
+<question_number>13</question_number>
+<answer>Pedro J. Pizarro</answer>
+
+<question_number>14</question_number>
+<answer>January</answer>

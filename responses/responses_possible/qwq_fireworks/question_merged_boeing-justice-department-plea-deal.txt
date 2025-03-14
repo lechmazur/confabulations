@@ -1,0 +1,56 @@
+merged_boeing-justice-department-plea-deal.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article and answer exactly what's asked without any extra details. Let me go through each question carefully.
+
+1. **What condition in the 2021 agreement did Boeing allegedly violate, leading to the current plea deal?**
+   - The article mentions that Boeing failed to "design, implement and enforce" an ethics and compliance program to prevent fraud. That's the condition they violated.
+
+2. **What aspect of the plea deal do the families argue is inconsistent with typical treatment of criminal defendants?**
+   - The families say the deal gives Boeing concessions that other defendants wouldn't get. The quote from Paul Cassell mentions "sweetheart deal" and "concessions."
+
+3. **Total amount Boeing spent because of crashes including fines, payments to families, reimbursements to airlines, etc.?**
+   - The article states Boeing has spent about $20 billion total.
+
+4. **How much will Boeing invest over three years to strengthen compliance and safety?**
+   - The figure given is $455 million.
+
+5. **Percentage of Boeing's 2023 revenue from U.S. government contracts?**
+   - It says nearly 40%.
+
+6. **Who said the government's agreement with Boeing is "clearly not in the public interest"?**
+   - Paul G. Cassell, the lawyer for the families.
+
+7. **What program is Danielle Kaye part of, mentioned as for early career journalists?**
+   - The David Carr Fellow program, specifically the 2024 one.
+
+8. **How many months was the global ban on 737 Max jets?**
+   - The article mentions a 20-month global ban.
+
+9. **Who appoints the independent compliance monitor?**
+   - The Justice Department appoints them.
+
+10. **Name of the company involved in a nearly two-decade outsourcing experiment?**
+    - Spirit AeroSystems, which Boeing agreed to buy.
+
+Wait, let me double-check each answer against the text to ensure accuracy. For question 10, the article says Boeing bought Spirit AeroSystems, ending a nearly two-decade experiment in outsourcing. That's correct. All others seem to align with the details provided. I think that's all.
+</think>
+
+<question_number>1</question_number>
+<answer>failed to design implement and enforce an ethics and compliance program to prevent and detect violations of U.S fraud laws</answer>
+<question_number>2</question_number>
+<answer>the deal gives Boeing concessions other criminal defendants would never receive</answer>
+<question_number>3</question_number>
+<answer>$20 billion</answer>
+<question_number>4</question_number>
+<answer>$455 million</answer>
+<question_number>5</question_number>
+<answer>nearly 40%</answer>
+<question_number>6</question_number>
+<answer>Paul G. Cassell</answer>
+<question_number>7</question_number>
+<answer>David Carr Fellow</answer>
+<question_number>8</question_number>
+<answer>20</answer>
+<question_number>9</question_number>
+<answer>Justice Department</answer>
+<question_number>10</question_number>
+<answer>Spirit AeroSystems</answer>

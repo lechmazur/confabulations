@@ -1,0 +1,125 @@
+merged_los-angeles-wildfires-restaurants.txt
+Okay, I need to go through each question one by one and make sure I answer them based solely on the article provided. Let me start by reading through the questions again and then check the article for the answers.
+
+1. **How many pizzas did LaSorted's restaurant produce for emergency workers during the first day of their volunteer operation?**  
+The article mentions pizza makers at LaSorted's but doesn't specify the number of pizzas made on the first day. So N/A.
+
+2. **Which former restaurant employee who became displaced by the fires later returned to help coordinate meal deliveries at Ruby Fruit?**  
+The Ruby Fruit's owners announced a closure, but there's no mention of a displaced employee returning there. Tommy Brockert is mentioned as LaSorted's chef, but Ruby Fruit's case is about owners closing due to financial strain. So N/A.
+
+3. **Total monetary value of donations received by participating restaurants?**  
+The article says donations are part of their support but doesn't give a figure. Answer N/A.
+
+4. **Emily Wilson's newsletter: largest corporate sponsor?**  
+No corporate sponsor is named. She tracked resources but didn't mention a sponsor. N/A.
+
+5. **How many air purifiers Tommy Brockert installed?**  
+The article says restaurants used air purifiers, but no number for LaSorted's. N/A.
+
+6. **First volunteer driver arrival time at LaSorted's?**  
+No time mentioned. N/A.
+
+7. **Scheduling software platform used?**  
+The text mentions spreadsheets and DMs, but not a specific platform. N/A.
+
+8. **Average daily temperature in the makeshift kitchen?**  
+No temperature data provided. N/A.
+
+9. **Number of evacuated workers helping?**  
+The article states many were displaced but gives no exact count. N/A.
+
+10. **Square footage of converted dining space?**  
+No square footage mentioned. N/A.
+
+11. **Technology Emily Wilson used in her newsletter?**  
+The article says she "tracked the various resources they provided, along with their fund-raisers and calls for volunteers and donations." The specific tech isn't named, but since she used a newsletter, maybe spreadsheets? Wait, the question says "technology"—maybe the answer is "a map" but the LA Times made the map. Wait, the question is about Emily Wilson's newsletter. The article says she tracked via her newsletter. The article says "Emily Wilson tracked the various resources they provided, along with their fund-raisers and calls for volunteers and donations." But it doesn't specify the technology. However, the LA Times used a map, but the question is about Emily's newsletter. Hmm. Wait, maybe the answer is "spreadsheets" but the LA Times used a map. The question is about Emily's method. The article says she "tracked" using her newsletter, but the technology isn't specified. So N/A.
+
+Wait, actually, the article says "Emily Wilson tracked the various resources they provided, along with their fund-raisers and calls for volunteers and donations." The technology isn't specified. So N/A.
+
+12. **Number of hot dinners provided to 200 people across five locations?**  
+The article says "200 people spread across five locations will get a hot dinner." So the answer is 200.
+
+13. **Kamala Harris's position when touring?**  
+The article says "Kamala Harris Tours Destruction: Former Vice President Kamala Harris toured..." So her position was Former Vice President.
+
+14. **Headwear supporting a local sports team?**  
+The line outside had "blue Dodgers hats" which support the Dodgers (local sports team). So answer: blue Dodgers hats.
+
+15. **Silver Lake establishment reviewed by Tejal Rao that closed temporarily?**  
+Ruby Fruit, a lesbian bar in Silver Lake that she reviewed. So Ruby Fruit.
+
+16. **Profession of people Tejal took to dinner after being at laptops?**  
+They were reporters. "I took some of my colleagues to dinner... reporters had been in the field all day..."
+
+17. **Name of the regulator regarding insurance?**  
+California's top insurance regulator is mentioned, but the name isn't given. So N/A.
+
+18. **Alcoholic beverage Tejal had with her husband?**  
+She drank wine. "drinking wine with my husband."
+
+19. **City where officials said another week before return?**  
+Los Angeles. The article mentions "city officials have said it will be another week..." and context is LA wildfires.
+
+20. **Other food item the toddler interacted with?**  
+Salad leaves. "threw a few salad leaves onto the floor."
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+
+<question_number>12</question_number>
+<answer>200</answer>
+
+<question_number>13</question_number>
+<answer>Former Vice President</answer>
+
+<question_number>14</question_number>
+<answer>blue Dodgers hats</answer>
+
+<question_number>15</question_number>
+<answer>Ruby Fruit</answer>
+
+<question_number>16</question_number>
+<answer>reporters</answer>
+
+<question_number>17</question_number>
+<answer>N/A</answer>
+
+<question_number>18</question_number>
+<answer>wine</answer>
+
+<question_number>19</question_number>
+<answer>Los Angeles</answer>
+
+<question_number>20</question_number>
+<answer>salad leaves</answer>

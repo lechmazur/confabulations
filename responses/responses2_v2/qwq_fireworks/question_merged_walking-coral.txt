@@ -1,0 +1,141 @@
+merged_walking-coral.txt
+Okay, let's tackle these questions one by one using the article provided. I need to make sure I only use the information given and not any outside knowledge. Let me start by reading through the questions again and then check the article for each answer.
+
+1. **Average speed in mm per minute during movement toward blue light?** The article mentions that over 24 hours, a coral moved 220 mm. To find the average speed, I can calculate 220 mm divided by (24 hours * 60 minutes). But wait, the question asks for the average speed, so that would be 220/(24*60) ≈ 0.152 mm/min. But does the article explicitly state this? It says "220 millimeters over the course of 24 hours" but doesn't give average speed directly. Since the question asks for the average speed based on the experiment, I can infer it, so the answer might be 0.152 or similar. Wait, but maybe the question is expecting a direct value from the text? Hmm, the article doesn't calculate it, so maybe N/A? Wait, the article says "periodic pulses" moved it 220 mm over 24 hours. The question is asking for average speed, so even if not stated, it's a calculation. Since the user allows logical inference, I can compute it. So 220 divided by (24*60) ≈ 0.152777... So about 0.15 mm/min. But maybe the article gives another number? Let me check again. Wait, the article says "it can take several hours for a mushroom coral to move just over an inch." An inch is about 25.4 mm. So over several hours, but not exact. But the 220 mm over 24 hours is the exact number given. So the answer should be 220/(24*60) ≈ 0.152. But since the user wants the answer as per the article, maybe they expect the 220 mm over 24 hours, so the average speed is 220/24 = ~9.166 mm/hour. But the question asks per minute. Hmm. Since the user allows logical inference, I can do the math. So the answer would be approximately 0.15 mm/min. But the question might expect N/A if it's not explicitly stated. Wait, the question says "based solely on the facts in the text". The text only gives total distance over 24 hours. So maybe the answer is N/A because the average speed isn't given directly? Wait, the problem says "if the answer is not provided and cannot be logically inferred, write N/A". Since we can calculate it, it's allowed. So the answer is 220 divided by (24*60) = 220/1440 ≈ 0.152777... So approximately 0.15 mm per minute. But the article might not mention this exact figure. Since the user wants the answer in the article, but it's not there. Wait, the article says "220 millimeters over the course of 24 hours". The question asks for average speed in mm per minute. Since that can be calculated, it's an inference, so acceptable. So answer is 0.15 mm/min (rounded). Alternatively, maybe the question expects the total distance over 24 hours but phrased as speed. But the question is clear. Hmm, maybe the article doesn't give enough details? Let me check again. The article says "a series of 'periodic pulses' moved a mushroom coral 220 millimeters over the course of 24 hours." So the average speed is 220 divided by 24 hours. The question is per minute. So 220/(24*60). So the exact number would be 220/(1440) = 0.152777... So maybe the answer is 0.15 mm/min. Since the user allows inference, I can go with that. But maybe the article doesn't mention the average speed, so the answer is N/A? Wait, the user says "if the answer is not provided and cannot be logically inferred, write N/A". Since it can be inferred, it's okay. So I'll put 0.15 (or maybe exact fraction?), but the article might not give decimals. Alternatively, maybe the answer is N/A because it's not explicitly stated. Hmm, tricky. Let me note that for now.
+
+2. **Which marine biologist first documented the jellyfish-like pulsing in 1992?** The article says the idea was first proposed in 1992, but the first documentation was in 1995. The 1995 study didn't have good video, so the question asks who first documented the mechanism in 1992. Wait, the question says "first documented the jellyfish-like pulsing mechanism... in 1992 studies". But according to the article: "the idea of roving corals was first proposed in 1992 and then documented for the first time in 1995". So the 1992 was the proposal, not the documentation. The first documentation was in 1995. The question is asking about the 1992 studies, but that's when it was proposed, not documented. The question is about who documented the mechanism in 1992, but according to the article, that's not when it was documented. So the answer would be N/A, since the 1992 was just a proposal, not the documentation. The 1995 study was the first documentation but they didn't have good video. The current study by Dr. Lewis is the one that did the biomechanics. So the answer is N/A because the 1992 studies didn't document it; they only proposed it.
+
+3. **How many different species of solitary corals demonstrated walking in Dr. Lewis's experiments?** The article mentions "mushroom corals" in general, but doesn't specify how many species were tested. The first sentence says "mushroom corals" but doesn't give a number. So the answer is N/A.
+
+4. **What percentage of mushroom coral populations successfully complete migration from colonial to deeper waters?** The article mentions migration reasons but doesn't give a percentage. So N/A.
+
+5. **At what water depth did mushroom corals show strongest response to blue light?** The article mentions the setup with blue light resembling deeper areas, but doesn't give specific depth. The experiment used simulated light conditions, not actual depth. So N/A.
+
+6. **How many hours of inflation before a "pop" movement?** The article says "they spend a long time inflating the tissues on the outermost edge before releasing them quickly." But no specific hours. It mentions "several hours to move just over an inch" but that's total time. The question is about the time per "pop". Since the article doesn't specify, N/A.
+
+7. **Mortality rate during migration phase?** The article doesn't mention mortality rates. N/A.
+
+8. **Chemical signals triggering movement from toxic sponges?** The article says they move to escape "aggressive competitors for space, such as toxic sponges" but doesn't mention chemical signals. So N/A.
+
+9. **Increase in reproductive success for those that migrated?** The article states migration "assists in reproduction" but doesn't give a percentage increase. N/A.
+
+10. **Color of light used in 1992 to document behavior?** The first documentation was in 1995, not 1992. The 1992 was a proposal. The question is about the 1992 study, which didn't document it. So N/A. Wait, the question says "initially documented the behavior in 1992" but the article says first documented in 1995. So the answer is N/A because the 1992 didn't document it. Wait, the question is asking what color was used in 1992. Since the 1992 didn't document, so N/A.
+
+11. **Marine organism related to corals that Dr. Hoeksema studied?** The article says mushroom corals are related to jellyfish. Dr. Hoeksema is a coral taxonomist who commented on the study. The question asks what organism related to corals he studied. Since corals are related to jellyfish, maybe jellyfish. The answer is jellyfish. The article says "coral's closest cousins, the jellyfish" so Hoeksema likely studies jellyfish. So answer: jellyfish.
+
+12. **University's research program similar to Dr. Lewis's investigating interaction with toxic sponges?** The article mentions Dr. Lewis's research, and the interaction with toxic sponges is mentioned as a reason for migration. The question asks which university's program would investigate this. The article mentions Dr. Hoeksema is at University of Groningen, but he's a taxonomist. Dr. Lewis is at Queensland University of Technology. So the answer would be Queensland University of Technology, since that's where Lewis is. So answer: Queensland University of Technology.
+
+13. **Earlier study referenced in 1995 that proposed colonial corals moving like mushroom corals?** The article says the idea was first proposed in 1992. The 1995 study documented it. So the 1992 study proposed it. The question is which earlier study (the 1992 one) proposed it. The article doesn't name the 1992 study or its authors. So N/A.
+
+14. **Light preferred for shallow coastal habitats used in Dr. Lewis's experiment?** The article says one side had "sliver of white light, like shallow coastal habitats". So white light. The question asks what light was used to observe the 24-hour movement. The experiment used white light for shallow and blue for deeper. Since the coral moved toward blue, but the question is about the light used in the setup for the shallow side. The question might be asking which light was used to observe their movement over 24 hours? Wait, the setup had both lights. The movement was toward the blue. The question is asking what light was used to observe the 24-hour movement? The article mentions the setup had both, but the question might be referring to the white light as the one for shallow. The answer is white light. Because the shallow side had white light. The question says "preferred by mushroom corals for its resemblance to shallow coastal habitats"—so they preferred blue, but the white light is the shallow one. Wait, the corals preferred the blue light (the deeper area). The shallow side had white light. The question asks what light was used to observe the 24-hour movement? The experiment used both lights, but the coral moved towards blue. The question is about the light that resembles shallow (white), but the answer would be the white light was used as part of the setup. But the question is phrased: "what marine organism... did Dr. Hoeksema study?" Wait no, question 14 is: "What type of light, preferred by mushroom corals for its resemblance to shallow coastal habitats, did Dr. Lewis use to observe the 24-hour movement of the coral?" Wait, the coral preferred the blue light (deep), but the white light is the shallow. Since they moved away from the white light, the white light is the shallow one, but they didn't prefer it. The question is asking what light was used in the setup that resembles shallow, which is white. The answer is white light. So answer: white light.
+
+15. **Name of marine ecologist who used time-lapse to reveal biomechanics?** The article says Dr. Lewis did the time-lapse. The question refers to the one building on the 1995 study. So answer: Brett Lewis.
+
+16. **Illegal activity related to coral trafficking?** The article mentions Jason Bittel previously reported on federal efforts to manage illegal coral trafficking. So the answer is coral trafficking.
+
+17. **Maximum distance in cm in 48 hours?** The article says 220 mm in 24 hours. So in 48 hours, that's 440 mm, which is 44 cm. So answer: 44.
+
+18. **Environmental condition prompting faster movement?** The article mentions they move to escape being buried, toppled, or near toxic sponges. The question asks what condition among colonial corals prompts them to move faster. The article says "wave-bombarded areas" are where they start. So maybe wave bombardment? The question says "environmental condition... encountered by mushroom corals among colonial corals" which are crowded and bombarded by waves. So the condition prompting them to move is wave bombardment. The answer is wave-bombarded areas or waves. The article says "these habitats tend to be crowded and bombarded by waves. Later in life, it behooves the mushroom corals to migrate to deeper but calmer waters..." So the environmental condition is wave bombardment. The answer is wave bombardment.
+
+19. **Publication featuring Dr. Lewis's research?** The article mentions the study was published in PLoS One. So answer: PLoS One.
+
+Now, let's go through each question again with these answers:
+
+1. The calculation: 220mm over 24 hours. 24*60=1440 min. 220/1440≈0.15277... So 0.15 mm/min. But the article doesn't state this, so maybe N/A? Wait, the problem says "if the answer is not provided and cannot be logically inferred, write N/A". Since it can be inferred, then 0.15 is okay, but maybe the article says "periodic pulses" moved them 220mm in 24h. The question asks for average speed, so it's 220 divided by 24 hours, which is about 9.166 mm/hour. But the question wants per minute. So 9.166 /60 ≈0.1527. Since the article doesn't give the per minute, but allows inference, I'll put 0.15. Alternatively, maybe the question expects N/A because it's not directly stated. Hmm. Wait, the exact number given is 220 mm over 24 hours. The question asks for average speed in mm per minute. Since that's a calculation from the given data, it's allowed. So the answer is approximately 0.15, but since the question might expect an exact figure, maybe the article's number is 220/24= ~9.166 mm/hour, but the question is per minute. So 9.166/60=0.15277. So 0.15 mm/min. But perhaps the answer is N/A because the article doesn't state it. The user instructions say to use only the article. Since the article gives total distance over time, but not speed, maybe the answer is N/A. Wait, the problem says "if the answer is not provided and cannot be logically inferred, write N/A". Since it can be inferred, then it's allowed. So I think 0.15 is okay. Alternatively, the article might not mention speed, so maybe the answer is N/A. Hmm, this is a bit ambiguous, but I'll go with the calculation.
+
+2. N/A because 1992 was proposal, not documentation.
+
+3. N/A, article doesn't say how many species.
+
+4. N/A, no percentage given.
+
+5. N/A, depth not mentioned, only light conditions.
+
+6. N/A, time per inflation not given.
+
+7. N/A, no mortality rate mentioned.
+
+8. N/A, no chemical signals mentioned.
+
+9. N/A, no percentage increase.
+
+10. The 1992 study didn't document, so N/A.
+
+11. jellyfish.
+
+12. Queensland University of Technology.
+
+13. N/A, the 1992 study isn't named.
+
+14. white light.
+
+15. Brett Lewis.
+
+16. coral trafficking.
+
+17. 44 (cm).
+
+18. wave-bombarded areas.
+
+19. PLoS One.
+
+Okay, I think that's all. Let's structure the answers now.
+</think>
+
+<question_number>1</question_number>
+<answer>0.15</answer>
+<other>Calculated from 220 mm over 24 hours: 220/(24*60) ≈0.15 mm/min.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>1992 proposed idea, not documented until 1995.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Article does not specify number of species tested.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>No percentage provided in text.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Depth not mentioned; only light conditions described.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Time per inflation cycle not quantified in article.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Mortality rate not discussed in text.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>No mention of chemical signals triggering movement.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>No specific increase in reproductive success stated.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>1992 study only proposed idea; documentation began in 1995.</other>
+<question_number>11</question_number>
+<answer>jellyfish</answer>
+<other>Text states mushroom corals' movement mechanism is similar to jellyfish.</other>
+<question_number>12</question_number>
+<answer>Queensland University of Technology</answer>
+<other>Dr. Lewis's affiliation is listed here.</other>
+<question_number>13</question_number>
+<answer>N/A</answer>
+<other>1992 study not named in text.</other>
+<question_number>14</question_number>
+<answer>white light</answer>
+<other>White light simulated shallow coastal conditions in experiments.</other>
+<question_number>15</question_number>
+<answer>Brett Lewis</answer>
+<other>Explicitly stated as lead researcher in study.</other>
+<question_number>16</question_number>
+<answer>illegal coral trafficking</answer>
+<other>Explicitly mentioned in article's opening paragraph.</other>
+<question_number>17</question_number>
+<answer>44</answer>
+<other>220 mm/24 hours = 440 mm/48 hours = 44 cm.</other>
+<question_number>18</question_number>
+<answer>wave-bombarded areas</answer>
+<other>Text states mushroom corals leave crowded/wave-bombarded colonial habitats.</other>
+<question_number>19</question_number>
+<answer>PLoS One</answer>
+<other>Study published there per article.</other>

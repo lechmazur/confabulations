@@ -1,0 +1,48 @@
+merged_alcohol-surgeon-general-warning.txt
+Okay, let's tackle these questions one by one using the article provided. I need to make sure I only use the information given and follow the instructions strictly. 
+
+1. The first question asks about a non-drinking federal health official who supports label changes and participates in addiction recovery meetings. The article mentions Robert F. Kennedy Jr. as the choice to head HHS, and he swore off alcohol and drugs, attending AA meetings. So that's him.
+
+2. For the second question, the absolute risk difference for men: the article states that for men, the risk goes from 10% (less than weekly) to 13% (two drinks daily). The difference is 3 percentage points.
+
+3. The chemical when alcohol breaks down is acetaldehyde, which binds to DNA. The text says alcohol breaks down into acetaldehyde.
+
+4. The country with optional cancer warnings is South Korea. The article mentions South Korea has a label for liver cancer but allows alternatives without cancer mentions.
+
+5. The 2019 survey: 89% recognized tobacco, fewer than half (so less than 50%) for alcohol. The exact percentage isn't given, but the question asks for the comparison. The answer would be "fewer than half compared to 89%".
+
+Wait, the question says "what percentage of Americans recognize alcohol... compared to those who identify tobacco as carcinogenic". The article states "Fewer than half of Americans identified alcohol use as a risk factor for cancer, compared with 89 percent who recognized tobacco as a carcinogen." So the answer is "fewer than half compared to 89%".
+
+6. The research project terminated due to industry opposition was a Canadian study funded federally. The article says industry opposition led to the termination of a federally funded Canadian study on warning labels mentioning cancer.
+
+7. Breast cancer risk increase between less than weekly and one drink daily: from 11.3% to 13.1%, so 1.8 percentage points. The article says 11.3% to 13.1%, so 1.8.
+
+8. The heart condition linked to moderate drinking is atrial fibrillation. The article mentions atrial fibrillation as a heart arrhythmia linked to moderate consumption.
+
+9. The year the Dietary Guidelines first mentioned alcohol and breast cancer was 2000. The article says the link was first mentioned in the 2000 U.S. Dietary Guidelines.
+
+10. Dr. Murthy states 1 out of 6 breast cancer cases are from alcohol. The article says "one of every six breast cancer cases is attributable to alcohol".
+
+Now, checking each answer against the text to ensure accuracy and that I didn't infer beyond what's stated. For question 5, the answer is exactly as phrased in the article. All others seem to have exact numbers except where N/A might apply, but I think all have answers here.
+</think>
+
+<question_number>1</question_number>
+<answer>Robert F. Kennedy Jr.</answer>
+<question_number>2</question_number>
+<answer>3</answer>
+<question_number>3</question_number>
+<answer>acetaldehyde</answer>
+<question_number>4</question_number>
+<answer>South Korea</answer>
+<question_number>5</question_number>
+<answer>fewer than half compared to 89%</answer>
+<question_number>6</question_number>
+<answer>a federally funded Canadian study</answer>
+<question_number>7</question_number>
+<answer>1.8</answer>
+<question_number>8</question_number>
+<answer>atrial fibrillation</answer>
+<question_number>9</question_number>
+<answer>2000</answer>
+<question_number>10</question_number>
+<answer>one of every six</answer>

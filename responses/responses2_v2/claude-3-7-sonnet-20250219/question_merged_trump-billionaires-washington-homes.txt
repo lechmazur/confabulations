@@ -1,0 +1,80 @@
+merged_trump-billionaires-washington-homes.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article mentions Musk is trying to buy the Line Hotel in Adams Morgan, but doesn't mention any Georgetown property he considered.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article doesn't specify how many of Trump's second-term cabinet members previously served as CEOs of Fortune 500 companies.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article mentions campaign contributions to Trump's 2024 campaign, not his 2020 campaign.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention which real estate agent approached Howard Lutnick about Bret Baier's property.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article doesn't provide percentage increases in luxury home prices for Embassy Row or any specific area following Trump's election.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article mentions Scott Bessent looking at a Federal-style house on N Street that was once Joseph Alsop's home, but doesn't mention who owned it before Alsop.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article mentions Peter Thiel purchased Wilbur Ross's home but doesn't discuss any renovation plans.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any bidding competition between Jeff Bezos and another tech billionaire for a property in Kalorama.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article mentions Howard Lutnick purchased Bret Baier's French Chateau-style home and that Sally Quinn has an 18-room Georgetown home, but doesn't provide square footage for either property.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any private meetings held by Vivek Ramaswamy in the Eisenhower Executive Building.</other>
+
+<question_number>11</question_number>
+<answer>N Street</answer>
+<other>The article mentions Sally Quinn's Georgetown home on N Street that she shared with Benjamin Bradlee (Washington Post editor) and was once owned by Robert Todd Lincoln (Abraham Lincoln's son).</other>
+
+<question_number>12</question_number>
+<answer>Federal-style</answer>
+<other>The article mentions Scott Bessent looking at a $7 million Federal-style house on N Street that was once Joseph Alsop's home.</other>
+
+<question_number>13</question_number>
+<answer>Federal-style</answer>
+<other>The article mentions Scott Bessent (Treasury secretary nominee worth over $700 million) looking at a Federal-style house on N Street.</other>
+
+<question_number>14</question_number>
+<answer>N/A</answer>
+<other>The article doesn't specify what policy area championed by David Rubenstein might be influenced by the Department of Government Efficiency.</other>
+
+<question_number>15</question_number>
+<answer>3</answer>
+<other>The article mentions Penny Pritzker ($4.1 billion) from Biden's administration, and Elon Musk ($429 billion) and Vivek Ramaswamy ($1 billion) from Trump's administration. While Ramaswamy is below $4 billion, the question asks for the minimum number including Pritzker, so the answer is 3.</other>
+
+<question_number>16</question_number>
+<answer>N/A</answer>
+<other>The article doesn't provide information about the price increase experienced by Sally Quinn's home or enough details to calculate a potential selling price for Bezos' property.</other>
+
+<question_number>17</question_number>
+<answer>Presidential pardon</answer>
+<other>The article mentions that Trump pardoned Charles Kushner, a major donor to Trump's 2024 campaign, in the last days of his first term.</other>
+
+<question_number>18</question_number>
+<answer>Georgetown</answer>
+<other>The article specifically mentions Georgetown as having "cobblestone lanes [that] were traditionally the preserve of Washington's old-line elite" and quotes Jamie Peva saying "That whole WASP hegemony that started to decline in the '80s just continued to decline" and "It's a meritocracy."</other>
+
+<question_number>19</question_number>
+<answer>0.0008</answer>
+<other>Jeffrey Zients' highest reported asset value is $338 million, while Elon Musk's net worth is $429 billion. The ratio is 338/429,000 = 0.0008 (approximately).</other>
+
+<question_number>20</question_number>
+<answer>Georgetown</answer>
+<other>The article describes Georgetown as having cobblestone lanes that were traditionally the preserve of Washington's old-line elite, and mentions the WASP hegemony declining as tech moves in, making it a meritocracy.</other>

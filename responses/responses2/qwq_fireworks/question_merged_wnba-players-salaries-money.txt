@@ -1,0 +1,22 @@
+merged_wnba-players-salaries-money.txt
+Okay, let me tackle these questions one by one based on the article provided.
+
+First question: How much did the New York Liberty get fined for chartering flights in 2020?
+
+Looking through the article, there's a part that says, "The New York Liberty was fined $500,000 for chartering planes for the team." But wait, the timing here is important. The question specifies the year 2020. The article mentions this fine happened "just two years ago" from the time of the article. The article was written during the 2024 All-Star weekend (since the 2023 media deals are mentioned and the Valkyries are an expansion team, which started in 2023). So two years before 2024 would be 2022. Since the question asks about 2020, that's a discrepancy. Therefore, the answer should be N/A because the article doesn't mention a 2020 fine, only a 2022 one.
+
+Second question: Besides Bumble, Mielle, and Opill, what other woman-centric company had a presence at the W.N.B.A. Live fan festival?
+
+The article lists woman-centric companies present at W.N.B.A. Live as including Bumble, Mielle, Opill, and also mentions Under Armour held a basketball clinic. Wait, Under Armour is mentioned in the context of a clinic with players, but the specific mention of woman-centric companies includes those three, but the question is about others besides those three. The article says "Woman-centric companies like the dating app Bumble, the hair care company Mielle and Opill, an over-the-counter birth control pill, all had a presence..." So maybe there's another one. Wait, the article says "Woman-centric companies like..." which might imply examples, but the exact list given is those three. The other companies mentioned in the fan festival include U.S. Bank as the sponsor of W.N.B.A. Live, but U.S. Bank isn't woman-centric. Under Armour isn't explicitly labeled as woman-centric here. So perhaps there isn't another one listed. Wait, let me check again. The paragraph says: "Woman-centric companies like the dating app Bumble, the hair care company Mielle and Opill, an over-the-counter birth control pill, all had a presence in the 100,000-square-foot space." So the only ones listed as woman-centric besides the three are none. So the answer would be N/A? Wait, maybe I missed another. Alternatively, maybe the question is a trick. Wait the question says "besides Bumble, Mielle, and Opill", so the answer might be none. But the article says "Woman-centric companies like..." so perhaps the list is just those three. Therefore, the answer is N/A.
+
+Third question: Before acquiring the Phoenix Mercury, what other women's sports team did Mat Ishbia own?
+
+The article states that Mat Ishbia acquired the Mercury and the Phoenix Suns, the NBA team, in 2023. The Suns are a men's team. The question asks about a women's sports team he owned before the Mercury. The article doesn't mention him owning any other women's teams prior. He owned the Suns (men's NBA) and Mercury (women's). So before that, he didn't own any other women's teams. So the answer is N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>

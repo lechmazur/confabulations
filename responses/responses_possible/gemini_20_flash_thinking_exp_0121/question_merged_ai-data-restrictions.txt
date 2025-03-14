@@ -1,0 +1,22 @@
+merged_ai-data-restrictions.txt
+<other>I will now answer each question based on the article provided, following the specified format.</other>
+<question_number>1</question_number>
+<answer>cannot afford to license data directly from publishers</answer>
+<question_number>2</question_number>
+<answer>major tech companies already have all of the data</answer>
+<question_number>3</question_number>
+<answer>not capable of generating enough high-quality synthetic data to replace human-created data</answer>
+<question_number>4</question_number>
+<answer>the web will start shutting its doors</answer>
+<question_number>5</question_number>
+<answer>rely on public data sets and cannot afford to license data</answer>
+<question_number>6</question_number>
+<answer>companies who already scraped data are less affected</answer>
+<question_number>7</question_number>
+<answer>they will be most affected by data restrictions</answer>
+<question_number>8</question_number>
+<answer>need for a more reciprocal relationship with data creators</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>

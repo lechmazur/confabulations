@@ -1,0 +1,76 @@
+merged_fluoride-children-iq.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<other>The question is asking about the decrease in I.Q. points attributed to a one-part-per-million increase of fluoride in water.</other>
+<other>The article states that for every one part per million increase in fluoride in urinary samples, which reflect total exposures from water and other sources, I.Q. points in children decreased by 1.63.</other>
+<other>This is not exactly what the question is asking, but it is related.</other>
+<answer>N/A</answer>
+
+<question_number>12</question_number>
+<other>The question is asking about the type of bottled water recommended by the former director of the National Institute of Environmental Health Sciences for mixing with infant formula.</other>
+<other>The article states that Dr. Birnbaum advised parents to use fluoride-free bottled water when preparing formula for their infants.</other>
+<answer>fluoride-free bottled water</answer>
+
+<question_number>13</question_number>
+<other>The question is asking about the governmental body ordered to revise its regulations based on concerns about fluoride levels.</other>
+<other>The article states that U.S. District Judge Edward Chen ordered the Environmental Protection Agency to strengthen regulations for fluoride in drinking water.</other>
+<answer>Environmental Protection Agency</answer>
+
+<question_number>14</question_number>
+<other>The question is asking about the year in which the editor of The Journal of the American Dental Association expressed his initial reservations about the safety of adding fluoride to drinking water.</other>
+<other>The article states that as far back as 1944, the editor of The Journal of the American Dental Association expressed concern about adding fluoride, which he termed "a highly toxic substance," to drinking water.</other>
+<answer>1944</answer>
+
+<question_number>15</question_number>
+<other>The question is asking about the maximum fluoride level in United States drinking water below which the study found no statistically significant link to reduced I.Q. scores.</other>
+<other>The article states that currently, the recommended fluoride levels in the United States are 0.7 parts per million, and the study did not find a statistically significant inverse association between fluoride levels and I.Q. scores at below 1.5 parts per million based solely on fluoride levels in water.</other>
+<answer>1.5 parts per million</answer>
+
+<question_number>16</question_number>
+<other>The question is asking about a specific dental hygiene product mentioned as a source of fluoride exposure in children.</other>
+<other>The article states that children are exposed to fluoride through many sources other than drinking water: toothpaste, dental treatments and some mouthwashes, as well as black tea, coffee and certain foods, such as shrimp and raisins.</other>
+<mouthwashes></mouthwashes>
+
+ <question_number>17</question_number>
+ < other > The question is asking about a political figure known for questioning fluoride safety mentioned in connection with the JAMA Pediatrics study and potential changes in water fluoridation policies . </ other >
+ < other > The article states that Robert F . Kennedy Jr ., President-elect Donald J . Trump's choice to head the department of health and human services , has questioned the safety of fluoride and said one of the first acts of the Trump administration will be to advise water systems to remove fluoride . </ other >
+ < answer > Robert F . Kennedy Jr . </ answer >
+
+ < question _ number > 18 </ question _ number >
+ < other > The question is asking about a specific type of tea listed as a source of fluoride exposure alongside certain foods and dental products . </ other >
+ < other > The article states that children are exposed to fluoride through many sources other than drinking water : toothpaste , dental treatments and some mouthwashes , as well as black tea , coffee and certain foods , such as shrimp and raisins . </ other >
+ < answer > black tea </ answer >
+
+ < question _ number > 19 </ question _ number >
+ < other > The question is asking about an organization previously directed by Linda Birnbaum , who recommended limiting fluoride exposure for pregnant women and infants . </ other >
+ < other > The article states that Linda Birnbaum , former director of the National Institute of Environmental Health Sciences , called for more research into the potential effects of fluoride levels below 1.5 parts per million . </ other >
+ < answer > National Institute of Environmental Health Sciences </ answer >

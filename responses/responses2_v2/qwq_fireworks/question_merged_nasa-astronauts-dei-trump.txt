@@ -1,0 +1,48 @@
+merged_nasa-astronauts-dei-trump.txt
+Okay, let's tackle these questions one by one using the article provided. I need to be careful to only use the information in the text and follow the instructions strictly.
+
+1. **Question 1**: The first question asks which two astronauts in the Artemis II mission were cited as examples of diversity initiatives. The article mentions Victor Glover and Christina Koch in the context of April Jordan's comments about the Artemis II crew. So those are the two.
+
+2. **Question 2**: Garrett Reisman's anecdote about Leland Melvin at the 1998 Houston parade. The article says that seeing Melvin (a Black astronaut) inspired the kids, showing how representation matters. The shift in strategy here is about using diverse astronauts to inspire the public, so the answer relates to inspiring through representation.
+
+3. **Question 3**: The person who expressed a sense of duty towards diversity in the corps. April Jordan is quoted as saying she feels a responsibility to build diversity, so she's the one here.
+
+4. **Question 4**: The astronaut recalling the Houston parade. The article mentions Garrett Reisman talked about Leland Melvin's impact during the Fourth of July parade. So Reisman is the retired astronaut here.
+
+5. **Question 5**: The day Janet Petro made her statement. The executive order was signed on Jan 22, and the article says she made the statement on the same day, so the answer is Jan 22.
+
+6. **Question 6**: If NASA selects 10 candidates, what's the acceptance rate? The article says if they pick another 10 like the previous round (which had 10 out of 8,000), the rate would be less than 0.13%. The exact number isn't given, but the article states that selecting 10 would give that rate, so the answer is 0.13% (but wait, the question says "implied acceptance rate", which the article says "less than 0.13%", but since they're asking for the implied rate, maybe just 0.13% is acceptable, or "less than 0.13%". Wait the question says "implied acceptance rate according to the article?" The article states "If NASA selects another 10 astronaut candidates this time that would be an acceptance rate of less than 0.13 percent." So the answer is less than 0.13%, but the question says "what would be the implied acceptance rate", so the answer is "less than 0.13%". But the user wants a numerical value, maybe just 0.13%. Wait, need to check. The article says "If NASA selects another 10 astronaut candidates this time that would be an acceptance rate of less than 0.13 percent." So the implied rate is less than 0.13%. The question is asking for the implied rate, so "less than 0.13%".
+
+7. **Question 7**: The person who reassured no one was chosen solely for diversity. The article quotes Duane Ross saying they never picked anyone not fully qualified. So Ross is the answer.
+
+8. **Question 8**: Early NASA program that limited women via test pilot requirement. The Mercury program is mentioned as requiring test pilot experience, which made it hard for women to qualify. So Mercury.
+
+9. **Question 9**: Month when NASA got over 8,000 applications. The article says "by the April 16 deadline" last year, so April.
+
+10. **Question 10**: Artemis II astronaut who joined media events with April Jordan. Victor Glover is mentioned as accompanying Jordan on visits with reporters. So Glover.
+
+11. **Question 11**: The college compared to NASA's selection. The article mentions Harvard and Caltech as having easier admissions. The exact example given is "Harvard, the California Institute of Technology or another highly selective college". Since it's an example, either could be correct, but the question asks for which one is mentioned. The first one listed is Harvard. Wait, the exact quote: "Being accepted by Harvard, the California Institute of Technology or another highly selective college is much easier." The question says "which college is mentioned as an example", so both are mentioned. But the question might accept either. However, since the user wants the exact answer, perhaps both? But the question says "which college", so maybe either is acceptable. Wait, the user instructions say if the question asks for two and the article only has one, then N/A, but here the question asks for one college, and the article lists two examples. The first one is Harvard. Let me check again. The article says "Harvard, the California Institute of Technology or another highly selective college" so they are both examples. The question asks for which college is mentioned. Since both are mentioned, but the question says "which college", perhaps either is acceptable. But the user wants the direct answer. Since the question says "which college is mentioned as an example", maybe either is acceptable. However, the user instructions require the exact answer, so perhaps the first one listed is the correct one here. Alternatively, maybe the question expects one of them. The article says "Harvard, the California Institute of Technology or another..." so both are examples. Since the question asks for one, perhaps either is acceptable. But the user might expect one, so I'll check the exact wording. The answer must be one of them. Let me see the exact text: "To add NASA astronaut to your resume is one of the hardest goals... Harvard, the California Institute of Technology or another..." So the example includes Harvard and Caltech. Since the question is "which college is mentioned as an example", the answer could be either. But the user might expect both? But the question says "which college", so perhaps the first one, Harvard. Alternatively, maybe the question expects Caltech because it's mentioned with "or another", but I think both are correct. Wait, the question says "which college is mentioned as an example of an easier admission process than the extraordinarily competitive NASA astronaut selection?" The article says "Being accepted by Harvard, the California Institute of Technology or another highly selective college is much easier." So the answer includes both. But since the question asks for a single college, perhaps the answer is either. But since the user requires a direct answer, maybe the first one listed, Harvard. Alternatively, maybe the user wants both, but since the question says "which college", perhaps the first one. Alternatively, maybe the user expects "Harvard" as the answer. Let me see if there's a way to parse it. The sentence lists Harvard first, so perhaps the answer is Harvard. Alternatively, maybe the user expects Caltech because the example is "Harvard, the California Institute of Technology or another...", but the question says "which college", so either is correct. Since the article mentions both, but the user might want one, perhaps the first one. But to be safe, maybe the answer is Harvard. Alternatively, perhaps the question is looking for Caltech because it's a single example? Hmm. Alternatively, maybe the answer is "Harvard and Caltech" but the question asks for a single college. Since the user instructions say to answer with a sentence fragment or words, perhaps "Harvard" or "Caltech". Let me check the exact question again: "which college is mentioned as an example of an easier admission process..." Since both are mentioned, but the question asks for one, perhaps either is acceptable. However, the user might have intended one. The article lists Harvard first, so I'll go with Harvard.
+</think>
+
+<question_number>1</question_number>
+<answer>Victor Glover and Christina Koch</answer>
+<question_number>2</question_number>
+<answer>Representation inspired children</answer>
+<question_number>3</question_number>
+<answer>April Jordan</answer>
+<question_number>4</question_number>
+<answer>Garrett Reisman</answer>
+<question_number>5</question_number>
+<answer>January 22</answer>
+<question_number>6</question_number>
+<answer>Less than 0.13%</answer>
+<question_number>7</question_number>
+<answer>Duane Ross</answer>
+<question_number>8</question_number>
+<answer>Mercury</answer>
+<question_number>9</question_number>
+<answer>April</answer>
+<question_number>10</question_number>
+<answer>Victor Glover</answer>
+<question_number>11</question_number>
+<answer>Harvard</answer>

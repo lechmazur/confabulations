@@ -1,0 +1,84 @@
+merged_healthy-eating-tips.txt
+Okay, let's tackle these questions one by one based on the article provided. I need to make sure I only use the information given and don't infer anything beyond what's written. Let's start with the first question.
+
+1. The first question asks about the percentage reduction in cardiovascular disease risk when replacing processed meats with legumes, according to a Stanford nutrition scientist. The article mentions Christopher Gardner from Stanford, and he says that replacing red and processed meats with plant proteins can reduce the risk of cardiovascular disease and earlier death. However, the exact percentage isn't provided. The article states "research suggests" but no specific number. So the answer is N/A.
+
+2. The second question is about a specific brand of nonalcoholic beverage Dr. Parekh recommended. The article says Dr. Parekh suggests having a nonalcoholic cocktail or seltzer instead of wine, but no brand is mentioned. So N/A.
+
+3. Dr. Laing's optimal minutes for post-lunch walking: The article says she likes a short walk but doesn't specify minutes. "Short" is vague, so N/A.
+
+4. Caloric difference between home-cooked and restaurant meals from Trinity Health Ann Arbor's study. The article mentions home meals are "usually" better but doesn't give specific numbers. So N/A.
+
+5. Dr. Wood's traditional Mediterranean recipe using his pantry staples. The article lists examples like stir-fry with frozen veggies or pasta puttanesca, but no specific traditional recipe name. N/A.
+
+6. Syrup pumps Dr. Vadiveloo calculated: She advises scaling back, like fewer pumps, but the exact number isn't stated. N/A.
+
+7. Ms. Tritt's client success rate between gradual vs rapid changes. The article talks about the problem with aggressive goals but no success stats. N/A.
+
+8. Frozen veggie combo for antioxidants from Odoms-Young. She suggests adding frozen broccoli, collard greens, or okra to soups but doesn't mention a specific combo. N/A.
+
+9. Hours before bedtime to stop eating. The article says people snack late if they didn't eat enough during the day but doesn't specify a time. N/A.
+
+10. Protein to carb ratio in Yale's quick meals. The article mentions balanced meals with protein, fats, carbs but no exact ratio. N/A.
+
+11. The legume with 16g protein and fiber: The article specifically mentions pinto beans as an example. So pinto beans.
+
+12. Which drink to downsize midday? Dr. Vadiveloo suggests ordering a small soda instead of large at lunch. So soda.
+
+13. Expert from West Coast medical school (Stanford) talking about pinto beans: Christopher Gardner at Stanford. Correct.
+
+14. Culinary director using canned/frozen: Dr. Wood from Yale's School of Medicine. Wait, the question says culinary medicine director, and the article says Dr. Nate Wood is director of culinary medicine at Yale. Yes.
+
+15. Professional linking post-meal activity to digestion and sleep: Dr. Laing mentions a walk after lunch helps digestion and sleep. She's from UGA. Correct.
+
+16. Substance in beverages linked to cancer by East Coast professor: Dr. Parekh at NYU mentions alcohol's risks. So alcohol.
+
+17. Dietitian in Michigan recommending quinoa and shredded chicken: Emily Haller at Trinity Health Ann Arbor in Michigan. Yes.
+
+18. Ingredient added to scrambled eggs for antioxidants: Sun-dried tomatoes, per Odoms-Young. Correct.
+
+19. Minneapolis professional advising breakfast to prevent late-night snacking: Ms. Tritt is in Minneapolis. She suggests starting with breakfast. Correct.
+
+20. Dietitian on rebuilding positive eating habits: Amanda Li at University of Washington mentions working with a dietitian to trust body signals. So her name is the answer.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>pinto beans</answer>
+<question_number>12</question_number>
+<answer>soda</answer>
+<question_number>13</question_number>
+<answer>Christopher Gardner</answer>
+<question_number>14</question_number>
+<answer>Nate Wood</answer>
+<question_number>15</question_number>
+<answer>Angela Odoms-Young</answer>
+<question_number>16</question_number>
+<answer>alcohol</answer>
+<question_number>17</question_number>
+<answer>Emily Haller</answer>
+<question_number>18</question_number>
+<answer>sun-dried tomatoes</answer>
+<question_number>19</question_number>
+<answer>Aimee Tritt</answer>
+<question_number>20</question_number>
+<answer>Amanda Li</answer>

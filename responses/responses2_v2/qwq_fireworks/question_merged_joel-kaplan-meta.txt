@@ -1,0 +1,104 @@
+merged_joel-kaplan-meta.txt
+Okay, I need to go through each question one by one and find the answers strictly from the provided article. Let me start with the first question.
+
+1. The question asks about a specific regulatory action the U.S. government took against Antigua-based blood filter treatments mentioned in Cecilia Kang's reporting. The article mentions Antigua in the last paragraph: "Two U.S. companies teamed up to treat cancer patients using an unproven blood filter in Antigua, out of reach of American regulators. Then patients started dying." There's no mention of any U.S. government regulatory action taken against these treatments. The article states they were "out of reach" of American regulators, implying no action was taken. So the answer should be N/A.
+
+2. The second question asks for the percentage increase in Meta's lobbying spending under Kaplan's leadership before his promotion. The article says Kaplan "grew the company's Washington lobbying and policy organization, which now regularly ranks among the top spenders in lobbying Congress and the White House." But there's no specific percentage given. So N/A.
+
+3. The third question is about punitive measures Zuckerberg took against employees who protested Kaplan's Kavanaugh hearing appearance. The article mentions employees "blasted" his appearance but doesn't say Zuckerberg took any punitive action. So N/A.
+
+4. The fourth question links DeepSeek AI's focus to Meta's shift. The article says DeepSeek is a little-known AI firm emphasizing research, from a hedge fund. It doesn't connect this to Meta's content moderation shift. So N/A.
+
+5. The fifth question asks for the philanthropist taking a break from future tech. The article mentions "Bill Gates Isn't Like Those Other Tech Billionaires: The Microsoft co-founder and philanthropist is taking a break from the future..." So the answer is Bill Gates.
+
+6. The sixth question asks about subtle defiance by Silicon Valley workers against Zuckerberg's Trump support. The article states "Silicon Valley Workers Quietly Protest: As Mark Zuckerberg... muffled internal dissent... employees have objected with subtle acts of defiance." But it doesn't specify what those acts were. The question requires the form, but the article doesn't name it. So N/A.
+
+7. The seventh question is about the type of program businesses continued despite Trump's targeting. The article says President Trump targeted diversity efforts ("D.E.I. Retreat"), causing companies to scale back but some continued. The programs are D.E.I. (Diversity, Equity, Inclusion). So answer D.E.I.
+
+8. The eighth question asks for the legal precedent from Scalia that informed ending fact-checking. The article mentions Kaplan clerked for Scalia but doesn't link any specific precedent to Meta's decision. So N/A.
+
+9. The ninth question asks the startup name using unproven blood filters. The article says "Two U.S. companies teamed up... using an unproven blood filter in Antigua." But no specific startup name is given. So N/A.
+
+10. The tenth question describes an executive who made statements on TV about ending fact-checking, citing Musk's model and his Republican lobbying background. The article describes Joel Kaplan exactly this way. So Joel Kaplan.
+
+11. The eleventh question is about the person with Scalia clerkship and Bush deputy role leading Meta's global affairs. Again, that's Joel Kaplan. The answer is Joel Kaplan.
+
+12. The twelfth question refers to the executive with lobbying growth and appearing at Kavanaugh's hearing. That's Joel Kaplan. So Joel Kaplan.
+
+13. The thirteenth question asks who claimed the CEO made the fact-checking decision and praised Musk's model. The article says Kaplan made those points in the Fox interview. So Joel Kaplan.
+
+14. The fourteenth question is about the Harvard Law grad with lobbying role positioned for a new admin. Joel Kaplan fits. So Joel Kaplan.
+
+15. The fifteenth question is about the VP-elect photo and Fox interview. The article mentions Kaplan's photo with JD Vance and his Fox interview. So Joel Kaplan.
+
+16. The sixteenth question describes the executive who built lobbying and now promotes free speech. Again, Joel Kaplan. So Joel Kaplan.
+
+17. The seventeenth question is the person opposing fact-checking and advising the CEO. Joel Kaplan. So Joel Kaplan.
+
+18. The eighteenth question is the former official arguing for policy reset citing Biden and Musk. Joel Kaplan. So Joel Kaplan.
+
+19. The nineteenth question combines roles and steering policy shift. Joel Kaplan again. So Joel Kaplan.
+
+Now I need to make sure each answer is correctly mapped, using N/A where the text doesn't provide the exact info. Let me check each again quickly.
+
+1. N/A (no regulatory action mentioned)
+2. N/A (no percentage given)
+3. N/A (no punitive action mentioned)
+4. N/A (no tech focus linked)
+5. Bill Gates
+6. N/A (no specific act stated)
+7. D.E.I.
+8. N/A (no precedent named)
+9. N/A (no company name)
+10. Joel Kaplan
+11. Joel Kaplan
+12. Joel Kaplan
+13. Joel Kaplan
+14. Joel Kaplan
+15. Joel Kaplan
+16. Joel Kaplan
+17. Joel Kaplan
+18. Joel Kaplan
+19. Joel Kaplan
+
+That seems right. All answers accounted for.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>Bill Gates</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>D.E.I.</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>Joel Kaplan</answer>
+<question_number>11</question_number>
+<answer>Joel Kaplan</answer>
+<question_number>12</question_number>
+<answer>Joel Kaplan</answer>
+<question_number>13</question_number>
+<answer>Joel Kaplan</answer>
+<question_number>14</question_number>
+<answer>Joel Kaplan</answer>
+<question_number>15</question_number>
+<answer>Joel Kaplan</answer>
+<question_number>16</question_number>
+<answer>Joel Kaplan</answer>
+<question_number>17</question_number>
+<answer>Joel Kaplan</answer>
+<question_number>18</question_number>
+<answer>Joel Kaplan</answer>
+<question_number>19</question_number>
+<answer>Joel Kaplan</answer>

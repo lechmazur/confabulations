@@ -1,0 +1,40 @@
+merged_ai-data-restrictions.txt
+<question_number>1</question_number>
+<answer>They can't afford to license data directly from publishers.</answer>
+<other>The article directly states this as a potential issue.</other>
+
+<question_number>2</question_number>
+<answer>It doesn't retroactively revoke their existing permission.</answer>
+<other>The article explicitly mentions this point.</other>
+
+<question_number>3</question_number>
+<answer>Current A.I. systems may not be capable of generating enough high-quality synthetic data.</answer>
+<other>The article states that many researchers doubt the ability of current A.I. to create sufficient replacement data.</other>
+
+<question_number>4</question_number>
+<answer>The web will start shutting its doors.</answer>
+<other>This is a direct quote from the article summarizing the potential consequence.</other>
+
+<question_number>5</question_number>
+<answer>Major tech companies already have all the data.</answer>
+<other>The article states this directly, explaining the disproportionate impact.</other>
+
+<question_number>6</question_number>
+<answer>It means major tech companies are unaffected by new restrictions.</answer>
+<other>The article explains that existing data access isn't revoked by new licenses.</other>
+
+<question_number>7</question_number>
+<answer>They are typically smaller start-ups or researchers.</answer>
+<other>The article explicitly defines "later-arriving actors" in this way.</other>
+
+<question_number>8</question_number>
+<answer>A.I. companies need to give data owners value in return.</answer>
+<other>The article suggests a need for a more equitable relationship.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article states 45% of C4 is restricted by terms of service, but doesn't combine this with Robots Exclusion Protocol restrictions to calculate a new percentage.</other>
+
+<question_number>10</question_number>
+<answer>75 percent</answer>
+<other>The article states 5 percent of all data is restricted, and 25 percent of the highest-quality data is restricted, totaling 30 percent. It also states 45 percent of C4 is restricted. The article states that C4, RefinedWeb and Dolma are the three data sets. The article does not state the proportion of C4, RefinedWeb and Dolma in the three data sets. Therefore, it is impossible to calculate the percentage of unrestricted high-quality data remaining. However, the article states that 5 percent of all data is restricted and 25 percent of the highest-quality sources is restricted. Therefore, 95 percent of all data is unrestricted and 75 percent of the highest-quality sources is unrestricted. The question asks for the percentage of unrestricted high-quality data remaining, so the answer is 75 percent.</other>

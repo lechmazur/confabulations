@@ -1,0 +1,21 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>The involvement of a third-party cloud platform complicates security measures by introducing additional vulnerabilities and access points that AT&T may not have direct control over.</answer>
+<question_number>3</question_number>
+<answer>The breach underscores the critical need for robust data security practices, especially for companies handling sensitive government information, to prevent unauthorized access and potential national security risks.</answer>
+<question_number>4</question_number>
+<answer>Exposed phone records could be used to map out communication networks and identify key individuals in national security roles by linking phone numbers to names through online searches.</answer>
+<question_number>5</question_number>
+<answer>The potential impact on federal agencies is significant, as the exposed data could compromise the security of communication networks and expose sensitive operational details.</answer>
+<question_number>6</question_number>
+<answer>The nature of the exposed data, which includes call and text records, can be used to identify communication patterns and networks of individuals in sensitive positions.</answer>
+<question_number>7</question_number>
+<answer>The type of data compromised, which includes call and text records, could provide foreign nation states with insights into communication networks and potentially sensitive information about government officials.</answer>
+<question_number>8</question_number>
+<answer>The compromised data, which includes call and text records, could expose the communication networks of government officials, making them vulnerable to surveillance and analysis by foreign actors.</answer>
+<question_number>9</question_number>
+<answer>Outsourcing data to cloud networks increases exposure to data breaches because it places data in a shared environment with multiple access points, making it more vulnerable to potential attacks.</answer>
+<question_number>10</question_number>
+<answer>The professor's explanation of cloud infrastructure highlights the risks associated with shared environments, which is directly relevant to the specific platform (Snowflake) involved in the AT&T data breach.</answer>

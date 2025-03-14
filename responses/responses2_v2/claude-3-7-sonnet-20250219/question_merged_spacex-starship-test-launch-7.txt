@@ -1,0 +1,56 @@
+merged_spacex-starship-test-launch-7.txt
+<question_number>1</question_number>
+<answer>0</answer>
+<other>The article states that the upper stage experienced a catastrophic malfunction and communications were lost about 8.5 minutes after launch. The PEZ dispenser system was supposed to be tested but the failure occurred before this test could be conducted.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any metallurgical composition of the heat shield as a contributing factor to the upper stage's disintegration.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article mentions that Musk's post indicated a leak of oxygen and fuel, but doesn't provide any exact duration in seconds between leak detection and loss of communications.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article only mentions Jared Isaacman as being scheduled for the first crewed Starship flight, and no other Shift4 executives are named.</other>
+
+<question_number>5</question_number>
+<answer>upper stage</answer>
+<other>The article clearly states that "the vehicle's upper stage experienced a catastrophic malfunction" while the Super Heavy booster was successfully caught.</other>
+
+<question_number>6</question_number>
+<answer>catching the Super Heavy booster with mechanical arms</answer>
+<other>The article states: "SpaceX was able to achieve some success by repeating the feat of catching the gargantuan Super Heavy booster back at the launchpad."</other>
+
+<question_number>7</question_number>
+<answer>8.5 minutes</answer>
+<other>The article specifically states: "About 8.5 minutes after launch, communications between the ground and the upper-stage vehicle, which is known as Starship, were cut off."</other>
+
+<question_number>8</question_number>
+<answer>a leak of oxygen and fuel</answer>
+<other>The article states: "In a post on X on Thursday evening, Mr. Musk said that a preliminary analysis indicated a leak of oxygen and fuel and that the problem could be quickly fixed."</other>
+
+<question_number>9</question_number>
+<answer>5:37 p.m.</answer>
+<other>The article specifically states: "Liftoff occurred at 5:37 p.m. Eastern time."</other>
+
+<question_number>10</question_number>
+<answer>Indian Ocean</answer>
+<other>The article mentions: "Shortly after that, the trouble with the upper-stage spacecraft occurred, ending what was to have been a one-hour trip to splash down in the Indian Ocean."</other>
+
+<question_number>11</question_number>
+<answer>stainless steel</answer>
+<other>The article states: "The upper part, also called Starship or Ship for short, looks like a shiny rocket from a science fiction movie from the 1950s and is made of stainless steel with large fins."</other>
+
+<question_number>12</question_number>
+<answer>Raptor</answer>
+<other>The article states: "The Super Heavy booster -- the bottom part of the rocket -- has 33 of SpaceX's powerful Raptor engines sticking out of its bottom."</other>
+
+<question_number>13</question_number>
+<answer>Federal Aviation Administration</answer>
+<other>The article states: "The Federal Aviation Administration, the agency that regulates commercial spaceflight, said in a statement that it had 'briefly slowed and diverted aircraft around the area where space vehicle debris was falling.'"</other>
+
+<question_number>14</question_number>
+<answer>Jared Isaacman</answer>
+<other>The article states: "Jared Isaacman, the billionaire founder of the Shift4, a payment services company who has flown twice to space on SpaceX Falcon 9 rockets, was to take part on the first crewed flight of Starship. But now that he has been selected by Mr. Trump to be the next administrator of NASA, Mr. Isaacman is likely to stay on the ground, at least for now."</other>

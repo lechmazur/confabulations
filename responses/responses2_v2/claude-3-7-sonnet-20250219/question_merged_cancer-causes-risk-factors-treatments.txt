@@ -1,0 +1,80 @@
+merged_cancer-causes-risk-factors-treatments.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article states that 40% of cancers can be attributed to risk factors people can address, including cigarette smoking, sun exposure, alcohol use, and excess body weight. However, it doesn't state that these factors directly damage DNA. In fact, the article mentions that such exposures likely affect cancer risk by provoking inflammation rather than directly damaging DNA.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions that CAR T-cell therapy has been most effective at treating blood cancers, but Dr. Sohal doesn't specifically mention any cancer type being treated with CAR T-cell therapy. He refers to some cancers being like diabetes now, but doesn't connect this to CAR T specifically.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article mentions that Black people in the US are disproportionately exposed to air pollution and have higher rates of lung cancer (not pancreatic cancer). PM 2.5 is mentioned as inducing inflammation in the lungs, but Dr. Rathmell doesn't specifically identify this as the factor affecting Black people.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>While Dr. Cheung's research showed that dead and dying cells within a tumor might create an environment that makes it easier for living tumor cells to spread, the article doesn't specify the primary mechanism by which this happens.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>While chemotherapy is mentioned as delivering toxins that kill healthy cells in addition to cancer cells, Dr. Demetri doesn't specifically connect this to targeting microbiome imbalance caused by unhealthy diets.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article mentions HPV as an infection that can be prevented through vaccination to reduce cancer risk, but Dr. van den Brink doesn't specifically mention this or connect it to stem cell transplants.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Dr. Erhunmwunsee's research shows that PM 2.5 has been linked to lung and breast cancers, not colon cancer. Dr. Sohal mentions unhealthy diet and microbiome imbalance as potentially causing chronic inflammation leading to colon cancer, but doesn't connect this to PM 2.5.</other>
+
+<question_number>8</question_number>
+<answer>immune cells</answer>
+<other>The article states: "Other research has suggested that immune cells might transfer their contents to tumor cells to make them more invasive."</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article distinguishes between checkpoint inhibitor therapies (which take the brakes off T cells) and CAR T-cell therapy (which engineers T cells to find and fight cancer). It doesn't state that engineered immune cells are used in checkpoint inhibitor therapies.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>According to the article, Robert Weinberg explained that dietary exposures likely affect cancer risk by provoking inflammation rather than directly damaging DNA. The article doesn't mention any specific dietary component that directly damages DNA.</other>
+
+<question_number>11</question_number>
+<answer>PM 2.5</answer>
+<other>The article states: "Fine particulate matter, known as PM 2.5, has been shown to increase risk for lung and breast cancers" and later mentions that "PM 2.5 particles, for instance, have been shown to induce inflammation in the lungs, waking up dormant mutant cells to fuel tumor formation."</other>
+
+<question_number>12</question_number>
+<answer>epigenetic changes</answer>
+<other>The article states: "separate from DNA mutations, there are other factors that alter how genes are expressed. These are called epigenetic changes, and scientists have discovered that they play a huge role in driving cancer."</other>
+
+<question_number>13</question_number>
+<answer>unhealthy diet</answer>
+<other>The article states: "Eating an unhealthy diet can upset the balance of our microbiome, allowing certain bacteria to grow unchecked. Scientists think this may cause chronic inflammation, which can lead to colon or pancreatic cancers."</other>
+
+<question_number>14</question_number>
+<answer>Black people</answer>
+<other>The article states: "Research shows that Black people in the United States are exposed to disproportionately high levels of air pollution; they also have higher rates of lung cancer and of death from the disease than other racial groups do."</other>
+
+<question_number>15</question_number>
+<answer>N/A</answer>
+<other>While the article mentions that PM 2.5 particles induce inflammation in the lungs rather than directly damaging DNA, it doesn't specifically state that this pollutant is "mistakenly thought" to directly damage DNA.</other>
+
+<question_number>16</question_number>
+<answer>dead and dying cells creating an environment for tumor cells to spread</answer>
+<other>The article states: "His [Dr. Kevin Cheung's] research recently showed that dead and dying cells within a tumor might create an environment that makes it easier for living tumor cells to get out and spread."</other>
+
+<question_number>17</question_number>
+<answer>30</answer>
+<other>The article states: "Starting at 30, women can collect their own vaginal samples at a doctor's office for testing for HPV -- the infection that causes most cases of cervical cancer -- according to new guidelines."</other>
+
+<question_number>18</question_number>
+<answer>CAR T-cell therapy</answer>
+<other>The article states: "They can also engineer T cells to find and fight cancer. This is the approach behind CAR T-cell therapy, which has been most effective at treating blood cancers."</other>
+
+<question_number>19</question_number>
+<answer>cigarette smoking</answer>
+<other>The article states: "The biggest of these is cigarette smoking, but the list also includes sun exposure, alcohol use and excess body weight."</other>
+
+<question_number>20</question_number>
+<answer>immune cells</answer>
+<other>The article states: "Many of these normal cells are the same type of immune cells that will flood the site of an injury or infection to help heal that wound -- by helping new cells multiply, generating blood vessels, stimulating new connective tissue and avoiding attacks from other parts of the immune system."</other>

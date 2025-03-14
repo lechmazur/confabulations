@@ -1,0 +1,55 @@
+merged_alzheimers-blood-test.txt
+Okay, let's tackle these questions one by one based on the article provided.
+
+1. **Question 1:** The primary reason experts caution against using the blood test on cognitively healthy individuals. The article mentions that there's no therapy available yet for those without symptoms. So the answer should be about lack of treatments leading to anxiety without options. 
+
+2. **Question 2:** Comparing blood test accuracy to primary care doctors when they think patients don't have Alzheimer's. The text states primary care docs were wrong 41% of the time when they thought patients didn't have it, while the blood test was wrong 10% overall. So the answer is the blood test is more accurate here.
+
+3. **Question 3:** Why lower accuracy in subjective cognitive decline? The article says many such patients don't have Alzheimer's, so the test isn't as accurate because their issues might be from other causes.
+
+4. **Question 4:** Dr. Boxer's remaining hurdle. The text mentions integrating blood test analysis into hospital labs instead of outside labs. So the answer is about lab integration.
+
+5. **Question 5:** The specific protein form for precise assessment. The article says ptau-217 was the most accurate.
+
+6. **Question 6:** Context where Boxer says blood tests should be used now. The article states they should only be for those with symptoms, not asymptomatic. So the answer is in people with cognitive symptoms.
+
+7. **Question 7:** Condition causing elevated ptau-217 not linked to Alzheimer's. The article mentions kidney disease.
+
+8. **Question 8:** Concern about testing healthy individuals. The text talks about psychological reactions like anxiety because no treatments exist yet.
+
+9. **Question 9:** Percentage primary care docs were wrong when they thought patients didn't have Alzheimer's. The number given is 41%.
+
+10. **Question 10:** Dr. Boxer's point on access for minorities and low-income. The article says making tests available in primary care increases access for these groups.
+
+Now, check each against the text to ensure accuracy and that there's no missing info. Make sure answers are direct and use "N/A" where the article doesn't specify.
+</think>
+
+<question_number>1</question_number>
+<answer>no therapies to offer</answer>
+
+<question_number>2</question_number>
+<answer>blood test was wrong 10% vs primary care doctors wrong 41%</answer>
+
+<question_number>3</question_number>
+<answer>many do not turn out to have Alzheimer's</answer>
+
+<question_number>4</question_number>
+<answer>easily integrated into hospital laboratory systems</answer>
+
+<question_number>5</question_number>
+<answer>ptau-217</answer>
+
+<question_number>6</question_number>
+<answer>only for people with memory loss and cognitive decline symptoms</answer>
+
+<question_number>7</question_number>
+<answer>kidney disease</answer>
+
+<question_number>8</question_number>
+<answer>psychological reactions/anxiety</answer>
+
+<question_number>9</question_number>
+<answer>41%</answer>
+
+<question_number>10</question_number>
+<answer>increase access to screening</answer>

@@ -1,0 +1,21 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>Through data broker records, phone numbers can be traced back to individuals, which could expose communication networks for people in national security roles.</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>The exposed phone records could potentially be used to identify communication patterns of individuals in national security roles.</answer>
+<question_number>7</question_number>
+<answer>The compromised data could benefit foreign nation states or foreign actors by exposing communication networks for people in national security roles.</answer>
+<question_number>8</question_number>
+<answer>The compromised data could expose sensitive communication networks of government officials by tracing phone numbers back to individuals through data broker records.</answer>
+<question_number>9</question_number>
+<answer>Outsourcing data to cloud networks increases customers' exposure to data breaches because it creates more potential attack points and shared infrastructure with other companies.</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>

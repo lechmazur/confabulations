@@ -1,0 +1,61 @@
+merged_alcohol-cancer-risk.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article does not provide data for exactly 3 drinks per week.</other>
+<question_number>2</question_number>
+<answer>Elizabeth Platz</answer>
+<other>The article states Elizabeth Platz is a cancer epidemiologist at Johns Hopkins Bloomberg School of Public Health and links drinking and smoking to head and neck cancers.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article states the working group found a link, but doesn't specify the year.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article only provides the number attributable to alcohol consumption.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article states 14 grams of alcohol, but not the volume in milliliters.</other>
+<question_number>6</question_number>
+<answer>45 percent</answer>
+<other>The article states "Only 45 percent of Americans believe alcohol has a significant effect on whether someone develops cancer."</other>
+<question_number>7</question_number>
+<answer>30 percent</answer>
+<other>The article states "those who drank up to one alcoholic beverage a day had a 30 percent higher chance of developing esophageal cancer."</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article does not specify a timeframe for risk reduction.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article states women take longer to metabolize alcohol, but doesn't explain the pathway.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article does not specify which cancer showed the strongest correlation with binge drinking.</other>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<other>The Australian study did not include data on breast cancer risk for men.</other>
+<question_number>12</question_number>
+<answer>15 to 20 percent</answer>
+<other>The article states "Their risk of stomach, lung and pancreatic cancer was about 15 to 20 percent higher."</other>
+<question_number>13</question_number>
+<answer>N/A</answer>
+<other>The article does not provide a specific risk percentage for this scenario.</other>
+<question_number>14</question_number>
+<answer>N/A</answer>
+<other>The article does not provide this information.</other>
+<question_number>15</question_number>
+<answer>N/A</answer>
+<other>The article does not provide this information.</other>
+<question_number>16</question_number>
+<answer>17 percent</answer>
+<other>The article states "those who drank up to one alcoholic beverage a day had a 17 percent higher chance of developing cancer of the oral cavity and pharynx."</other>
+<question_number>17</question_number>
+<answer>breast cancer</answer>
+<other>The article states "At this level, the lifetime risk of breast cancer increased to 13.1 percent, or 13 of 100 women."</other>
+<question_number>18</question_number>
+<answer>N/A</answer>
+<other>The article does not provide this information.</other>
+<question_number>19</question_number>
+<answer>N/A</answer>
+<other>The article does not provide this information.</other>
+<question_number>20</question_number>
+<answer>N/A</answer>
+<other>The article does not provide this information.</other>

@@ -1,0 +1,32 @@
+merged_att-data-breach.txt
+<other>Analyzing the article to answer the questions based solely on the provided information.</other>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>Outsourcing data to a third-party cloud platform like Snowflake introduces shared infrastructure, increasing potential attack vectors.</answer>
+
+<question_number>3</question_number>
+<answer>The breach highlights the critical need for secure data management to protect sensitive information tied to government contracts.</answer>
+
+<question_number>4</question_number>
+<answer>Exposed phone records could be used to trace phone numbers back to individuals and analyze their communication patterns.</answer>
+
+<question_number>5</question_number>
+<answer>The exposed data could compromise communication networks of federal agencies due to AT&T's government contracts.</answer>
+
+<question_number>6</question_number>
+<answer>The exposed phone records could reveal communication networks of individuals in sensitive positions by linking phone numbers to identities.</answer>
+
+<question_number>7</question_number>
+<answer>The compromised data could benefit foreign nation states by exposing communication patterns and networks of individuals in sensitive roles.</answer>
+
+<question_number>8</question_number>
+<answer>The nature of the compromised data, such as phone records, could expose sensitive communication networks of government officials.</answer>
+
+<question_number>9</question_number>
+<answer>Outsourcing data to cloud networks increases exposure to breaches due to shared infrastructure and more attack opportunities.</answer>
+
+<question_number>10</question_number>
+<answer>The professor's explanation of cloud infrastructure aligns with the breach involving Snowflake, emphasizing shared environments' vulnerabilities.</answer>

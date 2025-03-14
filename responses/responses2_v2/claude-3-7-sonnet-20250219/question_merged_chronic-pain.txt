@@ -1,0 +1,80 @@
+merged_chronic-pain.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article mentions Vertex Pharmaceuticals announced promising results for a painkiller called Suzetrigine that works on NaV 1.8, but it doesn't state it was approved by the FDA in late 2023.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions the author tried nerve flossing, which helped a bit, but doesn't specify how many hours per week she spent doing these exercises.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>While the article mentions researchers at Yale and VA found that blocking NaV 1.7 channels with carbamazepine could stop joint damage and pain caused by osteoarthritis, it doesn't provide a percentage reduction in symptoms.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article doesn't reveal any autoimmune condition as the cause of the author's arm pain. In fact, it states that tests for autoimmune diseases like rheumatoid arthritis came back negative, and the cause remained a mystery.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>While ketamine infusions are mentioned as a treatment available at the UCSF pain center, the article doesn't name a Washington University researcher who discovered a link between ketamine and reduced nerve sensitization.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article mentions John had chronic pain for years after a bad reaction to an antibiotic, but doesn't mention an experimental antibiotic treatment or specify how long it took for complete pain relief.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article doesn't report any cost savings figures for patients who switched to the UCSF integrated pain clinic approach.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>While Dr. Motzkin identified a possible overlooked cause for the migraine patient, the article doesn't specify what genetic marker, if any, was identified.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article doesn't provide data about combining gabapentin with nerve flossing techniques or mention any percentage of improved outcomes from such a combination.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>While Mwirigi's AI algorithm for identifying different types of cells is mentioned, the article doesn't specify how many samples were required to achieve 95% accuracy.</other>
+
+<question_number>11</question_number>
+<answer>prostaglandin</answer>
+<other>The article states that ibuprofen inhibits cyclooxygenase enzymes, which also inhibits production of prostaglandin, a molecule involved in protecting and repairing the mucosa in our gut.</other>
+
+<question_number>12</question_number>
+<answer>NaV 1.7</answer>
+<other>The article describes NaV 1.7 as acting as "a kind of starting gate for pain signals, adjusting the permeability of cell membranes so that salts can flow through."</other>
+
+<question_number>13</question_number>
+<answer>dorsal root ganglion</answer>
+<other>The article describes the dorsal root ganglion as "a cluster of cells that acts as a kind of switchboard, routing signals from the periphery to the central nervous system" and Mwirigi says "A ganglion is like a bouquet of flowers."</other>
+
+<question_number>14</question_number>
+<answer>more than 20 years</answer>
+<other>The article states: "If approved, it [Suzetrigine] will be one of the first non-opioid painkillers to reach patients in more than 20 years."</other>
+
+<question_number>15</question_number>
+<answer>breast surgeries, including mastectomy</answer>
+<other>The article states: "The risk for breast surgeries, including mastectomy, is even higher: between 40 and 60 percent."</other>
+
+<question_number>16</question_number>
+<answer>gabapentin</answer>
+<other>The article mentions that when the author started taking gabapentin, she "became forgetful and started confusing words -- saying 'phoenix' for 'pheasant,' or 'blue' for 'green.'"</other>
+
+<question_number>17</question_number>
+<answer>nerve flossing</answer>
+<other>The article mentions the author tried "something called nerve flossing, a set of funky gliding arm movements, which helped a bit."</other>
+
+<question_number>18</question_number>
+<answer>Uta Maeda</answer>
+<other>The article quotes Uta Maeda, a clinical psychologist who specializes in helping people manage pain, using the analogy of pain being like "this destructive, obnoxious roommate that's always interfering in your daily life -- but it's a roommate you cannot evict."</other>
+
+<question_number>19</question_number>
+<answer>CB1</answer>
+<other>The article mentions Gereau and Mwirigi are "studying a cannabinoid receptor known as CB1, in hopes of finding a way to harness its analgesic properties without activating the same receptors in the brain that make cannabis psychoactive."</other>
+
+<question_number>20</question_number>
+<answer>new imaging technologies and computing abilities</answer>
+<other>The article states: "Thanks to new imaging technologies and computing abilities, he explained, 'we can get information on the structure of receptors, and how drugs attach to them, on a time scale that was impossible 10 years ago.'"</other>

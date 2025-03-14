@@ -1,0 +1,33 @@
+merged_amazon-clean-energy-climate-change.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>geothermal power</answer>
+
+<question_number>3</question_number>
+<answer>2023</answer>
+
+<question_number>4</question_number>
+<answer>natural gas</answer>
+
+<question_number>5</question_number>
+<answer>West Virginia</answer>
+
+<question_number>6</question_number>
+<answer>2040</answer>
+
+<question_number>7</question_number>
+<answer>renewable energy certificates (RECs)</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article states a large data center uses energy equivalent to a small power plant serving 100,000 homes, while Amazon's clean energy projects can power 7.6 million U.S. homes, but there's no direct comparison between these figures.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article mentions a 2019 letter to Jeff Bezos but doesn't specify the original deadline year for achieving 100% clean energy.</other>
+
+<question_number>10</question_number>
+<answer>17</answer>
+<other>Amazon's net-zero carbon emissions goal is 2040, and Google reported increased emissions due to AI in 2023. The difference is 2040-2023=17 years.</other>

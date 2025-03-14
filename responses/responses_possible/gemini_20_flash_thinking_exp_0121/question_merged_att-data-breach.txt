@@ -1,0 +1,22 @@
+merged_att-data-breach.txt
+<other>I will now answer each question based on the article provided, following the specified format.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>Shared space with others, trickier, more ways for attacks.</answer>
+<question_number>3</question_number>
+<answer>National security concern, expose communication networks for people in national security roles.</answer>
+<question_number>4</question_number>
+<answer>Phone numbers can be traced back to individuals, expose communication networks.</answer>
+<question_number>5</question_number>
+<answer>Federal customers' phone logs may have been affected by the breach.</answer>
+<question_number>6</question_number>
+<answer>Data identifies telephone numbers interacted with, expose communication networks for people in national security roles.</answer>
+<question_number>7</question_number>
+<answer>Beneficiary of this specific data are foreign nation states or foreign actors.</answer>
+<question_number>8</question_number>
+<answer>Expose communication networks for people in national security roles.</answer>
+<question_number>9</question_number>
+<answer>Shared space, trickier, more ways for attacks, increasingly exposed to potential data breaches.</answer>
+<question_number>10</question_number>
+<answer>Cloud platform shared with others, makes attacks trickier.</answer>

@@ -1,0 +1,56 @@
+merged_perdue-jbs-slaughterhouses-child-labor.txt
+Okay, let me tackle these questions one by one using only the information from the article provided. I need to be careful to answer exactly what's asked without adding any outside knowledge.
+
+1. **Question 1**: The question is about the percentage QSI had to pay compared to Hearthside's settlement. The article says QSI was fined $400,000, and Hearthside paid $4.5 million. But the question asks for QSI's percentage of the total settlement amount. Wait, the total isn't clear here. The article mentions Hearthside's $4.5M and QSI's $400k, but are these part of the same total? The question says "similar violations in eight states" so maybe the total is the sum? Let me check. The article states QSI's fine is $400k, and Hearthside's is $4.5M. So 400k / (4.5M + 400k) would be the percentage. Wait, but the question says "the total settlement amount" referring to Hearthside's penalties, but the wording is confusing. Wait, the question says "penalties imposed on Hearthside... what percentage of the total settlement amount did QSI have to pay for similar violations". Hmm, maybe I'm misunderstanding. The QSI fine is separate. The article says QSI was fined $400k by the Labor Department, while Hearthside settled for $4.5M. The question is asking what percentage QSI paid relative to Hearthside's total? Or is it asking for QSI's own payment as part of a total? The wording is unclear, but according to the article, QSI's fine is $400k. The question might be comparing the two, but the article doesn't mention a combined total. Since the question is about QSI's payment as a percentage of Hearthside's, but the article doesn't state that, so maybe N/A? Wait, the question says "similar violations in eight states", so maybe the $400k is QSI's own penalty. The question is phrased as "percentage of the total settlement amount" that QSI had to pay. But Hearthside's settlement is separate. The article doesn't say they are part of the same total. Therefore, the answer would be N/A because the total isn't given as a combined figure. So I'll put N/A.
+
+2. **Question 2**: Perdue disagreed with liability but settled to avoid a prolonged dispute. The article mentions the Biden administration's crackdown. The question is about the legal precedent they cited. The text says Perdue "strongly disagreed that it should be held liable for the child labor violations but wanted to avoid a prolonged dispute with the Labor Department." There's no mention of a specific legal precedent cited. So the answer is N/A.
+
+3. **Question 3**: After JBS stopped using staffing agencies for sanitation, what alternative method did they implement, mirroring Hearthside's resolution? The article says JBS stopped using staffing agencies for sanitation shifts. Hearthside cut ties with staffing agencies that hired children. So the alternative is JBS directly hiring their own sanitation workers instead of using third parties. The article doesn't explicitly state "mirroring Hearthside" but since both stopped using staffing agencies, the answer would be that JBS stopped using staffing agencies (same as Hearthside). So the answer is "stopped using staffing agencies for sanitation shifts".
+
+4. **Question 4**: What specific legislative change did Seema Nanda propose beyond increasing fines? The article states that federal child labor fines are capped at $15k despite efforts to raise them. The question asks for another legislative change. The article quotes Nanda saying companies can't turn a blind eye. The text doesn't mention a specific legislative proposal beyond raising fines. So N/A.
+
+5. **Question 5**: Projected total financial impact over five years if violations continue. The article doesn't provide data or projections, just the current settlements. So N/A.
+
+6. **Question 6**: What medical training program funded by JBS through KIND addresses injuries? The article mentions the money would go to scholarships, stipends, English classes, job training. No specific medical training program mentioned. So N/A.
+
+7. **Question 7**: If the 2023 initiative was in place before 2020, what mechanism like Oklahoma's would have prevented Perdue's violations. Oklahoma required proof of citizenship for enrollment. The article says that the White House's initiative focused on holding companies accountable. The question asks for a mechanism similar to Oklahoma's. Since Oklahoma's policy was about proof of status, perhaps that's the answer. But the question is about preventing hiring, so maybe requiring documentation? The answer would be "requiring proof of citizenship or immigration status" as per Oklahoma's approach. But the article says Oklahoma's policy was approved after the Perdue violations, but the question is hypothetical. So answer is "requiring proof of citizenship or immigration status".
+
+8. **Question 8**: What outreach program did Perdue fund to counter fear from Trump's deportation threats? The article mentions Perdue funded Kids in Need of Defense (KIND), but the question asks if they funded another program similar to KIND to counter fear. The article doesn't mention any other program funded by Perdue specifically for that purpose. So N/A.
+
+9. **Question 9**: Financial safeguard beyond restitution for JBS due to Hearthside's bankruptcy. The article says JBS's money would be administered by KIND. The question asks what safeguard the Labor Department mandated. Since Hearthside went bankrupt, maybe JBS had to set up a trust? The article doesn't mention this, so N/A.
+
+10. **Question 10**: What investigative technique did Hannah Dreier use beyond individual cases to show systemic issues? The article mentions a series of articles by The Times that exposed systemic child labor. The technique might be "a series of articles" or "investigative series". The question asks for the specific technique beyond reporting individual cases. The article says "series of articles" which is the technique. So answer "series of articles".
+
+11. **Question 11**: The youngest child's age at Tyson's plant via QSI. The article mentions JBS had children as young as 13. The QSI investigation involved Tyson's plant but the article doesn't specify the age there. The question is about Tyson's plant in Virginia during QSI's case. The article says "children as young as 13" at JBS, but for Tyson's plant under QSI, it's not specified. So N/A.
+
+12. **Question 12**: Nonprofit administering Perdue funds also overseeing JBS job training. The article says Perdue's money went to KIND, and JBS's funds would be administered by KIND for job training. So the answer is "Kids in Need of Defense (KIND)".
+
+13. **Question 13**: Chemical-related injury at JBS plants. The article states children working with potent chemicals sometimes showed up to school with burns. So the answer is "burns".
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>stopped using staffing agencies for sanitation shifts</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>requiring proof of citizenship or immigration status</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>series of articles</answer>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<question_number>12</question_number>
+<answer>Kids in Need of Defense</answer>
+<question_number>13</question_number>
+<answer>burns</answer>

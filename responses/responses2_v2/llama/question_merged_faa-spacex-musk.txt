@@ -1,0 +1,71 @@
+merged_faa-spacex-musk.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<other>Converting miles to feet using the standard conversion rate of 1 mile = 5280 feet.</other>
+<answer>475200 feet</answer>
+
+<question_number>12</question_number>
+<answer>Blue Origin</answer>
+
+<question_number>13</question_number>
+<answer>Federal Aviation Administration (F.A.A.)</answer>
+
+<question_number>14</question_number>
+<answer>100 tons</answer>
+
+<question_number>15</question_number>
+<other>The article mentions that Blue Origin launched from Cape Canaveral at 2:03 a.m.</other>
+<answer>2:03 a.m.</answer>
+
+<question_number>16</question_number>
+<other>The article mentions that NASA has more than $4 billion worth of contracts with SpaceX to use the Starship to land astronauts on the moon.</other>
+<answer>$4 billion+</answer>
+
+However, since the answer must be in the specified format, I will change it to just “4” as per instructions.
+ 
+ <question_number>16</question_number>
+ <answer>>4 </answer>
+
+ <question_number>17</question_number>
+ <answer>Todd Harrison </answer>
+
+ <question_number>18</question_number>
+ <other>The article mentions that this was the seventh Starship test flight. </other>
+ <answer>>7 </answer>
+
+ <question_number>19</question_number>
+ <other>The article mentions that the Starship was flying at about 13,250 miles per hour. </other>
+ <answer>>13250 </answer>
+
+ <question_number>20</question_number>
+ <other>The article mentions that Elon Musk expressed confidence that SpaceX would resolve questions about the explosion quickly and restart test flights, saying "Nothing so far suggests pushing next launch past next month". </other>
+ <answer>>next month </answer>

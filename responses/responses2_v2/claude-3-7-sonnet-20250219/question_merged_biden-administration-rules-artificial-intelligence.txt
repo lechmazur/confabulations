@@ -1,0 +1,80 @@
+merged_biden-administration-rules-artificial-intelligence.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article states that "Nvidia's stock dipped nearly 2 percent on Monday" but doesn't attribute any specific percentage of this decline to concerns about the European Commission's statement.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions that G42 eliminated Huawei equipment from its systems as part of an agreement with Microsoft, but doesn't specify what Jason Oxman was concerned about regarding this equipment in his letter to congressional leadership.</other>
+
+<question_number>3</question_number>
+<answer>7 percent</answer>
+<other>The article states that companies "will still have to agree to keep 75 percent of their total A.I. computing power within the United States or allied countries, and to locate no more than 7 percent of their computing power in any single other nation." Switzerland is mentioned as a country that will face restrictions, so it would fall under the 7% limit.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article mentions that the Biden administration "added new Chinese companies to a military blacklist" but doesn't specify how many or name any specific companies other than Huawei.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>While John Neuffer of the Semiconductor Industry Association is quoted saying they were "deeply disappointed" about the timing ("being rushed out the door days before a presidential transition"), there's no specific mention of concerns about the impact on the U.S.-Mexico relationship.</other>
+
+<question_number>6</question_number>
+<answer>chips</answer>
+<other>Jake Sullivan mentioned that "that capacity does not get offshored like chips and batteries and other industries that we've had to invest hundreds of billion dollars to bring back onshore."</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>While the article mentions that the Biden administration was concerned about adversaries using AI to "carry out cyberattacks," it doesn't specify any particular type of cyberattack.</other>
+
+<question_number>8</question_number>
+<answer>G42</answer>
+<other>The article states: "Under the guidance of the U.S. government, Microsoft struck an agreement to team up with an Emirati firm, G42, last year, in return for G42's eliminating Huawei equipment from its systems and taking other steps."</other>
+
+<question_number>9</question_number>
+<answer>new rules to keep the most cutting-edge chips out of China</answer>
+<other>The article states: "The Biden administration could issue more rules related to chips and A.I. in the coming days, including an executive order to encourage domestic energy generation for data centers, and new rules that aim to keep the most cutting-edge chips out of China"</other>
+
+<question_number>10</question_number>
+<answer>more than 200 pages</answer>
+<other>The article states: "The rules, which run more than 200 pages, also set up a system in which companies that operate data centers, like Microsoft and Google, can apply for special government accreditations."</other>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+<other>While the European Commission expressed concerns about the U.S. measures, the article doesn't mention any announcement about joint AI development initiatives with Middle Eastern data centers.</other>
+
+<question_number>12</question_number>
+<answer>75 percent</answer>
+<other>The article states: "The companies will still have to agree to keep 75 percent of their total A.I. computing power within the United States or allied countries"</other>
+
+<question_number>13</question_number>
+<answer>N/A</answer>
+<other>The article only mentions that "Nvidia's stock dipped nearly 2 percent on Monday," not 5%.</other>
+
+<question_number>14</question_number>
+<answer>N/A</answer>
+<other>While Switzerland is mentioned as a country that will face restrictions, the article doesn't specify any numerical cap on AI chip imports for Switzerland or any other country.</other>
+
+<question_number>15</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any Chinese telecommunications company collaborating with Microsoft on removing Huawei equipment. It states that Microsoft partnered with G42 (an Emirati firm), and G42 eliminated Huawei equipment from its systems.</other>
+
+<question_number>16</question_number>
+<answer>7</answer>
+<other>The article states: "The United States and 18 of its closest partners -- including Britain, Canada, Germany, Japan, South Korea and Taiwan -- are exempted from any restrictions and can buy A.I. chips freely." This lists 7 countries (including the US).</other>
+
+<question_number>17</question_number>
+<answer>N/A</answer>
+<other>While Jason Oxman's letter to congressional leadership is mentioned, the article doesn't specify which U.S. government agency he referenced in his argument.</other>
+
+<question_number>18</question_number>
+<answer>7 percent</answer>
+<other>The article states companies must "locate no more than 7 percent of their computing power in any single other nation."</other>
+
+<question_number>19</question_number>
+<answer>N/A</answer>
+<other>While the article mentions Middle Eastern countries investing in data centers and also mentions Huawei obtaining components through a Taiwanese chip firm, it doesn't directly tie any specific Middle Eastern country's investment to Huawei's violation of export controls.</other>
+
+<question_number>20</question_number>
+<answer>N/A</answer>
+<other>While the article mentions that "Huawei, a Chinese telecom firm under U.S. sanctions, had been obtaining components for its A.I. chips that were manufactured by a leading Taiwanese chip firm," it doesn't specify what type of advanced chip component was being obtained.</other>

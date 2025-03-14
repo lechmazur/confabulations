@@ -1,0 +1,86 @@
+merged_capital-one-outage-direct-deposits.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article and answer strictly based on that.
+
+1. **Question 1**: The first question asks for the percentage of Capital One's over 100 million customers affected by the technical issue linked to the underpayment lawsuit. The article mentions the lawsuit about underpaid interest but doesn't connect it directly to the technical issue's customer percentage. Also, it says "it was not immediately clear how many customers were affected" by the technical problem. So the answer is N/A.
+
+2. **Question 2**: The lawsuit is about underpayment, but the question asks about regulatory action similar to the Antigua situation (which involved unproven treatments). The article doesn't mention any specific regulatory actions related to direct deposits beyond the lawsuit. So N/A.
+
+3. **Question 3**: The third-party issue affected deposits and payments. The question links this to Bill Gates' concerns about tech billionaires. The article doesn't mention other operational impacts beyond the listed services. N/A.
+
+4. **Question 4**: Capital One said majority issues resolved by "tomorrow morning" from Thursday's statement, so that would be Friday. The answer is Friday.
+
+5. **Question 5**: The initial reports were Wednesday. The article states by Saturday, they had restored for most. So from Wednesday to Saturday is 3 days. But the exact days counted? The problem started Wednesday, and the restoration was mentioned on Saturday as "substantial progress" but full by "tomorrow" (Friday) in the Thursday statement. Wait, the Saturday email says they restored for most. The question says "how many days after initial reports on Wednesday"—so Wednesday to Friday (2 days) or up to Saturday? The answer might be 3 days (Wednesday to Saturday). But the article says "by tomorrow morning" (Thursday's statement expecting Friday), so maybe 2 days. Hmm, need to check.
+
+6. **Question 6**: The article doesn't mention any alternative products offered. N/A.
+
+7. **Question 7**: Mike Matsos used Down Detector to report? Wait, the article says "according to Down Detector" for the outage reports, but Mike's personal report isn't mentioned there. The question says "used to report the ongoing issues"—the article says customers reported problems, but Mike's method isn't specified. So N/A.
+
+8. **Question 8**: No mention of new features announced after resolution. N/A.
+
+9. **Question 9**: The lawsuit mentions $2 billion underpaid, but that's for savings accounts, not the technical issue's compensation. The article doesn't say they pledged anything. N/A.
+
+10. **Question 10**: The third-party vendor's business type? The article doesn't specify. N/A.
+
+11. **Question 11**: The lawsuit is separate from the technical issue cause. The article says the disruption wasn't related to fraud, but the lawsuit is about underpayment. No direct link stated. N/A.
+
+12. **Question 12**: The startup's procedures in Antigua involved treating cancer patients. The article mentions Mike is a hospitality worker, so that sector. The question links to the startup's sector? Wait, the question says "industry sector of the customer who faced delayed paycheck processing" (Mike's sector is hospitality) but the "similar to the start-up mentioned..." The startup is in medical treatments. So the answer would be "hospitality", but the question asks for a sector similar to the startup's (medical?), but the article doesn't link them. So N/A.
+
+13. **Question 13**: The initial outage on Wednesday had reports but the exact number isn't given beyond "nearly 4,000 each time on Friday". The Wednesday count isn't specified. N/A.
+
+14. **Question 14**: The AI company mentioned is DeepSeek, but it's unrelated to Capital One's issue. N/A.
+
+15. **Question 15**: The $2 billion is from the lawsuit about underpayment, not the technical issue. The question conflates the two. Since the technical issue's impact on underpayment isn't linked, N/A.
+
+16. **Question 16**: The public commitment to restore all services after majority resolved by Friday morning. The initial statement on Thursday said "majority by tomorrow morning" (Friday). The first public commitment was Thursday's statement. So the day is Thursday.
+
+17. **Question 17**: The contrast with employee sentiment is about Mark Zuckerberg and other tech leaders aligning with Trump vs. employees. So the executive is Mark Zuckerberg.
+
+18. **Question 18**: The third-party vendor's base isn't mentioned. The article says Capital One is based in Virginia, but the vendor's location? N/A.
+
+19. **Question 19**: Bill Gates is mentioned as reevaluating his past during the same week. The article states this in the section about him.
+
+20. **Question 20**: The D.E.I. Retreat section mentions President Trump's actions influencing corporate D.E.I. initiatives. So the figure is Trump.
+
+Now, compiling answers based on this analysis.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>Friday</answer>
+<question_number>5</question_number>
+<answer>3</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<question_number>12</question_number>
+<answer>N/A</answer>
+<question_number>13</question_number>
+<answer>N/A</answer>
+<question_number>14</question_number>
+<answer>N/A</answer>
+<question_number>15</question_number>
+<answer>N/A</answer>
+<question_number>16</question_number>
+<answer>Thursday</answer>
+<question_number>17</question_number>
+<answer>Mark Zuckerberg</answer>
+<question_number>18</question_number>
+<answer>N/A</answer>
+<question_number>19</question_number>
+<answer>Bill Gates</answer>
+<question_number>20</question_number>
+<answer>President Trump</answer>

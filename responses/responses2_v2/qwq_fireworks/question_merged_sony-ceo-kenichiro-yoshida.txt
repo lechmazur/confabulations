@@ -1,0 +1,112 @@
+merged_sony-ceo-kenichiro-yoshida.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article. Let me go through each question and check the text.
+
+1. **Question 1: Percentage increase in Sony's gaming division revenue under Lin Tao as CFO.**  
+   The article mentions Lin Tao becoming CFO but doesn't provide specific revenue figures or percentages for the gaming division under her tenure. So, answer is N/A.
+
+2. **Question 2: Consecutive profitable quarters under Yoshida.**  
+   The article states Yoshida took over in 2018 and the company wasn't bleeding red ink then. It mentions a profit forecast for the current fiscal year but no exact number of quarters. N/A.
+
+3. **Question 3: Major acquisition by Totoki in 2023.**  
+   The text says Sony talked about acquiring Paramount but decided against it. So no successful acquisition mentioned. N/A.
+
+4. **Question 4: Market value when entertainment surpassed three-fifths.**  
+   The article states entertainment segments accounted for over three-fifths of revenue in the latest quarter but doesn't mention market value then. N/A.
+
+5. **Question 5: Female C-suite execs before Lin Tao.**  
+   Lin Tao is the first woman as CFO. The text doesn't mention any others before her. So 0? But need to check if any others were in C-suite roles. The article only mentions her as first. Answer: 0.
+
+6. **Question 6: Revenue target for content division during Paramount talks.**  
+   No specific revenue target mentioned in the article related to the Paramount talks. N/A.
+
+7. **Question 7: Tech innovations under Yoshida for profit increase.**  
+   The article mentions focusing on subscription services and connecting music, movies, games. No specific tech innovations like products. N/A.
+
+8. **Question 8: Investment split for Kadokawa.**  
+   The $300M is for increasing stake but not split between IP and existing content. N/A.
+
+9. **Question 9: Subscription services when shares hit high.**  
+   The article mentions PlayStation's subscription services but doesn't state how many were launched during the shares' peak. N/A.
+
+10. **Question 10: Growth rate after Nishino's appointment.**  
+    No specific growth rate numbers given post-appointment. N/A.
+
+11. **Question 11: Weakened yen's impact on Paramount stake.**  
+    The weakened yen might affect finances, but the article says the decision to invest in Kadokawa was part of strategy, not directly linked to Paramount. N/A.
+
+12. **Question 12: Operating profit before Yoshida.**  
+    The article states current forecast is $8.4B, up 75% from 2017 (before Yoshida took over in 2018). So 2017 profit would be 8.4B / 1.75 ≈ $4.8B. But exact figure isn't given, so N/A? Wait, maybe the article says "operating profit of $8.4 billion, up more than 75% from its earnings in 2017". So 2017's profit was (8.4 / 1.75) ≈4.8, but since it's "more than" 75%, exact value isn't precise. Since the question asks for the figure before, and the article says "up more than 75%", but doesn't give exact previous number. So answer N/A because it's not directly stated.
+
+13. **Question 13: Discontinued product line credited by Nishimura.**  
+    The article mentions exiting unprofitable businesses like PCs under Yoshida. Nishimura talked about subscription focus but didn't attribute it to a specific discontinued product. N/A.
+
+14. **Question 14: Female C-suite before Lin Tao.**  
+    Same as question 5. The article says Lin is first woman to hold CFO rank. If other C-suite roles had women before? The article doesn't mention any others. So 0.
+
+15. **Question 15: Streaming platform influencing $300M anime investment.**  
+    The article mentions Netflix's higher valuation as a competitor. The investment in Kadokawa is for anime, so maybe Netflix? The text says Sony faces Netflix with triple market val. So answer Netflix.
+
+16. **Question 16: Reason for abandoning Paramount bid.**  
+    The article states Sony decided against after another studio acquired Paramount. So the reason is another bid succeeded.
+
+17. **Question 17: Iconic product from same decade as Walkman.**  
+    Walkman was 1979 (late 70s). The article mentions Trinitron TV and Betamax (both 70s). But the article specifically lists Walkman and says "iconic inventions like the Walkman". No other specific product from same decade mentioned here. Wait, the article says "Sony was the first name in consumer electronics, churning out handfuls of iconic inventions like the Sony Walkman, which it introduced in 1979." So maybe another like Trinitron color TVs? But the text doesn't name others except Walkman. So N/A.
+
+18. **Question 18: Years Hirai served before Yoshida.**  
+    Yoshida took over in 2018. The article says under Hirai the company stopped bleeding red ink. When did Hirai leave? The article says Yoshida's predecessor was Hirai, but no tenure length. So N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Lin Tao's role as CFO of PlayStation unit isn't linked to gaming revenue figures in the text.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Text mentions Yoshida's leadership since 2018 but doesn't specify consecutive profitable quarters.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Paramount acquisition talks were mentioned but Sony decided against it; no successful acquisition noted.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>No market value figure provided when entertainment revenue hit three-fifths.</other>
+<question_number>5</question_number>
+<answer>0</answer>
+<other>Text states Lin Tao is first woman to hold CFO rank, implying no prior female C-suite holders.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>No specific revenue target cited for content division during Paramount talks.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Focus on subscriptions and cross-business integration are mentioned, not specific tech innovations.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>Investment in Kadokawa isn't split between IP development and existing content in the text.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Number of subscription services launched isn't specified when shares hit highs.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>No growth rate data provided post-Nishino's appointment.</other>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<other>Weakened yen's impact on Paramount stake isn't directly linked in the text.</other>
+<question_number>12</question_number>
+<answer>N/A</answer>
+<other>Exact 2017 profit isn't stated; only that 2023 forecast is up "more than 75%."</other>
+<question_number>13</question_number>
+<answer>N/A</answer>
+<other>No specific discontinued product line credited by Nishimura for subscription pivot.</other>
+<question_number>14</question_number>
+<answer>0</answer>
+<other>Lin Tao is first female C-suite holder per the management shifts described.</other>
+<question_number>15</question_number>
+<answer>Netflix</answer>
+<other>Text states Sony faces Netflix's triple market valuation in content battles.</other>
+<question_number>16</question_number>
+<answer>Another studio acquired Paramount first</answer>
+<other>Sony abandoned bid after independent studio secured Paramount.</other>
+<question_number>17</question_number>
+<answer>N/A</answer>
+<other>Walkman's decade (1970s) isn't linked to other named products in the text.</other>
+<question_number>18</question_number>
+<answer>N/A</answer>
+<other>No tenure duration for Hirai before Yoshida is provided in the article.</other>

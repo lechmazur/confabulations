@@ -1,0 +1,59 @@
+merged_apple-epic-spotify-app-stores.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the article provided. Let me start by going through each question and finding the relevant parts of the text.
+
+1. The first question asks about a specific action Apple took that contradicts its claim of complying with the Digital Markets Act after the European Commission's antitrust findings. The article mentions that Apple was fined nearly $2 billion for blocking music streaming services from showing promotions in their apps. But Spotify said Apple still prevents them from including a purchase link without fees. So the action is preventing Spotify from linking purchases without fees despite the ruling.
+
+2. The second question is about how Apple's handling of third-party app stores in Europe shows a contradiction between user experience and compliance. The article says Apple created a "scare screen" warning users about third-party stores and made the download process lengthy. Even though they allowed Epic's store, they made it difficult, which contradicts their user-friendly approach.
+
+3. The third question is about why Apple introduced new fees for linking purchases in Europe. The article states that Apple responded to criticism about linking out purchases with new fees (5% and 20% fees), which the Coalition for App Fairness says shows they don't want to lose revenue. So the underlying reason is to maintain revenue despite the ruling.
+
+4. The fourth question asks how Epic's app store approval shows Apple's strategy under regulatory pressure. The article mentions Apple approved, then terminated and restored Epic's account. This back-and-forth suggests they're resisting changes while technically complying, so the strategy is to make it as hard as possible despite compliance.
+
+5. Fifth question on NFC access in the US legal context. The article says Apple allowed NFC for in-store payments in response to the US Justice Department lawsuit. This move addresses the lawsuit's claims about monopolies, so it's a strategic concession to legal challenges.
+
+6. Sixth question on Spotify's promotional pricing and compliance. The EU forced Apple to allow Spotify's promotions, but Apple still blocks purchase links without fees. This shows partial compliance but continues to enforce fees, hence a discrepancy.
+
+7. Seventh question about the sequence of Epic's approval. The article says Apple approved, then terminated, then restored Epic's account. This inconsistency suggests Apple is trying to wear down critics, as Epic's CEO said, indicating intentional obstruction.
+
+8. Eighth question on Apple's response to DMA showing conflict between business and regulation. The article states Apple complies but adds fees and hurdles, showing they prioritize business over full compliance, hence a conflict.
+
+9. Ninth question on alternative fees and priorities. Apple introduced fees like the 5% and 20% which maintain revenue. The Coalition's comment says Apple doesn't want to lose revenue, so prioritizing revenue over compliance.
+
+10. Tenth question on NFC access in multiple countries as a strategy. The article mentions Apple allows NFC in several countries (US, Australia, etc.), which shows a global approach to meet regulatory demands while maintaining control via terms and fees. So it's a standardized but controlled response to different regions.
+
+I need to ensure each answer is directly from the text and not inferred beyond what's stated. Let me check each again quickly.
+
+1. Correct, the article says despite the ruling, Apple still blocks purchase links without fees.
+2. The scare screen and 15 steps vs. their usual ease.
+3. The fees are a response to criticism but aim to keep revenue.
+4. The on-again, off-again approval with Epic.
+5. NFC allowed in response to US lawsuit.
+6. Partial compliance but fees remain.
+7. The sequence shows Apple's resistance tactics.
+8. Fees and hurdles despite compliance claims.
+9. Fees introduced to maintain revenue.
+10. Offering NFC in multiple countries under controlled terms.
+
+All answers are directly supported. I think that's all.
+</think>
+
+<question_number>1</question_number>
+<answer>prevented Spotify from including purchase links without fees</answer>
+<question_number>2</question_number>
+<answer>created a "scare screen" and multi-step download process for third-party stores despite compliance</answer>
+<question_number>3</question_number>
+<answer>maintain revenue through fees even after antitrust ruling</answer>
+<question_number>4</question_number>
+<answer>approved then terminated/restored Epic's access to create obstacles while technically complying</answer>
+<question_number>5</question_number>
+<answer>concession to U.S. antitrust lawsuit claims about smartphone monopoly</answer>
+<question_number>6</question_number>
+<answer>allowed promotions but still enforced fees for direct purchases</answer>
+<question_number>7</question_number>
+<answer>suggests intentional obstruction through inconsistent approvals</answer>
+<question_number>8</question_number>
+<answer>introduced fees/hurdles that prioritize revenue over regulatory demands</answer>
+<question_number>9</question_number>
+<answer>maintain revenue through new fees despite regulatory compliance</answer>
+<question_number>10</question_number>
+<answer>standardized access with controlled terms/fees across regions</answer>

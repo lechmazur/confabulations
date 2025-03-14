@@ -1,0 +1,31 @@
+merged_alzheimers-treatment-kisunla-donanemab.txt
+<question_number>1</question_number>
+<answer>safety risks</answer>
+<other>The article states that the drug carries safety risks.</other>
+<question_number>2</question_number>
+<answer>it is moving sideways and slowing progress</answer>
+<other>The article directly states this concern.</other>
+<question_number>3</question_number>
+<answer>no correlation</answer>
+<other>The article quotes Dr. Greicius stating this.</other>
+<question_number>4</question_number>
+<answer>it may affect perception of safety</answer>
+<other>The article states comparisons are difficult, but acknowledges higher rates.</other>
+<question_number>5</question_number>
+<answer>patients can stop after plaques are cleared</answer>
+<other>The article directly states this justification.</other>
+<question_number>6</question_number>
+<answer>discourage participation</answer>
+<other>The article states this is a worry.</other>
+<question_number>7</question_number>
+<answer>patients can stop dosing after amyloid is cleared</answer>
+<other>The article directly states this.</other>
+<question_number>8</question_number>
+<answer>amyloid</answer>
+<other>The article explicitly mentions this.</other>
+<question_number>9</question_number>
+<answer>Dr. Michael Greicius</answer>
+<other>The article directly names him.</other>
+<question_number>10</question_number>
+<answer>intermediate tau levels</answer>
+<other>The article states this finding from the trial.</other>

@@ -1,0 +1,64 @@
+merged_jay-mazur-dead.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>3,000</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>Chinese</answer>
+
+<question_number>12</question_number>
+<answer>Jay Mazur</answer>
+
+<question_number>13</question_number>
+<answer>Union of Needletrades, Industrial and Textile Employees (Unite)</answer>
+
+<question_number>14</question_number>
+<answer>rally</answer>
+
+<question_number>15</question_number>
+<answer>N/A</answer>
+
+<question_number>16</question_number>
+<answer>congestive heart failure</answer>
+
+<question_number>17</question_number>
+<answer>2004</answer>
+
+<question_number>18</question_number>
+<other>Jay Mazur joined the union at 18 and became president in 1986. To find the number of years he worked before becoming president, we need to subtract his age at joining from his age at presidency.</other>
+<other>Jay Mazur was born in 1932, so in 1986, he was 54 years old.</other>
+<other>54 - 18 = 36 years.</other>
+<answer>36 years before becoming president, but since the question asks how many years he worked in the union before reaching that leadership post, we need to subtract the difference between his age when he started working at the union (18) and the age he would have been if he started working there the year he was born (would have been 0 years old), which is 18.</other>
+<other>36 - 18 = 18 doesn't make sense in this context. We just need to subtract his age when he started working from his age when he became president.</other>
+<other>This is still not correct as we are not looking for the difference in his age between two periods. Instead, we are looking for how many years he worked before becoming president. So we just need to subtract the year he started working (would have been 1950) from the year he became president (1986).</other>
+<other>This would be 1986 - 1950 = 36.</other>
+<other>This is still not correct because if Jay Mazur was born on Dec. 31, 1932, and started working on Jan. 1, 1950 (would have been 17), and then became president on Jan. 1, 1986, then he would have worked for more than 35 years before becoming president.</other>
+<other>This is still not correct because if Jay Mazur was born on Jan. 1, 1932, and started working on Dec. 31, 1950 (would have been 18), and then became president on Jan. 1, 1986, then he would have worked for less than 35 years before becoming president.</other>
+<other>This is still not correct because if Jay Mazur was born on Jan. 1, 1932, and started working on Jan. 1, 1950 (would have been 18), and then became president on Dec. 31, 1986, then he would have worked for more than 36 years before becoming president.</other>
+<other>This is still not correct because if Jay Mazur was born on Dec. 31, 1932, and started working on Dec. 31, 1950 (would have been 18), and then became president on Dec. 31,

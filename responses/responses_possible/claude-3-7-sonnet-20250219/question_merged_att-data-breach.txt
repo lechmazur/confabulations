@@ -1,0 +1,30 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>When data is moved to cloud infrastructure like Snowflake, it becomes "shared with a bunch of other people" making security "much trickier" with "many more ways in which potential attacks can be done"</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>Through data broker records, phone numbers can be traced back to individuals, which could expose communication networks for people in national security roles</answer>
+
+<question_number>5</question_number>
+<answer>The breach could pose a national security concern since AT&T has contracts with the State Department, Department of Homeland Security, and Department of Defense</answer>
+
+<question_number>6</question_number>
+<answer>The exposed phone records could be linked to names through online searches, potentially revealing communication networks of individuals in national security roles</answer>
+
+<question_number>7</question_number>
+<answer>The phone records data could allow foreign nation states to trace phone numbers back to individuals through data broker records, exposing communication networks of people in national security roles</answer>
+
+<question_number>8</question_number>
+<answer>The compromised phone records could be linked to individuals through online searches, potentially exposing communication networks for people in national security roles</answer>
+
+<question_number>9</question_number>
+<answer>When companies move data to the cloud, customers are in a shared space with others, making security "much trickier" with "many more ways in which potential attacks can be done"</answer>
+
+<question_number>10</question_number>
+<answer>The professor explains that cloud infrastructure creates shared spaces with "many more ways in which potential attacks can be done," which relates to how AT&T's data was downloaded from Snowflake, a third-party cloud platform</answer>

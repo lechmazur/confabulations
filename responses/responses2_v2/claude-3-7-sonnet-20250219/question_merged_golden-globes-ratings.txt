@@ -1,0 +1,52 @@
+merged_golden-globes-ratings.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article only states that viewership declined from 9.4 million to 9.3 million, but this is insufficient to establish a trend that can be projected forward.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>Approximately -14.3 million</answer>
+<other>The article states the Globes drew "20 million or so viewers" in the 2010s. This year's Globes had 9.3 million viewers and Sunday Night Football had 25 million. 20 million - (9.3 million + 25 million) = -14.3 million, meaning the combined viewership of this year's events exceeded the 2010s Globes by about 14.3 million.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+<other>The article doesn't specify which network broadcast the Golden Globes before CBS.</other>
+
+<question_number>12</question_number>
+<answer>self-inflicted scandals</answer>
+<other>The article mentions "the pandemic and a number of self-inflicted scandals that had nearly killed off the event entirely."</other>
+
+<question_number>13</question_number>
+<answer>Trump administration</answer>
+<other>The article states: "Winners and presenters avoided third-rail political topics on Sunday, including the incoming Trump administration, a departure from past Globes ceremonies."</other>
+
+<question_number>14</question_number>
+<answer>approximately 15.7 million</answer>
+<other>Sunday Night Football had 25 million viewers while the Golden Globes had 9.3 million. The difference is 25 - 9.3 = 15.7 million.</other>
+
+<question_number>15</question_number>
+<answer>N/A</answer>
+<other>The article states that "The Brutalist" and "Emilia Perez" took top honors, but doesn't specify which film won in which specific category.</other>

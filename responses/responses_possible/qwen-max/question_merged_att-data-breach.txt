@@ -1,0 +1,21 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>increased vulnerability due to shared infrastructure</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>phone numbers linked to individuals via online searches</answer>
+<question_number>5</question_number>
+<answer>exposure of communication networks for national security roles</answer>
+<question_number>6</question_number>
+<answer>data can reveal interactions with sensitive contacts</answer>
+<question_number>7</question_number>
+<answer>foreign actors could exploit data for intelligence</answer>
+<question_number>8</question_number>
+<answer>revealing patterns of government officials' communications</answer>
+<question_number>9</question_number>
+<answer>shared cloud environments increase attack vectors</answer>
+<question_number>10</question_number>
+<answer>outsourcing to Snowflake highlights risks of centralized data</answer>

@@ -1,0 +1,74 @@
+merged_usaid-clinical-trials-funding-trump.txt
+Okay, let me start going through each question one by one. I need to make sure I only use the information provided in the article and answer strictly based on that. Let me read through the questions again and check the article for each answer.
+
+1. **Pharmaceutical company for cabotegravir in CATALYST trial**: The article mentions CATALYST trial participants were getting injections of long-acting cabotegravir, but it doesn't name the company that developed it. So N/A.
+
+2. **Success rate of current malaria vaccine in Africa**: The article states the current vaccine protects against about a third of cases. So that's 33% or a third. The exact wording is "protects children against about a third of malaria cases," so the answer is "about a third."
+
+3. **Number of women in Dominican Republic with implants**: The text says "women in the Dominican Republic had the devices in their bodies" but doesn't specify the number. So N/A.
+
+4. **Last analysis date before stop-work order**: The article doesn't mention when Dr. Hillier's team did their last analysis. So N/A.
+
+5. **Adverse effects in South African vaginal ring study**: The article doesn't provide numbers on reported adverse effects before termination. N/A.
+
+6. **Monitoring duration for Oxford malaria trial**: Participants were supposed to be followed for two years. The answer is "two years."
+
+7. **Drug-resistant HIV cases among CATALYST participants**: The article doesn't mention any cases emerging yet, just the risk. So N/A.
+
+8. **Compensation for staff violating orders**: The text doesn't talk about compensation for those who removed devices. N/A.
+
+9. **Country for Dr. Mansoor's trial**: The article says Dr. Mansoor works in South Africa, so the answer is South Africa.
+
+10. **Number of children in Mozambique malaria trial**: The article mentions Mozambique's trial but no numbers. N/A.
+
+11. **Secretary Rubio's reason cited by participants**: The article says Rubio called USAID wasteful and advancing a liberal agenda. So the answer is "wasteful and advances a liberal agenda."
+
+12. **Number of mRNA HIV trials**: The article lists one mRNA HIV vaccine trial in South Africa. So answer is 1.
+
+13. **Organization confirming implant removal**: FHI 360's spokesperson mentioned they used other resources. So FHI 360.
+
+14. **Malaria mortality year referenced**: The article mentions 600,000 deaths in 2023. So 2023.
+
+15. **Company partnered with Dr. Hillier**: The article doesn't name the pharmaceutical company. N/A.
+
+16. **Months until malaria infection phase**: The article says "Had the stop-work order come later this year, the newly-vaccinated volunteers might have been in an even more precarious position. They were scheduled to be deliberately infected with malaria..." So it's implied the infection phase was coming up, but exact months aren't given. N/A.
+
+17. **Consequence of stopping cabotegravir**: Dr. Ngure mentions mutation leading to drug resistance, which threatens existing treatments. The answer is "development of drug-resistant HIV."
+
+Wait, let me check each again carefully. For question 12, the article says "an mRNA vaccine technology for H.I.V. in South Africa" as one of the trials. So that's one trial, so answer is 1. For question 16, the article says "scheduled to be deliberately infected with malaria to see if the experimental vaccine protected them from the disease." The timing is mentioned as "Had the stop-work order come later this year," but exact months aren't given, so N/A. Okay, I think that's all.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</answer>
+<answer>about a third</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>two years</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>South Africa</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>wasteful and advances a liberal agenda</answer>
+<question_number>12</question_number>
+<answer>1</answer>
+<question_number>13</question_number>
+<answer>FHI 360</answer>
+<question_number>14</question_number>
+<answer>2023</answer>
+<question_number>15</question_number>
+<answer>N/A</answer>
+<question_number>16</question_number>
+<answer>N/A</answer>
+<question_number>17</question_number>
+<answer>development of drug-resistant H.I.V.</answer>

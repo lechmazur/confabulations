@@ -1,0 +1,31 @@
+merged_emergency-911-calls-tech-outage.txt
+<question_number>1</question_number>
+<answer>Oregon</answer>
+<other>The article states Erin Zysett, a spokeswoman for the Oregon Department of Emergency Management, mentioned both I.T. teams and statewide alert systems.</other>
+<question_number>2</question_number>
+<answer>Down utility billing and phone systems</answer>
+<other>The article states that Hudson closed its City Hall because utility billing and phone systems were down.</other>
+<question_number>3</question_number>
+<answer>CrowdStrike outage</answer>
+<other>The article explicitly states the alarms were caused by the CrowdStrike outage.</other>
+<question_number>4</question_number>
+<answer>Crucial computer systems were unavailable</answer>
+<other>The article states dispatchers had to work "manually" because of the computer systems being down.</other>
+<question_number>5</question_number>
+<answer>Emergency agencies directed the public to alternative numbers</answer>
+<other>The article states agencies scrambled to communicate and directed people to alternative numbers.</other>
+<question_number>6</question_number>
+<answer>Down utility billing and phone systems</answer>
+<other>The article states Hudson closed its City Hall because of this.</other>
+<question_number>7</question_number>
+<answer>Alaska</answer>
+<other>The article states problems began to emerge on Thursday night in Alaska.</other>
+<question_number>8</question_number>
+<answer>A nationwide technology-related outage</answer>
+<other>The Alaska State Troopers attributed the issue to this outage.</other>
+<question_number>9</question_number>
+<answer>South Dakota</answer>
+<other>The article specifically mentions the entire state of South Dakota was affected in April.</other>
+<question_number>10</question_number>
+<answer>San Francisco</answer>
+<other>The article states 20 fire alarms blared in San Francisco.</other>

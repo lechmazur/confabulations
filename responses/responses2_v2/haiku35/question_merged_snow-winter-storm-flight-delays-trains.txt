@@ -1,0 +1,40 @@
+merged_snow-winter-storm-flight-delays-trains.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>20 percent</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>Monday</answer>
+
+<question_number>6</question_number>
+<answer>1,490 flights</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>4 flights</answer>
+
+<question_number>9</question_number>
+<answer>Until Tuesday morning</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>8 cities</answer>
+
+<other>Reasoning for some answers:
+- Question 3: If 80% were canceled, the remaining 20% were operating normally
+- Question 5: The article explicitly states Congress certified Trump's victory on Monday
+- Question 6: 990 delayed + 500 canceled = 1,490 total flights
+- Question 8: Original flight + 3 additional Monday flights = 4 total canceled flights
+- Question 11: Counted distinct cities mentioned: Texas, New York, Washington, Chicago, Philadelphia, Boston, Raleigh, Richmond</other>

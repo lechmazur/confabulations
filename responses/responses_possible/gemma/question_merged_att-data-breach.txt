@@ -1,0 +1,21 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>Sharing data with a third-party platform increases the number of potential access points for attackers.</answer>
+<question_number>3</question_number>
+<answer>The breach highlights the need for robust security measures to protect sensitive data entrusted to companies with government contracts.</answer>
+<question_number>4</question_number>
+<answer>Phone records can reveal who a person communicated with, potentially exposing communication networks of individuals in national security roles.</answer>
+<question_number>5</question_number>
+<answer>The exposed data could reveal communication patterns of government officials, potentially compromising national security.</answer>
+<question_number>6</question_number>
+<answer>The exposed phone records can be used to map out communication networks by identifying who individuals interacted with.</answer>
+<question_number>7</question_number>
+<answer>The exposed phone records can be used to trace communication networks and potentially identify individuals in sensitive positions.</answer>
+<question_number>8</question_number>
+<answer>The exposed phone records could reveal communication patterns of government officials, potentially compromising national security.</answer>
+<question_number>9</question_number>
+<answer>Cloud networks are shared environments, increasing the potential attack surface and exposing customer data to a wider range of threats.</answer>
+<question_number>10</question_number>
+<answer>The professor's explanation of cloud infrastructure as a shared environment applies to the AT&T breach because the compromised data was stored on a third-party cloud platform.</answer>

@@ -1,0 +1,98 @@
+merged_2025-luxury-vacation-trends.txt
+Okay, let's tackle these questions one by one using only the article provided. 
+
+1. **Question 1:** The first question asks which luxury resort requires both a ferry and a catamaran. Looking at the article, Kilchoan Estate in Scotland requires a ferry to reach, and Impression Isla Mujeres by Secrets uses a private catamaran shuttle. But the question is about both. Wait, the article says Kilchoan needs a ferry, and Impression Isla Mujeres uses a catamaran. No mention of a resort needing both. So maybe the answer is N/A? Wait, the W Punta Cana is the first all-inclusive by W, but the question is about both ferry and catamaran. Let me check again. The article says Impression Isla Mujeres is reached by private catamaran. Kilchoan requires ferry. The question asks for a resort that uses both. Since the text doesn't mention any resort requiring both, answer N/A.
+
+2. **Question 2:** The article mentions Botswana's lodges charging $8k caused a 35% drop in Embark Beyond's bookings. The question is about Tanzania's increase. The article doesn't mention Tanzania at all, so N/A.
+
+3. **Question 3:** The three most remote properties for climate change? The article mentions Flockhill Lodge in NZ (cool), Kilchoan in Scotland (cool), and maybe Saudi Arabia? But Saudi Arabia's canyons might not be for climate, as it's a desert. The ones in cooler climates are Flockhill and Kilchoan, plus maybe another? The article also mentions Gundari in Greece, but Greece isn't necessarily for climate. The question is about locations chosen to combat climate change (overheating). So Flockhill (NZ), Kilchoan (Scotland), and maybe another? Let me see. The article says "openings in cooler climates also offer seclusion" so those two. But the third? The Saudi one is in a canyon, but not for cooling. So maybe only two, so the question's premise is wrong, so N/A.
+
+4. **Question 4:** Caribbean all-inclusive with overwater bungalows and private helicopter. The article mentions Princess Senses in Jamaica has overwater bungalows and is all-inclusive. The question is about helicopter transfers. The article says Impression Isla Mujeres uses a catamaran, W Punta Cana's shuttle isn't mentioned as helicopter. The article doesn't mention helicopters for any, so N/A.
+
+5. **Question 5:** The Cyclades' Gundari Resort. The article says it's on Folegandros island, with suites in cliffs. The question is about square kilometers of wilderness. The text doesn't mention the area around the resort, so N/A.
+
+6. **Question 6:** Javanese cultural experiences in all-inclusive. The article mentions Yogyakarta has Cosmological Axis, but no info on resorts there offering it. The resorts mentioned (like Princess Senses, etc.) don't mention Javanese packages. So N/A.
+
+7. **Question 7:** Sustainable initiatives at Saudi's Habitas Alula. The article doesn't specify any initiatives, just that it's in sandstone canyons. So N/A.
+
+8. **Question 8:** Number of rum distilleries for W Hotel's cocktails. The article mentions rum punches but doesn't specify distilleries, so N/A.
+
+9. **Question 9:** Percentage shift from overheated to cooler by Virtuoso. The article says Virtuoso noted a tipping point but no specific percentage, so N/A.
+
+10. **Question 10:** Decrease in bookings to Cosmological Axis. The article mentions Cosmological Axis in Yogyakarta, but the 35% drop was for Botswana. No info on Yogyakarta's bookings, so N/A.
+
+11. **Question 11:** Barbados' W Hotel rate. The article mentions W Punta Cana's rate is $799, but Barbados isn't mentioned for W Hotels. So N/A.
+
+12. **Question 12:** Jack Ezon's agency is Embark Beyond, which had the Botswana booking drop. So answer is Embark Beyond.
+
+13. **Question 13:** Kilchoan's rate is around 1000 GBP (~$1220). The question asks for USD starting rate. The article says "start around 1,000 British pounds, or about $1,220". So the answer is $1,220.
+
+14. **Question 14:** Gundari's accommodation similar to Princess's overwater bungalows. The article says Gundari has suites built into cliffs. Not overwater, so maybe N/A. But the trend is privacy. The question asks for similar accommodation type. Since overwater isn't mentioned for Gundari, answer N/A.
+
+15. **Question 15:** Flockhill Lodge is on a 36,000-acre sheep farm. The question asks the name of the farm. The article says "on a 36,000-acre sheep farm" but doesn't name it, so N/A.
+
+16. **Question 16:** The resort in Mexico reached by ferry is Impression Isla Mujeres. The question mentions Misty Belles, but she's from Virtuoso. The article says Impression Isla Mujeres is in Mexico, reached by catamaran. The question says "ferry" but maybe it's a mistake. The article says "private catamaran shuttle". So the answer is Impression Isla Mujeres by Secrets.
+
+17. **Question 17:** The consortium led by Embark Beyond's CEO? The article says Virtuoso is a consortium, but Jack's agency is Embark Beyond. The question is incorrect because Virtuoso is separate. The article says "Embark Beyond" and "Virtuoso" as separate agencies. So the answer is N/A.
+
+18. **Question 18:** The evolving Canadian city where Our Habitas Alula is set. Wait, Our Habitas Alula is in Saudi Arabia. The Canadian city mentioned is Quebec City. The question is mixing. The article says "Quebec City: As one of..." so the answer is Quebec City.
+
+19. **Question 19:** Princess Senses in Jamaica starts at $600. The question is about that resort's rate, so answer $600.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+
+<question_number>12</question_number>
+<answer>Embark Beyond</answer>
+
+<question_number>13</question_number>
+<answer>1220</answer>
+
+<question_number>14</question_number>
+<answer>N/A</answer>
+
+<question_number>15</question_number>
+<answer>N/A</answer>
+
+<question_number>16</question_number>
+<answer>Impression Isla Mujeres by Secrets</answer>
+
+<question_number>17</question_number>
+<answer>N/A</answer>
+
+<question_number>18</question_number>
+<answer>Quebec City</answer>
+
+<question_number>19</question_number>
+<answer>600</answer>

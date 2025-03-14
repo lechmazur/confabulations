@@ -1,0 +1,31 @@
+merged_brazil-plane-crash-investigation.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The question asks about a red herring, which requires interpretation beyond direct facts.</other>
+<question_number>2</question_number>
+<answer>If speed dropped sharply but not enough to stall, icing must be severe.</answer>
+<other>This is a direct restatement of information in the article.</other>
+<question_number>3</question_number>
+<answer>63 degrees</answer>
+<other>The article states the ground temperature was around 63 degrees, which is not conducive to severe icing.</other>
+<question_number>4</question_number>
+<answer>Spinning</answer>
+<other>The article states the plane was spinning as it fell, which is not typical of a stall.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The question asks about a discrepancy that isn't explicitly stated as such, requiring interpretation.</other>
+<question_number>6</question_number>
+<answer>No communication with controllers</answer>
+<other>Pilots typically alert controllers when descending to lower altitudes to avoid icing.</other>
+<question_number>7</question_number>
+<answer>63 degrees</answer>
+<other>The article states the temperature on the ground was around 63 degrees, which is warm.</other>
+<question_number>8</question_number>
+<answer>Improved de-icing system</answer>
+<other>The improved system complicates the investigation because it suggests icing wasn't as easily preventable.</other>
+<question_number>9</question_number>
+<answer>Turboprop</answer>
+<other>The plane was an ATR 72-500 turboprop, which is sensitive to ice.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article states the plane fell from 17,000 feet, but doesn't discuss the rate of descent or ice accumulation.</other>

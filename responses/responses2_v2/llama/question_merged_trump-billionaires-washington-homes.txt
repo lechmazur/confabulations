@@ -1,0 +1,55 @@
+merged_trump-billionaires-washington-homes.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>N Street</answer>
+
+<question_number>12</question_number>
+<answer>Federal-style</answer>
+
+<question_number>13</question_number>
+<answer>N/A</answer>
+
+<question_number>14</question_number>
+<answer>N/A</answer>
+
+<question_number>15</question_number>
+<other>Penny Pritzker has a net worth of $4.1 billion.</other>
+<other>Elon Musk has a net worth of $429 billion.</other>
+<other>Therefore, there are at least 2 individuals with a net worth exceeding $4 billion.</other>
+<other>Possibly more, but we can only confirm 2.</other>
+<answer>>=2</answer>
+
+<question_number>16</question_number>
+<other>The article does not mention the price increase experienced by Sally Quinn's home.</other>
+<other>We cannot calculate the approximate selling price of Jeff Bezos' Kalorama property.</other>
+<answer>N/A</answer>
+

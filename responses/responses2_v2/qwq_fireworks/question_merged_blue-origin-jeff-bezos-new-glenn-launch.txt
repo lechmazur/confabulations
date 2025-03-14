@@ -1,0 +1,74 @@
+merged_blue-origin-jeff-bezos-new-glenn-launch.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article and follow the instructions strictly.
+
+1. **Question 1**: The question asks for the name of the landing platform for New Glenn's booster, which is named after Jeff Bezos' mother. Scanning the article, I remember a part where it mentions "floating platform named Jacklyn, after Mr. Bezos' mother." So the answer should be Jacklyn.
+
+2. **Question 2**: The question combines the 24-second engine test, BE-4 engines used by United Launch Alliance's Vulcan, and the 32-story height. The article states that the New Glenn uses BE-4 engines, and the 32-story description refers to its height. The answer is New Glenn.
+
+3. **Question 3**: The rocket scheduled to debut after delays from choppy seas and FAA licensing. The article mentions the launch is set for Jan. 13, after postponements on Jan. 10 and 12. The rocket's name is New Glenn.
+
+4. **Question 4**: The substitute payload for NASA's ESCAPADE mission is the Blue Ring prototype. The text says the booster will carry the Blue Ring prototype instead of ESCAPADE. The designation is Blue Ring.
+
+5. **Question 5**: Amazon's satellite project competing with Starlink is Project Kuiper, as directly stated in the article.
+
+6. **Question 6**: The company dominating heavier payloads is SpaceX, as mentioned multiple times, especially in the context of Falcon 9 and Starship.
+
+7. **Question 7**: The debut launch after December 27 license and delays is set for Jan. 13. The article says "as soon as 1 a.m. Eastern time on Jan. 13."
+
+8. **Question 8**: The company founded by Bezos (second richest) with New Shepard and lunar landers is Blue Origin. The article mentions Blue Origin's projects like Blue Moon and New Glenn.
+
+9. **Question 9**: The landing platform's name is again Jacklyn, same as question 1. So answer is Jacklyn.
+
+10. **Question 10**: The lunar lander for NASA's Artemis is Blue Moon, as stated in the article.
+
+11. **Question 11**: The NASA mission pulled from the first launch is ESCAPADE, mentioned when they swapped it for Blue Ring.
+
+Now, I need to check each answer against the text to ensure they’re correct and nothing is inferred beyond the article. Let me go through each again quickly:
+
+1. Jacklyn is correct.
+2. New Glenn is the rocket with BE-4 engines.
+3. New Glenn's launch on Jan. 13.
+4. Blue Ring is the substitute.
+5. Project Kuiper vs Starlink.
+6. SpaceX dominates.
+7. Jan. 13 is the date.
+8. Blue Origin has both rockets and landers.
+9. Jacklyn again.
+10. Blue Moon as lunar lander.
+11. ESCAPADE mission pulled.
+
+Everything seems to align with the article. No N/A needed here since all answers are directly mentioned.
+</think>
+
+<question_number>1</question_number>
+<answer>Jacklyn</answer>
+
+<question_number>2</question_number>
+<answer>New Glenn</answer>
+
+<question_number>3</question_number>
+<answer>New Glenn</answer>
+
+<question_number>4</question_number>
+<answer>Blue Ring</answer>
+
+<question_number>5</question_number>
+<answer>Project Kuiper</answer>
+
+<question_number>6</question_number>
+<answer>SpaceX</answer>
+
+<question_number>7</question_number>
+<answer>Jan. 13</answer>
+
+<question_number>8</question_number>
+<answer>Blue Origin</answer>
+
+<question_number>9</question_number>
+<answer>Jacklyn</answer>
+
+<question_number>10</question_number>
+<answer>Blue Moon</answer>
+
+<question_number>11</question_number>
+<answer>ESCAPADE</answer>

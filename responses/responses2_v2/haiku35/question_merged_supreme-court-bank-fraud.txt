@@ -1,0 +1,26 @@
+merged_supreme-court-bank-fraud.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>0</answer>
+
+<question_number>4</question_number>
+<answer>lawyer</answer>
+
+<question_number>5</question_number>
+<answer>$89,000</answer>
+
+<question_number>6</question_number>
+<answer>4</answer>
+
+<other>Reasoning:
+1. No information about elaborating on the toxic mushroom analogy
+2. No clear action suggested by the text
+3. The article states Thompson made a single payment of $390 in 2012
+4. Chris C. Gair is identified as a lawyer who made the argument
+5. The article specifically states Thompson used the third loan of $89,000 to repay a debt to another bank
+6. The text directly states Thompson served four months in prison</other>

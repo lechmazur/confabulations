@@ -1,0 +1,68 @@
+merged_trump-tariffs-china-mexico-canada.txt
+Okay, let's tackle these questions one by one based on the article provided. I need to be careful to only use the information given and not make any assumptions beyond what's written. Let me go through each question step by step.
+
+1. **Question 1:** The first question asks which Japanese automaker announced plans to completely relocate its Mexican operations to their joint venture facility in Alabama due to Trump's tariff threats. The article mentions Mazda might shift some production to the Alabama plant with Toyota. But it says "might shift some of that production," not a complete relocation. The question specifies "completely relocate," so maybe that's not stated. Hmm, but the answer might be Mazda? Wait, the article says Mazda sends 70% to the US from Mexico and might shift some to Alabama. But "completely" isn't there. So maybe N/A?
+
+Wait, let me check again. The article says: "Mazda, which sends about 70 percent of the vehicles it makes in Mexico to the United States, said it might shift some of that production to the Alabama plant it jointly runs with Toyota." So "might shift some," not a complete relocation. Therefore, the answer is N/A.
+
+2. **Question 2:** How many billions in new investments did European manufacturers commit to U.S. facilities specifically in response to Trump's latest round of tariff announcements? The article mentions companies like Lego building in Virginia, but that was in 2022, not necessarily the latest tariffs. The article says "Trump's latest threats are once again prompting companies to consider their options." But no specific numbers for European manufacturers' new investments in response to the latest tariffs. So N/A.
+
+3. **Question 3:** Percentage of Foxconn's planned Mexican mega-factory production capacity dedicated to Honda's EV program. The article says Foxconn is building a factory in Mexico for Nvidia chips. There's no mention of Honda's program here. So N/A.
+
+4. **Question 4:** British pharmaceutical company moving production from Mexico to NC. The article mentions Reckitt (British) shifted Mucinex production from Mexico (and Britain) to NC due to shipping issues. So Reckitt is the answer.
+
+5. **Question 5:** Number of Chinese EV makers who completed facilities in Mexico by 2023. The article says BYD is scouting, and Chery and Lenovo are there. But completed? The article says "hundreds of Chinese companies, including Lenovo and Chery have migrated... BYD... scouting." So completed would be at least Chery and Lenovo? Wait, but are they EV manufacturers? Chery is a carmaker, but is it electric? The article says BYD is China's leading EV company, but they're just scouting. So maybe only Chery? But the article doesn't specify how many have completed. The exact number isn't given. So N/A.
+
+6. **Question 6:** Total value of medical devices exported from Mexico to the US the year before the tariff announcement. The article says Mexico is the largest exporter of medical devices to the US but doesn't give a specific dollar amount. So N/A.
+
+7. **Question 7:** South Korean company that reduced costs by 30% after moving from China to Mexico during Trump's first term. The article mentions Samsung and LG considering moving, but no specific company with a 30% reduction. N/A.
+
+8. **Question 8:** How many workers Toyota and Mazda planned to hire in Alabama before recruitment issues. The article mentions they struggled to ramp up production due to lack of workers, but no number given. N/A.
+
+9. **Question 9:** Percentage of Japanese companies in Mexico's manufacturing that relocated from China between 2020-2023. The article says Japan has over 1,300 companies in Mexico, half in manufacturing, some automotive suppliers shifted from China during Trump's first term. But the time frame 2020-2023 and the percentage isn't specified. N/A.
+
+10. **Question 10:** European luxury automaker moving all NA production to Canada. The article mentions Volvo has plants in Canada, but no mention of consolidating all production there. N/A.
+
+11. **Question 11:** Number of Japanese automotive suppliers that moved from China to Mexico during Trump's first term (2018 trade war). The article says "some are automotive suppliers who shifted production from China during Mr. Trump's first term." But the exact number isn't given. N/A.
+
+12. **Question 12:** Total tariffs threatened against Toyota in 2017 that led to $10B investment. The article says Trump threatened tariffs, prompting Toyota's $10B pledge. But the value of the threatened tariffs isn't specified. N/A.
+
+13. **Question 13:** Number of Chinese EV manufacturers, including BYD, that finalized agreements in Mexico by 2023. BYD is scouting, so not finalized. Others? The article mentions Chery but doesn't say if they're EV. So N/A.
+
+14. **Question 14:** Percentage of US medical devices from Mexico. The article states Mexico is the largest exporter, but doesn't give the exact percentage. N/A.
+
+Now, let me check each again to ensure I didn't miss anything.
+
+For question 4, Reckitt is correct. For others, most are N/A except maybe question 1's Mazda? Wait, the question says "completely relocate all Mexican operations". The article says Mazda "might shift some of that production" to Alabama. So not complete. So N/A.
+
+Alright, I think that's all.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>Reckitt</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<question_number>12</question_number>
+<answer>N/A</answer>
+<question_number>13</question_number>
+<answer>N/A</answer>
+<question_number>14</question_number>
+<answer>N/A</answer>

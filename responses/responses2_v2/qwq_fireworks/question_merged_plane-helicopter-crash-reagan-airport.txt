@@ -1,0 +1,50 @@
+merged_plane-helicopter-crash-reagan-airport.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article. Let me start by reading through each question carefully and then cross-referencing the article for answers.
+
+1. **Congressional committee led by Senator Tammy Duckworth?** The article mentions Senator Tammy Duckworth quoting about flight conditions, but I don't see any mention of her leading a committee. The text says she's a Democrat from Illinois and flew Black Hawks, but no committee assignment is stated. So answer is N/A.
+
+2. **Maximum altitude set for helicopters on the route?** The article states the helicopter was flying 100 feet higher than authorized. The route's restriction is 200 feet. So the maximum was 200 feet.
+
+3. **Time air traffic controller warned the crew?** The article says "At about 8:46 p.m." so that's the time.
+
+4. **Crew member on the right seat with limited view?** The senior Army official mentioned Capt. Rebecca Lobach was in the right seat, which might have limited her view. So her name here.
+
+5. **Federal agency reconstructing the collision?** The NTSB (National Transportation Safety Board) is mentioned as the one doing the investigation and expecting to collect data from wreckage.
+
+6. **Black Hawk variant without autopilot?** The article says the crashed helicopter was the older model UH-60L. The VH-60M is newer. The senior official noted the UH-60L lacks autopilot.
+
+7. **Route designation with 200ft restriction?** Route 4 is mentioned as the one with the 200 feet restriction over the Potomac where the collision happened.
+
+8. **Year of previous deadliest accident?** The collision was the deadliest since 2009. The article says "since 2009".
+
+9. **Safety system missing in Black Hawk?** The Traffic Collision Avoidance System (TCAS) is mentioned as not present in the older model.
+
+10. **Former instructor emphasizing 200ft risks?** Austin Roth is the former instructor quoted saying that area is high-risk at 200ft.
+
+11. **Who suggested the crew should have delayed?** Jon-Claud Nix, the former Marine pilot, said they needed to hold off to properly identify traffic.
+
+Wait, let me double-check each. For question 1, the article doesn't mention any committee assignment for Duckworth, so N/A is correct. All others have direct answers from the text. I think that's all.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>200 feet</answer>
+<question_number>3</question_number>
+<answer>8:46 p.m.</answer>
+<question_number>4</question_number>
+<answer>Capt. Rebecca Lobach</answer>
+<question_number>5</question_number>
+<answer>National Transportation Safety Board</answer>
+<question_number>6</question_number>
+<answer>UH-60L</answer>
+<question_number>7</question_number>
+<answer>Route 4</answer>
+<question_number>8</question_number>
+<answer>2009</answer>
+<question_number>9</question_number>
+<answer>Traffic Collision Avoidance System</answer>
+<question_number>10</question_number>
+<answer>Austin Roth</answer>
+<question_number>11</question_number>
+<answer>Jon-Claud Nix</answer>

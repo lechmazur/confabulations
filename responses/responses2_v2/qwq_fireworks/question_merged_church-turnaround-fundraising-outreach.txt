@@ -1,0 +1,73 @@
+merged_church-turnaround-fundraising-outreach.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information provided in the article and follow the strict instructions. Let's start with question 1.
+
+1. The first question asks how many years it took Pastor Foster to secure funding for the complete exterior renovation of St. John's after "Beardo" used it as a rehearsal space. The article mentions that "Beardo" rehearsed in the church when it was falling down. Later, it says it took her nine years to renovate the bathrooms, plumbing, electrical systems, and the interior. But the question specifies the exterior. Wait, the article says the interior was restored with the recent funding. The exterior isn't mentioned. Hmm. The answer might be N/A because the question is about exterior, but the article talks about interior renovations. Wait, the question says "complete exterior renovation," but the article says she restored the interior. So maybe the answer is N/A. Wait, but the article says "raise the hundreds of thousands of dollars needed to restore the church's interior." The exterior might not have been addressed here. Alternatively, maybe the exterior is part of the renovation. Wait, the question says "after 'Beardo' used it as a rehearsal space." The play used it when it was dilapidated. The renovations took nine years. The answer could be nine years? But the question is about securing funding for the exterior. The article says the funds came from members and the wider community. The article says the interior was restored, but the exterior isn't mentioned. So maybe N/A. Wait, the question says "complete exterior renovation," but the article doesn't specify exterior. Hmm. Maybe the answer is N/A. Let me check again. The article says "restore the church's interior" which took nine years. The exterior isn't mentioned. So the answer is N/A. Wait, but the question says "complete exterior renovation," which might not have been done. So N/A.
+
+2. The second question: What denomination does Bishop Robert Rimbo oversee in the Hamptons? The article says Bishop Rimbo asked her to move to the Hamptons. The churches there were part of the Evangelical Lutheran Church in America, as mentioned earlier when she faced defrocking by that denomination. So the denomination is Evangelical Lutheran Church in America. The answer is Evangelical Lutheran Church in America.
+
+3. Third question: The name of the TV show where she interviewed Lee Zeldin about sanctuary cities? The article says she started a TV show where she interviewed local politicians, including pressing Lee Zeldin on his votes. But the name of the show isn't given. The article mentions a radio ad where she said, "Is the church full of hypocrites?" but that's the radio commercial. The TV show's name isn't mentioned. So answer N/A.
+
+4. Fourth question: Percentage increase in annual giving at Fordham under Foster, coinciding with new boilers. The article states that annual giving went from $8,000 to $72,000. The increase is 72/8 = 9 times, so 800% increase (since 72k -8k =64k, which is 800% of 8k). The boilers were part of the renovations. The question links the boilers to the increase. The article says the increase happened when she installed three new roofs, three new boilers, etc. So the percentage is 800%.
+
+5. Fifth question: The 12-step program besides Scouts and AA that uses St. John's, reflecting her recovery. She's a recovering addict for 34 years. The article mentions 12-step programs but doesn't name them. Wait, the article says "12-step programs" but doesn't specify which. So N/A.
+
+6. Sixth question: Original color of the vaulted ceiling. The article says "original blue, vaulted ceiling". So the answer is blue.
+
+7. Seventh question: Legal assistance beyond immigration support at the Hamptons center. The article says the expanded services helped people fleeing gangs or survived trafficking. The specific type is anti-trafficking legal services. So the answer is anti-trafficking legal services.
+
+8. Eighth question: Financial institution for financial literacy classes. The article mentions Dave Ramsey's Financial Peace University. So the answer is Dave Ramsey's Financial Peace University, but the question says "institution," so maybe Dave Ramsay's organization. The exact term is "Financial Peace University through Dave Ramsay". So the answer is Dave Ramsay's Financial Peace University. Wait, the question says "financial institution," but the article says "Financial Peace University through Dave Ramsay's Financial Peace University". So maybe Dave Ramsay's Financial Peace University is the program, but the institution would be the organization behind it. But the article just says "Dave Ramsay's Financial Peace University," so the answer is Dave Ramsay's Financial Peace University.
+
+9. Ninth question: Off-Broadway play that used Fordham's dilapidated state. The article mentions "Beardo" at St. John's, but the question is about Fordham. Wait, no, the play was at St. John's. The article says "Beardo" rehearsed and performed in St. John's, not Fordham. The question is about Fordham? Wait, the article says "Beardo, an Off Broadway play, rehearsed and performed in the church." The church here is St. John's. The question might have a mistake, but according to the text, the play was at St. John's, not Fordham. So the answer is Beardo. But the question says Fordham. Since the article doesn't mention a play at Fordham, the answer would be N/A. Wait, the question says "Fordham Evangelical Lutheran Church" but the play was at St. John's. Therefore, N/A.
+
+10. Tenth question: Richie Morton said that pastors' focus on sermon preparation conflicts with financial realities. The article says pastors don't want to learn business side, they have a calling to feed the hungry and write sermons. So the aspect is writing sermons. The answer is writing sermons.
+
+11. Eleventh question: Number of children's programming initiatives across all three churches. The article mentions a tutoring program at Fordham, but in the Hamptons, the housing project and immigration services. At St. John's, the community meal and 12-step. The exact number isn't given. The question asks for how many initiatives. Since it's not specified, answer N/A.
+
+12. Twelfth question: Martial arts discipline she referenced. The article says she "remind us about her belts in karate". So the answer is karate.
+
+13. Thirteenth question: Number of episodes focused on anti-trafficking. The article doesn't mention specific episodes of her TV show. So N/A.
+
+14. Fourteenth question: NYC agency that provided grants for solar panels. The article mentions the housing project and community center in the Hamptons, but the funding source isn't specified. So N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>Evangelical Lutheran Church in America</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>800%</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>blue</answer>
+
+<question_number>7</question_number>
+<answer>anti-trafficking legal services</answer>
+
+<question_number>8</question_number>
+<answer>Dave Ramsay's Financial Peace University</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>writing sermons</answer>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+
+<question_number>12</question_number>
+<answer>karate</answer>
+
+<question_number>13</question_number>
+<answer>N/A</answer>
+
+<question_number>14</question_number>
+<answer>N/A</answer>

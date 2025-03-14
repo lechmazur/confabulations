@@ -1,0 +1,59 @@
+merged_african-publishing.txt
+Okay, let's tackle these questions one by one. I need to make sure I'm only using the information from the article provided. Let me go through each question carefully and check the text for the answers.
+
+1. **Question 1**: The first question asks which two authors participated in a discussion about preserving African oral traditions through modern crime fiction at the Doek festival. I'll need to look for any mention of authors discussing crime novels and oral traditions. Scanning the article, the Doek festival section mentions a discussion between Ondjaki, Wanner, and Edozien. Wait, the article says: "The prolific Angolan writer and translator Ondjaki talked with Wanner and the Nigerian journalist and memoirist Chike Frankie Edozien." The topic here isn't explicitly about crime fiction or oral traditions. Wait, earlier in the same paragraph: "seasoned authors discussed African crime novels." Hmm, maybe that's the discussion. But the names given are Ondjaki, Wanner, and Edozien. However, the question specifies "preservation of African oral traditions through modern crime fiction." The article doesn't explicitly mention oral traditions here. Since the question's specifics aren't directly stated, maybe it's a trick question. Wait, perhaps I missed another part. Let me check again. The article says "seasoned authors discussed African crime novels" but doesn't name who exactly. The next sentence says Ondjaki talked with Wanner and Edozien. Since the discussion topic is crime novels, maybe those two are the ones? But the question mentions oral traditions. Since the article doesn't explicitly connect them to oral traditions, maybe the answer is N/A? Or maybe I'm missing something. Wait, the question might be referring to the "African crime novels" discussion. The participants would be Ondjaki, Wanner, and Edozien. But the question asks for two authors. The exact names are Ondjaki and Wanner? Or Wanner and Edozien? The article says "Ondjaki talked with Wanner and Edozien." So three people, but the question asks for two. Since the exact topic (oral traditions) isn't mentioned here, maybe the answer is N/A. Hmm, tricky.
+
+2. **Question 2**: The capital city that hosted the opening night of the 2022 festival (Doek) which is associated with a workshop led by a Kenyan writer and publishing ventures. The article mentions Doek was founded in 2022 and its opening night was in Windhoek, Namibia. The workshop led by a Kenyan writer (Billy Kahora) is part of Jahazi Press's activities. The workshop was co-organized with a creative writing platform, and the stories were edited by Kahora. So the capital city is Windhoek.
+
+3. **Question 3**: The former computer scientist turned publisher whose company is "Let us read" (Masobe) used strategies like pharmacy collaborations and sold over 100k copies. The article mentions Othuke Anthony Ominiabohs, who founded Masobe Books. He was a computer scientist in Nigeria. The strategies include collaborating with a pharmacy chain, social media, etc., and sold over 100k copies. So the answer is Othuke Anthony Ominiabohs.
+
+4. **Question 4**: Nigerian figure who started a project to publish 100 children's books by 2027 after an experience in northern Nigeria, plus training programs and an arts festival (Ake). The article mentions Lola Shoneyin, who founded Ouida Books and BookStorm project. She also founded the Ake Arts and Book Festival. The answer is Lola Shoneyin.
+
+5. **Question 5**: Early literary magazine over two decades ago under Binyavanga Wainaina. The article starts by mentioning Kwani? magazine in Kenya, guided by Binyavanga. So Kwani? is the answer.
+
+6. **Question 6**: South African writer whose recent novel is published in multiple African countries and in Portuguese for Brazil. The article says Zukiswa Wanner's "Love, Marry, Kill" was published in Nigeria, SA, Kenya, and being translated into Portuguese for Brazil. So Zukiswa Wanner.
+
+7. **Question 7**: Publishing entity that sold four million copies of a coming-of-age story used in the Nigerian curriculum, with pharmacy collaborations. The article mentions "Sweet Sixteen" by Bolaji Abdullahi sold four million copies after being in the curriculum. The publisher is Masobe Books (as mentioned by Ominiabohs). So answer: Masobe Books.
+
+8. **Question 8**: Senegal-based Amalion Publishing figure translating into Wolof and Hausa, including political fables like "Animal Farm". The article says Sulaiman Adebowale of Amalion is translating into Wolof and Hausa, and mentions "Animal Farm" was translated into Shona, but the question's example is "Animal Farm", so the answer is Sulaiman Adebowale.
+
+9. **Question 9**: Kenyan publisher organizing a workshop and co-publishing a story collection with cover by Masobe. The article mentions Ahmed Aidarus of Jahazi Press did a workshop, stories edited by Kahora, and cover by Masobe. So Ahmed Aidarus.
+
+10. **Question 10**: South African editor talking about digital self-publishing and audio platforms like Genti. The article mentions Sibongile Machika from Jonathan Ball Publishers, who discussed the book economy shift with digital platforms and Genti/AkooBooks. So Sibongile Machika.
+
+11. **Question 11**: Doek's Ngamije emphasized solidarity and "boots on the ground" against inflation, taxes, piracy. The article's last section has Remy Ngamije saying exactly that. So Remy Ngamije.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Question specifies "preservation of African oral traditions through modern crime fiction," but the article mentions Ondjaki, Wanner, and Edozien discussing African crime novels without explicitly referencing oral traditions. Since the exact topic link isn't stated, answer is N/A.</other>
+
+<question_number>2</question_number>
+<answer>Windhoek</answer>
+
+<question_number>3</question_number>
+<answer>Othuke Anthony Ominiabohs</answer>
+
+<question_number>4</question_number>
+<answer>Lola Shoneyin</answer>
+
+<question_number>5</question_number>
+<answer>Kwani?</answer>
+
+<question_number>6</question_number>
+<answer>Zukiswa Wanner</answer>
+
+<question_number>7</question_number>
+<answer>Masobe Books</answer>
+
+<question_number>8</question_number>
+<answer>Sulaiman Adebowale</answer>
+
+<question_number>9</question_number>
+<answer>Ahmed Aidarus</answer>
+
+<question_number>10</question_number>
+<answer>Sibongile Machika</answer>
+
+<question_number>11</question_number>
+<answer>Remy Ngamije</answer>

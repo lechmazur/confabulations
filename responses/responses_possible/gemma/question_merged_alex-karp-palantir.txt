@@ -1,0 +1,2 @@
+merged_alex-karp-palantir.txt
+Error: Error code: 422 - {'error': {'message': 'Unprocessable Entity', 'type': 'invalid_request_error', 'param': None, 'code': None}}

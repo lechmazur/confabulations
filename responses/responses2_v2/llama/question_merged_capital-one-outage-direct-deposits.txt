@@ -1,0 +1,76 @@
+merged_capital-one-outage-direct-deposits.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>tomorrow morning (from Thursday)</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+
+<question_number>12</question_number>
+<answer>N/A</answer>
+
+<question_number>13</question_number>
+<answer>N/A</answer>
+
+<question_number>14</question_number>
+<answer>N/A</answer>
+
+<question_number>15</question_number>
+<answer>$2 billion+</answer>
+
+<question_number>16</question_number>
+<other>This is a tricky question. The article states that the majority of issues were expected to be resolved by tomorrow morning (from Thursday), but it does not explicitly state when Capital One first publicly committed to fully restoring all services.</other>
+<other>However, it can be inferred that this commitment was made on Thursday, as the company's customer service account assured users on Thursday that services would gradually begin to return to normal throughout the day and the majority of issues would be resolved by tomorrow morning.</other>
+<other>Additionally, on Saturday, a representative for Capital One said that the company had made "substantial progress" in resolving the issues and was completing work to restore full service to all customers as soon as possible.</other>
+<other>Taking these points into consideration, it can be inferred that Capital One first publicly committed to fully restoring all services after the majority of issues were resolved on Saturday.</other>
+<answer>Saturday</answer>
+
+<question_number>17</question_number>
+<other>This question is not directly related to the main topic of the article, which is the technical issue affecting Capital One's services.</other>
+<other>However, the article does mention Mark Zuckerberg and President Trump in the context of corporate D.E.I. initiatives.</other>
+<other>It can be inferred that Mark Zuckerberg is the tech executive whose political alignment is contrasted with employee sentiment.</other>
+<answer>Mark Zuckerberg</answer>
+
+<question_number>18</question_number>
+<other>This question is not directly related to the main topic of the article, which is the technical issue affecting Capital One's services.</other>
+<other>The article mentions Antigua as a location where a start-up treated cancer patients using an unproven blood filter, but it does not imply that the third-party vendor responsible for Capital One's technical issue was based in Antigua.</other>
+<other>The correct answer is N/A.</other>
+<answer>N/A</answer>
+
+<question_number>19</question_number>
+<other>This question is not directly related to the main topic of the article, which is the technical issue affecting Capital One's services.</other>
+<other>The article mentions Bill Gates as a philanthropist who is reevaluating his past contributions, but it does not imply that this is directly related to Capital One's service disruptions.</other>
+<other>The correct answer is Bill Gates.</other>
+<answer>Bill Gates</answer>
+
+<question_number>20</question_number>
+ <other>This question is not directly related to the main topic of the article, which is the technical issue affecting Capital One's services.</other>
+ <other>The article mentions President Trump as a political figure whose actions are influencing corporate D.E.I. initiatives.</other>
+ <other>The correct answer is President Trump.</other>
+ <answer>President Trump</answer>

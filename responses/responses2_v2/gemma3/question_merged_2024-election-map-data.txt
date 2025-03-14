@@ -1,0 +1,55 @@
+merged_2024-election-map-data.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article states that a majority of Americans vote early or by mail, and data for those votes is often incomplete, but doesn't state a percentage of successfully incorporated data.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article states that each entity has its own way of releasing data, but doesn't specify which state provided the most comprehensive files.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article mentions parsing PDF files, but doesn't state the number of hours spent doing so.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article describes the choropleth visualization but doesn't provide the formula used.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article mentions matching boundaries was challenging, but doesn't name a lead data scientist.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article states Trump made gains, but doesn't quantify the shift in support between precincts.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article mentions data-curious individuals contributed, but doesn't name a specific group.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article mentions a "large team" was involved in verification, but doesn't specify the number of staff.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article states the map was published months after the election, but doesn't give an average time delay.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article discusses voting patterns but doesn't specify which demographic group changed the most.</other>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<other>The article mentions the team used the choropleth in 2016 and 2020, but doesn't state if the same individuals collaborated on both projects.</other>
+<question_number>12</question_number>
+<answer>N/A</answer>
+<other>The article mentions parsing issues with PDF files, but doesn't state the percentage of votes excluded.</other>
+<question_number>13</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention other visualization methods considered.</other>
+<question_number>14</question_number>
+<answer>N/A</answer>
+<other>The article mentions using the choropleth in 2020, but doesn't describe other techniques used.</other>
+<question_number>15</question_number>
+<answer>demographic analysis</answer>
+<other>The article suggests others use the data for demographic analysis.</other>
+<question_number>16</question_number>
+<answer>incomplete data</answer>
+<other>The article states incomplete data is not included in the map.</other>
+<question_number>17</question_number>
+<answer>N/A</answer>
+<other>The article mentions months were spent collecting data, but doesn't specify the time per state.</other>
+<question_number>18</question_number>
+<answer>N/A</answer>
+<other>The article mentions data was parsed from PDFs, but doesn't specify the software used.</other>

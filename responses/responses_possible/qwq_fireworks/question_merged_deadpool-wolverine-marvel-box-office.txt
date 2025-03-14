@@ -1,0 +1,63 @@
+merged_deadpool-wolverine-marvel-box-office.txt
+Okay, let's tackle these questions one by one based on the article provided. I need to make sure I only use the information given and follow the strict instructions.
+
+1. **Question 1**: If "Deadpool & Wolverine" wasn't successful, what impact on Disney's boardroom challenges? The article mentions that Marvel's weakness contributed to proxy battles involving activist investors like Nelson Peltz and Ike Perlmutter. Since the movie was a success, a failure might have worsened Disney's position in those battles. The answer would be that it could have exacerbated the boardroom challenges.
+
+2. **Question 2**: How does the narrative complexity affect box office compared to previous Marvel films? The article says the plots have become convoluted for casual viewers, but "Deadpool & Wolverine" was a hit. However, the question is about how this complexity compares to previous releases. The answer might be "N/A" since the article doesn't directly link complexity to performance differences. Wait, but it mentions that the movie was a hit despite complexity, implying it didn't hurt here. Maybe the answer is "N/A" because there's no comparison given.
+
+3. **Question 3**: Financial metric matched with a 2022 Marvel release whose sequel disappointed in 2023. The article states "Deadpool & Wolverine" had a global start "on par with Marvel's 'Doctor Strange in the Multiverse of Madness' (2022)", which went on to $1B. The sequel to that might be the 2023 disappointment? Wait, the article mentions "Doctor Strange" is 2022, and the 2023 disappointments are "The Marvels" and "Ant-Man...". So the metric is the opening weekend global total matching Doctor Strange's start. The answer is "global total after three and a half days".
+
+4. **Question 4**: Activist investor connected to Marvel's pre-Disney structure. The text says Ike Perlmutter, former chairman of Marvel Entertainment. Since Marvel was acquired by Disney, he's connected to the pre-Disney era. So the answer is Ike Perlmutter.
+
+5. **Question 5**: Metaphysical concept in the movie that's also a critique of accessibility. The article mentions "metaphysical graveyard called the Void" and a critic's comment that "Good luck if you're coming in with no prior knowledge". The Void is the concept, and the critique's point is about accessibility. So the answer is "Void".
+
+6. **Question 6**: Shared characteristic between stars' public comments and CEO's Instagram. The stars used expletives, while Iger's post was "one heck of a fun film!" Both are enthusiastic endorsements, despite differing tones. The shared characteristic is "enthusiastic endorsement" or "promotion". The exact wording might be "promotion" or "positive宣传", but the article says they both supported the movie. The answer is "promotion" or "enthusiastic". Wait, the question says "characteristic do the public comments share with Disney's CEO's Instagram post, despite their differing tones?" The stars' comments had expletives, but the CEO's was restrained. The shared part is that both promoted the film. So answer: "promotion".
+
+7. **Question 7**: Ratio of budget to opening global earnings. Budget is $320M, global earnings after 3.5 days are ~$438M. The ratio is 320:438, but the question asks for the ratio of budget to earnings. So 320/438 ≈ 0.73, but maybe as a ratio like 16:21.9. But the question might want it as a numerical ratio. Wait, the article says "global total after only three and a half days of play of roughly $438 million". The budget is $320M. So the ratio is 320 to 438. The question says "ratio of the film's production and marketing budget to its opening weekend global box office earnings". So 320:438. Simplify? Maybe as 160:219, but perhaps just present the numbers as is. The exact answer would be 320/438, but maybe the question expects a simplified fraction or a decimal? The instructions say to answer directly from the text. The article doesn't calculate the ratio, so perhaps I need to compute it. The answer would be 320:438 or approximately 0.73. But since the instructions say to use the text, perhaps the exact figures are needed. So 320M to 438M, so the ratio is 320:438. But maybe they want it in simplest terms? Alternatively, the question might expect a ratio like 1:1.37. Hmm, but the article doesn't present this, so maybe I have to state it numerically as per the numbers given. So answer: "320 million to 438 million" or as a ratio like 320:438. But the question says "ratio", so perhaps 320/438 reduces to 160/219, but that's not necessary. The answer is the numerical ratio based on the given numbers.
+
+8. **Question 8**: Percentage of global box office from outside NA. The NA was $205M, overseas $233M. Total is 205+233=438. Overseas is 233/438 ≈ 53.2%. The answer is approximately 53%, but need exact from the text. 233 divided by 438: 233/438=0.5319, so 53.2%. Since the article says "roughly $438 million" total, and the overseas is "additional $233 million", so 233/(205+233)=233/438. The answer is 53% (rounded) but exact is 53.2%, but maybe the question expects the exact figure from the text. The article doesn't state it as a percentage, so need to calculate. The answer is 53% (approximate, but precise calculation would be 53.2%, but the question allows inferred answers. So 53%).
+
+9. **Question 9**: Difference in CinemaScore between "Deadpool & Wolverine" and the average of the two 2023 disappointments. The article says "Deadpool & Wolverine" got an A CinemaScore. The two 2023 Marvels were "The Marvels" and "Ant-Man...", but their scores aren't mentioned. Since the info isn't provided, the answer is N/A. Wait, the article says "Marvel's two disappointing 2023 releases" but their CinemaScores aren't given. So we can't compute the difference. Answer: N/A.
+
+10. **Question 10**: Difference between "Deadpool & Wolverine" opening and the inflation-adjusted record it broke. The previous record was "Deadpool" (2016) at over $175M in today's dollars. The new opening was on pace for ~$205M in NA. The difference is 205 - 175 = $30M. So the answer is $30 million.
+</think>
+
+<question_number>1</question_number>
+<answer>exacerbated boardroom challenges</answer>
+<other>Disney's proxy battles involved activist investors due to Marvel's prior box office failures. A failure here could have worsened their position.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Article states plots are convoluted but doesn't directly link this to box office performance comparison.</other>
+
+<question_number>3</question_number>
+<answer>global total after three and a half days</answer>
+<other>Matched "Doctor Strange in the Multiverse of Madness" (2022) opening weekend global total.</other>
+
+<question_number>4</question_number>
+<answer>Ike Perlmutter</answer>
+<other>Former Marvel Entertainment chairman, involved in Disney's proxy battles.</other>
+
+<question_number>5</question_number>
+<answer>Void</answer>
+<other>Metaphysical concept "Void" and critic's "prior knowledge" critique both relate to accessibility challenges.</other>
+
+<question_number>6</question_number>
+<answer>promotion</answer>
+<other>Stars and CEO both promoted the film despite differing tones (stars used expletives, Iger was restrained).</other>
+
+<question_number>7</question_number>
+<answer>320:438</answer>
+<other>Budget $320M vs. $438M global opening weekend earnings. Ratio calculated from stated figures.</other>
+
+<question_number>8</question_number>
+<answer>53%</answer>
+<other>233M overseas / 438M total ≈ 53.2%, rounded to 53%.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>No CinemaScore data provided for Marvel's 2023 disappointments ("The Marvels" and "Ant-Man...").</other>
+
+<question_number>10</question_number>
+<answer>$30 million</answer>
+<other>$205M (Deadpool & Wolverine's NA opening) minus $175M inflation-adjusted prior record equals $30M difference.</other>

@@ -1,0 +1,86 @@
+merged_hotel-fire-safety-tips.txt
+Okay, let me tackle these questions one by one. I need to make sure I only use the information given in the article and answer exactly what's asked. Let's start with the first question.
+
+1. The question is asking for the percentage of annual hotel fire deaths in the US that occur in buildings taller than three stories. The article mentions that the Hotel and Motel Fire Safety Act of 1990 requires sprinklers in buildings over three stories. The US Fire Admin stats say 15 deaths annually. But the article doesn't give a breakdown by building height. So the answer is N/A because there's no percentage provided.
+
+2. The question asks which European country's regulations were cited as most stringent after Turkey's fire. The article says the EU has guidelines, but the regulations are at country or local levels. It doesn't name any specific country as having the strictest, so N/A.
+
+3. The fire chief, Rick Balentine, advises touching the door with the palm. The temperature threshold isn't mentioned, just the action of feeling if it's hot. So the answer is N/A.
+
+4. The Turkey fire survivors didn't report the time between smoke and engulfment. The article says they couldn't hear alarms and couldn't find exits but no specific minutes. N/A.
+
+5. Balentine suggests lower floors, like those reachable by a 30-foot ladder. Typically, those ladders can reach up to about 3 stories. So the max safe height would be the third floor. Answer: 3.
+
+6. The article states $100 million in property losses annually, but not per quarter. So no data on fiscal quarter, making it N/A.
+
+7. The question is about the number of gathering points mandated by the USFA for hotels over 200 rooms. The article doesn't mention any specific number of gathering points required. N/A.
+
+8. The percentage of hotels in STEP with compliant sprinklers isn't given. The article mentions STEP but no stats on compliance. N/A.
+
+9. Leading cause of electrical fires? The article says cooking fires are the most common cause. But electrical fires' leading cause isn't specified. So N/A unless cooking is considered an amenity. Wait, the question specifies electrical fires. The article says cooking fires are the most common cause of hotel fires. But cooking might involve appliances like stoves, so maybe that's the amenity. But the question is about electrical fires. Since the article doesn't specify electrical causes, answer N/A.
+
+10. The distance between mattress barricade and sprinkler head isn't mentioned. The article says to drag the mattress against the door, but no distance. N/A.
+
+11. The question asks about carbon monoxide deaths due to lack of smoke alarms. Lorraine Carli mentions carbon monoxide detection isn't always provided, but the article doesn't give a percentage. N/A.
+
+12. If someone picks a 3rd floor room reachable by a 30-foot ladder, they're in a building where ladders can reach that floor. Since the Act requires sprinklers in buildings over 3 stories, a 3-story building might not need them. The STEP is for traveling abroad, so the traveler is in a country using STEP, like a non-US country. But the question is what type of establishment. Since cooking fires are common, maybe a hotel with cooking facilities? The article says hotels, so answer: hotel.
+
+13. Turkey had 79 deaths, US average is 15. So 79-15=64 more. Answer: 64.
+
+14. The article advises in cold climates to have a warm layer. So in Barbados, even though it's warm, the advice for cold climates includes a warm layer. The question asks besides docs, so answer: warm layer.
+
+15. If using an ice bucket to bail water on the door or walls. The article says to bail water on the door or walls. So the material is door or walls. But the question specifies construction standards like Yogyakarta. The article doesn't link materials there, so answer: door or walls, but the question asks for material. The article says "the door or walls", so maybe "door" is the answer. Wait the question says "assuming the hotel follows same construction as Yogyakarta", but the article mentions Yogyakarta's temples and culture, not construction. So just answer door.
+
+16. If the fire is on the roof and guests go to the windward side, the hotel must have sprinklers since it's 5 stories. The Act requires sprinklers for over 3. So they have sprinklers. Answer: automatic fire sprinkler system.
+
+17. In Quebec, if the door is hot, the article suggests using a damp towel over nose and mouth. So the common item is a towel. Answer: damp towel.
+
+18. If in a 4-story hotel with wildfire risk and get an alert, the feature to check is fire alarms' functionality. But the question asks for a feature for signaling. The article mentions signaling with flashlight or cloth. So the feature is a flashlight. But the question says "specific feature of the hotel room", maybe windows? Or the window's ability to open. The article says to open windows unless fire is outside. So the feature is openable windows. But the question is about signaling. The article says to signal with flashlight or cloth. The flashlight is a common item. Wait, the question is about a feature of the room. Maybe the window? Or the manual alarm? The article says to have a flashlight. But the question is about a feature in the room. The manual alarm's location is part of the evacuation plan. Maybe the window? Or the escape plan? The answer might be flashlight, but it's a personal item. The article says to have a flashlight to signal. Since the question specifies a feature of the room, maybe the window. Hmm. The article says "Try signaling rescue personnel from the window with a flashlight..." so the flashlight is needed but it's not a room feature. Maybe the window's ability to open. The article says check if windows open. So the feature is openable windows. Answer: openable windows.
+
+Wait, the question says "specific feature of the hotel room, mentioned in the context of checking for functionality". The article says "Check the windows to see if they open..." So the feature is openable windows. So answer: openable windows.
+
+19. The group needs a document for reunification. The article mentions putting the hotel key with wallet and passport. So passport. The question asks for the document when abroad, so passport.
+
+20. The group in Aspen following advice should have the passport as the document. The question asks what document to facilitate reunification after exiting, so passport. Answer: passport.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>3</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<question_number>12</question_number>
+<answer>hotel</answer>
+<question_number>13</question_number>
+<answer>64</answer>
+<question_number>14</question_number>
+<answer>warm layer</answer>
+<question_number>15</question_number>
+<answer>door</answer>
+<question_number>16</question_number>
+<answer>automatic fire sprinkler system</answer>
+<question_number>17</question_number>
+<answer>damp towel</answer>
+<question_number>18</question_number>
+<answer>openable windows</answer>
+<question_number>19</question_number>
+<answer>passport</answer>
+<question_number>20</question_number>
+<answer>passport</answer>

@@ -1,0 +1,84 @@
+merged_los-angeles-fires-climate-change.txt
+Okay, let's tackle these questions one by one using only the article provided. I need to be careful to answer exactly what's asked and not infer beyond the text.
+
+1. **Question 1:** The article says Morovati noticed smoke at 10:30 AM, and within an hour firefighters were in her backyard. So that's 1 hour. Answer: 1.
+
+2. **Question 2:** The article mentions Santa Ana winds but doesn't provide a percentage increase compared to previous years. So N/A.
+
+3. **Question 3:** The article states insurers are pulling back but doesn't name any specific company. N/A.
+
+4. **Question 4:** Morovati listed several businesses (school, library, supermarket, Starbucks, "every little business"). The exact number isn't given. N/A.
+
+5. **Question 5:** No monetary value is mentioned for infrastructure damage from dry hydrants. N/A.
+
+6. **Question 6:** The article says she's an environmental activist and author but doesn't mention founding an organization. N/A.
+
+7. **Question 7:** The NYC congestion pricing section doesn't mention evacuation numbers. N/A.
+
+8. **Question 8:** The article says it was the driest January ever, but no temperature record is cited. N/A.
+
+9. **Question 9:** The security cameras showed firefighters on the property, but the number isn't stated. N/A.
+
+10. **Question 10:** The Rhodium Group data is about US emissions, not directly linking to congestion pricing. N/A.
+
+11. **Question 11:** The congestion pricing in NYC is compared to London's program, which led to 13% reduction. Answer: congestion pricing program.
+
+12. **Question 12:** The article mentions hydrants ran dry but no percentage. N/A.
+
+13. **Question 13:** Gov. Hochul of NY halted and revived the congestion pricing. Answer: New York.
+
+14. **Question 14:** Biden's 50% reduction by 2030 is mentioned. Answer: 50%.
+
+15. **Question 15:** The article lists Maui in 2023 before LA. Answer: Maui.
+
+16. **Question 16:** Santa Ana winds are described as age-old, not recent. Answer: Santa Ana winds.
+
+17. **Question 17:** Rhodium Group published the 2024 emissions data. Answer: Rhodium Group.
+
+18. **Question 18:** Siena College poll says over half (50%+). The exact percentage isn't given, so N/A? Wait, the question says "over half", but the answer needs exact. The article says "more than half", so maybe N/A since it's not a specific number. Wait, the exact wording is "more than half of registered voters in the state oppose the plan". Since it's "more than half", but the question asks for the percentage. Since it's not a specific number like 55%, the answer is N/A? Or maybe the question expects "over half" but the instructions say to use exact. Hmm. The question says "what percentage", so since it's not exact, N/A.
+
+19. **Question 19:** The two developers are mentioned but unnamed. The article says "two of the world's biggest offshore wind power developers". No names given. N/A.
+
+20. **Question 20:** The article mentions nonflammable building materials. Answer: nonflammable building materials.
+</think>
+
+<question_number>1</question_number>
+<answer>1</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>congestion pricing program</answer>
+<question_number>12</question_number>
+<answer>N/A</answer>
+<question_number>13</question_number>
+<answer>New York</answer>
+<question_number>14</question_number>
+<answer>50%</answer>
+<question_number>15</question_number>
+<answer>Maui</answer>
+<question_number>16</question_number>
+<answer>Santa Ana winds</answer>
+<question_number>17</question_number>
+<answer>Rhodium Group</answer>
+<question_number>18</question_number>
+<answer>N/A</answer>
+<question_number>19</question_number>
+<answer>N/A</answer>
+<question_number>20</question_number>
+<answer>nonflammable building materials</answer>

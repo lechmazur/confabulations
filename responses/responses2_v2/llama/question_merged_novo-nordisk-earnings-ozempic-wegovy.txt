@@ -1,0 +1,73 @@
+merged_novo-nordisk-earnings-ozempic-wegovy.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<other>This can be calculated by dividing the dollar value by the kroner value.</other>
+<answer>0.14 (or 1 USD = 7.15 DKK)</answer>
+
+<question_number>12</question_number>
+<answer>CagriSema</answer>
+
+<question_number>13</question_number>
+<other>This is mentioned in the context of uncertainty in demand for obesity drugs.</other>
+<answer>President Trump's election</answer>
+
+<question_number>14</question_number>
+<other>This is related to the threat of tariffs on Denmark.</other>
+<answer>Novo Nordisk</answer>
+
+<question_number>15</question_number>
+<other>This is mentioned as the forecasted growth for 2025.</other>
+<answer>16%</answer>
+
+<question_number>16</question_number>
+<other>This is mentioned as the decline from its peak last June.</other>
+<answer>40%</answer>
+
+<question_number>17</question_number>
+<other>This includes the drugs explicitly named in the article.</other>
+<answer>3 (Ozempic, Wegovy, CagriSema)</answer>
+
+However, amycretin is also mentioned as a new drug, so it should be included in the count.
+ <other>This should include amycretin as well.</other>
+ <answer>4 (Ozempic, Wegovy, CagriSema, amycretin)</answer>
+
+ <question_number>18</question_number>
+ <other>This is mentioned as the primary drive behind the revenue jump.</other>
+ <answer>The United States market.</answer>
+
+ <question_number>19</question_number>
+ <other>This is mentioned as facing tariffs, according to the U.S. President's warning.</other>
+ <answer>The European Union.</answer>
+
+ <question_number>20</question_number>
+ <other>This is identified as increasingly volatile and potentially challenging the growth outlook.</other>
+ <answer>Geopolitics.</answer>

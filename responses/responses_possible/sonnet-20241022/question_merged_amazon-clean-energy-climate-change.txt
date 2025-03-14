@@ -1,0 +1,33 @@
+merged_amazon-clean-energy-climate-change.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>This is asking for analysis of implications, not a direct fact from the article.</other>
+
+<question_number>2</question_number>
+<answer>geothermal</answer>
+
+<question_number>3</question_number>
+<answer>2023</answer>
+
+<question_number>4</question_number>
+<answer>natural gas</answer>
+
+<question_number>5</question_number>
+<answer>West Virginia</answer>
+
+<question_number>6</question_number>
+<answer>2040</answer>
+
+<question_number>7</question_number>
+<answer>renewable energy certificates (RECs)</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>While the article mentions both data center and household equivalents, it doesn't provide a direct comparison between them</other>
+
+<question_number>9</question_number>
+<answer>2019</answer>
+
+<question_number>10</question_number>
+<answer>17</answer>
+<other>2040 (net-zero goal) minus 2023 (emissions report year) = 17 years</other>

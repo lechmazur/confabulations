@@ -1,0 +1,61 @@
+merged_saffron-farming-crop.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article doesn't provide information about the potential yield of saffron in the Pennsylvania Dutch region or how much of the imported saffron it could replace.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article doesn't provide information about the volume of saffron tincture that could be produced from a given amount of saffron.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article mentions saffron was traded at the same price as gold in colonial times, but doesn't provide the actual price per gram to calculate how much they could purchase with $20,000.</other>
+
+<question_number>4</question_number>
+<answer>640,000</answer>
+<other>Peace and Plenty harvested 700,000 flowers in their peak year, while the Philipps initially purchased 60,000 corms. The difference is 700,000 - 60,000 = 640,000.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>While the article mentions corms multiply underground, it doesn't provide a linear growth rate to calculate how long it would take to reach 120,000 corms starting from 12.</other>
+
+<question_number>6</question_number>
+<answer>675,976</answer>
+<other>Peace and Plenty Farm harvested 700,000 flowers in their peak year, and the Philipps sold corms to 24,000 customers. The difference is 700,000 - 24,000 = 676,000 (actually 675,976 to be precise).</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article doesn't specify how many farmers attended the workshop, so we can't calculate the total revenue.</other>
+
+<question_number>8</question_number>
+<answer>Philipp</answer>
+
+<question_number>9</question_number>
+<answer>saffron tincture</answer>
+
+<question_number>10</question_number>
+<answer>University of Vermont</answer>
+
+<question_number>11</question_number>
+<answer>5 seconds</answer>
+<other>The article states "I was doing one flower per five seconds at my fastest"</other>
+
+<question_number>12</question_number>
+<answer>Iran</answer>
+
+<question_number>13</question_number>
+<answer>Paul</answer>
+
+<question_number>14</question_number>
+<answer>Pennsylvania Dutch</answer>
+
+<question_number>15</question_number>
+<answer>$100 per gram</answer>
+
+<question_number>16</question_number>
+<answer>4,000</answer>
+<other>The article states "A farmer who plants 1,000 corms may have 4,000 the next year."</other>
+
+<question_number>17</question_number>
+<answer>sweet, musky</answer>
+<other>The article describes saffron as having a "sweet, musky flavor" when the Philipps first tried it in paella.</other>

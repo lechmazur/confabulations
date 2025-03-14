@@ -1,0 +1,30 @@
+merged_ai-chatbots-chatgpt-math.txt
+<question_number>1</question_number>
+<answer>They were designed to predict language patterns (determining probabilities of what word comes next) rather than perform rules-based calculations required for mathematics</answer>
+
+<question_number>2</question_number>
+<answer>Despite excelling with vast quantities of training data like textbooks and scoring well on standardized tests (89th percentile on math SAT), they still struggle with simple arithmetic and math word problems that require multiple steps</answer>
+
+<question_number>3</question_number>
+<answer>Traditional computing systems follow step-by-step rules and use structured databases, while AI chatbots learn by analyzing data; educational applications like Khan Academy and ChatGPT must send numerical problems to calculator programs instead of having the AI solve math directly</answer>
+
+<question_number>4</question_number>
+<answer>It represents "a sharp break with computing's past" where computers were primarily "math on steroids," as modern AI systems excel at language tasks but struggle with calculations that traditional computers perform easily</answer>
+
+<question_number>5</question_number>
+<answer>AI systems are described as "more liberal arts major than numbers whiz," contrasting sharply with traditional computers that were designed as "tireless, fast, accurate calculating machines"</answer>
+
+<question_number>6</question_number>
+<answer>AI's occasional math errors create opportunities for teaching critical thinking, as students can compare their answers to the bot's, discuss who's right, and learn "Don't believe everything an A.I. program tells you"</answer>
+
+<question_number>7</question_number>
+<answer>It shows a shift from perceiving AI's strengths as primarily computational to primarily linguistic and creative, excelling at tasks like writing poetry and summarizing books while struggling with basic mathematics</answer>
+
+<question_number>8</question_number>
+<answer>It highlights the debate between those who believe neural networks are the path forward versus skeptics like Yann LeCun who argue large language models lack logic and common sense reasoning, requiring a broader "world modeling" approach</answer>
+
+<question_number>9</question_number>
+<answer>AI systems that excel at liberal arts tasks like writing poetry but struggle with mathematical calculations blur the traditional distinction where computers were firmly in the STEM domain</answer>
+
+<question_number>10</question_number>
+<answer>Ferrucci finds AI "undeniably impressive -- but mainly for its language skills, not for its accuracy," emphasizing that critical applications requiring "painful precision" need more rule-based software alongside language models</answer>

@@ -1,0 +1,30 @@
+merged_2024-election-map-data.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>73 percent</answer>
+
+<question_number>3</question_number>
+<answer>early or mail-in absentee ballots</answer>
+
+<question_number>4</question_number>
+<answer>putting the data into precinct boundaries</answer>
+
+<question_number>5</question_number>
+<answer>getting the results into a data table</answer>
+
+<question_number>6</question_number>
+<answer>a sparsely populated area where a candidate won by 25 points is shaded the same way as a densely populated one with the same margin</answer>
+
+<question_number>7</question_number>
+<answer>notifications of potential inaccuracies</answer>
+
+<question_number>8</question_number>
+<answer>many places do not include early or mail-in absentee ballots in the precinct data they release</answer>
+
+<question_number>9</question_number>
+<answer>submissions from election officials, data enthusiasts and interested citizens</answer>
+
+<question_number>10</question_number>
+<answer>data was trapped in PDF files and had to be parsed</answer>

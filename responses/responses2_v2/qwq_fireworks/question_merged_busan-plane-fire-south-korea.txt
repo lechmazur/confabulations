@@ -1,0 +1,56 @@
+merged_busan-plane-fire-south-korea.txt
+Okay, I need to go through each question one by one and find the answers strictly from the provided article. Let me start with the first question.
+
+1. The first question asks for the total number of passengers hospitalized due to smoke inhalation. Scanning the article, it mentions "some minor injuries were reported, and at least two of the passengers were hospitalized with bruises they suffered while evacuating." The injuries are specified as bruises, not smoke inhalation. Since the question specifically mentions smoke inhalation, but the article doesn't state that, the answer would be N/A. Wait, but maybe the hospitalization is for the bruises, not smoke. So the answer is N/A because smoke inhalation isn't mentioned.
+
+2. The second question is about which South Korean government agency found the mechanical fault causing the fire. The article says the cause wasn't clear and that investigators from the Transport Ministry and the Aviation and Railway Accident Investigation Board will look into it. There's no mention of which agency discovered the fault initially. So N/A.
+
+3. The third question asks for the time between the first smoke report and evacuation completion. The fire started at 10:30 p.m., and all were evacuated via slides. The fire was extinguished by 11:30 p.m., but the exact time of evacuation completion isn't given. The article doesn't specify when the evacuation ended, only that it was done. So N/A.
+
+4. The fourth question is the scheduled departure time of Flight ABL391. The article states it was before takeoff when the fire broke out, but the exact scheduled time isn't provided. It mentions arrival from Jeju before 9 p.m., but departure time isn't there. So N/A.
+
+5. The fifth question asks which emergency protocol Air Busan used following Asiana's guidelines. The article doesn't mention specific protocols implemented beyond evacuation slides. So N/A.
+
+6. The sixth question is about the passenger capacity utilization. The flight had 169 passengers out of 195 seats. 169/195 is roughly 86.7%, so the percentage would be approximately 86.7%. The article says "seats 195 passengers" and "169 passengers", so that's calculable. So 86.7% or rounded? The exact number would be (169/195)*100 = 86.666..., so 86.7% is okay.
+
+7. The seventh question is about the senior Transport Ministry official supervising. The article doesn't name any individual officials, so N/A.
+
+8. The eighth question asks the altitude when the fire was detected. The fire happened on the ground before takeoff, so altitude is 0. The article says "before takeoff", so the answer is 0.
+
+9. The ninth question is how many safety violations at Gimhae. The article says the inspection found seven airports and several airlines breaching standards, but not specifically Gimhae. So N/A.
+
+10. The tenth question is the manufacturing date of the engine components in the tail. The plane was built in 2007, but the exact date of the engine parts isn't given. The article mentions the engines are from International Aero Engines, a joint venture, but no manufacturing date. So N/A.
+
+11. Eleventh question: crew members hospitalized. The article says two passengers were hospitalized with bruises, but crew members? It says "some minor injuries" but doesn't specify crew. The answer is N/A because it's not stated.
+
+12. Twelfth question: engine manufacturer part of Pratt & Whitney joint venture. The article states the engines were made by International Aero Engines, a joint venture including Pratt & Whitney. The Jeju Air crash's plane's engine manufacturer isn't mentioned, but since the question links both aircraft to the same engine maker via Pratt & Whitney's involvement, the answer is International Aero Engines.
+
+13. Thirteenth question: total evacuation time. The fire started at 10:30 and was extinguished at 11:30, but evacuation was completed before that. The article says "All 176... escaped through slides" but doesn't give exact time. Since the fire was out by 11:30, but evacuation might have taken less time. However, the exact duration isn't stated, so N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>86.7%</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>0</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<question_number>12</question_number>
+<answer>International Aero Engines</answer>
+<question_number>13</question_number>
+<answer>N/A</answer>

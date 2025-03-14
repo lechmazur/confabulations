@@ -1,0 +1,72 @@
+merged_chronic-pain-what-we-know.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+
+<question_number>12</question_number>
+<other>The author mentions that weeks turned into months, but does not specify the exact number of months.</other>
+<answer>N/A</answer>
+
+<question_number>13</question_number>
+<other>The article mentions that chronic pain has received only a fraction of the funding that diseases like cancer and diabetes have, but does not provide a specific percentage difference.</other>
+<answer>N/A</answer>
+
+<question_number>14</question_number>
+<answer>N/A</answer>
+
+<question_number>15</question_number>
+<other>The article mentions that chronic pain is a disorder of the central nervous system, and that it can occur when nerves become hyperactivated or "sensitized", but does not describe a singular alteration as triggering this hyperactivation.</other>
+<answer>N/A</answer>
+
+<question_number>16</question_number>
+<other>The article mentions that doctors can only ask someone to rate their pain on a scale from 1 to 10, but does not compare this to monitoring tumor size.</other>
+<answer>N/A, but there is a scale from 1 to 10.</answer>
+
+Replaced Answer for 16:
+ <question_number>16</question_number>
+ <answer>A scale from 1 to 10.</answer>
+
+ <question_number>17</question_number>
+ <other>The article mentions that patients can benefit from a multidisciplinary approach that includes physical therapy, psychological counseling, specialized pharmacists and neurologists, but does not suggest a specific qualification beyond neurological expertise.</other>
+ <answer>N/A</answer>
+
+ <question_number>18</question_number>
+ <other>The article mentions that once a person has one kind of chronic pain, they're more likely to develop another, but does not provide a specific fraction of the U.S. chronic pain population that has developed multiple chronic pain conditions concurrently.</other>
+ <answer>N/A</answer>
+
+ <question_number>19</question_number>
+ <other>The article mentions that there is no national center for the study of chronic pain.</other>
+ <answer>N/A, but none exists.</answer>
+
+Replaced Answer for 19:
+ <question_number>19</question_number>
+ <answer>N/A </answer>

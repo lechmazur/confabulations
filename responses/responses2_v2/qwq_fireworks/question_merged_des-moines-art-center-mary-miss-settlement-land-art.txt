@@ -1,0 +1,129 @@
+merged_des-moines-art-center-mary-miss-settlement-land-art.txt
+Okay, let's tackle these questions one by one based on the article provided. I need to make sure I only use the information given and don't infer anything beyond what's stated.
+
+1. **Total cost of creating and maintaining "Greenwood Pond: Double Site" from inception through 2023, including construction, repairs, and final settlement/demolition?**  
+   The article mentions the original construction cost $1.5 million. The museum had already spent nearly $1 million on repairs. The settlement was $900k to the artist plus up to $350k for dismantling. Adding those: 1.5M + 1M + 900k + 350k = $3.75 million. But wait, the question says "through 2023" so maybe the dismantling and settlement costs are post-2023? The article says the museum told her in late 2023 that they needed to remove it. The settlement was reached in April 2024, so the demolition costs would be after 2023. The question includes "through 2023", so maybe exclude settlement and dismantling. Then total would be 1.5M (construction) + 1M (repairs) = $2.5M. But the question says "through 2023" so up to that point. The answer might be $2.5M. Wait the article says "the museum said it had already spent nearly $1 million on repairs." So construction (1.5M) plus repairs (1M) equals 2.5M. The settlement and demolition costs are after 2023, so the total up to 2023 is 2.5M. But the question includes "through 2023" so that's the answer. 
+
+2. **Indigenous tribes collaborated with?**  
+   The article states Miss worked with local Indigenous communities but doesn't specify which tribes. So N/A.
+
+3. **Annual visitors before closure?**  
+   The article doesn't provide visitor numbers. N/A.
+
+4. **Materials proposed to replace deck wood?**  
+   The museum said the residential deck wood couldn't withstand Iowa's climate. But it doesn't mention what materials they proposed as replacements. N/A.
+
+5. **Environmental artists from her cohort supporting the lawsuit?**  
+   The article doesn't name any specific artists who submitted statements. N/A.
+
+6. **Percentage of settlement to the Cultural Landscape Foundation?**  
+   The article says she donated a portion but doesn't specify the percentage. N/A.
+
+7. **When did the museum first notice structural issues with bridges?**  
+   The article says in late 2023 the museum told her the installation had become a safety hazard. It doesn't mention earlier issues. N/A.
+
+8. **Number of similar environmental installations in US museum collections?**  
+   The article says "one of the very few" so exact number not given. N/A.
+
+9. **Botanical species reintroduced?**  
+   The article mentions working with a botanist to restore the pond to wetland state but doesn't name species. N/A.
+
+10. **Architectural elements on 1978 Artforum cover?**  
+    The article says her work was on the cover in 1978 but doesn't specify which elements. N/A.
+
+11. **Mary Miss's age when invited in late 1980s?**  
+    She was 80 in 2024. The invitation was in the late 1980s. Assuming late 80s means 1989, 2024-1989=35. So 35? The article says she was invited in the late 1980s. Let's say 1989. 2024-1989=35. So her age would be 35.
+
+12. **Minimum difference between replacement cost ($2M) and dismantling ($350k)?**  
+    2,000,000 - 350,000 = 1,650,000.
+
+13. **Title of artwork declared a safety hazard?**  
+    "Greenwood Pond: Double Site"
+
+14. **Organization receiving funds?**  
+    Cultural Landscape Foundation.
+
+15. **Combined total of settlement and dismantling cost?**  
+    900k + 350k = 1,250,000.
+
+16. **Judicial measure in May?**  
+    Preliminary injunction.
+
+17. **Art movement referenced?**  
+    Land Art movement.
+
+18. **Material vulnerable to Iowa's climate?**  
+    Residential deck wood.
+
+19. **Already spent on repairs?**  
+    Nearly $1 million.
+
+20. **2023 exhibition?**  
+    "Groundswell: Women of Land Art"
+
+Now, let's verify each against the text again to ensure accuracy.
+</think>
+
+<question_number>1</question_number>
+<answer>2500000</answer>
+<other>Construction cost $1.5M, repairs nearly $1M. Total up to 2023: 1.5M + 1M = $2.5M.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>35</answer>
+<other>2024 - 1989 (late 1980s) = 35.</other>
+
+<question_number>12</question_number>
+<answer>1650000</answer>
+<other>2,000,000 - 350,000 = 1,650,000.</other>
+
+<question_number>13</question_number>
+<answer>Greenwood Pond: Double Site</answer>
+
+<question_number>14</question_number>
+<answer>Cultural Landscape Foundation</answer>
+
+<question_number>15</question_number>
+<answer>1250000</answer>
+<other>900,000 + 350,000 = 1,250,000.</other>
+
+<question_number>16</question_number>
+<answer>preliminary injunction</answer>
+
+<question_number>17</question_number>
+<answer>Land Art</answer>
+
+<question_number>18</question_number>
+<answer>residential deck wood</answer>
+
+<question_number>19</question_number>
+<answer>1000000</answer>
+
+<question_number>20</question_number>
+<answer>Groundswell: Women of Land Art</answer>

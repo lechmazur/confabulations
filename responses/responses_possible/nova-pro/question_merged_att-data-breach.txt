@@ -1,0 +1,30 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>It introduces additional vulnerabilities and access points that AT&T may not fully control.</answer>
+
+<question_number>3</question_number>
+<answer>It highlights the need for stringent security protocols to protect sensitive government information.</answer>
+
+<question_number>4</question_number>
+<answer>By tracing phone numbers to individuals through data broker records.</answer>
+
+<question_number>5</question_number>
+<answer>The breach could compromise the security of communications involving federal agencies.</answer>
+
+<question_number>6</question_number>
+<answer>The exposed data could reveal patterns that indicate sensitive communication networks.</answer>
+
+<question_number>7</question_number>
+<answer>The data could be valuable for espionage or intelligence gathering by foreign entities.</answer>
+
+<question_number>8</question_number>
+<answer>The compromised data could expose the communication networks of government officials, posing a security risk.</answer>
+
+<question_number>9</question_number>
+<answer>It increases the risk due to shared infrastructure and more potential attack vectors.</answer>
+
+<question_number>10</question_number>
+<answer>The professor's explanation about the shared nature of cloud infrastructure aligns with the breach occurring on a third-party platform like Snowflake.</answer>

@@ -1,0 +1,32 @@
+merged_bird-flu-tests.txt
+<other>Analyzing the article to extract relevant information for each question.</other>
+
+<question_number>1</question_number>
+<answer>Farmworkers lack education about H5N1, are not being monitored or tested in some cases, and there is no way for them to test themselves.</answer>
+
+<question_number>2</question_number>
+<answer>The C.D.C. has not historically asserted itself as a leader in emergency planning for laboratories, requiring input from over 100 people for major decisions.</answer>
+
+<question_number>3</question_number>
+<answer>The current testing process relies on assumptions about farmworkers' awareness, access to clinics, and clinicians' familiarity with testing procedures, which may not hold true.</answer>
+
+<question_number>4</question_number>
+<answer>It indicates that the testing strategy is ineffective at reaching the people who need testing, despite having sufficient tests available.</answer>
+
+<question_number>5</question_number>
+<answer>The C.D.C.</answer>
+
+<question_number>6</question_number>
+<answer>Most clinics can test for influenza generally but must send samples to public health labs or the C.D.C. to confirm H5N1 infection.</answer>
+
+<question_number>7</question_number>
+<answer>Six</answer>
+
+<question_number>8</question_number>
+<answer>Six hours</answer>
+
+<question_number>9</question_number>
+<answer>60 days</answer>
+
+<question_number>10</question_number>
+<answer>Over 100</answer>

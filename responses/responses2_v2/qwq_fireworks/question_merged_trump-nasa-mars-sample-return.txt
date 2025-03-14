@@ -1,0 +1,118 @@
+merged_trump-nasa-mars-sample-return.txt
+Okay, I need to go through each question one by one and find the answers strictly based on the provided article. Let me start with the first question.
+
+1. Which aerospace company did NASA determine was best positioned to provide the commercial lander option for the Mars Sample Return mission based on their evaluation of the eight proposals?
+
+The article mentions that NASA commissioned studies from eight companies, including Lockheed Martin, SpaceX, and Blue Origin. However, it doesn't state which one was determined as the best. So the answer is N/A.
+
+2. How many rock samples had Perseverance already collected and secured in its cache by the time NASA announced the mission redesign?
+
+The article says Perseverance has been collecting samples and the mission redesign was announced, but it doesn't specify the exact number. The answer is N/A.
+
+3. What was the projected cost reduction achieved by switching from solar panels to radioactive power sources in the revised mission plan?
+
+The article mentions switching to a radioactive heat source as part of changes but doesn't give a specific cost figure. So N/A.
+
+4. Which Congressional committee recommended the $300 million funding allocation for keeping the program on schedule?
+
+The article says NASA needs Congress to provide at least $300 million but doesn't mention which committee. Answer is N/A.
+
+5. What technical modifications to the sky crane system were proposed to accommodate the smaller rocket in the revised mission architecture?
+
+The sky crane was reused instead of a larger lander. The modification was using the sky crane again, which was already used for Curiosity and Perseverance. So the answer is reinstating the sky crane system.
+
+6. Who led the independent review panel in 2023 that identified the $11 billion cost estimate?
+
+The article mentions a panel in 2023 but doesn't name the leader. So N/A.
+
+7. What alternative landing site in Utah was considered before settling on the final location for the sample return capsule?
+
+The article only mentions Utah desert as the final location without alternatives. Answer is N/A.
+
+8. How many employees at JPL were reassigned to other projects after the February layoffs?
+
+The article states over 500 were laid off, but not reassigned. So N/A, since it's about layoffs, not reassignments.
+
+9. What was the estimated mass reduction achieved by redesigning the Mars ascent vehicle compared to the original specifications?
+
+The article says the rocket didn't need to be as big, but no specific mass reduction figure. Answer N/A.
+
+10. Which former NASA administrator initially proposed the sample transfer mechanism that was later simplified in the revised plan?
+
+No mention of a former administrator proposing the transfer mechanism. N/A.
+
+11. What was the primary justification NASA provided for abandoning the original 2026 launch window of the Mars Sample Return mission's lander component after the 2023 review?
+
+The 2023 review found the original estimates too optimistic, leading to a later launch. The justification was cost and feasibility, so the answer is the 2023 review's findings.
+
+12. How does the switch to a radioactive heat source instead of solar panels directly resolve the mass constraints introduced by the smaller Mars ascent vehicle?
+
+Radioactive sources are likely lighter or more efficient, but the article doesn't explicitly state this. The answer is N/A since it's inferred but not stated.
+
+13. What critical flaw in the European Space Agency's orbiter design necessitated the delay of its launch from 2028 to 2031 in the revised timeline?
+
+The article doesn't mention any flaw in the orbiter design. The delay is due to cost and planning, so N/A.
+
+14. Which previously operational Mars rover technology was reinstated in the revised mission plan after being deemed unnecessary in the initial $11 billion proposal?
+
+The sky crane was reinstated, so the answer is the sky crane system.
+
+15. What congressional funding threshold must be met by July 2024 to prevent cancellation of the sky crane system development for the sample retrieval lander?
+
+The article mentions needing $300 million this year (when the article was written, likely 2023), but not a July 2024 threshold. So N/A.
+
+16. Which component of Perseverance's sample collection system was identified as incompatible with the revised Mars ascent vehicle, requiring redesign before 2030?
+
+The article says simplifying the system for moving samples, but doesn't name the component. N/A.
+
+17. How many total rock samples did NASA's independent review panel determine could realistically be returned by 2040 under the original mission profile before cost reductions?
+
+The article mentions 30 samples from Perseverance but not the panel's number. N/A.
+
+18. What technical limitation of Lockheed Martin's proposed commercial lander design disqualified it from consideration for the sample retrieval phase?
+
+The article doesn't mention any specific disqualification for Lockheed's design. N/A.
+
+19. Which Mars atmospheric phenomenon discovered by Curiosity's instruments directly influenced the decision to reduce the Mars ascent vehicle's size in the revised plan?
+
+No mention of atmospheric phenomena affecting the rocket size. N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>sky crane system</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>2023 review found original estimates too optimistic</answer>
+<question_number>12</question_number>
+<answer>N/A</answer>
+<question_number>13</question_number>
+<answer>N/A</answer>
+<question_number>14</question_number>
+<answer>sky crane system</answer>
+<question_number>15</question_number>
+<answer>N/A</answer>
+<question_number>16</question_number>
+<answer>N/A</answer>
+<question_number>17</question_number>
+<answer>N/A</answer>
+<question_number>18</question_number>
+<answer>N/A</answer>
+<question_number>19</question_number>
+<answer>N/A</answer>

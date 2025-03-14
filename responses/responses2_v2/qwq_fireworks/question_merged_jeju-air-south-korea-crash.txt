@@ -1,0 +1,93 @@
+merged_jeju-air-south-korea-crash.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article. Let me start by reading through the questions again and then check the article for each answer.
+
+1. **Maintenance issue identified in last overseas inspection prior to crash?** The article says Mr. Kim stated maintenance checks found no problems. So the answer should be N/A because there's no mention of any specific issue found.
+
+2. **Southeast Asian countries explicitly named?** The article mentions Jeju Air added routes across Asia, including stops outside traditional hubs to serve South Koreans. But no specific Southeast Asian countries are named. So N/A.
+
+3. **Percentage workforce laid off despite 90% requirement?** The article says they received a loan on condition of maintaining 90% workforce. It doesn't state the actual layoffs. So N/A.
+
+4. **Boeing model in 40-plane deal?** The article states Jeju Air wants to purchase up to 40 new planes from Boeing. The current fleet uses Boeing 737-800, but the deal's model isn't specified. Wait, the article says they want to modernize their fleet which currently uses 737-800. Maybe the new planes are the same model? But the text doesn't explicitly say. So N/A.
+
+5. **AK Holdings subsidiary managing Jeju Air operations?** The article says Jeju Air is majority-owned by AK Holdings, which sells detergent and toothpaste. But it doesn't mention a subsidiary managing operations. So N/A.
+
+6. **Safety rating from transport ministry?** The article discusses maintenance practices but doesn't mention a numerical rating. N/A.
+
+7. **European cities prioritized in route allocation?** The article mentions government plans to give priority to budget airlines in awarding new international routes to Europe and Asia, but no specific European cities. N/A.
+
+8. **Interest rate on $29M loan?** The article mentions the loan amount but not the interest rate. N/A.
+
+9. **Event triggering 10% stock drop?** The article says the stock fell 10% since the disaster (the crash on Dec 29). So the crash is the primary event. Answer: Jeju Air Flight 7C2216 crash.
+
+10. **Cost-control measure scrutinized related to maintenance?** The article mentions outsourcing maintenance overseas is under scrutiny. So answer: outsourcing maintenance overseas.
+
+11. **Initial domestic route key to founding?** The article says Jeju Air started with the Seoul to Jeju route. Answer: Seoul to Jeju.
+
+12. **Practice under scrutiny re airplane usage?** The article compares flight hours: Jeju Air flew planes 14.1 hours/day vs competitors. The practice is flying planes more frequently. Answer: flying planes more frequently than competitors.
+
+13. **Fleet modernization plan with American manufacturer?** The article says they plan to buy up to 40 new planes from Boeing. Answer: Boeing.
+
+14. **Annual seating growth rate?** The article states 20% average annual growth over 12 years. Answer: 20%.
+
+15. **Aviation consultant noting outsourcing is common?** The article cites Jonathan Berger from Alton Aviation Consultancy. Answer: Jonathan Berger.
+
+16. **Repayment deadline for $165M loans?** The article says by end of next September. Since the article is from 2024 (as per "2024 than before the pandemic in 2019"), next September would be 2025. Answer: September 2025.
+
+17. **Reason maintenance costs didn't rise with others?** The article says maintenance is a more fixed expense. Answer: maintenance costs are more fixed.
+
+18. **Sanction on CEO?** The article mentions a travel ban on Kim E-bae. Answer: travel ban.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>Jeju Air Flight 7C2216 crash</answer>
+
+<question_number>10</question_number>
+<answer>outsourcing maintenance overseas</answer>
+
+<question_number>11</question_number>
+<answer>Seoul to Jeju</answer>
+
+<question_number>12</question_number>
+<answer>flying planes more frequently than competitors</answer>
+
+<question_number>13</question_number>
+<answer>Boeing</answer>
+
+<question_number>14</question_number>
+<answer>20%</answer>
+
+<question_number>15</question_number>
+<answer>Jonathan Berger</answer>
+
+<question_number>16</question_number>
+<answer>September 2025</answer>
+
+<question_number>17</question_number>
+<answer>maintenance costs are more fixed</answer>
+
+<question_number>18</question_number>
+<answer>travel ban</answer>

@@ -1,0 +1,106 @@
+merged_softbank-openai-ai-investment.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<other>First, let's determine the valuation of OpenAI and SpaceX.</other>
+<other>If OpenAI's valuation is $250 billion and it would be the second most valuable private company, then SpaceX's valuation must be higher.</other>
+<other>The exact difference cannot be determined.</other>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>Deep Research</answer>
+
+<question_number>12</question_number>
+<other>The article mentions that the Stargate project could result in $500 billion of investment in computing infrastructure.</other>
+<other>The $25 billion investment from SoftBank is separate from the existing investment in Stargate.</other>
+<other>The exact total investment cannot be determined.</other>
+<answer>$500 billion+</answer>
+
+<question_number>13</question_number>
+<answer>OpenAI o3</answer>
+
+<question_number>14</question_number>
+<answer>ChatGPT</answer>
+
+<question_number>15</question_number>
+<other>The article states that the October funding round nearly doubled OpenAI's valuation from nine months prior.</other>
+<other>If the $250 billion valuation is chosen, then the previous valuation was $157 billion.</other>
+<other>The exact multiple cannot be determined.</other>
+<answer>N/A</answer>
+
+<question_number>16</question_number>
+<answer>A.I. bots taking our jobs</answer>
+
+<question_number>17</question_number>
+<answer>DeepSeek</answer>
+
+<question_number>18</question_number>
+<answer>$6.6 billion</answer>
+
+<question_number>19</question_number>
+<answer>Copyright infringement of news content related to A.I. systems.</answer>
+
+<question_number>20</question_number>
+<other>If the higher valuation figure is realized, OpenAI would be the second most valuable private company behind SpaceX.</other>
+(answer)SpaceX(/answer)
+
+(question number)21(/ question number)
+(other)The article mentions two possible valuations for OpenAI: $250 billion and $340 billion./other)
+(other)The difference between these two figures is $90 billion./other)
+(answer)$90 billion(/ answer)
+
+(question number)22(/ question number)
+(other)The article mentions a $100 billion investment tied to the White House-announced data center project and a separate proposed influx of up to $25 billion from SoftBank./other)
+(other)The total amount is $125 billion./other)
+(answer)$125 billion(/ answer)
+
+(question number)23(/ question number)
+(answer)OpenAI(/ answer)
+
+(question number)24(/ question number)
+(answer)The firing of Sam Altman(/ answer)
+
+(question number)25(/ question number)
+(answer)OpenAI o3(/ answer)
+
+(question number)26(/ question number)
+(answer)Oracle(/ answer)
+
+(question number)27(/ question number)
+(answer)DeepSeek(/ answer)
+
+(question number)28(/ question number)
+(answer)Ilya Sutskever(/ answer)
+
+(question number)29(/ question number)
+(answer)October(/ answer)
+
+(question number)30(/ question number)
+(answer)Japan(/ answer)
+
+(other)This should answer all the questions./ other)

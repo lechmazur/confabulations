@@ -1,0 +1,21 @@
+merged_brazil-plane-crash-investigation.txt
+<question_number>1</question_number>
+<answer>The article mentions that the ATR 72-500 model had improved de-icing systems since a 1994 crash, implying that icing might not be a factor in this crash, but it doesn't definitively rule it out.</answer>
+<question_number>2</question_number>
+<answer>The article states the plane's speed dropped sharply before the crash, but not enough to cause a stall unless icing was severe, creating a conditional statement: if icing was severe enough, the speed drop could have caused a stall.</answer>
+<question_number>3</question_number>
+<answer>The plane's anti-icing system, designed to break up ice, is juxtaposed with the relatively warm temperature (63 degrees) at the crash site, suggesting that ice formation might have been less likely.</answer>
+<question_number>4</question_number>
+<answer>The article describes the plane spinning slowly as it plummeted, which is atypical for a stall-induced crash, which usually involves a more abrupt descent.</answer>
+<question_number>5</question_number>
+<answer>The plane's recorded speed before the crash was not low enough to cause a stall without severe icing, challenging the theory that a stall was the sole cause.</answer>
+<question_number>6</question_number>
+<answer>The pilots did not communicate with air traffic control before the crash, contradicting standard protocol for addressing severe icing conditions, which typically involves alerting controllers.</answer>
+<question_number>7</question_number>
+<answer>The crash location's temperature of 63 degrees contradicts the assumption that severe icing was a likely factor, as icing is less common in warmer temperatures.</answer>
+<question_number>8</question_number>
+<answer>The improved de-icing system implemented after the 1994 crash complicates the investigation because it suggests that icing might not have been as significant a factor in this crash, but doesn't rule it out entirely.</answer>
+<question_number>9</question_number>
+<answer>The plane's model, ATR 72-500, becomes crucial when considering the icing theory because this model is known to be susceptible to icing.</answer>
+<question_number>10</question_number>
+<answer>The article states the plane fell from 17,000 feet, suggesting a rapid descent that challenges the assumption of gradual ice accumulation.</answer>

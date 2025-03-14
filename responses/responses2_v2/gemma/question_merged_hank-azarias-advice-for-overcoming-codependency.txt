@@ -1,0 +1,2 @@
+merged_hank-azarias-advice-for-overcoming-codependency.txt
+Error: Error code: 422 - {'id': '90f1db0a5e12a582', 'error': {'message': 'Input validation error: `inputs` tokens + `max_new_tokens` must be <= 8193. Given: 11785 `inputs` tokens and 2048 `max_new_tokens`', 'type': 'invalid_request_error', 'param': None, 'code': None}}

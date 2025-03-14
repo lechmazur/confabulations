@@ -1,0 +1,54 @@
+merged_disney-earnings-parks.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article. Let me start by going through each question and cross-referencing the article.
+
+1. **How does the recent performance of Disney's ESPN division illustrate the company's ability to navigate the challenges of the domestic and international markets?**  
+   Looking at the article, ESPN's performance is mentioned: operating income increased 4% to $1.1B, with most growth overseas. Domestic ad sales rose 17%, but domestic operating income only up 1%. So the answer should reflect both domestic and international performance. The question is about illustrating their ability to navigate, so maybe the international growth despite domestic challenges. Answer: "ESPN's operating income increased 4% globally, with overseas growth offsetting domestic cost pressures."
+
+2. **How has the shift in consumer behavior due to economic factors specifically impacted Disney's theme park revenue and operating profit in the last reported quarter?**  
+   The article states revenue increased 2% to $8.4B but operating profit fell 3% to $2.2B. The reason given was "moderation of consumer demand" and higher costs. So the answer is the specific numbers and the reasons. Answer: "Revenue rose 2% but operating profit fell 3% due to reduced consumer spending and higher costs."
+
+3. **Which division that contributed 70% of Disney's operating profit last year is now showing signs of weakening demand?**  
+   The division mentioned is Disney Experiences (theme parks and cruises), which contributed 70% last year. The weakening demand is about theme parks. Answer: "Disney Experiences (theme parks and cruise ships)."
+
+4. **Which Disney executive is expected to unveil expansion projects at a fan convention in the same state where the company reported weaker-than-expected results for a major revenue source?**  
+   The executive is Josh D'Amaro, at the Anaheim convention. The weak results were from theme parks, which are in Anaheim, CA. Answer: "Josh D'Amaro."
+
+5. **What streaming milestone did Disney achieve earlier than anticipated, coinciding with the quarter where its traditional profit center showed signs of strain?**  
+   The article says Disney's streaming division (Disney+, Hulu, ESPN+) turned a profit, which they achieved earlier than the expected later this year. Answer: "First profit for its direct-to-consumer division."
+
+6. **Which Disney film released after the reported quarter helped offset concerns in another business segment that historically funded the company's streaming expansion?**  
+   The film after the quarter ending June 29 is "Deadpool & Wolverine," mentioned as post-quarter with record sales. The funded segment is theme parks/cruise (Experiences). Answer: "Deadpool & Wolverine."
+
+7. **Which Disney service will introduce a feature mimicking traditional television, while simultaneously increasing its price for ad-free viewing?**  
+   Disney+ will have "continuous playlists" and price hikes. Answer: "Disney+."
+
+8. **Which Disney-owned studio reversed its slump with a film that grossed $1.6 billion, during the same quarter that another major revenue source showed signs of weakening?**  
+   Pixar's "Inside Out 2" made $1.6B, reversing their slump. The other source is theme parks. The studio is Pixar. Answer: "Pixar."
+
+9. **What amount did Disney say it would spend over the next decade on expanding a division that is now showing signs of slowing growth?**  
+   The article mentions $60 billion over the next decade for parks and cruise line. Answer: "$60 billion."
+
+10. **What percentage of Disney's operating profit came from its Experiences division last year, compared to a decade ago, highlighting the segment's growing importance despite recent challenges?**  
+   Last year:70%, a decade ago:30%. Answer: "70% last year vs. 30% a decade ago."
+</think>
+
+<question_number>1</question_number>
+<answer>ESPN's operating income increased 4% to $1.1 billion, driven by international growth while domestic income rose 1% despite 17% ad sales growth.</answer>
+<question_number>2</question_number>
+<answer>Revenue rose 2% to $8.4 billion but operating profit fell 3% to $2.2 billion due to weaker consumer demand and higher costs.</answer>
+<question_number>3</question_number>
+<answer>Disney Experiences (theme parks and cruise ships)</answer>
+<question_number>4</question_number>
+<answer>Josh D'Amaro</answer>
+<question_number>5</question_number>
+<answer>First-time profit for its direct-to-consumer division (Disney+, Hulu, ESPN+)</answer>
+<question_number>6</question_number>
+<answer>Deadpool & Wolverine</answer>
+<question_number>7</question_number>
+<answer>Disney+</answer>
+<question_number>8</question_number>
+<answer>Pixar</answer>
+<question_number>9</question_number>
+<answer>$60 billion</answer>
+<question_number>10</question_number>
+<answer>70% last year vs 30% a decade ago</answer>

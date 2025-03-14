@@ -1,0 +1,21 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>By tracing phone numbers back to individuals through data broker records, potentially revealing communication networks.</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>The exposed data, including phone numbers and interaction times, could be used to map out communication networks, potentially exposing those in sensitive positions.</answer>
+<question_number>7</question_number>
+<answer>The compromised data, particularly phone records linked to individuals, could be valuable to foreign nation states for intelligence gathering and identifying potential targets.</answer>
+<question_number>8</question_number>
+<answer>The breach exposed phone records, which could be used to identify and compromise the communication networks of government officials, potentially jeopardizing sensitive information.</answer>
+<question_number>9</question_number>
+<answer>Outsourcing data to cloud networks increases the risk of breaches because the data is stored in a shared environment, potentially accessible to malicious actors, making security more complex.</answer>
+<question_number>10</question_number>
+<answer>The professor's explanation highlights the potential vulnerabilities of shared cloud environments, which is relevant because the AT&T breach involved a third-party cloud platform called Snowflake.</answer>

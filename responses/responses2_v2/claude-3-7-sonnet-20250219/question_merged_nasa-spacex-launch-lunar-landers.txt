@@ -1,0 +1,44 @@
+merged_nasa-spacex-launch-lunar-landers.txt
+<question_number>1</question_number>
+<answer>$10,000</answer>
+<other>The article states NASA will buy two soil samples for $5,000 each, so the total is $10,000. No transportation costs are mentioned as the samples will remain on the moon.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions that the Hakuto-R Mission 1 lander hovered "far above the ground" after being confused by the crater rim, but doesn't specify how many miles above the surface it hovered.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any lunar mission director confirming that their spacecraft would be capable of operating beyond the initial 14-day mission window. It only states that both Blue Ghost and Resilience are designed to operate for one lunar day (14 Earth days).</other>
+
+<question_number>4</question_number>
+<answer>one second</answer>
+<other>The article states: "The rocket stage fired once more, for just a second, to adjust the orbit for the deployment of Resilience"</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>While the article mentions a drill to measure heat flow from the moon's interior to the surface, it doesn't provide detailed specifications about the depth the drill will penetrate.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article mentions that Firefly has launched its Alpha rocket "several times" but doesn't specify how many successful launches occurred before being selected for the lunar mission program.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention the altitude that the Falcon 9's second stage reached during the elliptical orbit adjustment between deployments.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>While the article mentions that the Mission 1 landing software was confused by the crater rim, it doesn't specify what characteristics Ispace modified in their landing software for Mission 2 beyond saying they were "confident that the mistakes that led to the crash in 2023 had been fixed."</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article mentions a water electrolyzer experiment but doesn't provide information about what power generation system it will use during the lunar night period.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any communication blackout during orbital insertion maneuvers for either spacecraft.</other>
+
+<question_number>11</question_number>
+<answer>$101.5 million</answer>
+<other>The article only mentions that "NASA will pay Firefly $101.5 million if it takes 10 payloads to the lunar surface, and a bit less if it does not fully succeed." It mentions $10,000 for the soil samples from Ispace, but this is separate from the mission costs. The article doesn't provide the total mission cost for Ispace.</other>

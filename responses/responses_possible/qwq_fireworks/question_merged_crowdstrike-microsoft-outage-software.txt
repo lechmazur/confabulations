@@ -1,0 +1,44 @@
+merged_crowdstrike-microsoft-outage-software.txt
+Okay, let me start going through the questions one by one. 
+
+1. The first question asks about the connection between the error message background color and the severity. The article mentions the Blue Screen of Death, which is a known error in Windows. The text says, "The backdrop was the color of a perfect sky, also known as the Blue Screen of Death." So the color is linked to the severity because the Blue Screen is a critical error. The answer is that the blue color signifies a critical system failure.
+
+2. The main cause of the outage was a failed software update from CrowdStrike. The article states, "a routine upgrade that somehow went off the rails. CrowdStrike... sent to its customers on Thursday night. For some reason, this crashed every computer it touched." So the answer is a failed software update by CrowdStrike.
+
+3. The question is about how many hours it took George Kurtz to apologize. The article says, "People complained that Mr. Kurtz was slow to offer an apology. (Hours later, he said, 'I want to sincerely apologize directly to all of you for today's outage.')". The exact time isn't given, but it mentions "hours later." Since the article doesn't specify the exact number of hours, maybe it's N/A. Wait, but the question is phrased as "how many hours," so unless there's a number, it's N/A. The text says "hours later" but not the exact count. So answer N/A.
+
+4. The hacker who mentioned the test machine is Matt Mitchell. The article says, "Matt Mitchell, a hacker... said, 'They should have had a test machine...'". So the answer is Matt Mitchell.
+
+5. The security expert who said that turning off and on was the solution is Mikko Hypponen. The article states, "Mikko Hypponen, a security expert... 'The problem that this poses... the traditional way to fix a balky computer -- turning it off and then turning it on again -- was still the only solution'." So the answer is Mikko Hypponen.
+
+6. The stock market valuation before the outage was heading to $100 billion. The article says, "CrowdStrike has a stock market valuation that was heading to $100 billion, at least before the outage caused some investors to jump ship." So the answer is $100 billion.
+
+7. The question asks how many employees CrowdStrike has according to Brody Nisbet's statement. The article mentions Brody Nisbet's X message but the number of employees is stated as 8,000 in a different part: "Founded in 2011, it has 8,000 employees". However, the question specifies "according to Brody Nisbet's statement on X". The article says Brody Nisbet wrote a message about a workaround but didn't mention employee count. So the employee count is from another part, but the question ties it to Brody's statement. Since the employee number isn't in his statement, the answer is N/A.
+
+8. The security expert who talked about single point of failure is Matt Mitchell again. The article states, "Matt Mitchell... 'we are creating a situation where there is a single point of failure'". So the answer is Matt Mitchell.
+
+9. Mikko Hypponen described the customers' way of maintaining their fleet as using centralized controls. The article says, "large enterprises, which is what CrowdStrike customers are, maintain their fleet with centralized controls." This is in the context of Mikko's quote. So the answer is centralized controls.
+
+10. Brody Nisbet's suggested workaround was to manually remove the flawed code. The article says, "walk around to each offline machine and remove the bit of flawed code, or wait..." and Brody's message suggested a possible workaround. The exact wording was "walk to every laptop, type on the keyboard, and reboot it manually" from Mikko, but the initial suggestion by Brody was the first part. The article says Brody wrote a workaround but the exact method is described as removing the code manually. So the answer is manually removing the flawed code from each machine.
+</think>
+
+<question_number>1</question_number>
+<answer>Blue Screen of Death</answer>
+<question_number>2</question_number>
+<answer>Failed software update from CrowdStrike</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>Matt Mitchell</answer>
+<question_number>5</question_number>
+<answer>Mikko Hypponen</answer>
+<question_number>6</question_number>
+<answer>$100 billion</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>Matt Mitchell</answer>
+<question_number>9</question_number>
+<answer>centralized controls</answer>
+<question_number>10</question_number>
+<answer>Walk to each laptop, remove flawed code, and reboot</answer>

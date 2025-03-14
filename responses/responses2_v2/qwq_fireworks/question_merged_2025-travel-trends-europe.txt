@@ -1,0 +1,76 @@
+merged_2025-travel-trends-europe.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information provided in the article and follow the instructions strictly.
+
+1. **Question 1**: Which European city mentioned experienced the highest percentage increase in train bookings due to proximity to celestial viewing locations? The article mentions Tromso, Norway for northern lights and Iceland for stargazing. But the question is about train bookings. The text says Railbookers talks about tailored train trips, but doesn't specify a city with highest increase. No data here, so N/A.
+
+2. **Question 2**: Average temperature difference between southern and coolcation spots? The article mentions the shift due to heat but doesn't give specific temperature numbers. N/A.
+
+3. **Question 3**: Hours of darkness required for noctourism? The text mentions nocturnal travel and stargazing but no specific hours. N/A.
+
+4. **Question 4**: Detour destination with highest correlation between Expedia searches and bookings. The article says Reims, Brescia, Montserrat, Normandy, Sintra saw increased searches and bookings. But no specific city is mentioned as having the strongest correlation. N/A.
+
+5. **Question 5**: Cost savings for Americans due to euro-dollar parity. The article mentions parity makes Europe affordable but doesn't state exact savings. N/A.
+
+6. **Question 6**: Kilometers of rail track added? The article talks about increased demand but no numbers on track additions. N/A.
+
+7. **Question 7**: Percentage shift from Barcelona to Montserrat? The article says Montserrat bookings increased but no percentage given. N/A.
+
+8. **Question 8**: Month with highest Tromso bookings? No specific months mentioned. N/A.
+
+9. **Question 9**: Average duration of side-trips? The article says "an hour's train ride from Barcelona" for Montserrat, but that's an example. Not the average. N/A.
+
+10. **Question 10**: Number of stargazing tours by Authentic Explorations? The article says they called 2025 the year of Iceland but no specific package count. N/A.
+
+11. **Question 11**: Company proclaiming 2025 as customized train trips? Railbookers says it's the year of tailored trips. So Railbookers.
+
+12. **Question 12**: Italian detour near a 52 Places city (Milan). Brescia is near Milan. Yes, Brescia.
+
+13. **Question 13**: First southern destination mentioned travelers are moving away from? The article says "replacing hot southern European destinations like Greece and Portugal". First is Greece.
+
+14. **Question 14**: Nordic country with Tromso. Tromso is in Norway.
+
+15. **Question 15**: Authentic Explorations' highlighted stargazing destination? They said "We are calling 2025 the year of Iceland". So Iceland.
+
+16. **Question 16**: Company saying rail is part of vacation? Railbookers' president says that. So Railbookers.
+
+17. **Question 17**: Travel reporter mentioned? Ceylan Yeginsu is the reporter.
+
+18. **Question 18**: Destination for escaping heat and stargazing? The article mentions Iceland and Tromso. The question says "intertwining crowded spots and celestial events". The example given for escaping heat and stargazing is Iceland, as mentioned by Authentic Explorations. So Iceland.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>Railbookers</answer>
+<question_number>12</question_number>
+<answer>Brescia</answer>
+<question_number>13</question_number>
+<answer>Greece</answer>
+<question_number>14</question_number>
+<answer>Norway</answer>
+<question_number>15</question_number>
+<answer>Iceland</answer>
+<question_number>16</question_number>
+<answer>Railbookers</answer>
+<question_number>17</question_number>
+<answer>Ceylan Yeginsu</answer>
+<question_number>18</question_number>
+<answer>Iceland</answer>

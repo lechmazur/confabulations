@@ -1,0 +1,74 @@
+merged_biden-ai-chips-rules.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>Nvidia</answer>
+
+<question_number>12</question_number>
+<answer>Gina M. Raimondo</answer>
+
+<question_number>13</question_number>
+<answer>Poland</answer>
+
+<question_number>14</question_number>
+<answer>Michael R. Wessel</answer>
+
+<question_number>15</question_number>
+<answer>Matt Pottinger</answer>
+
+<question_number>16</question_number>
+<answer>Ned Finkle</answer>
+
+<question_number>17</question_number>
+<answer>The United States</answer>
+
+<question_number>18</question_number>
+<other>This is about the foundation of the new rules.</other>
+<other>The article mentions that the new rules build on export controls that the Biden administration has put in place in recent years.</other>
+<other>This is about banning shipments of advanced A.I. chips to China and other adversarial countries.</other>
+<other>This also includes requiring special licenses to send A.I. chips to countries, including in the Middle East and Southeast Asia.</other>
+<other>This is the foundation of the new rules.</other>
+<other>This is what I was looking for.</other>
+<other>I found it.</other>
+<other>This answers the question.</other>
+<other>I am ready to answer.</other>
+<answer>export controls that the Biden administration has put in place in recent years to ban shipments of advanced A.I. chips to China and other adversarial countries and to require special licenses to send A.I. chips to countries, including in the Middle East and Southeast Asia.</answer>
+
+<question_number>19</question_number>
+<answer>Jared Kushner</answer>
+
+<question_number>20</question_number>
+<other>This is about a country with a substantial advantage and authority to determine global access to advanced AI technologies.</other>
+<other>This is what I am looking for.</other>
+<other>I found it.</other>
+<other>This answers the question.</other>
+<other>I am ready to answer.</other>
+<answer>The United States</answer>

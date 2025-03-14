@@ -1,0 +1,31 @@
+merged_brazil-plane-crash-investigation.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article does not mention any potential red herrings related to the plane's model or de-icing system improvements since 1994. It simply states that icing was a main cause of a 1994 crash of the same ATR plane model, but that the manufacturer has since improved the de-icing system.</other>
+
+<question_number>2</question_number>
+<answer>The article states that the plane's speed dropped sharply in the minutes before the crash, but that the speed did not drop far enough to cause a stall unless the icing was extremely severe. This creates a complex conditional statement about the crash's cause - the icing would need to be severe enough to cause the plane to stall at a higher speed than normal.</answer>
+
+<question_number>3</question_number>
+<answer>The article states that the temperature on the ground where the plane crashed was around 63 degrees Fahrenheit. This challenges the primary theory about the cause being severe icing, as the experts say that in Brazil (not Antarctica), the warmer air at lower altitudes should have melted any ice on the plane.</answer>
+
+<question_number>4</question_number>
+<answer>The article states that the plane was "spinning slowly as it plummeted before crashing almost directly on its belly", which the experts say is "characteristic of someone who lost the functionality of the wing and the aircraft controls". This contradicts standard expectations for a stall-induced crash, where the plane would be expected to dive more directly downward.</answer>
+
+<question_number>5</question_number>
+<answer>The article states that the plane was traveling roughly 325 miles per hour when its speed dropped sharply, but that this speed drop did not go far enough to cause a stall unless the icing was extremely severe. This discrepancy between the last recorded speed and the minimum speed for a stall challenges the primary theory about the crash being caused by icing.</answer>
+
+<question_number>6</question_number>
+<answer>The article states that the pilots did not communicate with air traffic controllers just before the crash, which the experts say is unusual if they were experiencing severe icing conditions that required them to descend to warmer altitudes.</answer>
+
+<question_number>7</question_number>
+<answer>The article states that the plane crashed in a gated community, which contradicts the expert's statement that the crash location's temperature of around 63 degrees Fahrenheit should have been warm enough to melt any ice on the plane.</answer>
+
+<question_number>8</question_number>
+<answer>The article mentions that the manufacturer has improved the de-icing system on the ATR 72-500 model since the 1994 crash of the same model. This technological advancement paradoxically complicates the current investigation, as it is unclear if the improved system functioned properly or not.</answer>
+
+<question_number>9</question_number>
+<answer>The article states that the plane was an ATR 72-500 turboprop, which is a crucial detail when considering the icing theory, as turboprop engines can be more susceptible to icing issues compared to jet engines.</answer>
+
+<question_number>10</question_number>
+<answer>The article states that the plane fell from 17,000 feet, which challenges assumptions about gradual ice accumulation, as ice buildup severe enough to cause a stall would typically occur at lower altitudes.</answer>

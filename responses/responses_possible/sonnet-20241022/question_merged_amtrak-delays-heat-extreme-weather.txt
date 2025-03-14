@@ -1,0 +1,36 @@
+merged_amtrak-delays-heat-extreme-weather.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>While the article provides total weather delays and heat delays, it doesn't provide the ratio for all years to determine a peak.</other>
+
+<question_number>2</question_number>
+<other>Can calculate from 530 hours in 2018 to 1200 hours in 2023 (5 years, increase of 670 hours)</other>
+<answer>1870 hours</answer>
+
+<question_number>3</question_number>
+<answer>750,000 passengers</answer>
+
+<question_number>4</question_number>
+<answer>670 hours</answer>
+
+<question_number>5</question_number>
+<answer>60 percent</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article mentions federal grants could provide "a few billion dollars" but doesn't specify an exact amount per year</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>While speed restrictions are mentioned, there's insufficient information to calculate total travel time increase</other>
+
+<question_number>8</question_number>
+<answer>7.57</answer>
+<other>4,010 hours total weather delays in 2023 divided by 530 hours heat delays in 2018</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>While increase from 83 to 230 hours is mentioned for Northeast Corridor, can't reliably project future increases</other>
+
+<question_number>10</question_number>
+<answer>sagging under intense summer heat</answer>

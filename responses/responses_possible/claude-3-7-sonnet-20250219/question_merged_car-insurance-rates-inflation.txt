@@ -1,0 +1,40 @@
+merged_car-insurance-rates-inflation.txt
+<question_number>1</question_number>
+<other>The article states that taking a safe driver course can save 10% on premium, and increasing deductible to $1000 could save 40% or more on collision and comprehensive coverage. However, it doesn't specify what percentage of the total premium is comprised of collision and comprehensive coverage, so I can't calculate the exact total reduction.</other>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<other>The article mentions that people with clean driving records and fair credit pay annual premiums that are on average 49% higher than similar drivers with excellent credit. This suggests improving credit from fair to excellent could lead to a 49% decrease.</other>
+<answer>Improving credit score from fair to excellent</answer>
+
+<question_number>3</question_number>
+<other>The article doesn't provide enough information to calculate this minimum percentage. While it mentions various ways to reduce premiums, it doesn't quantify how these would combine for someone with fair credit and one at-fault accident.</other>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<other>The article mentions various strategies to reduce premiums but doesn't provide enough information to calculate the maximum percentage difference between implementing all strategies versus none.</other>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<other>The article advises caution before lowering liability coverage and doesn't provide specific information about how monitoring programs and reduced liability coverage would affect premiums relative to the average.</other>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<other>The article doesn't provide enough information to calculate this specific percentage.</other>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<other>While the article mentions that married couples typically qualify for lower rates than single people, and that monitoring programs can lower rates, it doesn't provide specific dollar amounts for these reductions.</other>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<other>The article doesn't provide enough information to calculate this specific dollar amount.</other>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<other>The article doesn't provide enough information to calculate this specific dollar amount.</other>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<other>The article mentions that regional insurers may offer better prices, but doesn't quantify how much more a well-known insurer with a funny mascot might charge compared to regional insurers.</other>
+<answer>N/A</answer>

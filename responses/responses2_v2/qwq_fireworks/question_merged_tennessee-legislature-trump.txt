@@ -1,0 +1,129 @@
+merged_tennessee-legislature-trump.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article and follow the strict instructions. Let's start with the first question.
+
+1. **Question 1**: Which Tennessee state representative introduced the bill creating a $1,000 bounty hunter program targeting undocumented immigrants?  
+   The article mentions a bill in Mississippi with the bounty hunter program: "A bill introduced in Mississippi last week would create a bounty hunter program with a $1,000 reward. In Tennessee, a bill would charge undocumented students tuition to attend public schools." So the bounty hunter bill is in Mississippi, not Tennessee. Since the question asks about Tennessee, the answer is N/A because the bill is in Mississippi. Wait, the question specifically asks for Tennessee's representative. Since the article says "In Tennessee, a bill would charge...", the bounty hunter is in Mississippi. So the answer is N/A because the article doesn't mention who introduced the Tennessee bill (but actually the bounty is in Mississippi, so the answer is N/A for Tennessee's rep).
+
+2. **Question 2**: How many students would receive the increased $9,000 annual scholarship amount in the second phase of Governor Lee's voucher expansion plan?  
+   The article states the initial allocation is $7,000 for 20,000 students, with thousands more added later. It doesn't mention $9,000 or a specific number for the second phase. So N/A.
+
+3. **Question 3**: What was the total death toll from the eastern Tennessee floods caused by Hurricane Helene that prompted the disaster aid portion of the special session?  
+   The article mentions the floods but doesn't provide death toll numbers. So N/A.
+
+4. **Question 4**: Which former Trump administration official endorsed Governor Lee's immigration enforcement officer proposal before the special session began?  
+   The article mentions Penny Schwinn, former Tennessee education commissioner, tapped by Trump for the U.S. Department of Education. But she was involved in the voucher program, not immigration. The endorsement for vouchers came from the America First Policy Institute. The question is about immigration proposal, so maybe no one is mentioned here. The answer is N/A.
+
+5. **Question 5**: What percentage increase in local law enforcement funding did the Tennessee bill propose for jurisdictions actively cooperating with federal immigration authorities?  
+   The article doesn't mention a specific percentage increase. It talks about penalties for non-cooperation, not rewards. So N/A.
+
+6. **Question 6**: How many Nashville high school students were injured in the shooting that prompted the protest outside the State Capitol?  
+   The article mentions a female student was killed, but doesn't specify injuries. So N/A.
+
+7. **Question 7**: What role did Penny Schwinn play in implementing Florida's school voucher program that served as a model for Tennessee's proposal?  
+   The article says Schwinn oversaw the initial stages of Tennessee's voucher program, not Florida's. So N/A.
+
+8. **Question 8**: Which Tennessee county saw the highest enrollment numbers during the 2019 pilot version of the school voucher program?  
+   The article mentions the pilot was for Tennessee's largest counties but doesn't name which. So N/A.
+
+9. **Question 9**: What was the voter approval rating for Governor Lee's immigration proposals according to the poll cited in the article?  
+   No poll is cited in the article regarding approval ratings. N/A.
+
+10. **Question 10**: How many Tennessee school boards voted to formally oppose the voucher expansion plan before the special session began?  
+    The article states "some school boards in the state have voted to publicly oppose the plan." The exact number isn't given, so N/A.
+
+11. **Question 11**: What annual scholarship amount per student did Governor Lee's voucher program allocate for disabled students before the Biden administration challenged it in court?  
+    The Biden administration isn't mentioned challenging it; the article says the voucher push failed to overcome rural opposition. The initial proposal allocates $7,000, with half being disabled or low-income. So the amount is $7,000. But the question specifies "before the Biden administration challenged it," but the article says the Biden admin condemned decisions but the Trump admin is supportive. Since Biden's challenge isn't in the article, maybe the answer is N/A. Wait, the question is about the amount allocated, which is $7,000. But the article says "about $7,000 in scholarship money a year to each of 20,000 students, about half of whom would be students with disabilities..." So the amount is $7,000. So answer is $7,000.
+
+12. **Question 12**: How many states besides Tennessee are explicitly named in the article as advancing bills to penalize sanctuary jurisdictions through fines or detainment policies?  
+    The article mentions Georgia and Tennessee (for penalties on sanctuary cities), and South Carolina (reporting patients' immigration status). Florida is mentioned for DeSantis' session on deportation. Mississippi has the bounty. So states besides TN: Georgia, South Carolina, Florida. Wait, the question is about penalizing sanctuary jurisdictions via fines or detainment. The article says "Lawmakers in both Georgia and Tennessee have called for more penalties..." So Georgia is one. Florida's bill is about expanding detention powers. So total states besides TN: Georgia and Florida. So 2 states (Georgia and Florida). The answer is 2.
+
+13. **Question 13**: Which organization that previously drafted Trump administration policies publicly endorsed Tennessee's school voucher plan during the special session?  
+    The article says "Republicans circulated glowing endorsements for the voucher plan, including one from the America First Policy Institute, a right-wing group deeply involved in drafting the Trump administration's policy agenda." So answer is America First Policy Institute.
+
+14. **Question 14**: What specific dollar amount of federal disaster relief funding for eastern Tennessee communities was tied to the passage of immigration enforcement measures in the special session?  
+    The article doesn't mention a specific dollar amount tied to the measures. It just says disaster aid is paired with other issues. So N/A.
+
+15. **Question 15**: Which former federal official appointed by Trump to the Department of Education oversaw the implementation of Tennessee's pilot voucher program before its expansion?  
+    The article states Penny Schwinn was former Tennessee education commissioner who oversaw the initial stages, then appointed by Trump. So answer is Penny Schwinn.
+
+16. **Question 16**: What percentage of students eligible for the proposed Tennessee voucher program would come from families qualifying for free or reduced-price lunches under the initial rollout?  
+    The article says about half of the 20,000 students would be from families far below the income threshold for free or reduced lunches. So approximately 50%. The answer is 50%.
+
+17. **Question 17**: Which Republican governor cited in the article called a simultaneous special session to expand deportation powers alongside Tennessee's legislative push?  
+    The article mentions Gov. Ron DeSantis of Florida called a special session to expand detention powers. So answer is Ron DeSantis.
+
+18. **Question 18**: How many public school teachers in Tennessee would receive the one-time bonus payment under the voucher proposal debated during the special session?  
+    The proposal gives a $2,000 bonus to teachers teaching this school year. The article doesn't specify the number of teachers. So N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The bounty hunter program is mentioned in Mississippi, not Tennessee. The article does not name a Tennessee representative introducing such a bill.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions $7,000 for the initial phase but no $9,000 amount or second-phase student numbers.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article references floods causing devastation but provides no death toll figures.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>No former Trump official is cited endorsing Lee's immigration officer proposal. Penny Schwinn's role relates to vouchers, not immigration.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article discusses penalties for non-cooperation but does not mention a percentage increase for cooperating jurisdictions.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Only one student was killed; no injury count is provided.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Penny Schwinn oversaw Tennessee's pilot program, not Florida's. The question conflates states.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article specifies the pilot was for Tennessee's largest counties but does not name the highest-enrollment county.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>No voter approval poll is cited regarding Lee's immigration proposals.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article states "some school boards" opposed the plan but does not specify a number.</other>
+
+<question_number>11</question_number>
+<answer>7,000</answer>
+<other>About half of 20,000 students (including disabled students) receive $7,000 annually.</other>
+
+<question_number>12</question_number>
+<answer>2</answer>
+<other>Georgia and Florida are explicitly named as advancing such bills (Georgia for penalties, Florida for detention expansion).</other>
+
+<question_number>13</question_number>
+<answer>America First Policy Institute</answer>
+<other>Explicitly stated as endorsing the voucher plan and linked to Trump policy drafting.</other>
+
+<question_number>14</question_number>
+<answer>N/A</answer>
+<other>No specific dollar amount is tied to immigration measures in the disaster aid pairing.</other>
+
+<question_number>15</question_number>
+<answer>Penny Schwinn</answer>
+<other>Former Tennessee education commissioner overseeing the voucher pilot, later appointed by Trump.</other>
+
+<question_number>16</question_number>
+<answer>50%</answer>
+<other>About half of the initial 20,000 students are from families below free/reduced lunch thresholds.</other>
+
+<question_number>17</question_number>
+<answer>Ron DeSantis</answer>
+<other>Florida's governor called a simultaneous session to expand detention powers.</other>
+
+<question_number>18</question_number>
+<answer>N/A</answer>
+<other>The bonus applies to all teachers teaching that year, but the article does not state the total number.</other>

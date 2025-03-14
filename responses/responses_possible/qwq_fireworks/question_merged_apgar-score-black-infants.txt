@@ -1,0 +1,56 @@
+merged_apgar-score-black-infants.txt
+Alright, let's tackle these questions one by one based on the article. I need to make sure I only use the information provided and answer exactly what's asked without any extra details.
+
+1. **Question 1**: How do Dr. Sara E. Edwards' findings challenge the assumption that lower Apgar scores for Black infants indicate poorer health outcomes?  
+   The article says her study found Black newborns had lower Apgar scores but similar umbilical cord gas values (which measure actual oxygen levels) to non-Black babies. So their actual health wasn't worse, just the score. The answer should be that their lab results were normal despite lower scores, so the scores don't reflect true health here.
+
+2. **Question 2**: Which metric in the Apgar test, when removed, could reduce unnecessary NICU admissions for babies of color?  
+   The article mentions skin color as a problematic metric causing lower scores for babies of color. Removing that might help. The answer is skin color.
+
+3. **Question 3**: What unexpected finding did Edwards' study reveal about Black newborns' umbilical cord gas values compared to their Apgar scores?  
+   The study showed their cord gases were normal even with lower Apgar scores. So the answer is their cord gas values were not more abnormal.
+
+4. **Question 4**: How does the accuracy of low Apgar scores as predictors of poor outcomes differ between Asian and Black infants?  
+   The article states low Apgar scores for Asian infants made them 100x more likely to die compared to 23x for Black babies. So Asian's scores were more accurate predictors.
+
+5. **Question 5**: How does the likelihood of a perfect Apgar score compare between white and Chinese-American infants?  
+   The text says 3.3% of white babies got 10, while Chinese-American had 1.2%. So white infants are more likely.
+
+6. **Question 6**: How does the relationship between low Apgar and mortality differ for Black vs. white babies?  
+   Low Apgar made Black babies 23x more likely to die, while white was 54x. So the association is weaker for Black infants.
+
+7. **Question 7**: How might the skin color metric lead to disparate treatment?  
+   The article says it causes unnecessary NICU admissions, separating babies from mothers. The answer is sending healthy babies to NICU unnecessarily.
+
+8. **Question 8**: Which study identified skin color as the driver of racial discrepancies in Apgar scores?  
+   Edwards' study with Dr. Class as senior author found skin color drove the first Apgar test disparities.
+
+9. **Question 9**: What challenge is mentioned for replacing the skin color metric?  
+   The article mentions pulse oximetry being less accurate for darker skin, making substitutes hard. The answer is pulse oximetry's inaccuracy.
+
+10. **Question 10**: How does the AAP emphasize newborn assessment now?  
+    They focus on breathing and heart rate, not color, per Dr. Kapadia. So the answer is emphasizing breathing and heart rate over Apgar.
+
+Need to check each answer against the text to ensure accuracy and no assumptions. Make sure to use exact terms from the article where possible.
+</think>
+
+<question_number>1</question_number>
+<answer>Black newborns had normal umbilical cord gas values despite lower Apgar scores</answer>
+<question_number>2</question_number>
+<answer>Skin color</answer>
+<question_number>3</question_number>
+<answer>No difference in umbilical cord gases despite lower Apgar scores</answer>
+<question_number>4</question_number>
+<answer>Low Apgar scores predicted mortality 100x more for Asian vs 23x for Black infants</answer>
+<question_number>5</question_number>
+<answer>White infants were more likely (3.3% vs 1.2%)</answer>
+<question_number>6</question_number>
+<answer>Low Apgar scores were weaker predictors for Black infants (23x vs white's 54x)</answer>
+<question_number>7</question_number>
+<answer>Unnecessary NICU admissions disrupting bonding</answer>
+<question_number>8</question_number>
+<answer>Dr. Sara E. Edwards' study at University of Illinois Hospital</answer>
+<question_number>9</question_number>
+<answer>Pulse oximetry less accurate for darker skin tones</answer>
+<question_number>10</question_number>
+<answer>Emphasize breathing/heart rate over color</answer>

@@ -1,0 +1,64 @@
+merged_debanking-davos-trump-bofa-moynihan.txt
+Okay, I need to answer these 12 questions based strictly on the provided article. Let me go through each question one by one and check the text for the answers.
+
+1. **Question 1:** What concession did Trump make to appease concerns raised by Alexandr Wang regarding the competitive landscape between DeepSeek and American AI companies?  
+   - The article mentions Alexandr Wang saying DeepSeek has around 50,000 chips, but there's no mention of Trump making any concession related to this. So answer N/A.
+
+2. **Question 2:** How many votes did Pete Hegseth secure in the initial Senate vote, considering the opposition from Senators Collins and Murkowski?  
+   - The text says the Senate broke a filibuster with 51-49, advancing his nomination. The initial vote to advance was 51 yes, but the question is about the initial vote count. Since the final vote isn't mentioned, maybe N/A? Wait, the question specifies "initial Senate vote" which was the cloture vote. The 51-49 was the vote to advance, so he got 51 votes to get past the filibuster. So answer 51? Wait, the question says "initial vote", which was the cloture vote. The answer would be 51.
+
+3. **Question 3:** Which industry's recent regulatory victory was directly cited by President Trump as justification for his public criticism of Bank of America's alleged debanking practices during the Davos Q&A session?  
+   - The article says Trump mentioned an executive order promising "fair and open access to banking services" which crypto industry scored. So the crypto industry's victory was cited. Answer: crypto.
+
+4. **Question 4:** What Texas city's electrical grid capacity is being strained by Oracle's new data center tied to Stargate?  
+   - The article says Oracle's data center in Abilene, TX. Answer: Abilene.
+
+5. **Question 5:** Which international conflict did Trump claim would end if OPEC reduced oil prices?  
+   - The article states Ukraine-Russia war. Answer: Russia-Ukraine war.
+
+6. **Question 6:** Which financial institution's CEO was seeking merger talks with Commerzbank before new leadership rejected it?  
+   - The banking deals section mentions Commerzbank's CEO refused to meet with UniCredit's counterpart. So UniCredit's CEO. Answer: UniCredit.
+
+7. **Question 7:** Which Fed official's policies did Trump threaten to oppose?  
+   - The article says Trump criticized Jay Powell and the Fed's interest rates. Answer: Jay Powell.
+
+8. **Question 8:** What number did Alexandr Wang cite for DeepSeek's Nvidia chips?  
+   - The article says Wang said DeepSeek has about 50,000 H100 chips. Answer: 50,000.
+
+9. **Question 9:** Which crypto instrument hit $160M trading volume after BlackRock's joke?  
+   - The meme coin was Sorkincoin. Answer: Sorkincoin.
+
+10. **Question 10:** Who issued the injunction against birthright citizenship order?  
+    - Judge John Coughenour. Answer: John Coughenour.
+
+11. **Question 11:** Which pharma company's family increased settlement offer but added a new demand?  
+    - The Sackler family owns Purdue Pharma. Answer: Purdue Pharma.
+
+12. **Question 12:** Which social media platform blocked abortion pill providers?  
+    - The article mentions Instagram and Facebook. Answer: Instagram and Facebook.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>51</answer>
+<question_number>3</question_number>
+<answer>crypto</answer>
+<question_number>4</question_number>
+<answer>Abilene</answer>
+<question_number>5</question_number>
+<answer>Russia-Ukraine war</answer>
+<question_number>6</question_number>
+<answer>UniCredit</answer>
+<question_number>7</question_number>
+<answer>Jay Powell</answer>
+<question_number>8</question_number>
+<answer>50,000</answer>
+<question_number>9</question_number>
+<answer>Sorkincoin</answer>
+<question_number>10</question_number>
+<answer>John Coughenour</answer>
+<question_number>11</question_number>
+<answer>Purdue Pharma</answer>
+<question_number>12</question_number>
+<answer>Instagram and Facebook</answer>

@@ -1,0 +1,18 @@
+merged_alcohol-cancer-risk.txt
+<question_number>1</question_number>
+<answer>esophageal cancer</answer>
+<question_number>2</question_number>
+<answer>50%</answer>
+<other>(15.3% - 11%) / 11% *100% = ~39% (using rounded values from the article).  Using more precise values, (0.153-0.109)/0.109 * 100 = ~40.4%. The closest answer is 50%, but it's not precise.</other>
+<question_number>3</question_number>
+<answer>35 ounces</answer>
+<other>One drink a day is associated with a 19% lifetime risk. One drink is 5 ounces of wine.  7 drinks/week * 5 ounces/drink = 35 ounces.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article provides percentage risks, not absolute numbers, making it impossible to calculate the absolute difference.</other>
+<question_number>5</question_number>
+<answer>head and neck cancers</answer>
+<other>The article mentions head and neck cancers in relation to both light and heavy drinking, and also notes the compounded risk with smoking.</other>
+<question_number>6</question_number>
+<answer>10.5 ounces</answer>
+<other>13.1% risk is associated with one drink per day. One drink is equivalent to 1.5 ounces of liquor. Therefore, 7 drinks/week * 1.5 ounces/drink = 10.5 ounces.</other>

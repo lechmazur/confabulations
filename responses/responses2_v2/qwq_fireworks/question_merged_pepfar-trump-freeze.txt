@@ -1,0 +1,116 @@
+merged_pepfar-trump-freeze.txt
+Okay, I need to tackle these questions based solely on the provided article. Let me start by reading through each question carefully and then scanning the article to find the exact answers.
+
+1. **Which U.S. government agency's employees were instructed to cease all communication with World Health Organization personnel...?** The article mentions CDC employees were told to stop communicating with WHO. So the answer should be CDC or Centers for Disease Control and Prevention.
+
+2. **What percentage of South Africa's total H.I.V. budget is funded by PEPFAR?** The text states South Africa relies on PEPFAR for 20% of its HIV budget. So 20%.
+
+3. **How many migrants suspected of gang affiliations are being held at Guantanamo Bay?** The article says 10 migrants. That's straightforward.
+
+4. **Which advocacy group's executive director criticized...?** The quote is from Asia Russell of Health Gap. So Health Gap.
+
+5. **What consequence of interrupted H.I.V. treatment leads to resistant strains?** The article says interrupted treatment may lead to resistant strains. So "emergence of resistant strains".
+
+6. **Capacity of the tent city?** The article mentions preparing a tent city for 30,000 migrants. So 30,000.
+
+7. **Former Biden official who warned about the domino effect?** The name given is Jirair Ratevosian. Correct.
+
+8. **Republican senators' justification for opposing PEPFAR?** They alleged it promoted abortions. So "promoted abortions".
+
+9. **Local time officials received the alert about data systems shutdown?** The email said shutdown at 6 p.m. Eastern, received three hours prior. So the alert time would be around 3 p.m. Eastern? Wait, the article says "alerted that PEPFAR's data systems would shut down at 6 p.m. Eastern -- roughly three hours after the email was received". So the email was received three hours before 6 p.m., so 3 p.m. But the question asks for the local time they received the alert. So the answer is 3 p.m.? Wait, the question is about the time they received the alert. The shutdown was at 6 p.m., and the email was received three hours before that. So the alert time is three hours before 6 p.m., so 3 p.m. Eastern. But the question is about the local time when they received the alert. The answer is 3 p.m. Eastern? The article says "alerted that... at 6 p.m. Eastern -- roughly three hours after the email was received". So the email was received three hours before the shutdown. So the alert was sent three hours prior, meaning the time they received it was 3 p.m. Eastern. So the answer is 6 p.m. minus three hours is 3 p.m. So the answer is 3 p.m. Eastern? But the question is phrased as "what local time did officials receive the alert...", so the answer is "3 p.m. Eastern" but the article says "6 p.m. Eastern" is the shutdown time, and the email was received three hours before. So the time they received the alert is three hours before 6 p.m. which is 3 p.m. Eastern. So the answer is 3 p.m. Eastern? Wait, but the question says "local time" – but the time is given in Eastern, so maybe just 3 p.m.?
+
+10. **Advocacy leader's name when discussing fallout from aid freeze?** The quote is from Asia Russell. So Asia Russell.
+
+11. **Proportion of untreated pregnant women passing virus?** The article says "About one in three untreated pregnant women may pass the virus...". So one in three.
+
+12. **Action urged before losing access?** The email said "copying key documents and data". So "copying key documents and data".
+
+13. **Global health initiative credited to Bush?** The article mentions PEPFAR, started by Bush. So PEPFAR.
+
+14. **When were officials notified of the shutdown?** The shutdown was on Monday, as per the email on Sunday night and Monday afternoon alert. The alert was on Monday afternoon. The question is about the part of the week: Monday.
+
+15. **Lives at risk in South Africa over decade?** The study says 600,000. So 600,000.
+
+16. **Agency urged to shut down before layoffs?** The article mentions U.S.A.I.D. (USAID) was directly called for closure by Trump before staff suspensions. So USAID.
+
+17. **International health org CDC avoided contact with?** WHO.
+
+18. **Percentage South Africa relies on PEPFAR?** Same as question 2, 20%.
+
+Now, check each against the article to ensure accuracy.
+
+1. CDC employees instructed to stop communication with WHO. Correct.
+
+2. 20% in South Africa. Yes.
+
+3. 10 migrants. Correct.
+
+4. Health Gap's Asia Russell. Correct.
+
+5. Emergence of resistant strains. Yes.
+
+6. 30,000. Correct.
+
+7. Jirair Ratevosian. Yes.
+
+8. Alleged promotion of abortions. Correct.
+
+9. The email was received three hours before 6 p.m., so 3 p.m. Eastern. The question is about the local time they received the alert. Since the shutdown time is given in Eastern, the answer is 3 p.m. Eastern? But the question is "what local time did officials receive the alert...", but the article doesn't specify "local" as in their location, just the time zone. So the answer is 3 p.m. Eastern? The article says "6 p.m. Eastern -- roughly three hours after the email was received". So the email was received three hours before the shutdown. So the time of the alert (email received) would be 3 p.m. Eastern. So the answer is 3 p.m. Eastern.
+
+10. Asia Russell. Correct.
+
+11. One in three. Yes.
+
+12. Copying key documents and data. Correct.
+
+13. PEPFAR. Yes.
+
+14. The alert was on Monday afternoon. So the part of the week is Monday.
+
+15. 600,000. Correct.
+
+16. USAID. Yes.
+
+17. WHO. Correct.
+
+18. 20%. Same as 2.
+
+Everything checks out. Now, format each answer properly.
+</think>
+
+<question_number>1</question_number>
+<answer>Centers for Disease Control and Prevention</answer>
+<question_number>2</question_number>
+<answer>20%</answer>
+<question_number>3</question_number>
+<answer>10</answer>
+<question_number>4</question_number>
+<answer>Health Gap</answer>
+<question_number>5</question_number>
+<answer>emergence of resistant strains</answer>
+<question_number>6</question_number>
+<answer>30,000</answer>
+<question_number>7</question_number>
+<answer>Jirair Ratevosian</answer>
+<question_number>8</question_number>
+<answer>promoted abortions</answer>
+<question_number>9</question_number>
+<answer>3 p.m. Eastern</answer>
+<question_number>10</question_number>
+<answer>Asia Russell</answer>
+<question_number>11</question_number>
+<answer>one in three</answer>
+<question_number>12</question_number>
+<answer>copying key documents and data</answer>
+<question_number>13</question_number>
+<answer>PEPFAR</answer>
+<question_number>14</question_number>
+<answer>Monday</answer>
+<question_number>15</question_number>
+<answer>600,000</answer>
+<question_number>16</question_number>
+<answer>U.S. Agency for International Development</answer>
+<question_number>17</question_number>
+<answer>World Health Organization</answer>
+<question_number>18</question_number>
+<answer>20%</answer>

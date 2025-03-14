@@ -1,0 +1,58 @@
+merged_dementia-cases-us.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>Dr. Langa</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>Black Americans</answer>
+
+<question_number>11</question_number>
+<answer>59%</answer>
+
+<question_number>12</question_number>
+<answer>Dr. Langa</answer>
+
+<question_number>13</question_number>
+<answer>Atherosclerosis Risk in Communities study (ARIC)</answer>
+
+<question_number>14</question_number>
+<answer>N/A for overall, 60,000 for Black Americans</answer>
+
+<question_number>15</question_number>
+<answer>12 million</answer>
+
+<question_number>16</question_number>
+<answer>100,000+</answer>
+
+<question_number>17</question_number>
+<other>This is a bit tricky because the article does not specifically state that improving this factor can reduce dementia risk in individuals with significant genetic predisposition.</other>
+<other>The article does mention that improving cardiovascular health can reduce dementia risk.</other>
+<other>The article also mentions that wearing hearing aids can help forestall dementia.</other>
+<other>The article also mentions that preventing and treating strokes can reduce dementia risk.</other>
+<other>The article also mentions that addressing known risk factors like diabetes and high blood pressure can reduce dementia risk.</other>
+<other>All of these are modifiable health factors.</other>
+<other>I will choose one of them.</other>
+<answer>cardiovascular health </answer>

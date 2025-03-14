@@ -1,0 +1,80 @@
+merged_bird-flu-cattle-d11.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article mentions a 13-year-old Canadian girl who became infected with D1.1 virus and was placed on life support, but she eventually recovered. The article does not state that she died.</other>
+
+<question_number>2</question_number>
+<answer>15</answer>
+<other>The article states that the B3.13 version "has infected more than 950 herds in 16 states." Since Nevada is mentioned as having the new D1.1 version, and is separate from the 16 states with B3.13, there are 15 states besides Nevada with B3.13.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Richard Webby, the influenza expert who expressed surprise, works at St. Jude Children's Research Hospital. However, this organization is not mentioned in connection with the Canadian teenager's case.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>While the article mentions that H5N1 was detected in wild aquatic birds in January 2022 and that the Louisiana resident died in early January, it doesn't specify which year the person died, so we can't calculate the number of months between these events.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article mentions that the virus gained mutations that might allow it to better infect people, but it doesn't specify what specific mutation was identified.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article only mentions record prices on eggs as an economic consequence of H5N1 spread among birds. No other economic consequences are specified.</other>
+
+<question_number>7</question_number>
+<answer>infectious diseases, pandemics and public health agencies</answer>
+<other>According to the author bio: "Apoorva Mandavilli reports on science and global health, with a focus on infectious diseases, pandemics and the public health agencies that try to manage them."</other>
+
+<question_number>8</question_number>
+<answer>Texas panhandle</answer>
+<other>The article states: "Scientists believe that it initially jumped to cows from birds about a year ago, somewhere in the Texas panhandle."</other>
+
+<question_number>9</question_number>
+<answer>Federal agencies</answer>
+<other>The article states: "Federal agencies have not held a news briefing on bird flu since President Trump took office."</other>
+
+<question_number>10</question_number>
+<answer>older than 65</answer>
+<other>The article describes the Louisiana resident as "older than 65"</other>
+
+<question_number>11</question_number>
+<answer>Texas</answer>
+<other>The article states that scientists believe the B3.13 version initially jumped to cows from birds "somewhere in the Texas panhandle."</other>
+
+<question_number>12</question_number>
+<answer>Louise Moncla</answer>
+<other>The article identifies Louise Moncla as "an evolutionary biologist who studies avian influenza at the University of Pennsylvania" who commented on cow susceptibility.</other>
+
+<question_number>13</question_number>
+<answer>D1.1</answer>
+<other>The article states: "The cows in Nevada were infected with a version of the virus known as D1.1" which was "initially detected in milk collected from a silo."</other>
+
+<question_number>14</question_number>
+<answer>D1.1</answer>
+<other>Dr. Webby suggests "the possibility that cows already infected once with B.3.13 could become ill a second time with D1.1."</other>
+
+<question_number>15</question_number>
+<answer>Canada</answer>
+<other>The article mentions "a 13-year-old Canadian girl" who became infected with D1.1, became seriously ill with organ failure, was placed on life support, but eventually recovered.</other>
+
+<question_number>16</question_number>
+<answer>eggs</answer>
+<other>The article states that H5N1 has affected more than 153 million birds, "resulting in record prices on eggs."</other>
+
+<question_number>17</question_number>
+<answer>cats</answer>
+<other>The article mentions that H5N1 has struck "cats both wild and domesticated, raccoons, bears and sea lions." Cats are mentioned alongside bears and sea lions as affected mammals.</other>
+
+<question_number>18</question_number>
+<answer>Scott Hensley</answer>
+<other>The article quotes Scott Hensley, an immunologist at the University of Pennsylvania, saying "It is possible that the virus is more permissive for human adaptive mutations."</other>
+
+<question_number>19</question_number>
+<answer>153 million</answer>
+<other>The article states: "Since January 2022, when H5N1 was detected in wild aquatic birds in the United States, the virus has affected more than 153 million commercial, backyard and wild birds"</other>
+
+<question_number>20</question_number>
+<answer>the 13-year-old Canadian girl</answer>
+<other>The article states that the 13-year-old Canadian girl's "only risk factor was obesity" - which is a condition related to body composition.</other>

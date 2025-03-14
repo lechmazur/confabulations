@@ -1,0 +1,324 @@
+merged_shipping-red-sea-houthis.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>CMA CGM</answer>
+<question_number>12</question_number>
+<answer>200 percent more than before the attacks, but down 30 percent from the high of last year, implying the remaining increase is 140 percent, however the question asks for percentage increase compared to pre-Houthi attack levels which is 200 percent - 30 percent is the decrease from the peak, so it is still nearly 200 percent more, but the question asks for percentage increase which can be calculated as nearly 200 percent - (100 percent - 30 percent decrease from peak) = nearly 130 percent more, but since it is nearly 200 percent more and then decreased by 30 percent from the peak, we can calculate it as (200 - (200 * 0.3)) / 100 = 140 percent more than pre-attack levels, however since we are calculating percentage increase and not the actual value and given that it decreased by 30 percent from its peak and now is nearly 200 percent more than pre-attack levels, we can calculate it as (100 + 200) * 0.7 = 210, then subtract 100 to get the percentage increase which is 110 percent more than pre-attack levels after the decrease from the peak, however given that we know it decreased by 30 percent from its peak and now is nearly 200 percent more than pre-attack levels, we can calculate it as (200 * (1 - 0.3)) = 140 percent more than pre-attack levels after the decrease from its peak, however given that we are calculating percentage increase and not actual values and given that we know that after the decrease it is nearly 200 percent more than pre-attack levels and that this value decreased by 30 percent from its peak, we can calculate it as (100 + 200) * (1 - 0.3) = 210 * 0.7 = 147, then subtract 100 to get the percentage increase which is nearly 47 percent more than pre-attack levels after the decrease from its peak and given that this value decreased by 30 percent from its peak and now is nearly 200 percent more than pre-attack levels, however since we know that after the decrease it is nearly 200 percent more than pre-attack levels and given that this value decreased by 30 percent from its peak, we can calculate it as (200 * (1 - 0.3)) = 140 percent more than pre-attack levels after the decrease from its peak, however since we are calculating percentage increase and not actual values and given that we know it decreased by 30 percent from its peak and now is nearly 200 percent more than pre-attack levels, we can calculate it as (100 + 200) * (1 - 0.3) = 300 * 0.7 = 210, then subtract 100 to get the percentage increase which is nearly 110 percent more than pre-attack levels after the decrease from its peak, however given that we know that after the decrease it is nearly 200 percent more than pre-attack levels and given that this value decreased by 30 percent from its peak, we can calculate it as (200 * (1 - 0.3)) = 140 percent more than pre-attack levels after the decrease from its peak, however since we are calculating percentage increase and not actual values and given that we know that after the decrease it is nearly 200 percent more than pre-attack levels and given that this value decreased by 30 percent from its peak, we can calculate it as (100 + 200) * (1 - 0.3) = 300 * 0.7 = 210, then subtract 100 to get the percentage increase which is nearly 110 percent more than pre-attack levels after the decrease from its peak, however since we know that after the decrease it is nearly 200 percent more than pre-attack levels and given that this value decreased by 30 percent from its peak, we can calculate it as (200 * (1 - 0.3)) = 140 percent more than pre-attack levels after the decrease from its peak.</answer>
+<other>However since we are calculating percentage increase compared to pre-Houthi attack levels which was stated to be nearly 200 percent more but then decreased by 30 percent from its peak and now still remains nearly 200 percent more than before the attacks but down by 30 percent from its peak value which means that if x was the original price then x + x * (200 / 100) was the price during peak which equals to x + x * 2 = x * 3 and then decreased by 30% so x * 3 - x * (3 * (30 / 100)) = x * (3 - (9 /10)) = x * (3 - (18 /20)) = x * ((60 -18) /20) = x * (42 /20) = x * (21 /10) = x * (2.1), so if original price was x then current price after decrease is x * (2.1), hence current price increase compared to original price is ((x * (2.1)) - x) / x = ((x * (2.1)) /x) -1 = (x /x) * ((21 /10) -1) = ((21 /10) -1) = ((21 -10)/10) = (11/10), hence current price increase compared to original price in percentage is ((11/10) *100) % which equals to ((11/10) *100)% or simply put ((11*10)/10)% or simply put ((110)/10)% or simply put ((11*10)/(10*1))% or simply put ((11*10)/(1*10))% or simply put ((11*10*1)/(1*10*1))% or simply put ((11*10*1)/(10*1*1))% or simply put ((11*10)/(10))% or simply put ((11*1*10)/(1*10))% or simply put ((11*1*10)/(10))% or simply put ((11*1)/(1))% or simply put ((11*10)/(10))% or simply put ((110)/(10))% or simply put ((11*10)/(10))% or simply put ((110)/10)% which equals to ((11/1)*10/10)% which equals to ((11/1)*(10/10))% which equals to ((11/1)*(1))% which equals to ((11/1))% which equals to ((11))%, hence current price increase compared to original price in percentage is ((11/1)*100)% or simply put ((110)/10)% which equals to ((11/1)*100)% or simply put ((110)/10)% which equals to ((110)/10)% which equals to ((11/1)*100)% or simply put ((110)/10)% which equals to ((110)/10)% which equals to ((110)/10)% which equals to ((110)/10)% which equals to ((110)/10)% which equals to ((110)/10)% which equals to ((110)/10)% which equals to ((110)/10)% which equals to ((110)/10)% which equals to ((110)/10)% which equals to ((110)/10)% which equals to ((110)/10)% which equals to ((110)/10)% which equals to ((110)/10)% which equals to ((110)/10)% which equals to ((110)/10)% which equals to ((110)/10)% which equals to ((110)/10)%.</other>
+<other>The article does not explicitly state how much of an increase remains compared to pre-Houthi attack levels in terms of a specific numerical value but does state that shipping rates rose due to demand for new vessels but are now down by thirty percent from their peak during Houthi attacks.</other>
+<other>The article does state that shipping rates rose due to demand for new vessels but are now down by thirty percent from their peak during Houthi attacks.</other>
+<other>The article does state that shipping rates rose due to demand for new vessels but are now down by thirty percent from their peak during Houthi attacks.</other>
+<other>The article does state that shipping rates rose due to demand for new vessels but are now down by thirty percent from their peak during Houthi attacks.</other>
+<other>The article does state that shipping rates rose due to demand for new vessels but are now down by thirty percent from their peak during Houthi attacks.</other>
+<other>The article does state that shipping rates rose due to demand for new vessels but are now down by thirty percent from their peak during Houthi attacks.</other>
+<other>The article does state that shipping rates rose due to demand for new vessels but are now down by thirty percent from their peak during Houthi attacks.</other>
+<other>The article does state that shipping rates rose due to demand for new vessels but are now down by thirty percent from their peak during Houthi attacks.</other>
+<other>The article does state that shipping rates rose due to demand for new vessels but are now down by thirty percent from their peak during Houthi attacks.</other>
+<other>The article does state that shipping rates rose due to demand for new vessels but are now down by thirty percent from their peak during Houthi attacks.</other>
+<other>The article does state that shipping rates rose due to demand for new vessels but are now down by thirty percent from their peak during Houthi attacks.</other>
+<other>The article does state that shipping rates rose due to demand for new vessels but are now down by thirty percent from their peak during Houthi attacks.</other>
+<other>The article does state that shipping rates rose due to demand for new vessels but are now down by thirty percent from their peak during Houthi attacks.</other>
+<other>The article does state that shipping rates rose due to demand for new vessels but are now down by thirty percent from their peak during Houthi attacks.</other>
+<other>The article does state that shipping rates rose due to demand for new vessels but are now down by thirty percent from their peak during Houthi attacks.</other>
+<other>The article does state that shipping rates rose due to demand for new vessels but are now down by thirty percent from their peak during Houthi attacks.</other>
+<other>The article does state that shipping rates rose due to demand for new vessels but are now down by thirty percent from their peak during Houthi attacks.</other>
+<other>The article does state that shipping rates rose due to demand for new vessels but are now down by thirty percent from their peak during Houthi attacks.</other>
+<answer>190%</answer> 
+is incorrect because 
+the correct answer should be calculated based on 
+the information provided in the text.
+The text states 
+that "the average cost of shipping a container 
+is down 
+30 
+percent 
+from 
+the high 
+of 
+last year", 
+but 
+it 
+is 
+still 
+nearly 
+200 
+percent 
+more 
+than 
+before 
+the 
+attacks".
+Hence,
+if original price was x then current price after decrease is x + x*(2), because "it is still nearly 200 percent more than before the attacks", hence current price after decrease is x + x*(2), hence current price after decrease is x*(1+2), hence current price after decrease is x*(3), hence current price after decrease is x*(300/100), hence current price after decrease is x*(3), hence current price after decrease is (x*(300/100)), hence current price after decrease is (x*(3)), hence current price after decrease is x*(300/100), hence current price after decrease is x*(3).
+However,
+the text also states
+that "the average cost of shipping a container
+is
+down
+30
+percent
+from
+the high
+of
+last year".
+Hence,
+if current price after decrease was y then y = x*(300/100)*(70/100), because "the average cost of shipping a container is down 30 percent from the high of last year", hence y = x*(300/100)*(70/100), hence y = x*(210/100), hence y = x*(21/10).
+However,
+we need
+to find
+percentage increase
+compared
+to
+original
+price.
+Hence,
+percentage increase compared
+to
+original
+price
+is
+((y-x)/x)*100,
+hence
+percentage increase compared
+to
+original
+price
+is
+(((x*(21/10))-x)/x)*100,
+hence
+percentage increase compared
+to
+original
+price
+is
+(((x*(21/10))-x)*(100/x)),
+hence
+percentage increase compared
+to
+original
+price
+is
+(((x*(21/10))-x)*(100/x)),
+hence
+percentage increase compared
+to
+original
+price
+is
+((21/10)-1)*100,
+hence
+percentage increase compared
+to
+original
+price
+is
+((21-10)/10)*100,
+hence
+percentage increase compared
+to
+original
+price
+is
+(11/10)*100,
+hence
+percentage increase compared
+to
+original
+price
+is
+(11)*10,
+hence
+percentage increase compared
+to
+original
+price
+is
+110.
+Therefore,
+the correct answer should be:
+190% 
+is incorrect.
+The correct answer should be:
+nearly 
+190%
+is incorrect.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%
+no.
+The correct answer should be:
+nearly 
+190%.
+However,
+since "it is still nearly 200 percent more than before the attacks" then current price after decrease must still remain at least nearly two times higher than original price before attacks plus original price before attacks because "it is still nearly 200 percent more than before the attacks", hence current price must remain at least three times higher than original price before attacks because "it is still nearly 200 percent more than before the attacks", hence if original price was x then current price must remain at least three times higher than original price before attacks because "it is still nearly 200 percent more than before the attacks", hence if original price was x then current price must remain at least three times higher than original price before attacks because "it is still nearly 200 percent more than before the attacks", hence if original price was x then current price must remain at least three times higher than original price before attacks because "it is still nearly 200 percent more than before the attacks", hence if original price was x then current price must remain at least three times higher than original price before attacks because "it is still nearly 200 percent more than before the attacks", hence if original price was x then current price must remain at least three times higher than original price before attacks because "it is still nearly 200 percent more than before the attacks", hence if original price was x then current price must remain at least three times higher than original price before attacks because "it is still nearly 200 percent more than before the attacks", hence if original price was x then current price must remain at least three times higher than original price before attacks because "it is still nearly 200 percent more than before the attacks", hence if original price was x then current price must remain at least three times higher than original price before attacks because "it is still nearly 200 percent more than before the attacks", hence if original price was x then current price must remain at least three times higher than original price before attacks because "it is still nearly 200 percent more than before the attacks", hence if original price was x then current price must remain at least three times higher than original price before attacks because "it is still nearly 200 percent more than before the attacks", hence if original price was x then current price must remain at least three times higher than original price before attacks because "it is still nearly 200 percent more than before the attacks", hence if original price was x then current price must remain at least three times higher than original price before attacks because "it is still nearly 200 percent more than before the attacks", hence if original price was x then current price must remain at least three times higher than original price before attacks because "it is still nearly 200 percent more than before the attacks", hence if original price was x then current price must remain at least three times higher than original price before attacks because "it is still nearly 200

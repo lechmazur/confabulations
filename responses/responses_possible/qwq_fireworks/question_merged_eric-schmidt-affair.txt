@@ -1,0 +1,57 @@
+merged_eric-schmidt-affair.txt
+Okay, let's tackle these questions one by one using only the information from the article. 
+
+1. **Question 1**: The article mentions that Ms. Simon created a new Delaware LLC under the same name, which led Away to believe she owned the shares. The misunderstanding here is that Away thought Maple Beach Ventures was hers, so when she transferred the shares, they didn't realize it was unauthorized. That's why the dispute happened.
+
+2. **Question 2**: The termination in 2018 meant Simon lost her right to 20% of the profit from the Away investment. The original agreement required her to be a consultant when the investment was sold, so her termination cut her off.
+
+3. **Question 3**: Creating the new LLC allowed Simon to take the shares. The original company (Nevada) lost the investment value because Away transferred the shares to her Delaware LLC without proper authorization.
+
+4. **Question 4**: The ownership confusion caused Away to settle with Schmidt for $3.5M after realizing the mistake. The legal battle involved figuring out who actually owned the shares and who was responsible for the fraud.
+
+5. **Question 5**: The breakdown was due to disputes between Simon and Rundell over investment ideas and processes. The confidentiality clauses kept details secret but led to issues when they couldn't resolve their conflicts, plus Rundell's fees and the loan breakdown added strain.
+
+6. **Question 6**: The confidentiality clauses prevented Simon from discussing the 2014 deal, making it hard for her to defend against Away's fraud claims because she couldn't explain her role or rights.
+
+7. **Question 7**: The termination likely worsened her relationship with both, leading to more legal battles. After 2018, she arbitration against them, and their conflicts escalated, especially with Rundell's counterclaims.
+
+8. **Question 8**: Derek Rundell was the fixer introduced by Gary Coursey. He later claimed the horse farm bought for Lisa Shields, Schmidt's ex-girlfriend.
+
+9. **Question 9**: The 2014 settlement set up Maple Beach Ventures where Simon got 20% of profits from her investments. The dispute over Away's shares stemmed from this arrangement when she tried to claim the profits after termination.
+
+10. **Question 10**: The confidentiality clauses from the 2014 settlement prevented Simon from clarifying her role in Maple Beach Ventures, leading to the misunderstanding that caused the tender offer dispute with Away.
+
+Wait, let me check each again to ensure they're directly from the text and not inferred beyond what's stated.
+
+For question 10: The confidentiality clauses stopped Simon from explaining her actual ownership, so when the tender offer happened, the misunderstanding arose because she couldn't clarify due to the clauses. That's exactly what the article says in the part about her counterclaim.
+</think>
+
+<question_number>1</question_number>
+<answer>Ms. Simon's creation of a new Delaware LLC under the same name led Away to believe she owned the shares, enabling her to profit from them without authorization.</answer>
+
+<question_number>2</question_number>
+<answer>Her termination voided her entitlement to 20% of the profit from the Away investment, as the clause required her to remain a consultant at the time of sale.</answer>
+
+<question_number>3</question_number>
+<answer>It caused Away to transfer the shares to her Delaware LLC, stripping the original Nevada Maple Beach Ventures of ownership and value.</answer>
+
+<question_number>4</question_number>
+<answer>Away realized the fraud when Schmidt disputed the transfer, leading to a $3.5M settlement with Schmidt and a separate lawsuit against Simon.</answer>
+
+<question_number>5</question_number>
+<answer>Conflicts over investment vetting processes, Rundell's fees, and Simon's dissatisfaction with limited investment approvals, compounded by confidentiality clauses blocking transparency.</answer>
+
+<question_number>6</question_number>
+<answer>Prevented her from publicly explaining her contractual rights, weakening her defense against fraud accusations.</answer>
+
+<question_number>7</question_number>
+<answer>Simon initiated arbitration for breach of contract, escalating tensions with both Schmidt and Rundell over unpaid entitlements and alleged breaches.</answer>
+
+<question_number>8</question_number>
+<answer>Derek Rundell claimed ownership of the Hudson Valley horse farm purchased for Lisa Shields.</answer>
+
+<question_number>9</question_number>
+<answer>The 2014 Maple Beach Ventures arrangement entitled Simon to 20% of profits from her sourced investments, including the Away shares.</answer>
+
+<question_number>10</question_number>
+<answer>Confidentiality clauses prevented Simon from clarifying her role in Maple Beach Ventures, enabling the fraudulent tender offer claim by Away.</answer>

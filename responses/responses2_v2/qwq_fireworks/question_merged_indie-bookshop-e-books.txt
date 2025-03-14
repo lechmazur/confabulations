@@ -1,0 +1,109 @@
+merged_indie-bookshop-e-books.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the article provided and answer each question exactly as per the instructions. Let me go through each question carefully.
+
+1. **First question**: The question asks what percentage of overall publisher revenue in 2024 Bookshop projected would shift from Amazon to independent bookstores after passing encryption tests. The article mentions that Bookshop's goal is to compete with Amazon's e-book sales, but there's no specific percentage projected here. The $945 million is the total e-book revenue, but nothing about shifting percentages. So I think this is N/A.
+
+2. **Second question**: After establishing e-books, Hunter wanted to add something similar to Libro.fm's audiobook service. The article says he mentioned building an alternative to Goodreads, which is Amazon-owned. So the answer should be "Goodreads alternative".
+
+3. **Third question**: The percentage of e-book list price going to Bookshop's operational costs when bought through Tiny Bookstore's site. The article states that when customers choose a store, all profits go to the store. So if they buy directly from the store's site via Bookshop, maybe the 30% goes to the store, but the question is about what goes to Bookshop. Wait, the article says when customers buy e-books without selecting a store, 30% goes to the pool and 70% to Bookshop. But if they choose a store, the store gets all. The question specifies "purchased directly through the Tiny Bookstore's website"—so that would mean the store gets all the profit, so Bookshop's operational costs would get 0%? But the question is phrased as "what percentage... will go towards funding Bookshop's operational costs?" If the customer selects the store, then Bookshop's part is 0. But maybe I need to check again. The article says: "when customers buy e-books through Bookshop and select a store to support, all profits from digital sales will go to stores". So if the customer selects the store, Bookshop doesn't get any. If they don't select, then 30% to pool, 70% to Bookshop. Since the question is about buying through the Tiny Bookstore's website, perhaps they are choosing that store, so Bookshop's operational costs would get 0%? Hmm, but the question is about the e-book purchased directly through the store's website. The article says "Bookstores will be able to sell digital books directly from their own websites". So when they do that, maybe the store gets all the profit, so Bookshop's operational costs get nothing. Therefore, the answer is 0%. Wait, but the question is phrased as "what percentage of the e-book's list price... will go towards funding Bookshop's operational costs?" If the store sells directly through their own site via Bookshop's platform, perhaps there's a fee. The article says for print books sold through Bookshop, the store gets 30% of list price, but for e-books when choosing a store, all profits go to the store. So maybe the operational costs for Bookshop come from the 70% when no store is chosen. Since in this case the store is chosen, Bookshop's operational costs get 0%. So answer is 0%.
+
+4. **Fourth question**: How many more bookstores beyond 2,200 will join after the subscription and Goodreads alternative? The article says there are over 2,200 already, and 90% of ABA's 2,433 members use Bookshop. But the question is about future numbers after adding features. The text doesn't give a specific number, so N/A.
+
+5. **Fifth question**: Rachel Kanter's projection of e-book revenue percentage for Lovestruck Books. The article quotes her saying it's a godsend but doesn't give a specific percentage. So N/A.
+
+6. **Sixth question**: The profit from the 18% of indie stores selling e-books before Bookshop's initiative. The article says publishers' e-book revenue was $945M, but that's total, not per bookstore. The 18% of indie stores (from ABA's 2023 survey) sold e-books, but we don't know their collective profit. The article doesn't provide that number, so N/A.
+
+7. **Seventh question**: Percentage of initial 1M e-books by authors whose works were on Goodreads. The article doesn't mention anything about authors' previous works on Goodreads, so N/A.
+
+8. **Eighth question**: Amazon's control percentage of the total market if all e-books were theirs. Total market is print ($6.5B) + e-books ($0.945B) = ~7.445B. Amazon's e-books are 11% of publishers' revenue (since e-books are 11% of total), but the question assumes all e-books are Amazon's. Wait, the question says "assuming all e-book sales were through Amazon". So total market would be $6.5B + $0.945B = $7.445B. Amazon's share is $0.945B (all e-books) plus their print sales? Wait, the article says physical books are 75% of the market, so total is 6.5B (75%) so total market is 6.5 / 0.75 ≈ 8.666... B. But if all e-books (which are 11% of publisher revenue in 2024's first 11 months) are through Amazon, then Amazon's e-books are $945M, and their print sales? The article doesn't specify Amazon's print share. Since the question is about the total market control, assuming all e-books are Amazon, but print is 75% of total, so Amazon's print might be part of that. But without knowing their print share, can't calculate. The question might be simpler: total market is print + digital. If all digital is Amazon, then Amazon's share is digital ($945M) plus their portion of print. But since print is 75% of total (so total is 6.5 / 0.75 ≈ 8.666B), Amazon's print is unknown. Since the question states "assuming all e-book sales were through Amazon", but doesn't say anything about print. So perhaps the question is just the e-book portion? Wait, no. The question is "what percentage of the total book market (print and digital combined) did Amazon's Kindle... control before Bookshop's e-book launch, assuming all e-book sales were through Amazon?" So total market is print ($6.5B) + e-books ($945M) = ~7.445B. Amazon's e-books are all of that $945M, and their print sales? The article says Amazon dominates e-books, but print is 75% of total, but that's all publishers' revenue. Maybe Amazon's print sales aren't specified. Since the question assumes all e-books are Amazon, but print could be other retailers. The total Amazon's share would be e-books (945M) plus their print sales. But since we don't know their print sales, the answer can't be calculated. So N/A.
+
+Wait, but maybe the question is simpler. If all e-book sales are Amazon's, then their e-book revenue is 945M. The total market is 6.5B (print) + 945M (digital) = ~7.445B. Amazon's total would be 945M (digital) plus whatever print they have. But since the question is about Amazon's control, and the article says they dominate e-books but not necessarily print. Without knowing their print share, we can't compute the total. So N/A.
+
+9. **Ninth question**: Percentage of the 30% profit margin from print books that Lea Bickerton expects to reinvest. The article mentions she hopes to attract customers but doesn't specify reinvestment percentages. So N/A.
+
+10. **Tenth question**: Encryption protocol beyond Libro.fm's used by Bookshop. The article says Hunter had to pass encryption security tests but doesn't name the protocol. So N/A.
+
+11. **Eleventh question**: Percentage a store gets if selling print directly vs through Bookshop. The article states that when selling through Bookshop, they get 30%, but if they sell directly, they get ~40%. So the answer is 40%.
+
+12. **Twelfth question**: Percentage to independent stores if customer chooses a store. The article says "all profits from digital sales will go to stores" when they choose, so 100%.
+
+13. **Thirteenth question**: The digital service for audiobooks is Libro.fm, as mentioned.
+
+14. **Fourteenth question**: The distributor is Ingram.
+
+15. **Fifteenth question**: Profit allocation when choosing a store is 100% to the store. If not chosen, 30% to pool, 70% to Bookshop. The question specifies when the customer supports a chosen store, so answer is 100%.
+
+16. **Sixteenth question**: The technical challenge was passing encryption security tests to prevent piracy.
+
+17. **Seventeenth question**: The device was Kindle, introduced in 2007.
+
+18. **Eighteenth question**: 90% of 2,433 stores use Bookshop. So 90% is the answer.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Article does not mention projected percentage shift in publisher revenue to independent bookstores via Bookshop.</other>
+
+<question_number>2</question_number>
+<answer>Goodreads alternative</answer>
+
+<question_number>3</question_number>
+<answer>0%</answer>
+<other>If customer selects a store, all profits go to store, so Bookshop gets 0% operational funding from such sales.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Article does not provide a specific number of future bookstore joiners post-features.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Rachel Kanter's projected revenue percentage for e-books is not quantified in the text.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Total profit of 18% of indie bookstores selling e-books pre-Bookshop is not disclosed.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Article does not specify percentage of initial e-books by Goodreads-reviewed authors.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>Amazon's total market control percentage cannot be calculated without their print sales data.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Lea Bickerton's reinvestment percentage of profit margin is not stated.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>Specific encryption protocol name is not mentioned beyond security tests passed.</other>
+
+<question_number>11</question_number>
+<answer>40%</answer>
+<other>Stores get ~40% selling directly vs 30% via Bookshop.</other>
+
+<question_number>12</question_number>
+<answer>100%</answer>
+<other>All profits go to chosen store when selected.</other>
+
+<question_number>13</question_number>
+<answer>Libro.fm</answer>
+
+<question_number>14</question_number>
+<answer>Ingram</answer>
+
+<question_number>15</question_number>
+<answer>100%</answer>
+<other>If customer selects a store, 100% of e-book profits go to that store.</other>
+
+<question_number>16</question_number>
+<answer>Encryption security tests</answer>
+<other>Passed to prove security against piracy.</other>
+
+<question_number>17</question_number>
+<answer>Kindle</answer>
+
+<question_number>18</question_number>
+<answer>90%</answer>
+<other>90% of ABA's 2,433 member stores use Bookshop.</other>

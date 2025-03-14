@@ -1,0 +1,104 @@
+merged_ohio-chicken-farm-fire.txt
+Alright, let's tackle these questions one by one using only the information provided in the article.
+
+1. **Total monetary value of eggs lost due to avian flu and the Ohio fire in 2023?**  
+The article mentions a "dollar loss is anticipated to be high" but doesn't specify an exact figure. So, N/A.
+
+2. **Indiana counties that sent equipment?**  
+The text says firefighters from "two counties in Indiana" helped. But it doesn't name them. N/A.
+
+3. **Confirmed dead birds in the fire?**  
+Officials didn't specify the number. Answer is N/A.
+
+4. **Percentage of Ohio's egg production impacted?**  
+No percentage is given for the facility's impact on total production. N/A.
+
+5. **Temperature of frozen water?**  
+The article mentions "bitter cold" and "ice-covered" water but no specific temperature. N/A.
+
+6. **Number of buildings destroyed?**  
+Chief Cook says the main building was destroyed. The total isn't specified beyond that. N/A.
+
+7. **Duration of Waffle House surcharge?**  
+The article doesn't mention how long the surcharge was in place. N/A.
+
+8. **County with highest bird flu cases before the fire?**  
+It says Darke and Mercer counties had significant outbreaks. But which had the highest? Not specified. N/A.
+
+9. **Time fire was contained?**  
+The fire was out by 1 p.m. Tuesday. The question asks when the drone confirmed containment. The article doesn't link the drone to the containment time. N/A.
+
+10. **Number of Darke County facilities affected by flu?**  
+No specific number is given. N/A.
+
+11. **Classification of destroyed building?**  
+The facility was a "concentrated animal feeding facility." That's the term used. So answer that.
+
+12. **Industry disrupted?**  
+The egg industry is clearly the focus. The article mentions egg shortages and production stats.
+
+13. **Age range for pullets?**  
+The text says 16-18 weeks. Direct answer.
+
+14. **Permitted pullet capacity?**  
+280,000. Explicitly stated.
+
+15. **Volunteer department's state?**  
+The fire department is in New Madison, Ohio. So Ohio.
+
+16. **Official assessing fire cause?**  
+Sheriff Whittaker mentioned the cause wasn't suspicious. So him.
+
+17. **Financial impact description?**  
+The article says the dollar loss is "anticipated to be high."
+
+18. **Number of states with outbreaks?**  
+Listed: Arizona, California, NC, Ohio, PA, MO, IN, WA. That's 8 states.
+
+19. **Environmental condition affecting water?**  
+Ice-covered natural water sources.
+
+20. **Restaurant with surcharge?**  
+Waffle House is explicitly named.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>1</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>concentrated animal feeding facility</answer>
+<question_number>12</question_number>
+<answer>egg</answer>
+<question_number>13</question_number>
+<answer>16- to 18-week</answer>
+<question_number>14</question_number>
+<answer>280,000</answer>
+<question_number>15</question_number>
+<answer>Ohio</answer>
+<question_number>16</question_number>
+<answer>Mark Whittaker</answer>
+<question_number>17</question_number>
+<answer>high</answer>
+<question_number>18</question_number>
+<answer>8</answer>
+<question_number>19</question_number>
+<answer>ice-covered natural water sources</answer>
+<question_number>20</question_number>
+<answer>Waffle House</answer>

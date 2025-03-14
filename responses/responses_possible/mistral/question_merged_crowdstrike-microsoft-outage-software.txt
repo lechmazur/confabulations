@@ -1,0 +1,30 @@
+merged_crowdstrike-microsoft-outage-software.txt
+<question_number>1</question_number>
+<answer>The article draws a connection between the color of the error message background, described as the color of a perfect sky, and the severity of the technological failure, known as the Blue Screen of Death.</answer>
+
+<question_number>2</question_number>
+<answer>The main cause of the global software outage was a routine Windows software update sent by CrowdStrike that crashed every computer it touched.</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>Matt Mitchell</answer>
+
+<question_number>5</question_number>
+<answer>Mikko Hypponen</answer>
+
+<question_number>6</question_number>
+<answer>$100 billion</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>Matt Mitchell</answer>
+
+<question_number>9</question_number>
+<answer>Mikko Hypponen described CrowdStrike's customers' typical way of maintaining their fleet as using centralized controls.</answer>
+
+<question_number>10</question_number>
+<answer>Brody Nisbet suggested a workaround that involved walking around to each offline machine and removing the bit of flawed code, or waiting and hoping for a solution from CrowdStrike.</answer>

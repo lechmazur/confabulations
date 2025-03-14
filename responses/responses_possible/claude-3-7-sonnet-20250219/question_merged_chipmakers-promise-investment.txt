@@ -1,0 +1,39 @@
+merged_chipmakers-promise-investment.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article mentions Intel's plan to slash 15,000 jobs but doesn't establish a direct relationship between this workforce change and the CHIPS Act funding they received.</other>
+
+<question_number>2</question_number>
+<answer>The CHIPS Act investments are projected to help the U.S. triple its domestic chip manufacturing capacity by 2032, raising America's share from about 10% to 14%.</answer>
+
+<question_number>3</question_number>
+<answer>10:1</answer>
+<other>The article states that about $30 billion in public investment has been accompanied by commitments from private companies to invest more than $300 billion.</other>
+
+<question_number>4</question_number>
+<answer>$8.05 billion</answer>
+<other>The largest grant mentioned is $8.5 billion for Intel, and the smallest is $450 million for SK Hynix. The difference is $8.5 billion - $450 million = $8.05 billion.</other>
+
+<question_number>5</question_number>
+<answer>About 23%</answer>
+<other>The article states that $30 billion of a $39 billion pot has been allocated, leaving $9 billion unallocated, which is about 23% of the total.</other>
+
+<question_number>6</question_number>
+<answer>$300,000</answer>
+<other>$30 billion allocated funds divided by 100,000 jobs = $300,000 per job.</other>
+
+<question_number>7</question_number>
+<answer>More than $10</answer>
+<other>$300 billion in private investment divided by $30 billion in public funding = $10 of private investment per $1 of public funding.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>While the article mentions funding for non-U.S. companies like SK Hynix, TSMC, and Samsung, it doesn't specify the total amount going to non-U.S. companies.</other>
+
+<question_number>9</question_number>
+<answer>About 18.9 times</answer>
+<other>Intel's grant of $8.5 billion divided by SK Hynix's grant of $450 million = 18.89, which is about 18.9 times larger.</other>
+
+<question_number>10</question_number>
+<answer>23 percentage points</answer>
+<other>The U.S. had 37% share in 1990 and is projected to reach 14% by 2032. The difference is 37% - 14% = 23 percentage points needed to return to the 1990 level.</other>

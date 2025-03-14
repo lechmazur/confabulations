@@ -1,0 +1,79 @@
+merged_bangladesh-economy.txt
+Okay, let me tackle these questions one by one using only the article provided. 
+
+1. The first question asks about the economic strategy that led to Sheikh Hasina's downfall. The article mentions that Bangladesh focused on garment exports, which was initially successful but later became a problem. So the answer should be the reliance on the garment industry.
+
+2. The pandemic and Russia's war on Ukraine caused reduced demand for textiles and higher prices for imports. The article states that these events highlighted the economy's over-reliance on garments, leading to vulnerabilities. So the answer is the drop in demand and increased costs.
+
+3. The student protests started over the government job quota system. The article says they began demanding an end to the quota, which led to broader protests. The primary reason was the quota system.
+
+4. The article mentions poor policy decisions, like depleting foreign reserves to stabilize currency, which worsened inflation. Also, failure to diversify the economy. So the policies were poor handling of inflation and currency, plus no diversification.
+
+5. The low tax-to-GDP ratio meant the government couldn't collect enough taxes to manage challenges. The article says they couldn't rely on tax revenue. So the consequence was inability to fund priorities.
+
+6. The quota system for government jobs was preferred by protesters because the private sector doesn't offer stability. The protests started against this system, so the significance is the perceived unfairness and lack of opportunities.
+
+7. Underlying stresses included inflation, joblessness, corruption, and economic inequality. The article lists these as the main issues driving protests.
+
+8. Corruption and money laundering by those close to Hasina eroded trust. The article states that people knew the government wasn't controlling corruption, leading to distrust.
+
+9. Depleting reserves forced Bangladesh to seek an IMF loan. The article mentions this as a consequence of spending reserves to support their currency.
+
+10. The Nobel laureate mentioned is Muhammad Yunus, known for microfinance via Grameen Bank. The article states he's leading the interim government.
+
+Now, I need to make sure each answer is directly from the text and no external info. Let me check each again:
+
+1. "overreliance on that industry also helped bring down..." So answer: reliance on garment exports.
+
+2. "pandemic reduced global demand... prices for imported food and fuel sharply raised" → pandemic reduced demand, Ukraine war raised import prices.
+
+3. "students began demanding an end to a preferential quota system for government jobs" → quota system.
+
+4. "poor policy decisions" causing inflation and joblessness. Also, "inability to create new jobs because of narrow focus on garment business." So answer: overreliance on garments and poor policy decisions (like depleting reserves).
+
+Wait the question is about specific policies that exacerbated inflation and joblessness. The article says "efforts to control inflation backfired. While trying to prop up... reserves dropped so low..." So the specific policies are the failed inflation control measures (like currency propping) leading to reserve depletion. Also, the narrow focus on garments causing joblessness. So the answer should combine these points.
+
+5. "tax-to-GDP... lowest in the world... could not count on tax revenue" → inability to fund priorities.
+
+6. The quota system was seen as unfair, leading to protests because the private sector didn't offer stability. The article says the protests started over the quota system, so the significance is that it was the spark for protests.
+
+7. "economic stresses that had sent protesters... inflation, joblessness, corruption" → those factors.
+
+8. "corruption, including loan fraud... sowed further disaffection" → undermined trust.
+
+9. "forced to seek a loan from IMF in 2022" → IMF loan needed.
+
+10. Muhammad Yunus, as stated.
+
+All answers must be concise. Let me structure them in the required tags.
+</think>
+
+<question_number>1</question_number>
+<answer>reliance on garment exports</answer>
+
+<question_number>2</question_number>
+<answer>pandemic reduced global demand for textiles and Ukraine war raised prices for imports</answer>
+
+<question_number>3</question_number>
+<answer>opposition to preferential quota system for government jobs</answer>
+
+<question_number>4</question_number>
+<answer>overreliance on garment exports and poor policy decisions (e.g., depleting foreign reserves to stabilize currency)</answer>
+
+<question_number>5</question_number>
+<answer>inability to fund government priorities due to low tax revenue</answer>
+
+<question_number>6</question_number>
+<answer>symbolized systemic unfairness and lack of equitable job opportunities</answer>
+
+<question_number>7</question_number>
+<answer>high inflation, joblessness, corruption, and economic inequality</answer>
+
+<question_number>8</question_number>
+<answer>corruption and money laundering by elites close to Hasina eroded public trust</answer>
+
+<question_number>9</question_number>
+<answer>forced Bangladesh to seek an IMF loan</answer>
+
+<question_number>10</question_number>
+<answer>Muhammad Yunus</answer>

@@ -1,0 +1,99 @@
+merged_trump-tiktok-ban-delay-executive-order.txt
+Okay, I need to go through each question and find the answers strictly from the provided article. Let me start one by one.
+
+1. The first question asks which Supreme Court justice wrote the majority opinion upholding the TikTok ban. The article mentions the Supreme Court upheld the law, but doesn't name the justice. So N/A.
+
+2. The second question is about how many Congress members voted against the law. The article states it passed overwhelmingly but doesn't give vote counts. So N/A.
+
+3. The third question asks for the dollar amount of penalties. The law mentions financial penalties but the exact amount isn't specified. So N/A.
+
+4. The fourth question: Trump tasked the Attorney General to review national security. The article says he instructed the attorney general, so the answer is Attorney General.
+
+5. The fifth question about ByteDance's ownership percentage in the joint venture. The article mentions Trump wants 50% for the U.S., implying ByteDance would keep 50%, but it's not confirmed. Wait, the article says "the U.S. should be entitled to get half" so maybe ByteDance would keep the other half. But the question is what percentage they agreed to maintain? The article says "proposed joint venture" but doesn't state they agreed. So N/A.
+
+6. Sixth question: Which tech executive did Trump mention? The article says he didn't know who the partner would be. So N/A.
+
+7. Seventh question: Time TikTok ceased operations. The article says it vanished from stores on Saturday and stopped operating before midnight. But exact time not given. So N/A.
+
+8. Eighth: Number of employees affected. The article doesn't mention employee numbers. N/A.
+
+9. Ninth: Downloads on Friday. No numbers provided. N/A.
+
+10. Tenth: Which committee chair criticized the order? The article doesn't mention any specific chair. N/A.
+
+11. Eleventh: Percentage the U.S. should get. The article says Trump said 50%, so 50%.
+
+12. Twelfth: West Point clubs disbanded. The DEI section says they ended a dozen clubs due to Trump's D.E.I. ban. But the question links this to the TikTok order? The TikTok part doesn't mention West Point, but the DEI section is separate. Since the question says "as a direct consequence of President Trump's executive order concerning TikTok," but the DEI action was a different order. So N/A.
+
+13. Thirteenth: Message upon return. The article says TikTok welcomed back with "As a result of President Trump's efforts, TikTok is back in the U.S.!" So that's the message.
+
+14. Fourteenth: Legal challenge similar to CBS and Register. The article mentions Trump's lawsuits against them lack merit but are harassing. The TikTok companies might face similar suits? Wait, the question asks what challenge companies might anticipate. The law's penalties still exist. The article says companies might not be shielded, so maybe liability lawsuits? The example given is about First Amendment cases like CBS, so maybe similar lawsuits. The answer could be "First Amendment lawsuits" but the exact term isn't in the text. The article says TikTok's own challenge was First Amendment. So companies might face similar claims? But the question is about the legal challenge companies (like app stores) might face. The article says they could be liable unless they stop. Since Trump's order says they won't be held liable, but experts say he can't remove liability. So companies might still face lawsuits from others? The question's example is about lawsuits against media, but maybe the companies could be sued for violating the law. The answer might be "First Amendment challenges" but not sure. The article says TikTok's challenge was First Amendment. The question's example mentions CBS and Register being sued by Trump, so maybe companies could face similar lawsuits? But the question is about the type of legal challenge companies might anticipate. The article says the law's penalties are still there, so maybe lawsuits from the government? But Trump told the AG not to enforce. Hmm. The answer might be N/A since the article doesn't specify the type beyond penalties.
+
+Wait, the article says "the president doesn't have the authority to eliminate the law itself and remove liability for the people who violate it while it's not being enforced." So companies might still face lawsuits from others, but the question is about the type of legal challenge similar to those faced by CBS and Register. Since those were lawsuits by Trump against them, maybe companies could face similar lawsuits? But the question is about the legal challenge the companies might face, which might be different. The answer might be N/A.
+
+15. Fifteenth: Government agency facing closure mentioned in TikTok context. The article's DEI section mentions USAID closure. The question links it to TikTok's return. The USAID part is in a separate paragraph under "U.S.A.I.D." but the TikTok return part doesn't mention it. So unless the article connects USAID's closure to TikTok's return, which it doesn't. So N/A.
+
+16. Sixteenth: Duration of extension. The article says 75 days. So 75 days.
+
+17. Seventeenth: Trudeau's action regarding TikTok and Canada. The article says Trudeau commented on critical minerals being behind Trump's state comments. So he made a statement about critical minerals.
+
+18. Eighteenth: Which court upheld the law before Supreme Court. The article says D.C. Circuit upheld it in December, then Supreme Court upheld. So D.C. Circuit Court of Appeals.
+
+Now, compiling the answers:
+
+1. N/A (no justice named)
+2. N/A (no vote count)
+3. N/A (amount not specified)
+4. Attorney General
+5. N/A (no agreement stated)
+6. N/A (Trump didn't name anyone)
+7. N/A (no time given)
+8. N/A
+9. N/A
+10. N/A
+11. 50%
+12. N/A (not linked to TikTok order)
+13. "As a result of President Trump's efforts, TikTok is back in the U.S."
+14. N/A (not specified)
+15. N/A (USAID isn't linked here)
+16. 75 days
+17. Made a statement about critical minerals
+18. D.C. Circuit Court of Appeals
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>Attorney General</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>50%</answer>
+<question_number>12</question_number>
+<answer>N/A</answer>
+<question_number>13</question_number>
+<answer>"As a result of President Trump's efforts, TikTok is back in the U.S."</answer>
+<question_number>14</question_number>
+<answer>N/A</answer>
+<question_number>15</question_number>
+<answer>N/A</answer>
+<question_number>16</question_number>
+<answer>75 days</answer>
+<question_number>17</question_number>
+<answer>Justin Trudeau said Canada's wealth of critical minerals are behind Trump's comments</answer>
+<question_number>18</question_number>
+<answer>Court of Appeals for the D.C. Circuit</answer>

@@ -1,0 +1,34 @@
+merged_apple-quarterly-revenue-up-5.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<other>The article states that if the judge prevents Google from paying Apple for default search positioning, it could cost Apple about $20 billion a year. Apple reported profit of $21.45 billion for the quarter.</other>
+<answer>The loss of $20 billion annually would nearly equal Apple's entire quarterly profit of $21.45 billion.</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<other>The article mentions that the Apple Intelligence announcement "helped calm concerns that Apple had fallen behind its biggest rivals in the tech industry's embrace of A.I." but doesn't specifically detail how it will impact the competitive landscape.</other>
+<answer>It could help Apple catch up to rivals in A.I. adoption</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<other>The article states Google payments could cost Apple about $20 billion a year if lost. Apple reported quarterly revenue of $85.78 billion. To calculate the percentage: ($20 billion / 4) / $85.78 billion = $5 billion / $85.78 billion ≈ 5.83%</other>
+<answer>Approximately 5.8% of quarterly revenue</answer>
+
+<question_number>10</question_number>
+<other>The article states Apple's stock has risen 11 percent since the AI announcement, but doesn't specify this was solely due to AI features, so we can't determine the implied market value.</other>
+<answer>N/A</answer>

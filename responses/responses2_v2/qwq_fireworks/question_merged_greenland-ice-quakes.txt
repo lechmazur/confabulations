@@ -1,0 +1,64 @@
+merged_greenland-ice-quakes.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information given in the article and follow the strict instructions.
+
+1. **Question 1**: The depth of the volcanic deposits triggering ice quakes. The article says the cable was a mile below the surface and that the quakes started near impurities from volcanic eruptions. But it doesn't specify the exact depth of the deposits themselves. So maybe N/A?
+
+Wait, the article mentions "near impurities in the ice that were deposited by volcanic eruptions" but doesn't give a specific depth. So answer N/A.
+
+2. **Question 2**: Number of distinct ice quake patterns. The text talks about "cascades of tiny 'ice quakes'" but doesn't mention how many distinct types they identified. No number given. Answer N/A.
+
+3. **Question 3**: Temperature threshold for vegetable oil viscosity. The article says the borehole was filled with vegetable oil to keep it from closing, and the cold made the cable brittle. But there's no mention of a specific temperature threshold. N/A.
+
+4. **Question 4**: Descent speed of the cable in meters per hour. The article says it was "serious physical work" because the oil made the cable slow to sink. But no exact speed is provided. N/A.
+
+5. **Question 5**: Percentage of seismic disturbances from volcanic zones vs others. The article states the quakes "seemed to start near impurities" but doesn't give a percentage. So N/A.
+
+6. **Question 6**: Number of researchers needed to lower/retrieve the cable. It says Dr. Fichtner and a colleague did it by hand. That's two people. But does the article say exactly how many? The text says "Dr. Fichtner and a colleague", so two. Answer 2.
+
+7. **Question 7**: Wavelength of laser pulses. The article mentions using laser pulses but doesn't specify the wavelength. N/A.
+
+8. **Question 8**: Number of volcanic eruptions contributing impurities. The article says the impurities were from volcanic eruptions but doesn't state how many eruptions. N/A.
+
+9. **Question 9**: Average duration of each ice quake. The article doesn't mention the duration of the quakes. N/A.
+
+Wait, let me double-check each question again to ensure I didn't miss anything.
+
+1. The depth of the deposits isn't specified, so N/A is correct. The cable was a mile down, but that's the depth of the cable, not the deposits' depth.
+
+2. No mention of distinct patterns' count. Correct.
+
+3. No temperature threshold given. Correct.
+
+4. Speed not mentioned. Correct.
+
+5. Percentage not provided. Correct.
+
+6. Two researchers (Dr. Fichtner and a colleague). Yes, so 2.
+
+7. Wavelength not stated. Correct.
+
+8. Number of eruptions? No, just that they came from eruptions. N/A.
+
+9. Duration not mentioned. Correct.
+
+All answers should be N/A except question 6 which is 2.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>2</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>

@@ -1,0 +1,80 @@
+merged_aluminum-vaccines-kennedy.txt
+Okay, let me tackle these questions one by one using the article provided. I need to make sure I don't use any outside knowledge, just the text.
+
+1. The first question asks which pharmaceutical company developed the aluminum adjuvant for the diphtheria vaccine in 1932. The article mentions Dr. Ramon's work with tapioca and then says the US started using aluminum salts in 1932. But there's no mention of a specific pharmaceutical company. So I should answer N/A here.
+
+2. The Danish study compared aluminum in blood samples between vaccinated and unvaccinated infants. The article states, "they found no significant difference." So the answer is no significant difference, but the question asks for milligrams. Since the exact numbers aren't given, maybe the answer is N/A? Wait, the article says "no significant difference," so maybe the answer is "no significant difference"? But the question is about the amount found. Hmm. The article doesn't provide specific milligram numbers for comparison here. So probably N/A.
+
+3. The question is about mortality rates in horses between tapioca and aluminum adjuvants. The article says Dr. Ramon tested several candidates like petroleum jelly and found success with tapioca, but then aluminum was used later. However, there's no data on mortality rates compared between tapioca and aluminum. So N/A.
+
+4. The 2022 study had a minor association with asthma, but it didn't prove causation. The article says the study didn't constitute strong evidence. So the answer is N/A because it's not conclusively proven.
+
+5. The question asks about a study by Montefiore Health System on food allergies. The article mentions Dr. Racine from Montefiore talking about safety but doesn't mention a longitudinal study on allergies. So N/A.
+
+6. The number of horses treated with petroleum jelly. The article says Dr. Ramon tested petroleum jelly among others but doesn't give numbers. So N/A.
+
+7. Hair samples' aluminum concentration in vaccinated kids. The article says no significant difference in blood and hair between vaccinated and unvaccinated, but no specific average concentration is given. So N/A.
+
+8. Neurological complications in 1934 trials. The article mentions the 1934 trial noted minor side effects like redness, body aches, and nodules. No neurological issues mentioned here. So N/A.
+
+9. Participants with elevated aluminum levels three months post-vaccination. The article doesn't mention this specific data from the Statens study. They only say no association with asthma. So N/A.
+
+10. Threshold of aluminum exposure causing respiratory issues in workers. The article says workers exposed to large quantities (like dust) may have complications, but no specific threshold number is given. So N/A.
+
+11. The substance that replaced tapioca and is now in half the vaccines under 5. The article says aluminum salts replaced tapioca. The question mentions the historical account starting with tapioca, so the answer is aluminum salts.
+
+12. The pediatrician cited supporting safety is Dr. Andrew Racine from Montefiore.
+
+13. The adjuvant with a long safety record preferred by manufacturers even with mRNA. The article says aluminum salts are preferred for their safety data, even when other tech like mRNA doesn't need them. So aluminum salts.
+
+14. The ingredient accused of causing allergies, autism, etc., despite immune benefits. The article starts by saying RFK Jr. blames aluminum for those issues. So aluminum.
+
+15. Vaccine types that don't need aluminum. The article mentions live virus (MMR) and mRNA (Covid) don't need adjuvants. So the answer is vaccines with weakened viruses or mRNA.
+
+16. Rare painful reaction at injection site. The article lists "painful nodules" as a rare side effect. So painful nodules.
+
+17. The study year used to claim asthma epidemic. The article says the 2022 study was cited by RFK. So 2022.
+
+18. The government position RFK is nominated for. The text mentions he's Trump's nominee for health secretary. So Secretary of Health and Human Services.
+
+19. The multiple of cheese's aluminum over vaccines. 50mg vs 4.4mg. 50 divided by 4.4 is roughly 11.36, so approximately 11 times. The article says "trivial compared to... one slice of cheese can have 50mg." So the answer is about 11 times, but the question asks for the approximate multiple. The exact number from the article is "roughly 4.4" and "as much as 50," so 50/4.4 ≈11.36. The answer should be "approximately 11 times" but maybe just 11. The question says "approximate multiple," so 11.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>aluminum salts</answer>
+<question_number>12</question_number>
+<answer>Dr. Andrew Racine</answer>
+<question_number>13</question_number>
+<answer>aluminum salts</answer>
+<question_number>14</question_number>
+<answer>aluminum</answer>
+<question_number>15</question_number>
+<answer>vaccines with weakened viruses or mRNA technology</answer>
+<question_number>16</question_number>
+<answer> painful nodules</answer>
+<question_number>17</question_number>
+<answer>2022</answer>
+<question_number>18</question_number>
+<answer>secretary of health and human services</answer>
+<question_number>19</question_number>
+<answer>approximately 11 times</answer>

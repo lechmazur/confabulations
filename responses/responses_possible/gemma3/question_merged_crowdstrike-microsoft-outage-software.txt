@@ -1,0 +1,31 @@
+merged_crowdstrike-microsoft-outage-software.txt
+<question_number>1</question_number>
+<answer>perfect sky</answer>
+<other>The article states the backdrop was the color of a perfect sky, also known as the Blue Screen of Death.</other>
+<question_number>2</question_number>
+<answer>a routine upgrade that somehow went off the rails</answer>
+<other>The article explicitly states this as the cause.</other>
+<question_number>3</question_number>
+<answer>Hours</answer>
+<other>The article states he apologized "Hours later."</other>
+<question_number>4</question_number>
+<answer>Matt Mitchell</answer>
+<other>The article directly names him.</other>
+<question_number>5</question_number>
+<answer>Mikko Hypponen</answer>
+<other>The article directly quotes him on this solution.</other>
+<question_number>6</question_number>
+<answer>$100 billion</answer>
+<other>The article states it was "heading to $100 billion."</other>
+<question_number>7</question_number>
+<answer>8,000</answer>
+<other>The article directly states this number.</other>
+<question_number>8</question_number>
+<answer>Matt Mitchell</answer>
+<other>The article directly quotes him on this point.</other>
+<question_number>9</question_number>
+<answer>with centralized controls</answer>
+<other>The article states they "maintain their fleet with centralized controls."</other>
+<question_number>10</question_number>
+<answer>walk around to each offline machine and remove the bit of flawed code, or wait and hope for a solution from CrowdStrike</answer>
+<other>This is the workaround he suggested, as stated in the article.</other>

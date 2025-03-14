@@ -1,0 +1,22 @@
+merged_olympics-paris-tourists-small-business.txt
+Okay, let's tackle these questions one by one. 
+
+First question: What was the primary reason Fabrice Pierret decided to open Le Lutetia on the Ile Saint-Louis?
+
+Looking at the article, the text says that Fabrice Pierret manages Le Lutetia, a brasserie on the Ile Saint-Louis. The article mentions that he's used to catering to tourists who visit the area because of the view of the Seine, wine, and steak frites. However, the question is asking why he decided to open it there. Wait, does the article mention why he opened it there? Let me check again. The first paragraph says he manages it, but the reason for opening isn't stated. The article talks about current business issues due to the Olympics, but not the original reason for opening. So the primary reason isn't provided here. So the answer should be N/A.
+
+Second question: How many tourists were expected to visit Paris for the Olympics according to the French commerce group?
+
+The article mentions projections have fallen to 11 million tourists from 15 million. The French commerce group (Confederation of French Commerce) reported that sales were down, but the expected number before the drop was 15 million. The question specifies the French commerce group's expectation. Wait, does the article say that the French commerce group provided the 15 million number? Let me check. The exact sentence: "Projections have fallen to 11 million tourists for the Olympics, from 15 million." The source here is the Paris tourism office, but the preceding sentence says "the French commerce group said sales were down about 11 percent in June". Hmm, the 15 million figure is mentioned in a sentence that attributes the current projections to the Paris tourism office, but the original expectation (15 million) isn't specifically tied to the commerce group. The question is asking specifically what the French commerce group said. Since the commerce group's report mentioned the sales slump, but the 15 million figure is from the tourism office, the answer might be N/A. Wait, need to check again. 
+
+The text says: "Projections have fallen to 11 million tourists for the Olympics, from 15 million. Around 1.5 million visitors are coming from abroad, and the rest are French residents, according to the Paris tourism office." So the 15 million was the original projection, but the commerce group's role here isn't mentioned in that part. The commerce group reported on sales, not the tourism numbers. Therefore, the French commerce group didn't state the tourist numbers, so the answer is N/A. Wait, but maybe I missed a part where the commerce group mentioned the expected number? Let me scan again. 
+
+The first mention of the commerce group is: "the Confederation of French Commerce reported Monday. At the Boulangerie..." and later "the French commerce group said sales were down about 11 percent in June from a year earlier..." So the commerce group reported on sales, not the tourism projections. The 15 million is from the Paris tourism office. Therefore, the answer to question 2 is N/A because the commerce group didn't state that number. The question asks specifically what the French commerce group said. 
+
+Wait, but maybe I misread. The first part says "the Confederation of French Commerce reported Monday" after mentioning the sales slump up to 70% in restricted areas. Then later, when talking about the sales drop in June, it says "the French commerce group said sales were down about 11 percent..." So nowhere does the commerce group mention the 15 million. The 15 million is from the tourism office. Therefore, the answer to question 2 is N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>

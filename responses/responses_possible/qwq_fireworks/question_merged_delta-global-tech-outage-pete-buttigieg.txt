@@ -1,0 +1,44 @@
+merged_delta-global-tech-outage-pete-buttigieg.txt
+Okay, I need to tackle these questions one by one using only the provided article. Let's start with the first question.
+
+1. The first question asks which airline's strategy of canceling flights instead of delaying caused problems and criticism from a Cabinet member. The article mentions Delta Air Lines was canceling many flights rather than delaying, leading to criticism from Transportation Secretary Pete Buttigieg. So the answer is Delta.
+
+2. The second question is about a technological vulnerability shared by carriers but hit one worse. The outage was from a CrowdStrike software update. The article says Delta was hit hardest. So the answer is CrowdStrike's software issue.
+
+3. The third question is which company's decisions highlighted the drawbacks of their hub. The article points out Delta's Atlanta hub, which is usually an advantage but caused issues here. So Delta again.
+
+4. The fourth question is about a policy change affecting summer activities. The article mentions Delta's ban on unaccompanied minors, extended past the initial period, affecting a family's summer camp plans. The policy is prohibiting unaccompanied minors.
+
+5. Fifth question: Which airline's reputation for efficiency is challenged. The text says Delta is considered one of the best-run but is struggling now. Answer: Delta.
+
+6. Sixth question: The system crucial for crew management that became a bottleneck. The article mentions a system ensuring crew placement, similar to Southwest's issue in 2022. The system is the crew scheduling/tracking system.
+
+7. Seventh question: Which airline's response exposed them to financial liability because the disruption was deemed controllable. The Transportation Department said the outage was within control, so Delta must provide refunds. Answer: Delta.
+
+8. Eighth question: Unexpected consequence of their strategy during peak season. The article says Delta has to find seats on already busy flights, making rebooking hard. The consequence is difficulty reaccommodating passengers on already full flights.
+
+9. Ninth question: Which carrier's handling contradicted their market position. Delta markets as premium but is struggling, so Delta again.
+
+10. Tenth question: IT infrastructure aspect affecting over half their systems. The article states over half of Delta's IT relies on Windows, which was the problem. So Windows-based systems.
+</think>
+
+<question_number>1</question_number>
+<answer>Delta Air Lines</answer>
+<question_number>2</question_number>
+<answer>CrowdStrike's software update</answer>
+<question_number>3</question_number>
+<answer>Delta</answer>
+<question_number>4</question_number>
+<answer>Prohibiting unaccompanied minors from flying</answer>
+<question_number>5</question_number>
+<answer>Delta</answer>
+<question_number>6</question_number>
+<answer>Crew scheduling and tracking system</answer>
+<question_number>7</question_number>
+<answer>Delta</answer>
+<question_number>8</question_number>
+<answer>Difficulty reaccommodating passengers on already heavily booked flights</answer>
+<question_number>9</question_number>
+<answer>Delta</answer>
+<question_number>10</question_number>
+<answer>Windows-based IT systems</answer>

@@ -1,0 +1,70 @@
+merged_boiled-egg-science-recipe.txt
+<question_number>1</question_number>
+<answer>Pellegrino Musto</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>soaring prices</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>polyphenols</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>1</answer>
+
+<question_number>11</question_number>
+<other>The new method involves alternating between boiling and lukewarm water, with the cycle repeated eight times. Each cycle has two transitions (from boiling to lukewarm and back to boiling), so the total number of transitions is 2 times the number of cycles.</other>
+<answer>16</answer>
+
+<question_number>12</question_number>
+<other>The article mentions that the green ring around the yolk indicates the presence of smelly ferrous sulfide, but it does not specify which chemical element in the yolk's composition leads to its formation.</other>
+<answer>N/A</answer>
+
+<question_number>13</question_number>
+<other>The article mentions that Emilia Di Lorenzo recently published a paper on foaming pizza, but it does not indicate that this publication directly influenced the development of the periodic egg-cooking technique.</other>
+<answer>N/A</answer>
+
+<question_number>14</question_number>
+<other>The article states that the average temperature of the two immersions in the periodic method is ideal for the yolk, but it does not compare this temperature to the optimal sous vide temperature for denaturing albumen proteins.</other>
+<answer>N/A</answer>
+
+<question_number>15</question_number>
+<other>J. Kenji Lopez-Alt's recipe involves steaming the egg in a single inch of water, but it does not mention any specific kitchen appliance beyond a standard pot.</other>
+<answer>N/A</answer>
+
+<question_number>16</question_number>
+<other>The article does not mention any nutritional component whose preservation was mistakenly attributed to polyphenols in the initial study draft.</other>
+<answer>N/A</answer>
+
+<question_number>17</question_number>
+<other>The article mentions that the periodic method makes it more difficult to peel the egg because everything is softer, but it does not provide a specific chemical reason for this.</other>
+<answer>N/A</answer>
+
+<question_number>18</question_number>
+<other>The article does not mention any polymer science principle from Pellegrino Musto's expertise that was applied to optimize heat distribution in the new cooking process.</other>
+<answer>N/A</answer>
+
+<question_number>19</question_number>
+<other>The article does not mention any percentage reduction in protein clumping achieved by the periodic method compared to traditional hard-boiling.</other>
+<answer>N/A</answer>
+
+<question_number>20</question_number>
+<other>The article does not mention any historical egg-cooking technique whose failure to maintain yolk texture inspired the development of the alternating temperature approach.</other>
+<answer>N/A</answer>

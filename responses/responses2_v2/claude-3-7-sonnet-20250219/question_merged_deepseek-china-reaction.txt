@@ -1,0 +1,67 @@
+merged_deepseek-china-reaction.txt
+<question_number>1</question_number>
+<answer>Hu Xijin</answer>
+<other>The article mentions Hu Xijin as a retired editor in chief of Global Times, but it doesn't state that he argued about using "only 500 Nvidia chips." The article mentions DeepSeek used 2,000 chips, not 500.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any stock price surge after DeepSeek's announcement causing Nvidia to halt chip exports. Fancaiju is mentioned as saying DeepSeek "burst the U.S. stock bubble" but nothing about Nvidia halting exports.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article mentions a hashtag about Liang Wenfeng visiting his hometown in Guangdong Province for Lunar New Year, but doesn't state he met with any Chinese leader during this visit. The article does mention he met with Li Qiang, China's premier, but not during Lunar New Year celebrations.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention a specific date when DeepSeek's chatbot began censoring queries about Hong Kong pro-democracy protests. It only mentions censorship of topics including Xi Jinping, the war in Ukraine, the Cultural Revolution and the Tiananmen Square massacre.</other>
+
+<question_number>5</question_number>
+<answer>$100 billion A.I. initiative known as Stargate</answer>
+
+<question_number>6</question_number>
+<answer>Carnegie Mellon</answer>
+
+<question_number>7</question_number>
+<answer>Tiananmen Square massacre</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article mentions Tom Zhang as a human resources expert who worked at several big tech companies in Silicon Valley, but doesn't specify Google. Also, he didn't claim Tsinghua graduates dominate OpenAI's teams, but rather that "'homegrown Ph.D. graduates' from Tsinghua and Peking University outshines their counterparts from Stanford and MIT."</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article mentions SoftBank potentially investing up to $25 billion in OpenAI, not in DeepSeek. There's no mention of what percentage of DeepSeek's funding came from SoftBank.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article mentions that people on social media portrayed DeepSeek employees as geniuses and posted their names, educational backgrounds, and academic papers, but doesn't specify any employee with a Ph.D. in quantum computing from Caltech or mention papers on censorship-resistant A.I.</other>
+
+<question_number>11</question_number>
+<answer>DeepSeek</answer>
+
+<question_number>12</question_number>
+<answer>Liang Wenfeng</answer>
+
+<question_number>13</question_number>
+<answer>DeepSeek</answer>
+
+<question_number>14</question_number>
+<answer>specialized Nvidia chips</answer>
+
+<question_number>15</question_number>
+<answer>censorship rules</answer>
+
+<question_number>16</question_number>
+<answer>Liang Wenfeng</answer>
+
+<question_number>17</question_number>
+<answer>Ph.D. graduates from Tsinghua and Peking University</answer>
+
+<question_number>18</question_number>
+<answer>United States</answer>
+
+<question_number>19</question_number>
+<answer>$100 billion A.I. initiative known as Stargate</answer>
+
+<question_number>20</question_number>
+<answer>Fancaiju</answer>

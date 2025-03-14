@@ -1,0 +1,62 @@
+merged_city-parking-rules.txt
+<question_number>1</question_number>
+<answer>Austin</answer>
+
+<question_number>2</question_number>
+<answer>Regional Plan Association study</answer>
+
+<question_number>3</question_number>
+<answer>Christof Spieler</answer>
+<other>The article mentions Christof Spieler as an urban planner at Rice School of Architecture in Houston who discussed parking management, but doesn't specifically mention him arguing about diagonal parking spots or driveway blockages in Houston.</other>
+
+<question_number>4</question_number>
+<answer>2012</answer>
+<other>The article states Seattle relaxed minimums in central neighborhoods and areas served by public transit in 2012, but the 70% figure is attributed to Buffalo's post-2017 housing, not Seattle's.</other>
+
+<question_number>5</question_number>
+<answer>narrow streets</answer>
+
+<question_number>6</question_number>
+<answer>San Jose</answer>
+<other>San Jose is mentioned as repealing parking rules in 2022, but the article doesn't specifically connect San Jose to the bowling alley example or resident backlash.</other>
+
+<question_number>7</question_number>
+<answer>Daniel Hess</answer>
+<other>While Daniel Hess did conduct a 2021 study on Buffalo's developments, the article doesn't connect this to advocating for eliminating parking mandates specifically in cities with high concentrations of young drivers.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article mentions New York City reduced or eliminated parking requirements, but doesn't specifically tie this to a surge in market-rate housing near transit corridors or contradicting fears about cyclists.</other>
+
+<question_number>9</question_number>
+<answer>West Virginia</answer>
+
+<question_number>10</question_number>
+<answer>Austin</answer>
+
+<question_number>11</question_number>
+<answer>minimum parking requirements</answer>
+
+<question_number>12</question_number>
+<answer>flooding risks</answer>
+
+<question_number>13</question_number>
+<answer>Sightline Institute</answer>
+
+<question_number>14</question_number>
+<answer>increased costs passed on to tenants</answer>
+
+<question_number>15</question_number>
+<answer>easing parking requirements in exchange for preserving historic structures</answer>
+
+<question_number>16</question_number>
+<answer>walking</answer>
+<other>The article mentions making cities "more walkable and less reliant on cars" as a benefit of reducing parking spaces.</other>
+
+<question_number>17</question_number>
+<answer>difficulty finding parking spaces</answer>
+<other>The article mentions residents expressing concerns about cars continuously driving around looking for parking spaces and inability to find convenient parking.</other>
+
+<question_number>18</question_number>
+<answer>N/A</answer>
+<other>The article discusses that parking minimums can add to development costs, but doesn't clearly identify a specific market mechanism that reduces actual demand for mandated parking spaces.</other>

@@ -1,0 +1,61 @@
+merged_grapefruit-drugs-medications.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article states 50% had high levels and 50% had none, not intermediate levels.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article does not mention any pharmaceutical company funding the research.</other>
+<question_number>3</question_number>
+<answer>many years</answer>
+<other>The article states "it takes many years."</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article does not mention temperature conditions.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article states liver enzymes are interfered with, but doesn't name a specific one.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article does not name the ancient citrus breeder.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article does not specify the number of varieties tested.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article does not mention a specific concentration.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article does not mention which country first mandated the labels.</other>
+<question_number>10</question_number>
+<answer>years ago</answer>
+<other>The article states scientists worked out the structures "years ago."</other>
+<question_number>11</question_number>
+<answer>2-oxoglutarate-dependent dioxygenase</answer>
+<other>The article specifically states this enzyme is produced by the gene and is dysfunctional in mandarins.</other>
+<question_number>12</question_number>
+<answer>mandarins</answer>
+<other>The article states mandarins have a mutated form of the gene that keeps the enzyme from functioning properly.</other>
+<question_number>13</question_number>
+<answer>Yoram Eyal</answer>
+<other>The article identifies him as a professor at the Volcani Center and quotes his remark about the time required for breeding.</other>
+<question_number>14</question_number>
+<answer>single-gene control</answer>
+<other>The article states "We saw there was only one gene that could have controlled it."</other>
+<question_number>15</question_number>
+<answer>The New Phytologist</answer>
+<other>The article states the research was reported in this journal.</other>
+<question_number>16</question_number>
+<answer>grapefruit that doesn't require a warning label</answer>
+<other>The article states this is a possibility with gene editing technology.</other>
+<question_number>17</question_number>
+<answer>unknown quality</answer>
+<other>The article states a breeder selecting for some unknown quality spread the gene.</other>
+<question_number>18</question_number>
+<answer>furanocoumarins</answer>
+<other>The article states these molecules interfere with liver enzymes.</other>
+<question_number>19</question_number>
+<answer>Life's Building Blocks Inside an Asteroid</answer>
+<other>This headline discusses organic molecules found on an asteroid.</other>
+<question_number>20</question_number>
+<answer>50 percent</answer>
+<other>The article states 50% of the young plants had high levels of furanocoumarins.</other>

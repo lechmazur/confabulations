@@ -1,0 +1,30 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>The use of Snowflake, a third-party cloud platform, introduces additional vulnerabilities and complexities in securing data, as it creates a shared environment with increased risk of unauthorized access.</answer>
+
+<question_number>3</question_number>
+<answer>The breach highlights the critical need for robust data protection measures for companies with government ties, as compromised data could have significant national security implications.</answer>
+
+<question_number>4</question_number>
+<answer>The exposed phone records could be used to map communication patterns and networks of individuals in national security roles by linking phone numbers to specific individuals through online searches.</answer>
+
+<question_number>5</question_number>
+<answer>The exposure of phone records, coupled with AT&T's government contracts, raises concerns about potential compromise of sensitive communication networks within federal agencies.</answer>
+
+<question_number>6</question_number>
+<answer>The exposed data can be used to identify communication networks of individuals in sensitive positions by linking phone numbers to individuals through online searches.</answer>
+
+<question_number>7</question_number>
+<answer>The compromised data may benefit foreign nation states by exposing communication networks of government officials, according to the cybersecurity expert.</answer>
+
+<question_number>8</question_number>
+<answer>The compromised phone records could be used to map and analyze communication networks of government officials by linking phone numbers to individuals and examining call patterns, potentially exposing sensitive connections and information flows.</answer>
+
+<question_number>9</question_number>
+<answer>Outsourcing data to cloud networks increases customers' exposure to data breaches by creating a shared environment with multiple potential attack vectors and complicating security measures.</answer>
+
+<question_number>10</question_number>
+<answer>The professor's explanation highlights the shared nature of cloud infrastructure, which aligns with the AT&T breach involving Snowflake, a third-party cloud platform, emphasizing the potential risks associated with such platforms.</answer>

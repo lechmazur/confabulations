@@ -1,0 +1,30 @@
+merged_ants-amputation-legs.txt
+<question_number>1</question_number>
+<answer>Because thigh injuries allow reduced hemolymph flow, making it harder for bacteria to move from wound to body</answer>
+
+<question_number>2</question_number>
+<answer>Multiple muscles in thighs that control hemolymph flow</answer>
+
+<question_number>3</question_number>
+<answer>Wounds closer to body (thigh) have higher amputation success than wounds further away (lower leg), contrary to expectation</answer>
+
+<question_number>4</question_number>
+<answer>Saves colony from needing to produce 10-20% more ants to compensate for injured ant losses</answer>
+
+<question_number>5</question_number>
+<answer>Lower leg injuries have narrow time window for successful amputation, while thigh injuries allow more time</answer>
+
+<question_number>6</question_number>
+<answer>Multiple thigh muscles control hemolymph flow, reducing bacterial spread when injury occurs</answer>
+
+<question_number>7</question_number>
+<answer>Bacteria can quickly penetrate body from lower leg injuries, but move more slowly from thigh injuries due to reduced hemolymph flow</answer>
+
+<question_number>8</question_number>
+<answer>Injured ant presents its injured leg, sits calmly while other ant gnaws it off, then presents wound for cleaning</answer>
+
+<question_number>9</question_number>
+<answer>Thighs with many hemolymph-pumping muscles have 90% amputation survival rate, while lower legs have only 20%</answer>
+
+<question_number>10</question_number>
+<answer>By saving injured ants through amputation, colonies save enormous energy by not having to produce replacement ants</answer>

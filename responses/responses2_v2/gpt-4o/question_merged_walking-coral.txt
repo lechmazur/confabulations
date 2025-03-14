@@ -1,0 +1,78 @@
+merged_walking-coral.txt
+<other>First, I will extract relevant information from the article to answer the questions.</other>
+
+<question_number>1</question_number>
+<answer>0.1528</answer>
+<other>The mushroom coral moved 220 millimeters in 24 hours, which is 1440 minutes. Therefore, the average speed is 220 mm / 1440 min = 0.1528 mm/min.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article does not mention which marine biologist first documented the jellyfish-like pulsing mechanism in 1992.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article does not specify how many different species of solitary corals demonstrated the ability to walk.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article does not provide information on the percentage of mushroom coral populations that successfully complete their migration.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article does not specify the water depth at which the mushroom corals showed the strongest locomotion response to blue light.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article does not specify the number of hours required for continuous tissue inflation before a single forward "pop" movement.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article does not mention the mortality rate among juvenile mushroom corals during their migration phase.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article does not mention any chemical signals that triggered the mushroom corals to move away from toxic sponges.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article does not provide information on the measured increase in reproductive success rates for mushroom corals that migrated to deeper waters.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article does not specify the color of light used in 1992 to document the roving corals' behavior.</other>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+<other>The article does not mention which marine organism Dr. Hoeksema likely studied extensively.</other>
+
+<question_number>12</question_number>
+<answer>N/A</answer>
+<other>The article does not mention any university's research program similar to Dr. Lewis's that would investigate interactions with toxic sponges.</other>
+
+<question_number>13</question_number>
+<answer>N/A</answer>
+<other>The article does not reference any earlier study proposing the idea of colonial corals exhibiting movement similar to mushroom corals.</other>
+
+<question_number>14</question_number>
+<answer>white light</answer>
+<other>Dr. Lewis used a sliver of white light, like that found in shallow coastal habitats, in his experiments.</other>
+
+<question_number>15</question_number>
+<answer>Brett Lewis</answer>
+<other>Brett Lewis is the marine ecologist who used time-lapse cameras to reveal the biomechanics of mushroom coral movement.</other>
+
+<question_number>16</question_number>
+<answer>illegal coral trafficking</answer>
+<other>Jason Bittel previously reported on federal efforts to manage illegal coral trafficking.</other>
+
+<question_number>17</question_number>
+<answer>44</answer>
+<other>The maximum distance in 48 hours is 220 mm in 24 hours, so in 48 hours, it would be 220 mm * 2 = 440 mm, which is 44 cm.</other>
+
+<question_number>18</question_number>
+<answer>being buried underneath a layer of sand</answer>
+<other>The article mentions that mushroom corals might move to escape being buried underneath a layer of sand.</other>
+
+<question_number>19</question_number>
+<answer>PLoS One</answer>
+<other>The article mentions that Dr. Lewis's research was reported in the journal PLoS One.</other>

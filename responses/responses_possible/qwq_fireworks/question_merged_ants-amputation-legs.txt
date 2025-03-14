@@ -1,0 +1,59 @@
+merged_ants-amputation-legs.txt
+Okay, I need to tackle these questions based only on the provided article. Let me start by going through each question one by one and see what the article says.
+
+1. **Why amputations only on thigh injuries related to hemolymph?** The article mentions that ants perform amputations on thigh injuries because when the thigh is injured, the hemolymph flow is reduced. This makes it harder for bacteria to reach the body, so amputating there prevents infection better. Lower legs have faster bacterial invasion, so amputations there aren't as successful. So the answer should tie hemolymph flow reduction in thighs to infection prevention.
+
+2. **Physiological feature contributing to success?** The article states that Florida carpenter ants have many muscles in their thighs that help pump hemolymph. These muscles must be the feature, since their presence affects how hemolymph flows and thus infection risk.
+
+3. **Counterintuitive relationship between wound proximity and success?** Normally, you might think a wound closer to the body is worse, but the article says that thigh (closer) amputations are more successful. So the counterintuitive part is that closer wounds have higher success, which is opposite to what one might expect.
+
+4. **Evolutionary advantage in resource allocation?** The article mentions that saving injured ants means the colony doesn't need to produce 10-20% more ants. So the advantage is saving energy by not having to replace lost ants, thus resource efficiency.
+
+5. **Time window difference between thigh and lower leg?** The text says when legs are injured lower down, bacteria penetrate quickly, so the time window for successful amputation is narrow. Thigh injuries probably have a wider window because bacteria move slower there. So the answer is that lower legs have a narrow window, thighs have a wider one.
+
+6. **Role of thigh muscles in amputation success?** The muscles in the thighs help control hemolymph flow. If the thigh is injured, the muscles' damage reduces hemolymph flow, slowing bacterial spread. So amputating there traps bacteria before they reach the body. The muscles' presence allows this mechanism to work.
+
+7. **Bacterial movement and amputation effectiveness?** Bacteria move faster in lower legs, so amputations there are less effective. In thighs, slower movement due to reduced hemolymph flow means amputation works better. So bacterial movement speed determines effectiveness based on injury location.
+
+8. **Unexpected behavioral sequence during amputation?** The article says the injured ant presents the leg and stays calm while another ant amputates, then presents the new wound for cleaning. So the sequence is the injured ant actively participates by presenting the leg and then the wound after amputation.
+
+9. **Correlation between muscle location and amputation success?** The muscles are in the thighs. Since success is higher there, the correlation is that muscles in the thighs' presence leads to higher success rates when amputating there.
+
+10. **Survival rate's effect on colony energy efficiency?** Higher survival (90% for amputees) means fewer ants lost, so the colony saves energy that would otherwise be spent producing replacements. Thus, the survival rate directly improves energy efficiency by reducing replacement needs.
+
+Now, check each against the article to ensure accuracy and that no external knowledge is used. Make sure answers are fragments as per instructions, using "N/A" only if the question can't be answered. All answers here are directly supported except maybe any edge cases. Let me confirm each point again quickly.
+
+1. Correct, hemolymph reduction in thighs stops bacteria.
+2. Thigh muscles mentioned as the feature.
+3. Closer (thigh) is better, which is counterintuitive.
+4. Saves energy by not needing more ants.
+5. Lower legs have narrow time window.
+6. Muscles reduce hemolymph flow, aiding amputation.
+7. Bacteria movement speed varies by location.
+8. The presenting and staying calm sequence.
+9. Muscles in thighs correlate with success there.
+10. High survival reduces energy use.
+
+All answers are present in the text. No N/A needed here.
+</think>
+
+<question_number>1</question_number>
+<answer>reduced hemolymph flow in thigh injuries slows bacterial movement into body</answer>
+<question_number>2</question_number>
+<answer>multiple muscles in thighs reduce hemolymph flow when injured</answer>
+<question_number>3</question_number>
+<answer>closer wounds to body have higher amputation success than distant ones</answer>
+<question_number>4</question_number>
+<answer>saves energy by reducing need to replace lost ants</answer>
+<question_number>5</question_number>
+<answer>narrower window for lower legs due to faster bacterial invasion</answer>
+<question_number>6</question_number>
+<answer>muscles in thighs reduce hemolymph flow, limiting bacterial spread</answer>
+<question_number>7</question_number>
+<answer>faster bacterial movement in lower legs reduces amputation effectiveness</answer>
+<question_number>8</question_number>
+<answer>injured ant presents leg then newly amputated wound for cleaning</answer>
+<question_number>9</question_number>
+<answer>muscles in thighs correlate with higher success when amputated there</answer>
+<question_number>10</question_number>
+<answer>90% survival rate reduces energy spent replacing lost ants</answer>

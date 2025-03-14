@@ -1,0 +1,94 @@
+merged_mexico-city-hotels.txt
+Okay, let's tackle these questions one by one using only the article provided. I need to be careful to answer exactly what's asked and check if the information is directly stated or can be logically inferred.
+
+1. **Question 1:** Which of the Sanchez-Renero sisters previously worked as a chef before opening Casa Cuenca?
+   - The article mentions Mara is a photographer and Gala an interior designer. It says the restaurant is overseen by chef Christina Lecki, who's American. So neither sister was a chef. Answer: N/A.
+
+2. **Question 2:** How many different types of Mexican tiles were used in the bathrooms of Casa Cuenca's newly built addition?
+   - The text says bathrooms have "a mix of colorful tiles," but doesn't specify the number of types. Can't infer that. Answer: N/A.
+
+3. **Question 3:** What was the original purpose of the building that now houses Hotel Dama before it became an apartment building in the 1950s?
+   - The article states Hotel Dama is in a converted 1950s apartment building. The question asks what it was before that. The text doesn't mention prior use. Answer: N/A.
+
+4. **Question 4:** Who designed the velvet sofas in Casona Roma Norte's lobby during its 18-month renovation?
+   - The renovation is mentioned, but the designer of the sofas isn't specified. The architect's name (Ivan Esqueda) is linked to Casa Cuenca. No info here. Answer: N/A.
+
+5. **Question 5:** What percentage of Casa Cuenca's rooms feature private balconies overlooking Avenida Veracruz?
+   - The article mentions private patios in the new addition but doesn't specify percentage or view. Answer: N/A.
+
+6. **Question 6:** What famous Mexican architect originally designed the 1930s mansion that became Casa Cuenca?
+   - The text doesn't name the architect of the original mansion. It mentions architect Ivan Esqueda as part of the renovation team. Answer: N/A.
+
+7. **Question 7:** What traditional Oaxacan craft techniques were used to create the ceramics displayed in Hotel Dama's lobby?
+   - The article mentions Oaxacan ceramics and textiles but doesn't specify techniques. Answer: N/A.
+
+8. **Question 8:** When did Aquiles Chavez first begin developing his menu concept for Casona Roma Norte's restaurant?
+   - The article states he runs Aquiles, but no start date is given. Answer: N/A.
+
+9. **Question 9:** How many different varieties of agave spirits are featured at Casona Roma Norte's basement bar?
+   - The text mentions an agave bar but doesn't specify the number of varieties. Answer: N/A.
+
+10. **Question 10:** What was the total cost of renovating the historic 1920s building that now houses Casona Roma Norte?
+    - No cost information provided. Answer: N/A.
+
+11. **Question 11:** The hotel described is Casa Cuenca, as it mentions a 1930s mansion turned office, Beaux-Arts staircase, midcentury furnishings, and the restaurant's prawns. Answer: Casa Cuenca.
+
+12. **Question 12:** The property after an 18-month renovation with marble floors, velvet sofas, and a Japanese/Sinaloan restaurant is Casona Roma Norte. Answer: Casona Roma Norte.
+
+13. **Question 13:** The 1950s apartment building with retro features and mezcal cocktails is Hotel Dama. Answer: Hotel Dama.
+
+14. **Question 14:** The hotel with the American chef's restaurant and $175 price is Casa Cuenca. Answer: Casa Cuenca.
+
+15. **Question 15:** The blend of Beaux-Arts and brick-lattice walls is Casa Cuenca's description. Answer: Casa Cuenca.
+
+16. **Question 16:** The first project of the sisters and architect is Casa Cuenca. Answer: Casa Cuenca.
+
+17. **Question 17:** The lower-priced property with original and new buildings is Casa Cuenca ($175 vs. Casona's $455). Answer: Casa Cuenca.
+
+18. **Question 18:** The restaurant with Spanish/Portuguese/French dishes and prawns is Casa Cuenca's Maleza. Answer: Casa Cuenca.
+
+19. **Question 19:** The 17-room hotel opened last summer is Hotel Dama. Answer: Hotel Dama.
+
+20. **Question 20:** The $455 hotel with an atrium Mexican restaurant by Aquiles (Aquiles Chavez shares first name with historical figure like Aquiles the hero). Answer: Casona Roma Norte.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>Casa Cuenca</answer>
+<question_number>12</question_number>
+<answer>Casona Roma Norte</answer>
+<question_number>13</question_number>
+<answer>Hotel Dama</answer>
+<question_number>14</question_number>
+<answer>Casa Cuenca</answer>
+<question_number>15</question_number>
+<answer>Casa Cuenca</answer>
+<question_number>16</question_number>
+<answer>Casa Cuenca</answer>
+<question_number>17</question_number>
+<answer>Casa Cuenca</answer>
+<question_number>18</question_number>
+<answer>Casa Cuenca</answer>
+<question_number>19</question_number>
+<answer>Hotel Dama</answer>
+<question_number>20</question_number>
+<answer>Casona Roma Norte</answer>

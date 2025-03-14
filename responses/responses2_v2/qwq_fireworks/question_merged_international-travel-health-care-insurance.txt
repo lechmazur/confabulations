@@ -1,0 +1,64 @@
+merged_international-travel-health-care-insurance.txt
+Okay, let me tackle these questions one by one based on the article provided. I need to be careful to only use the information given and not make any assumptions. Let's go step by step.
+
+1. The first question asks about the average cost of medical evacuation without insurance for a ruptured spleen in a developing country. The article mentions that without medevac coverage, you might pay $100,000 or more. So the answer is $100,000 or more. But the question says "average cost"—the article doesn't specify "average," but gives an example of over $100k. Maybe the answer is "$100,000 or more".
+
+2. The second question is which European country's healthcare fully covered an American's food poisoning. The article says Dr. Chen mentioned a traveler treated for hepatitis A in Denmark with no cost. Wait, the question says food poisoning, but the example is hepatitis A. The answer might still be Denmark, since the question might have a typo, but according to the text, it's hepatitis A. Since the question specifies food poisoning, maybe it's N/A? Wait, the article says hepatitis A, so the answer is Denmark even if the condition differs. The question's premise might be wrong, but the article's example is Denmark for hepatitis A, so the answer is Denmark.
+
+3. How many English-speaking doctors are listed in France's Provence region on the consulate site? The article says the U.S. Embassy lists English-speaking providers by region in France, but no numbers. So N/A.
+
+4. Percentage of Americans in Colombia needing over $1k treatment. The article only mentions Lenny Mauricio's case costing $1,500, but no percentage. So N/A.
+
+5. Medication permitted in Japan but needs a letter. The article says Adderall isn't allowed in Japan, so maybe the question is flipped? Wait the question says "legally permitted in Japan but requires special documentation". The article says Adderall is NOT permitted. So maybe the answer is none? Or perhaps another med? Wait, the article says "some countries have limitations on pharmaceuticals. For example, Adderall is not permitted in Japan." So the question is asking which med is allowed but needs a letter. The article says "carry a letter from your physician for pre-existing conditions requiring medicine". So maybe a medication that's allowed but requires a letter? The example given is Adderall not allowed. Maybe another med? The article doesn't specify which meds require a letter except Adderall is prohibited. So maybe the answer is N/A because the only example given is prohibited. Alternatively, perhaps the question is a trick, but the article says "some countries have limitations... Adderall not permitted in Japan". So the answer would be N/A because the only example is prohibited. So the question's answer is N/A.
+
+6. Average hospital stay in Vietnam's public hospitals for Americans. The article mentions Amanda Shor was hospitalized for three days. But that's one case. The question asks for average, which isn't stated. So N/A.
+
+7. Number of DoctorsSA clinics in Europe. The article says DoctorsSA has clinics across Europe, but no exact number. So N/A.
+
+8. Max coverage limit for medevac by Squaremouth. The article says Squaremouth offers policies but doesn't mention limits. So N/A.
+
+9. Country requiring marriage certs for visitors regardless of relation. The article mentions same-sex partnerships may need to bring docs, but not a country that requires it for all. It says "if you are in a same-sex partnership... bring copies of legal documents... keep in mind many countries don't recognize same-sex unions". The question says "regardless of their relationship"—so maybe none? The article doesn't mention any country that requires this universally. So N/A.
+
+10. Total Medicare reimbursement in Britain. The article says Medicare doesn't cover abroad, so the total would be $0. But the question asks for the total amount reimbursed. Since Medicare doesn't cover, the answer is 0, but the question might be N/A because the article doesn't state any figure. The article says Medicare doesn't cover, so the answer is 0, but maybe the question wants N/A because it's not mentioned. Hmm. The question says "total amount reimbursed"—since the article says Medicare doesn't cover, the answer would be $0, but the article doesn't explicitly state a figure. So maybe N/A.
+
+11. Insurance provider coordinating with Embassy for medevac. The article says "U.S. Embassy... lists English-speaking providers" and mentions that travel insurers like Allianz and World Nomads provide lists, but the question asks which one coordinates with the Embassy's Medical Assistance program specifically. The article says "most travel insurance providers, like Allianz Global and World Nomads, provide doctors' lists to policyholders. GeoBlue also provides telemedicine and listings." The article also mentions "If you need a doctor... start with the U.S. Embassy site..." but doesn't say any provider directly coordinates with the Embassy's program. So maybe N/A. Alternatively, perhaps the answer is N/A because the article doesn't specify any provider doing that coordination.
+
+12. Country where ibuprofen is illegal under its local name. The article mentions acetaminol (paracetamol) vs Tylenol. Ibuprofen's name isn't discussed. So N/A.
+
+13. Program requiring marriage certs before evacuation. The article mentions joining Smart Traveler Enrollment Program (STEP) to stay connected. The part about marriage certificates is advice to bring them if in same-sex partnerships. The question asks for a program that "mandates" submission of these docs before services. The article doesn't mention such a program; it just advises travelers to bring them. So N/A.
+
+14. Percentage of a $10k trip's cost for medevac through Squaremouth. The article says travel insurance is 5-10% of trip cost. For $10k, that's $500-$1,000. The question asks for the average, so maybe 7.5%? But the article says 5-10%, so the answer would be 5% to 10%, but the question asks for the percentage, so maybe between 5-10. But the question says "average", so perhaps 7.5? But the article doesn't specify average, just a range. The question might want the range, but since the options are percentages, the answer is 5 to 10. The question asks "what percentage" so maybe 5-10%.
+
+15. European country with free hepatitis A treatment for tourists. The article says Denmark provided care without cost. The question's condition is hepatitis A, which matches Dr. Chen's example. So Denmark.
+</think>
+
+<question_number>1</question_number>
+<answer>$100,000 or more</answer>
+<question_number>2</question_number>
+<answer>Denmark</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>0</answer>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<question_number>12</question_number>
+<answer>N/A</answer>
+<question_number>13</question_number>
+<answer>N/A</answer>
+<question_number>14</question_number>
+<answer>5% to 10%</answer>
+<question_number>15</question_number>
+<answer>Denmark</answer>

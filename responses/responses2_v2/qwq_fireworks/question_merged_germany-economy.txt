@@ -1,0 +1,84 @@
+merged_germany-economy.txt
+Okay, I need to go through each question and find the answers strictly from the provided article. Let me start one by one.
+
+1. The first question asks which party's economic plan got the strongest endorsement from manufacturing leaders. The article mentions that the Christian Democrats and their sister party, the Christian Social Union, are leading in polls, especially among business leaders who see them as offering the strongest ideas. So the answer should be Christian Democratic Union (CDU) or maybe the combined parties. But the question specifies the party, so CDU. Wait, the exact quote says "the conservatives as offering the strongest ideas". The conservatives are the CDU/CSU. But the question says "political party's economic plan", so the main party is Christian Democratic Union. The answer is Christian Democratic Union.
+
+2. Second question: How many percentage points Friedrich Merz promised to cut income tax. The article says Merz wants to return growth to 2% through tax and welfare changes, but there's no specific percentage mentioned for tax cuts. So N/A.
+
+3. Third question: Total monetary value of losses in automotive from Chinese competition. The article states that manufacturing output fell 3% due to competition from China, but no specific monetary figure is given. So N/A.
+
+4. Fourth question: Which country replaced Germany in UN manufacturing rankings. The article says Germany held the top spot but competition from China intensified, so China replaced them. Answer is China.
+
+5. Fifth question: Number of bridges needing repairs. The article mentions collapsing bridges but no specific number. N/A.
+
+6. Sixth question: Percentage of companies moving due to energy costs. The article says energy costs are high, driving industries to move, but no exact percentage is given. N/A.
+
+7. Seventh question: Alice Weidel quoted which former chancellor. The article says she echoed Trump's statement about wind turbines. Not a German chancellor, so N/A. Wait, the question says "former chancellor", but Trump is US president. So the answer is N/A.
+
+8. Eighth question: Cost savings per household from grid fee cuts. The Social Democrats want to cut grid fees, but the article doesn't mention the savings amount. N/A.
+
+9. Ninth question: Number of nuclear reactors to be reactivated. The conservatives want to revisit shutting down nuclear reactors, but no number is given. N/A.
+
+10. Tenth question: Interest rate threshold by Bundesbank. The article mentions high interest rates as a problem but doesn't state a specific threshold. N/A.
+
+11. Eleventh question: Projected decrease if Merz's plans fail. The article says he wants to return growth to 2%, but no specific decrease percentage if not implemented. N/A.
+
+12. Twelfth question: Percentage wealthiest should pay. Scholz proposed taxing the wealthy more, but exact percentage isn't stated. N/A.
+
+13. Thirteenth question: Percentage increase in public spending to offset 3% drop. The article mentions candidates want to increase public spending but doesn't specify a percentage. N/A.
+
+14. Fourteenth question: Alternative energy AfD wants to reinstate. The AfD wants to return to Russian gas, which was a third of their energy. So the answer is Russian gas.
+
+15. Fifteenth question: Extra billions from Scholz's tax plan. The budget gap is 15 billion, but the article doesn't say how much the tax plan would generate beyond that. N/A.
+
+16. Sixteenth question: UN ranking for chemical exports. The article says Germany's backbone industries include chemicals, but it only mentions manufacturing rankings, not chemical exports specifically. So N/A.
+
+17. Seventeenth question: Borrowing level proposed by CDU. The Social Democrats and Greens want to loosen borrowing limits for investment, but the CDU's specific proposal isn't stated. The article says CDU is focusing on tax cuts but doesn't mention a borrowing percentage. N/A.
+
+18. Eighteenth question: Nuclear facility type proposed by SPD. The conservatives mentioned nuclear reactors, but SPD's proposal is grid fee cuts and possibly revisiting nuclear shutdown. The article says SPD is seeking to cut grid fees and conservatives want to revisit nuclear. The SPD isn't mentioned proposing new facilities. So N/A.
+
+19. Nineteenth question: Investment increase needed to prevent relocation. Alexander Kruger warned about companies moving, but the article doesn't state a precise percentage increase needed. N/A.
+
+20. Twentieth question: Timeframe for Brzeski's reforms. The economist wrote that a longer-term plan is needed, but the exact timeframe isn't given. N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>Christian Democratic Union</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>China</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<question_number>12</question_number>
+<answer>N/A</answer>
+<question_number>13</question_number>
+<answer>N/A</answer>
+<question_number>14</question_number>
+<answer>Russian gas</answer>
+<question_number>15</question_number>
+<answer>N/A</answer>
+<question_number>16</question_number>
+<answer>N/A</answer>
+<question_number>17</question_number>
+<answer>N/A</answer>
+<question_number>18</question_number>
+<answer>N/A</answer>
+<question_number>19</question_number>
+<answer>N/A</answer>
+<question_number>20</question_number>
+<answer>N/A</answer>

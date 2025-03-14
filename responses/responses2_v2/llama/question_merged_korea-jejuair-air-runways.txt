@@ -1,0 +1,93 @@
+merged_korea-jejuair-air-runways.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<other>This question is asking how many meters beyond the recommended ICAO buffer zone the wreckage came to rest, but the article only mentions that the concrete structure was 250 meters from the end of the runway, which is 50 meters short of the recommended buffer zone.</other>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<other>The article mentions that the transport ministry plans to improve the structures, but it does not specify that they will mandate a specific material.</other>
+<answer>N/A</answer>
+
+<question_number>12</question_number>
+<other>The article mentions that the cities of Gwangju, Yeosu, Pohang, and Gyeongju have airports with substandard concrete structures, but it does not specify which one is closest to the site of the Jeju Air crash.</other>
+<answer>N/A</answer>
+
+<question_number>13</question_number>
+<other>The article mentions that 7 out of 14 airports have navigation structures failing to meet frangibility standards.</other>
+<answer>50%</answer>
+
+<question_number>14</question_number>
+<answer>a localizer, an antenna array used to guide aircraft during landing</answer>
+
+<question_number>15</question_number>
+<other>The article mentions that South Korean officials initially said the barrier met safety regulations, but it does not specify which international organization's safety recommendations were cited.</other>
+<answer>N/A</answer>
+
+<question_number>16</question_number>
+<answer>7C2216</answer>
+
+<question_number>17</question_number>
+<answer>The Korea Airports Corporation</answer>
+
+<question_number>18</question_number>
+<answer>a voluntary inspection of localizer-housing structures</answer>
+
+<question_number>19</question_number>
+<answer>Incheon International Airport</answer>
+
+<question_number>20</question_number>
+<other>The article mentions that the concrete barrier was not frangible, but it does not specify why it failed to comply with international aviation safety guidelines.</other>
+<answer>N/A</answer>
+
+<question_number>21</question_number>
+<other>The article mentions that 2 people survived the crash, but it does not specify if this number was confirmed before or after the flight recorder's data gap was identified.</other>
+<answer>N/A</answer>
+
+<question_number>22</question_number>
+<other>The article mentions that the localizer housing at Incheon International Airport was made from easily breakable materials, but it does not specify what material was used.</other>
+<answer>N/A</answer>
+
+<question_number>23</question_number>
+<Sangdo Kim, a former South Korean ambassador to the U.N. aviation agency and deputy minister for civil aviation
+ answer>Sangdo Kim
+
+ < question_ number >24
+ < other >The article mentions that the plane descended without its wing flaps or landing gear deployed, but it does not specify why the landing gear was not deployed.
+ < answer >N/A
+
+ < question_ number >25
+ < answer >50
+
+ < question_ number >26
+ < other >The article mentions that The Korea Airports Corporation declined to comment on the transport ministry's statement, but it does not say that they refused to acknowledge the findings.
+ < answer >N/A
+
+ < question_ number >27
+ < other >The article mentions that aviation experts suggested that the collision with the barrier may have contributed to the high death toll, but it does not specify what feature of the barrier was criticized.
+ < answer >N/A

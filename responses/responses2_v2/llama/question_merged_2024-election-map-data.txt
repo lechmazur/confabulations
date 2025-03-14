@@ -1,0 +1,62 @@
+merged_2024-election-map-data.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<other>The article mentions that the team used the same approach in 2016 and 2020, but it does not specify which team members worked on the 2016 project.</other>
+<answer>N/A</answer>
+
+<question_number>12</question_number>
+<other>The article mentions that some data couldn't be matched to a precinct and thus was not included on the map, but it does not provide a specific percentage.</other>
+<answer>N/A</answer>
+
+<question_number>13</question_number>
+<other>The article mentions that the choropleth approach does not account for population, but it does not mention considering an alternative visualization method.</other>
+<answer>N/A</answer>
+
+<question_number>14</question_number>
+<other>The article mentions that the team used the same approach in 2016 and 2020, but it does not specify an alternative mapping technique used in 2020.</other>
+<answer>N/A</answer>
+
+<question_number>15</question_number>
+<other>The article suggests that outside researchers could conduct demographic analysis using the provided data, but it does not specify a type of analysis to compensate for incomplete information.</other>
+<answer>N/A</answer>
+
+<question_number>16</question_number>
+<other>The article mentions that the data for places that do not include early or mail-in absentee ballots in the precinct data they release is considered incomplete, but it does not quote Wilson Andrews on this topic.</other>
+<answer>N/A</answer>
+
+<question_number>17</question_number>
+<other>The article mentions that gathering precinct data is a time-consuming research task, but it does not provide a specific average time dedicated to collecting results data and precinct boundary files from a single state.</other>
+<answer>N/A</answer>
+
+<question_number>18</question_number>
+<other>The article mentions that data was trapped in PDF files and had to be parsed, but it does not specify the software or tool used for this task.</other>
+<answer>N/A</answer>

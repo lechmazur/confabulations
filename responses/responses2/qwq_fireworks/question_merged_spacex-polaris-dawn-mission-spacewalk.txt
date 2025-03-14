@@ -1,0 +1,27 @@
+merged_spacex-polaris-dawn-mission-spacewalk.txt
+Okay, let's tackle these questions one by one. 
+
+First question: Who will be the first crew member to exit the Crew Dragon capsule during the spacewalk?
+
+Looking through the article, I remember there's a part about the spacewalk. Let me find that. Here it is: "During the two-hour operation, the astronauts will put on their spacesuits before all the air is let out of the Crew Dragon; the inside of the spacecraft will become part of the vacuum of outer space. Then two crew members -- Mr. Isaacman and Ms. Gillis, connected by umbilical cords that will provide power, air and other life support needs -- will move outside the spacecraft to conduct tests on the spacesuits."
+
+So the two crew members are Isaacman and Gillis. The question is about the first to exit. Wait, does the article specify who goes first? The text just mentions they move outside together? Hmm. Wait, maybe the order isn't mentioned. The article says "two crew members -- Mr. Isaacman and Ms. Gillis..." but doesn't say who exits first. Since the question is asking for the first, maybe there's no info. Wait, maybe in another part? Let me check again.
+
+Looking further, the article states: "The highlight of the five-day journey is scheduled for the third day: the spacewalk. During the two-hour operation, the astronauts will put on their spacesuits before all the air is let out of the Crew Dragon; the inside of the spacecraft will become part of the vacuum of outer space. Then two crew members -- Mr. Isaacman and Ms. Gillis, connected by umbilical cords that will provide power, air and other life support needs -- will move outside the spacecraft to conduct tests on the spacesuits. Mr. Poteet and Ms. Menon will remain inside the capsule, keeping an eye on the displays and managing the umbilical cords, but 'taking all the same risks we are in the vacuum of space,' Mr. Isaacman said."
+
+No mention of who exits first. Since the question asks for the first, but the article doesn't specify order, maybe the answer is N/A. Wait, but maybe the question is a trick. The article says "two crew members -- Mr. Isaacman and Ms. Gillis" but maybe the order isn't stated. So the answer would be N/A because it's not specified who is first.
+
+Wait, but maybe the question is about who will exit, not the order. Wait the question is "Who will be the first crew member to exit..." So unless the article says who is first, it's N/A. Since it's not mentioned, the answer is N/A? Hmm, but maybe I missed something. Let me check again.
+
+Alternatively, maybe the answer is Jared Isaacman and Sarah Gillis. But the question is asking for the first, so unless one is named first in the list, maybe the order in the sentence indicates that. The names are listed as Isaacman and Gillis. In English, order might imply priority. But that's an assumption. The article might not explicitly state first. So perhaps the answer is Jared Isaacman and Sarah Gillis, but the question is asking for the first individual, so maybe N/A because it's not specified. Hmm, tricky. Maybe the answer is N/A.
+
+Second question: What is the primary method of communication between the Crew Dragon and ground control for this mission?
+
+Looking in the article: "will also try sending communications via laser pulses, instead of radio signals, between the Crew Dragon and SpaceX's Starlink constellation of internet satellites." So the primary method here is laser pulses. Wait, but the question is about communication with ground control. The article says they are trying laser pulses via Starlink. So the primary method here is laser pulses. The traditional method is radio, but the article says they are using laser pulses as part of the mission's tests. So the primary method for this mission is laser pulses. Therefore the answer is laser pulses.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Article mentions Mr. Isaacman and Ms. Gillis will move outside but does not specify who exits first.</other>
+<question_number>2</question_number>
+<answer>laser pulses</answer>

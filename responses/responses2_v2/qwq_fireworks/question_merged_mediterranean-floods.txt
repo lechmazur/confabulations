@@ -1,0 +1,88 @@
+merged_mediterranean-floods.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the given article. Let me start by going through each question and checking the text for answers.
+
+1. **Question 1:** The highest percentage increase in extreme rainfall between 1961-1980 and 2001-2020. The article mentions precipitation maps but doesn't specify which country had the highest increase. It lists countries like Spain, Italy, Greece, etc., but no percentages. So maybe N/A.
+
+2. **Question 2:** Water levels rising during Valencia floods killing over 200. The text says "Floods killed 223 people in Spain" in October but doesn't mention the meters risen. So N/A.
+
+3. **Question 3:** Total economic cost in 2023. The article mentions Slovenia's costliest floods but no total for all countries. So N/A.
+
+4. **Question 4:** Altitude where warm air condenses. The article says mountains cause air to rise and cool, but no specific altitude. N/A.
+
+5. **Question 5:** Number of cut-off lows in 2023. It mentions Storm Boris and another in Valencia, plus one over Greece (Storm Daniel). That's at least three, but the text says "sometimes when part..." but exact number? The article mentions three instances: Boris, Valencia's, and Daniel. So maybe 3? Wait, the text says "It was another cut-off low that caused Valencia" and "a cut-off low over Greece unleashed Storm Daniel". So three? But maybe the answer is 3? But need to check.
+
+6. **Question 6:** Percentage of coastal cities updating infrastructure. No data given. N/A.
+
+7. **Question 7:** Hours of warning before Libya dam failures. The article says "after two dams burst" but no warning time. N/A.
+
+8. **Question 8:** Predicted sea temp rise by 2050. The graph shows "+6degF" for mean temp by 2100, but the sea temp line goes up. The projection graph for sea surface temp shows 5 units (maybe degrees C?) by 2100. The question is about 2050. The graph's x-axis is 1860-2100. From 2020 to 2100, the line goes up. Assuming 2050 is halfway, maybe around 3°C? The text says "Mean temperature +6degF" but that's probably global. The sea temp graph's scale isn't clear. The article states "the Mediterranean region is already warming 20% faster than the global average." The projections are based on an intermediate emissions scenario. The exact number isn't given. So N/A?
+
+Wait, the graph has "Sea surface temperature" with a line that goes up. The numbers on the left for sea temp are 5,4,3,2,1,0,-1. Maybe those are increments? The text says "Mean temperature +6degF" which is about 3.3°C. The sea temp might follow that. The graph's projection for 2100 is at +5 or so. If the question is by 2050, maybe halfway to 2100, so around 2.5°C? But the article doesn't specify 2050. The question says "by 2050 based on the graphs". The graphs have 2100 as the end. The article says "Projected Mediterranean Climate Change" and shows up to 2100. Since the question is about 2050, perhaps the answer isn't there. So N/A.
+
+9. **Question 9:** Kilometers inland flood reached. No distance given. N/A.
+
+10. **Question 10:** Rainfall depth per hour in southern France's 28 inches over 48 hours. 28 inches is about 711 mm. Over 48 hours, that's ~14.8 mm/hour. But the article doesn't state this calculation. Since it's not explicitly given, maybe N/A. But the question asks for the average depth per hour. The article says "Almost 28 inches of rain fell in 48 hours". So 28 inches divided by 48 hours. But the answer needs to be in the text. The question says "based solely on the facts in the text". Since the text doesn't do the math, maybe N/A.
+
+11. **Question 11:** Emissions pathway for projections. The note says "Projected Mediterranean Climate Change" and mentions "an intermediate emissions scenario". So answer is intermediate.
+
+12. **Question 12:** Landscape feature causing air to rise and cool. The text mentions "mountains that ring much of the Mediterranean" blocking air, causing it to rise and cool. So mountains.
+
+13. **Question 13:** Country with 28 inches in 48 hours. The text says "October: Almost 28 inches of rain fell in 48 hours in southern France." So France.
+
+14. **Question 14:** Vulnerable area due to urban growth and steep riverbeds. The text says "coastal and floodplain areas... leaving little space for waterways. Those changes don't just amplify the risk of flooding... more homes and properties are being hit because of urban development..." So floodplain areas with steep riverbeds. The article mentions "steep river beds" and "coastal areas". The answer might be coastal areas or floodplains. The question says "geographical area... identified as increasingly vulnerable due to its dense population and steep riverbeds". The article says "coastal and floodplain areas... densely urbanized... steep river beds". So probably floodplain areas or coastal. The exact term in the text is "coastal and floodplain areas". But the question says "geographical area... identified as increasingly vulnerable due to its dense population and steep riverbeds". The article says "Most waterways in the region are fairly dry for long periods... When heavy rains come, the water quickly concentrates in steep river beds, and can rise several meters in just a few hours". The vulnerable area is "coastal areas" and "floodplain areas". The answer might be "coastal areas" since the flood risk areas map shows coastal cities. Alternatively, the text says "coastal areas of the Mediterranean basin have always been prone...". So maybe coastal areas.
+
+15. **Question 15:** Country where Storm Daniel originated. The article says "a cut-off low over Greece unleashed Storm Daniel, which strengthened as it crossed the Mediterranean into Libya, killing 13,200". So Greece.
+
+16. **Question 16:** Northern or North African coast with more precipitation intensification. The precipitation maps show both regions, but the text says "from Spain to the Balkans, and from Morocco to Libya". The article states "In some areas, disaster is beginning to feel like the new normal" but doesn't directly compare. The maps might show higher increases on one side, but the text doesn't specify which. The question is based on maps and narration. The article mentions "Spain, Italy, Greece, Libya" as affected. The maps might have more intense colors on one side. Since the text's examples include both northern and African countries, but the first paragraph mentions Spain to Balkans (north) and Morocco to Libya (Africa). The extreme events in 2023 include Italy, France, Spain, Greece, Libya. The article says "the intensity of these extreme precipitation events is likely to increase in the coming decades". The maps for 2001-2020 might show higher values in certain areas, but without specific data, perhaps the answer is N/A. Wait, the article says "the Mediterranean Sea is a potent source of moisture... often over the coastal areas in which much of the Mediterranean population is concentrated." The population is in both, but maybe the northern has more urban areas. The question is which side saw greater intensification. The text doesn't compare the two coasts directly. So N/A.
+
+17. **Question 17:** Factor heightening exposure. The article says "urban development and population growth... more homes and properties are being hit...". So urban development in floodplains.
+
+18. **Question 18:** Physical process causing more intense rain despite less average. The article says "as the temperature of the air rises, so does its capacity to hold water." So the process is increased atmospheric moisture capacity due to warmer air.
+
+19. **Question 19:** Month associated with floods in Spain and Italy. The text mentions October for Spain's floods killing 223 and Italy's floods displacing thousands in 2023. Also, Italy in 2023 had floods. So October.
+
+20. **Question 20:** Meteorological feature forming low-pressure systems. The text mentions "cut-off lows" formed from the polar jet stream's dip. So the polar jet stream's dip forms cut-off lows, which are the low-pressure systems. The answer is cut-off low pressure systems, but the question asks for the meteorological feature that forms them. The feature is the polar jet stream's dip or the jet stream itself. The text says "the strong atmospheric currents of the polar jet stream also play a role... when part of the jet stream breaks away, it forms a low-pressure system known as a cut-off low." So the feature is the polar jet stream.
+
+Now, compiling answers based on this.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>3</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>intermediate emissions scenario</answer>
+<question_number>12</question_number>
+<answer>mountains</answer>
+<question_number>13</question_number>
+<answer>FRANCE</answer>
+<question_number>14</question_number>
+<answer>coastal areas</answer>
+<question_number>15</question_number>
+<answer>GREECE</answer>
+<question_number>16</question_number>
+<answer>N/A</answer>
+<question_number>17</question_number>
+<answer>urban development</answer>
+<question_number>18</question_number>
+<answer>increased atmospheric moisture capacity</answer>
+<question_number>19</question_number>
+<answer>October</answer>
+<question_number>20</question_number>
+<answer>polar jet stream</answer>

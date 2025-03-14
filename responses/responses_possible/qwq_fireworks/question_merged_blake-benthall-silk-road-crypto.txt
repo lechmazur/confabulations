@@ -1,0 +1,55 @@
+merged_blake-benthall-silk-road-crypto.txt
+Okay, let's tackle these questions one by one using the article provided. I need to make sure each answer is directly from the text and follows the instructions strictly. Let's start with the first question.
+
+1. The first question asks about the specific technological development by Carnegie Mellon University researchers that led to Blake's arrest. The article mentions that the researchers developed a method to expose the locations of servers hosting dark websites. That's the key point here. So the answer should be that method.
+
+2. The second question is about why Blake took over Silk Road 2.0 fully. The text says his partner wanted out, so he had to choose between shutting it down or taking over. The pivotal factor was his partner leaving, so he took over to keep the site running.
+
+3. The third question asks why Blake got a lighter sentence than Brian Farrell. The article states Brian was lower on the totem pole and served a harsher sentence, implying Blake's cooperation with authorities was the reason for his leniency.
+
+4. For the fourth question, how did SpaceX contribute to his arrest? The article says when hackers attacked Silk Road, he heard coworkers talking about it at SpaceX. They suspected someone there, leading to his surveillance. So his employment there allowed authorities to connect him via his job.
+
+5. The fifth question is about the mistake letting Der-Yeghiayan in. The text says Blake hired anonymous customer service agents, one of whom was the undercover agent. So hiring an undercover agent as part of his team was the mistake.
+
+6. The sixth question compares Blake's sentencing to Ross Ulbricht. The article notes Ulbricht faced life in prison for ordering killings, while Blake wasn't seen as dangerous. His cooperation and lack of violent intent differentiated their sentences.
+
+7. Seventh question on Fathom(x)'s credibility. The article mentions his government work and experience give him credibility, so that's the answer.
+
+8. Eighth question: which investigator invested? The text says Vincent D'Agostino, the FBI agent, invested in Fathom(x).
+
+9. Ninth question: the prosecutor who opposed bail later worked in crypto. Katie Haun became a venture capitalist in crypto firms, so that's the commonality.
+
+10. The last question's ironic shift: some investigators like D'Agostino became crypto evangelists after initially opposing it, so their changed perspective is the answer.
+
+Now, check each answer against the text to ensure accuracy and that there's no missing info. Make sure to use exact terms from the article where possible. If any question isn't directly answered, put N/A. All answers here seem covered except maybe number 5, but the article does mention hiring the undercover agent as part of customer service. So all should be okay.
+</think>
+
+<question_number>1</question_number>
+<answer>a method to expose the locations of the servers used to host dark websites</answer>
+
+<question_number>2</question_number>
+<answer>his partner wanted out</answer>
+
+<question_number>3</question_number>
+<answer>his cooperation with the government</answer>
+
+<question_number>4</question_number>
+<answer>he was overheard by coworkers discussing the Silk Road hack in the SpaceX cafeteria</answer>
+
+<question_number>5</answer>
+<answer>he hired Jared Der-Yeghiayan (undercover agent) as an anonymous customer service agent</answer>
+
+<question_number>6</question_number>
+<answer>Benthall was seen as less dangerous and cooperated with authorities</answer>
+
+<question_number>7</question_number>
+<answer>his government work experience in crypto investigations</answer>
+
+<question_number>8</question_number>
+<answer>Vincent D'Agostino</answer>
+
+<question_number>9</question_number>
+<answer>the prosecutor (Katie Haun) later became a crypto investor</answer>
+
+<question_number>10</question_number>
+<answer>some investigators became crypto evangelists despite originally targeting crypto crimes</answer>

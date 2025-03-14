@@ -1,0 +1,43 @@
+merged_-saturday-night-live-skit-catchphrases-quotes.txt
+Okay, let's tackle these questions one by one using the provided article. I need to make sure each answer is directly from the text without any external knowledge.
+
+1. The first question asks about a character developed from a San Francisco improv moment that reoriented a comedian's career. The article mentions the Church Lady coming from an improv moment at the Other Cafe in SF by the author (probably Dana Carvey, but the text says "I" which refers to the interviewee). The answer here is the Church Lady. Wait, but the question mentions the character that "reoriented my entire career" as per the quote. The text says "I was doing standup in San Francisco... that's where the Church Lady came from... It shockingly got a big laugh... the biggest one was probably 'Well isn't that special?' Because that reoriented my entire career." So the catchphrase was "Well isn't that special?" but the character is the Church Lady. However the question is asking for the character that embodies this evolution. So the answer should be Church Lady. Wait, but the user says to answer based on the text exactly. The text says the character came from there, so yes.
+
+2. The second question is about Dana Carvey's character whose phrase became "Na ga da it". The article mentions George Bush Sr. impression where "Not gonna do it" evolved into "Na gana da it" and eventually "Na ga da it". The character is George H.W. Bush (impression by Dana Carvey). The answer is George Bush Sr.
+
+3. The third question is about a character judged with pursed lips without words. The Church Lady is mentioned as needing no words, just the lip purse. "the Church Lady is recognizable without even opening her mouth: All she needs are those pursed lips..." So answer is Church Lady.
+
+4. The fourth question refers to a 1992 call-in show about a diva, leading to "like buttah" and Ben & Jerry's. The article mentions Linda Richman on "Coffee Talk" (properly pronounced CAW-fee tawk) with Barbra Streisand, and the sketch inspired "like buttah" and a Ben & Jerry's flavor. The character is Linda Richman (played by Mike Myers). The answer is Linda Richman.
+
+5. Fifth question: Season 12's washed-up British singer with a song about a vegetable. The article says Dana Carvey's Derek Stevens did "Choppin' Broccoli" on the sketch with record execs. The character is Derek Stevens.
+
+6. Sixth question: Restaurant sketch rooted in Chicago's Billy Goat Tavern or father's diner. The text says John Belushi's Olympia diner was inspired by either Chicago's Billy Goat Tavern or his father's restaurant. The cast member is John Belushi.
+
+7. Seventh question: Chris Rock's segment "The Dark Side With Nat X". The article states Chris Rock plays the host of that show. The answer is Nat X.
+
+8. Eighth question: Sketch about a recording session demanding "more cowbell". The article mentions Blue Oyster Cult's "(Don't Fear) The Reaper" sketch with Christopher Walken and Will Ferrell, where the demand for more cowbell became famous. The answer is the "(Don't Fear) the Reaper" recording session sketch, but the question asks for the sketch name. The article refers to it as the making of "(Don't Fear) the Reaper" by Blue Oyster Cult. The answer is "more cowbell" is from the Blue Oyster Cult sketch. The question asks for the sketch title, but the article doesn't name it beyond the premise. However, the question is about the sketch itself, so the answer is the "(Don't Fear) the Reaper" recording session sketch. But the exact name might not be given. Wait, the article says "the supposed making of '(Don't Fear) the Reaper' by Blue Oyster Cult". So the answer is the "(Don't Fear) the Reaper" sketch.
+</think>
+
+<question_number>1</question_number>
+<answer>Church Lady</answer>
+
+<question_number>2</question_number>
+<answer>George H.W. Bush</answer>
+
+<question_number>3</question_number>
+<answer>Church Lady</answer>
+
+<question_number>4</question_number>
+<answer>Linda Richman</answer>
+
+<question_number>5</question_number>
+<answer>Derek Stevens</answer>
+
+<question_number>6</question_number>
+<answer>John Belushi</answer>
+
+<question_number>7</question_number>
+<answer>Nat X</answer>
+
+<question_number>8</question_number>
+<answer>(Don't Fear) the Reaper</answer>

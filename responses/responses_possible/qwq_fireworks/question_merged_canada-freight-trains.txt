@@ -1,0 +1,55 @@
+merged_canada-freight-trains.txt
+Okay, let's tackle these questions one by one based on the article provided. I need to make sure I'm only using the information from the text and not adding any outside knowledge.
+
+1. **Question 1**: The 2015 strike at Canadian Pacific ended with arbitration before government intervention. The recent dispute also led to government-ordered arbitration. So the 2015 resolution foreshadowed the government stepping in similarly this time. The answer should connect the use of arbitration before legislation.
+
+2. **Question 2**: Hunter Harrison's system aimed to boost efficiency by rigid schedules and reducing staff. The article mentions unions are concerned about crew fatigue and safety due to longer hours. The unexpected consequence here is that the efficiency strategy led to worker fatigue issues, which are now a point of contention in negotiations.
+
+3. **Question 3**: The article says Canadian National got a one-year contract extension to accommodate federal regulations. This change caused both companies' contracts to expire at the same time. The regulatory change leading to simultaneous expiration is the extension CN got.
+
+4. **Question 4**: The railways' profit-boosting strategies (like precision scheduling) involve cost-cutting and longer crew hours. The union links this to safety risks (derailments). The connection is that profit strategies directly relate to safety concerns by pushing workers harder.
+
+5. **Question 5**: The article states that autos can't easily switch to trucks. Since finished vehicles rely on rail, any shutdown uniquely impacts them. The discussion of alternatives not working highlights their vulnerability.
+
+6. **Question 6**: Earlier, MacKinnon turned down arbitration, but later ordered it. The language shift from "gave negotiations every possible opportunity" suggests the urgency increased over time.
+
+7. **Question 7**: Historical expiries on alternating years avoided shutdowns. Now, both expired at once, causing the current dispute. The connection is that the past system prevented simultaneous issues, but changing that led to the current problem.
+
+8. **Question 8**: Efficiency (like longer trains) boosts profits but causes labor issues leading to shutdown risks. The paradox is that efficiency measures could cause economic harm if they trigger strikes.
+
+9. **Question 9**: The shutdown started as harvest purchases began. Farmers had to stockpile, delaying payments. The timing links harvest timing to financial strain on farmers and elevators.
+
+10. **Question 10**: The article says a prolonged shutdown would have severe economic repercussions. Exports (380B CAD) and sectors like agriculture, mining, etc., would suffer. The answer is severe economic consequences.
+
+Wait, checking each again to ensure answers are directly from the text. For question 3, the regulatory change is indeed the extension CN got. For question 8, the paradox is efficiency leading to potential economic harm. All answers must be concise, using fragments as per instructions. Let me format them properly now.
+</think>
+
+<question_number>1</question_number>
+<answer>Arbitration was used before government back-to-work legislation, similar to recent approach.</answer>
+
+<question_number>2</answer>
+<answer>Increased worker fatigue risks due to longer hours demanded by efficiency measures.</answer>
+
+<question_number>3</question_number>
+<answer>Canadian National's one-year contract extension to accommodate federal regulations.</answer>
+
+<question_number>4</question_number>
+<answer>Railways' efficiency strategies (rigid schedules/longer shifts) directly linked to union safety concerns about crew fatigue.</answer>
+
+<question_number>5</question_number>
+<answer>Automotive industry relies almost exclusively on rail for finished vehicle transport with no truck alternatives.</answer>
+
+<question_number>6</question_number>
+<answer>MacKinnon initially rejected arbitration but later "gave negotiations every possible opportunity" before ordering it, showing increased urgency.</answer>
+
+<question_number>7</question_number>
+<answer>Past alternating expirations avoided shutdowns, while simultaneous expiration caused current dispute.</answer>
+
+<question_number>8</question_number>
+<answer>Efficiency measures boosting profits also created conditions causing economically damaging labor disputes.</answer>
+
+<question_number>9</question_number>
+<answer>Shutdown began as grain harvest purchases started, forcing farmers to delay sales and elevators to postpone payments.</answer>
+
+<question_number>10</question_number>
+<answer>Severe economic repercussions across multiple export-dependent sectors (agriculture, mining, etc.).</answer>

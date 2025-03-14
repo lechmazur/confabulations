@@ -1,0 +1,20 @@
+merged_alcohol-cancer-risk.txt
+<question_number>1</question_number>
+<answer>esophageal cancer</answer>
+
+<question_number>2</question_number>
+<answer>4.3%</answer>
+<other>15.3% for two drinks daily minus 11% for less than one drink weekly</other>
+
+<question_number>3</question_number>
+<answer>35 ounces</answer>
+<other>5 ounces per drink times 7 drinks per week</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>cancer of the oral cavity and pharynx</answer>
+
+<question_number>6</question_number>
+<answer>1.5 ounces</answer>

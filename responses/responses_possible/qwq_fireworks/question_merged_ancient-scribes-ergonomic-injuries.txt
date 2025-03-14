@@ -1,0 +1,50 @@
+merged_ancient-scribes-ergonomic-injuries.txt
+Okay, let's tackle these questions one by one based on the article. 
+
+1. The first question asks about a skeletal condition found more than twice as often in scribes, possibly due to a writing habit. The article mentions temporomandibular joints (TMJ) issues from nibbling pens. So the answer is temporomandibular joint degeneration.
+
+2. The second question is about an architectural element in scribes' tombs compared to lower-class burials. The text says non-scribes had "simple niche instead of an inscribed false door". The modern feature mentioned for Bartleby is a screen behind his desk. The false door is the element, so answer is false door.
+
+3. The body part linked to osteoarthritis in scribes' right side, aligned with artistic depictions. The article mentions right knee osteoarthritis from squatting. So right knee.
+
+4. The writing tool needing maintenance contributing to joint issues. The rush pen needed chewing to splay fibers, leading to jaw issues. So answer is rush pen.
+
+5. Skeletal condition from posture shown in art. The scribes' posture caused spinal stress, leading to osteoarthritis. So spinal osteoarthritis.
+
+6. Task inferred from art causing osteoarthritis pattern. The posture (bent head, unsupported arms) and squatting caused neck and spine issues. The specific pattern is right knee osteoarthritis from squatting, so the answer is squatting posture.
+
+7. Tomb decorations linked to skeletal condition. The article mentions "counting prisoners of war" in depictions, but the key is the scribes' posture. Wait, the question says "tomb decorations". The false door is part of tomb structure, but maybe the depictions of their work. Alternatively, the artistic depictions of their posture leading to spine/jaw issues. Hmm. The answer might be the same as question 6, but the question specifies tomb decorations. Wait, the question says "inferred from tomb decorations". The false doors are part of tombs, but maybe the depictions on tomb walls show their posture. The article says "artistic depictions of Egyptian scribes... cross-legged or one-legged squatting postures". So the answer would be their posture (squatting) leading to right knee osteoarthritis. But the question asks for an aspect of their work inferred from tomb decorations, which would be the posture. But the answer needs to be a specific skeletal condition. Wait, the question says "correlates with a specific skeletal condition not prevalent in non-scribes". The condition is osteoarthritis in the right knee. So the aspect of work is their posture (squatted position). But the question asks for the aspect of work, so maybe "squatted posture" or "writing posture". The exact wording in the question is: "inferred from artistic depictions... correlates with a specific pattern...". The answer would be the working position/posture. But the options given in the text mention "squatted postures" leading to spine and knee issues. The answer should be "squatted posture".
+
+Wait, but the question 6 and 7 might be similar. Let me check again. 
+
+Question 6: "inferred from artistic depictions, correlates with a specific pattern of osteoarthritis not seen in non-scribes?" The answer is their posture (squatted/sitting) leading to right knee osteoarthritis. So the aspect is "squatted posture".
+
+Question 7: "inferred from tomb decorations... correlates with a specific skeletal condition not prevalent in lower-class remains?" Tomb decorations would include the depictions of their work. The same posture. So same answer? Maybe. Alternatively, the "counting prisoners" part? But that's part of the artistic depiction. The key is the posture leading to spinal issues. The answer is probably "squatted posture".
+
+8. Anatomical feature with the same name as a scroll part. The scroll was rolled. The right thumb had deformities from pinching the pen. The thumb is part of the hand, but the question says shares name with a scroll part. The scroll is rolled, so maybe the "spine" of the scroll? But the article mentions "spine" as a joint affected. The scroll's spine? Not sure. Wait, the article says "the right knee and the spine -- especially in the neck." Maybe the "spine" of the scroll (the rolled part) and the anatomical spine? So answer is spine.
+
+9. The aspect of burials used to identify scribes that contradicts their health. The scribes were in elite tombs with false doors, but they had health issues from their work. The irony is that their elite status (buried with false doors) but they had occupational hazards. The question asks what aspect of their burials used to identify them (like false doors) that contradicts their health (since elite might be expected to have better health, but they had more ailments). The answer is false door.
+
+10. The biennial task contributing to joint wear. The article mentions "recording the biennial cattle census". The task is the cattle census. The joint wear pattern would be from that task. So the answer is cattle census.
+</think>
+
+<question_number>1</question_number>
+<answer>temporomandibular joint degeneration</answer>
+<question_number>2</question_number>
+<answer>false door</answer>
+<question_number>3</question_number>
+<answer>right knee</answer>
+<question_number>4</question_number>
+<answer>rush pen</answer>
+<question_number>5</question_number>
+<answer>spinal osteoarthritis</answer>
+<question_number>6</question_number>
+<answer>squatted posture</answer>
+<question_number>7</question_number>
+<answer>squatted posture</answer>
+<question_number>8</question_number>
+<answer>spine</answer>
+<question_number>9</question_number>
+<answer>false door</answer>
+<question_number>10</question_number>
+<answer>cattle census</answer>

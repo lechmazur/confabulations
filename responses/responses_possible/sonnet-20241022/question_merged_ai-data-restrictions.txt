@@ -1,0 +1,32 @@
+merged_ai-data-restrictions.txt
+<question_number>1</question_number>
+<answer>They cannot afford to license data directly from publishers</answer>
+
+<question_number>2</question_number>
+<answer>The changes primarily impact new entrants while major tech companies already possess the data</answer>
+
+<question_number>3</question_number>
+<answer>Many researchers doubt today's A.I. systems can generate enough high-quality synthetic data to replace the human-created data they're losing</answer>
+
+<question_number>4</question_number>
+<answer>The web will start shutting its doors</answer>
+
+<question_number>5</question_number>
+<answer>Major tech companies already have the data while smaller entities rely on public data sets and cannot afford licensing deals</answer>
+
+<question_number>6</question_number>
+<answer>Major tech companies retain access to previously collected data while new restrictions only affect future data collection</answer>
+
+<question_number>7</question_number>
+<answer>The restrictions primarily affect smaller start-ups and researchers who are trying to enter the field</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>50%</answer>
+<other>This can be calculated from the article stating 5% is restricted by robots.txt and 45% by terms of service, leaving 50% unrestricted</other>
+
+<question_number>10</question_number>
+<answer>75%</answer>
+<other>The article states that 25% of data from highest-quality sources has been restricted, therefore 75% remains unrestricted</other>

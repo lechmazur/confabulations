@@ -1,0 +1,24 @@
+merged_africa-snakebite-treatment-access.txt
+<question_number>1</question_number>
+<answer>The article states that Beatrice's finger "blistered, swelled and turned black despite a second dose" of antivenom, indicating that the venom from the snake bite had already caused significant tissue damage and necrosis that could not be fully reversed even with antivenom treatment. This suggests the venom contained potent hemotoxins that disrupted blood clotting and caused progressive tissue death, requiring amputation of the affected finger.</answer>
+
+<question_number>2</question_number>
+<answer>The article explains that antivenoms made in India, where kraits are most common, are "useless against the black mambas or puff adders that terrorize Kenyans." This is because the venom composition and toxin profiles can vary significantly even within the same snake species across different geographic regions, rendering antivenoms ineffective if they are not specifically tailored to the local snake populations.</answer>
+
+<question_number>3</question_number>
+<answer>The article states that researchers are pursuing "new approaches to treating snakebites, including lab-made monoclonal antibodies that would disarm the most important toxin families present in snakes across several continents." This suggests the need for a cocktail of monoclonal antibodies targeting the key neurotoxins and hemotoxins found in the most medically significant snake species globally, to provide a more universal treatment solution.</answer>
+
+<question_number>4</question_number>
+<answer>The article describes how spitting cobras can "shoot venom into their prey's eyes from up to five meters away." This venom delivery method could easily be mistaken for a non-venomous ocular injury, especially in regions where traditional healers are the primary care providers and may not be trained to recognize the distinctive symptoms of snakebite envenomation.</answer>
+
+<question_number>5</question_number>
+<answer>The article states that "Hot, dry seasons send snakes in search of food -- rats, poultry, eggs -- and water," which would increase the risk of snakebites for farmers and rural residents. Additionally, the "rainy season, flooding forces snakes out of their holes, and the calls come nearly every day," suggesting a seasonal peak in snakebite incidence that could disproportionately affect agricultural workers and those living in more precarious housing conditions.</answer>
+
+<question_number>6</question_number>
+<answer>The article describes black mambas as having "short, erect fangs at the front of the mouth that inject neurotoxins under the skin, paralyzing the victims." In contrast, puff adders have "long, retractable fangs that can deliver poison into muscle." Additionally, black mambas can reach lengths up to 14 feet, allowing them to strike more rapidly, while puff adders are shorter at up to 6 feet. These anatomical and behavioral differences enable black mambas to deliver a faster-acting, potentially more lethal neurotoxic envenomation compared to the slower-acting hemotoxins of puff adders.</answer>
+
+<question_number>7</question_number>
+<answer>The article states that antivenom "must be kept cold and sterile and administered intravenously" and that it "should ideally be administered within six hours" of the bite. However, in Kilifi, Kenya, the "median time to hospital admission for a snakebite is nearly seven hours, and administration of antivenom takes another three." This delay, combined with the thermal instability of antivenom and the healthcare infrastructure limitations, would disproportionately impact pregnant victims, for whom snakebite can have catastrophic outcomes like spontaneous abortion and fetal death.</answer>
+
+<question_number>8</question_number>
+<answer>The article explains that "tourniquets can halt the venom's flow, but they often cause more harm than the bite itself, cutting off blood supply and leading to amputations." This paradoxical outcome arises from the widespread use of tourniquets and traditional treatments, which can exacerbate the venom's effects on blood clotting and tissue perfusion, ultimately necessitating amputations that may have been avoidable with prompt antivenom administration.</answer>

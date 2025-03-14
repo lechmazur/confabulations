@@ -1,0 +1,68 @@
+merged_citibank-protests-climate-fossil-fuel-nyc.txt
+Okay, I need to answer these 10 questions based solely on the provided article. Let me go through each question one by one and check the text for the answers.
+
+1. The first question asks how the protest movement's focus on Citigroup's investments challenges the bank's claim of supporting a low-carbon economy. The article mentions that Citigroup has set climate neutrality targets but their investment portfolio conflicts with global climate goals. So the answer would be that the protests highlight this contradiction between their investments and their stated goals.
+
+2. The second question is about the tension between local climate impacts and international financial practices. The text mentions that Citigroup is investing globally in oil and gas, while activists from areas like Texas and Louisiana (where fossil fuel projects are concentrated) are protesting. This shows that local impacts (like in Sulphur, La.) are tied to global financial decisions. So the focus on Citigroup's global investments shows that local effects are linked to international finance.
+
+3. The third question challenges the bank's narrative of contributing to a sustainable future. The article states that their portfolio is at odds with climate goals, so the critique is that their fossil fuel investments undermine sustainability. Answer: Their investments contradict sustainability goals.
+
+4. The fourth question is about the interconnectedness of global financial systems. The protests target Citigroup's global financing of fossil fuels, implying that global financial systems enable climate issues. The answer would be that Citigroup's global investments show how financial systems fund fossil fuels worldwide, affecting climate.
+
+5. The fifth question is about challenging Citigroup's public image as a leader in sustainable finance. The article says Citigroup claims net zero commitments and a $1 trillion sustainable finance goal, but activists point out their continued fossil fuel funding. So the critique is that their actions don't match their image.
+
+6. The sixth question on immediate impacts like heat waves vs. long-term goals. The protesters emphasize current heat waves (immediate) while banks have 2050 targets. The disconnect is between current realities (heat) and distant goals. Answer: Protesters stress current crises vs. distant targets.
+
+7. The seventh question on aligning financial practices with climate goals. The article states that banks' investments conflict with global climate goals, so the focus shows that their practices aren't aligned. Answer: Citigroup's fossil fuel investments conflict with climate targets.
+
+8. The eighth question is about the ironic name "Summer of Heat" reflecting both the cause and the conditions. The protests happened during a hot summer, and the heat is due to fossil fuels. The name uses the actual hot weather to symbolize the cause. Answer: The name uses the literal heat of summer to mirror the climate crisis they're protesting.
+
+9. The ninth question on protesters' attire representing climate consequences. The article mentions activists wearing burlap sacks labeled with climate hazards like "heat waves" and "ocean acidification". So their clothing depicted these impacts. Answer: Wore burlap sacks labeled with climate hazards.
+
+10. The tenth question connects a retail company to Citigroup. The text says protesters dressed as Costco hot dogs because of Costco's business dealings with Citi. So the connection is that Costco partners with Citigroup. Answer: Costco's business ties to Citigroup.
+
+Wait, need to ensure all answers are directly from the text. Let me check each again:
+
+1. The article says the bank's portfolio is at odds with global goals. So the protest challenges their claim by pointing out the contradiction. Answer: Their investments conflict with climate neutrality targets.
+
+2. The activists from areas with fossil fuel projects (Texas, Louisiana) protest Citigroup's global investments. So local impacts (their communities) are tied to global finance. Answer: Local communities affected by fossil fuels linked to global investments.
+
+3. The critique is that their portfolio isn't aligned with sustainability. The answer is that their fossil fuel investments undermine sustainability claims.
+
+4. The global investments show how financial systems fund fossil fuels worldwide. The answer is that Citigroup's global financing reveals how financial systems enable fossil fuel projects globally.
+
+5. The bank's public image vs. their actual investments. Answer: Their continued fossil fuel funding contradicts sustainability image.
+
+6. The protesters highlight current heat waves (now) vs. 2050 targets. Answer: Immediate climate impacts vs. long-term financial goals.
+
+7. Citigroup's investments conflict with climate goals. Answer: Fossil fuel investments conflict with climate targets.
+
+8. The name "Summer of Heat" uses the actual hot summer to symbolize the crisis. Answer: The name uses the literal summer heat to reflect both the cause (heat from fossil fuels) and the protest conditions (hot weather).
+
+9. The Third Act group wore burlap sacks with climate terms. Answer: Wore burlap sacks labeled with climate hazards like heat waves.
+
+10. Costco was targeted because of business dealings with Citigroup. Answer: Costco's business ties to Citigroup.
+
+I need to make sure each answer is concise, using fragments as per instructions. Also, check for N/A if not in the text. All answers seem present except maybe question 2? Let me recheck question 2. The question is about the tension between local climate impacts and international financial practices. The article mentions activists from Texas and Louisiana (local areas affected by fossil fuel projects) protesting Citigroup's global investments. So the answer is that local communities' climate impacts (from fossil fuels) are driven by Citigroup's global financial practices. So answer is correct as before.
+</think>
+
+<question_number>1</question_number>
+<answer>Investments in fossil fuels contradict Citigroup's climate neutrality targets.</answer>
+<question_number>2</question_number>
+<answer>Local communities' fossil fuel project impacts linked to global financial support.</answer>
+<question_number>3</question_number>
+<answer>Fossil fuel investments undermine sustainability goals.</answer>
+<question_number>4</question_number>
+<answer>Citigroup's global financing reveals systemic fossil fuel funding.</answer>
+<question_number>5</question_number>
+<answer>Continued fossil fuel funding contradicts sustainability claims.</answer>
+<question_number>6</question_number>
+<answer>Immediate heat crises vs. distant 2050 climate targets.</answer>
+<question_number>7</question_number>
+<answer>Fossil fuel investments conflict with climate goals.</answer>
+<question_number>8</question_number>
+<answer>Name uses literal summer heat to mirror climate crisis and protest conditions.</answer>
+<question_number>9</question_number>
+<answer>Wore burlap sacks labeled "heat waves," "bleached corals," etc.</answer>
+<question_number>10</question_number>
+<answer>Costco's business ties to Citigroup.</answer>

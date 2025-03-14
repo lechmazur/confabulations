@@ -1,0 +1,68 @@
+merged_bird-flu-tests.txt
+Okay, I need to go through each question and find the answers strictly from the article provided. Let me start with the first question.
+
+1. The first question asks about the primary reason the current testing strategy might fail despite enough tests. The article mentions that farmworkers might not get tested because they don't know their risk, can't afford the fee, or fear their employers finding out. So the answer is about lack of awareness, access, or willingness.
+
+2. The second question is about the CDC's historical role impacting deployment speed. The article says the CDC hasn't been a leader in convening labs, leading to slow decisions. So the answer relates to lack of clear leadership and needing many people's input.
+
+3. The third question asks why the current process is inadequate if the virus mutates. The article states that tests are only at public health labs, not everywhere else like homes. So the answer is that tests aren't widely available outside public labs.
+
+4. The fourth question is about the discrepancy between tests available and people tested. The article says thousands of cows were tested but only 60 people, indicating poor outreach or access. So the answer is that the strategy isn't effectively reaching farmworkers.
+
+5. The fifth question asks which agency's timeline was called slow by an expert. The expert Dr. Varma, who evaluated CDC's labs, said the timeline is slow. So the answer is CDC.
+
+6. The sixth question is about clinics' flu testing capability. Clinics have tests for flu generally but can't distinguish H5N1. So they need to send samples to public health labs.
+
+7. The seventh question asks how many dairy workers in infected areas didn't know about bird flu. The article says six workers in four states, including four from infected counties, hadn't heard of it. So the answer is four.
+
+8. The eighth question is about the CDC's turnaround time. Dr. Daskalakis mentions six hours if they alert the CDC immediately.
+
+9. The ninth question's discrepancy is between the expert playbook (30 days) and the National Plan (90 days) for point-of-care tests. So the difference is 60 days.
+
+10. The tenth question refers to a committee report stating over 100 people needed for decisions. The answer is over 100, but the exact number is "more than 100".
+
+Wait, let me check each again:
+
+1. Primary reason: The article says "farmworkers must know about their risk... get to a clinic... comfortable having employer find out". Also, "workers aren't getting education... not getting testing". So the main reason is that workers aren't being educated or tested, so the answer is lack of education/access.
+
+2. CDC's historical role: The article states "CDC has not historically asserted itself as a leader... no clear leader... decisions required input from over 100 people". So the answer is lack of clear leadership and needing many inputs.
+
+3. Inadequate because tests are only at public labs. The article says "if it mutates to spread among people, need tests in homes, schools etc., which they don't have now."
+
+4. Discrepancy shows the strategy isn't effective in reaching workers, hence ineffective.
+
+5. The expert who evaluated CDC's labs and called the process slow is Dr. Varma. The question specifies the agency's timeline described as slow by that expert. So CDC.
+
+6. Clinics have general flu tests but can't confirm H5N1 without sending samples. The answer is they can detect flu but not distinguish H5N1.
+
+7. Four from counties with infected herds. The exact number is four.
+
+8. The CDC official (Daskalakis) said six hours.
+
+9. Playbook says 30 days, National Plan 90 days. The difference is 60 days.
+
+10. The report said "major decisions required input from more than 100 people". So the answer is over 100, but the question asks for the number, which is "more than 100", but since they want exact, maybe "over 100" but the answer should be "more than 100" or the exact phrase. The article says "more than 100 people", so the answer is "more than 100".
+
+Now, ensuring all answers are precise as per the text, no external info.
+</think>
+
+<question_number>1</question_number>
+<answer>farmworkers lack awareness of risk, access to affordable testing, and fear employer discovery</answer>
+<question_number>2</question_number>
+<answer>lack of clear leadership and requirement for input from over 100 people</answer>
+<question_number>3</question_number>
+<answer>tests only available at public health labs, not in homes/workplaces</answer>
+<question_number>4</question_number>
+<answer>indicates poor outreach/access for farmworkers</answer>
+<question_number>5</question_number>
+<answer>CDC</answer>
+<question_number>6</question_number>
+<answer>detect flu generally but cannot distinguish H5N1</answer>
+<question_number>7</question_number>
+<answer>four</answer>
+<question_number>8</question_number>
+<answer>six hours</answer>
+<question_number>9</question_number>
+<answer>60 days (30 vs 90)</answer>
+<question_number>10</question_number>
+<answer>more than 100</answer>

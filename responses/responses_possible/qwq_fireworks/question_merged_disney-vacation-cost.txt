@@ -1,0 +1,44 @@
+merged_disney-vacation-cost.txt
+Okay, I need to tackle these questions one by one based strictly on the article provided. Let me start by reading through each question carefully and then find the answers in the text.
+
+1. **Question 1**: The first question asks about a specific change in Disney's transportation services from Orlando International Airport that reflects rising costs and diminishing perks. The article mentions the end of the free Magical Express shuttle, replaced by a paid shuttle. That's the key point here. So the answer is the elimination of the free Magical Express bus service.
+
+2. **Question 2**: The second question is about the relationship between Disney's cost increases and visitors choosing international travel. The article states that Disney's leaders noted in an earnings call that higher-income guests are traveling internationally because of the economy. So the answer is that rising costs correlate with higher-income visitors opting for international trips instead.
+
+3. **Question 3**: Len Testa noted that Disney vacations are now competing with places like Europe. The article gives an example of choosing between Italy pavilion pizza or actually going to Italy. The correlation is that rising costs make Disney less competitive compared to actual international trips. So the answer is that rising costs make Disney vacations less appealing compared to traveling to Europe.
+
+4. **Question 4**: Jake Williams compared the cost of a Disney cruise to his Orlando trip. He said, "you could even do a Disney cruise for less than that." His Orlando trip cost $886.34, so the cruise is cheaper. The answer is that a Disney cruise is cheaper.
+
+5. **Question 5**: The question asks the hypothetical cost if 2023's trip only increased by inflation. The article says he was stunned even accounting for inflation, but there's no specific number given. Since the text doesn't provide the inflation-adjusted amount, the answer is N/A.
+
+6. **Question 6**: Len Testa's data says 70% of the increase since 2019 is from formerly free services. The answer is 70%.
+
+7. **Question 7**: The base ticket price increased 32% from 2014-2025, while the highest tickets went up 90%. The comparison is 90% vs 32%, so the answer is 90% vs 32%.
+
+8. **Question 8**: Lightning Lane starts at $30/day. The cheapest hotel is $187/night. So $30 is cheaper than $187. The answer is $30 compared to $187.
+
+9. **Question 9**: The correction was that Lightning Lane started in July, not June. The answer is that the correction states it started in July, not June.
+
+10. **Question 10**: The total increase since 2019 is almost 25%, with 70% of that from formerly free services. So the increase is 25%, and 70% of that is from those services. The question asks how the total increase compares to the percentage from free services. The answer is 25% total with 70% of that from free services. But the question phrasing is a bit tricky. Wait, the question says "how does the cost increase... compare to the percentage attributed..." Maybe it's asking for the percentage of the increase due to free services, which is 70%, but the question wording might be looking for the 25% total and 70% of that. The article says "the cost of a Disney World trip, on average, has gone up almost 25 percent since 2019. Seventy percent of that increase is for services that used to be free." So the answer is that 70% of the 25% increase is from formerly free services. So the answer is 70% of the 25% increase.
+</think>
+
+<question_number>1</question_number>
+<answer>Magical Express was replaced with a paid shuttle</answer>
+<question_number>2</question_number>
+<answer>Rising costs cause higher-income guests to choose international travel</answer>
+<question_number>3</question_number>
+<answer>Rising costs make Disney vacations less appealing than traveling to Europe</answer>
+<question_number>4</question_number>
+<answer>Cheaper</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>70%</answer>
+<question_number>7</question_number>
+<answer>90% vs 32%</answer>
+<question_number>8</question_number>
+<answer>$30 vs $187</answer>
+<question_number>9</question_number>
+<answer>Corrected to July start instead of June</answer>
+<question_number>10</question_number>
+<answer>70% of the 25% increase is from formerly free services</answer>

@@ -1,0 +1,76 @@
+merged_jejuair-crash-south-korea-safety.txt
+Okay, let's tackle these questions one by one using only the provided article.
+
+1. **Question 1**: The article mentions Korean Air brought in specialists from Delta Air Lines and Boeing. So the answer is Delta Air Lines.
+
+2. **Question 2**: The article states that the International Civil Aviation Organization recommends 180-300 meters, but South Korea's requirement isn't specified. The question asks what they required prior to the crash. Since the article says South Korea followed ICAO standards, maybe they used the ICAO's 180-300 meters. Wait, but the question is about South Korean authorities' own requirement. The article says "South Korea worked to move its domestic operations closer in line with some 10,000 of the international group's standards". So maybe their own requirement was the same as ICAO's, so 180-300 meters? But the question is how many meters they required before the crash. The article also mentions Muan's barrier was 250 meters from the runway end, which is within the ICAO's recommended range. However, the question asks specifically what South Korea required. Since the article says they aligned with ICAO's standards, the answer would be the ICAO's recommended 180-300 meters. But the question is about prior to the crash, so yes, that's the answer.
+
+3. **Question 3**: The article mentions Jeju Air Flight 7C2216, but doesn't provide the registration number (like the tail number). So N/A.
+
+4. **Question 4**: The article says South Korea implemented 10,000 international standards. Between 2001 and 2008, so 10,000. But the question says "how many international aviation safety standards"—the exact number is given as "some 10,000". So the answer is 10,000.
+
+5. **Question 5**: The article mentions a possible bird strike but doesn't specify the altitude. So N/A.
+
+6. **Question 6**: The article says officials in South Korea said the barrier met regulations, then later they would examine it. But it doesn't name a specific official. So N/A.
+
+7. **Question 7**: The article mentions the 1997 Guam crash killing over 200, but doesn't state a percentage improvement. So N/A.
+
+8. **Question 8**: The article says Korean Air brought in specialists from Delta and Boeing but doesn't specify the number. So N/A.
+
+9. **Question 9**: The article doesn't mention previous incidents at Muan before the crash. So N/A.
+
+10. **Question 10**: The collaboration was with Delta and Boeing, but the question asks which airline's collaboration with them was mentioned. The article says Korean Air did that. So the answer is Korean Air.
+
+11. **Question 11**: The article states South Korea joined the ICAO council around the time the FAA downgraded them in 2001. So the year is 2001.
+
+12. **Question 12**: The structure was a localizer antenna. The article says after the crash, they might alter the concrete barrier, but it doesn't mention retrofitting with frangibility. The FAA mandates aren't mentioned here. The question asks which structure was retrofitted post-crash. The article says the barrier was concrete and non-frangible. The answer might be the localizer antenna structure, but the article says they were examining if it should be altered, not that they retrofitted it yet. So N/A.
+
+13. **Question 13**: The 1997 Guam crash killed over 200. The article says "more than 200 passengers and crew members". So over 200, but exact number? The question asks how many fatalities, so the answer is "more than 200" but the instructions say to use exact numbers or N/A if not exact. Since it's stated as "more than 200", maybe the answer is "N/A" because it's not exact. Wait, the question says "how many", so if it's stated as "more than 200", but the article doesn't give an exact number, then N/A.
+
+14. **Question 14**: The article says the FAA downgraded South Korea in 2001, but the question is which regulatory body mandated revisions to Muan's runway after the crash. The article mentions South Korea's own officials, not the FAA. The FAA's standards are mentioned, but the article doesn't say the FAA mandated changes post-crash. So N/A.
+
+15. **Question 15**: The Flight Safety Foundation provided guidance. The article says Korean Air invited them. The question is which organization provided direct oversight. The article doesn't say they had oversight, just that they were invited to look at operations. So maybe N/A. Or the ICAO? The article says ICAO conducts audits, but the question is about Jeju Air's protocols. The Flight Safety Foundation is a non-Korean org mentioned. The answer might be Flight Safety Foundation, but the question specifies "direct oversight". The article says they "take a look", which is part of the overhaul, but not direct oversight. So N/A.
+
+16. **Question 16**: The article mentions Flight Safety Foundation's involvement but doesn't specify the audit year. The timeline: Korean Air invited them around the time of the FAA downgrade in 2001. The Flight Safety Foundation's president is quoted, but no audit date. So N/A.
+
+17. **Question 17**: The article says the cause is still under investigation and the preliminary hasn't identified it. So N/A.
+
+18. **Question 18**: The article mentions Korean Air worked with Delta and Boeing, but the question is about the localizer antenna structure at Muan. The article doesn't mention which country assisted in redesigning it. So N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>Delta Air Lines</answer>
+<question_number>2</question_number>
+<answer>180-300</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>10,000</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>Korean Air</answer>
+<question_number>11</question_number>
+<answer>2001</answer>
+<question_number>12</question_number>
+<answer>N/A</answer>
+<question_number>13</question_number>
+<answer>N/A</answer>
+<question_number>14</question_number>
+<answer>N/A</answer>
+<question_number>15</question_number>
+<answer>N/A</answer>
+<question_number>16</question_number>
+<answer>N/A</answer>
+<question_number>17</question_number>
+<answer>N/A</answer>
+<question_number>18</question_number>
+<answer>N/A</answer>

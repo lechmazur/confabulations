@@ -1,0 +1,61 @@
+merged_bird-flu-biden-trump.txt
+<question_number>1</question_number>
+<answer>Moderna</answer>
+<other>The article specifically states Moderna received $176 million to develop an mRNA vaccine.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article does not mention the number of dairy workers with respiratory symptoms.</other>
+<question_number>3</question_number>
+<answer>$1.5 billion</answer>
+<other>The article states $1.5 billion was spent by the Agriculture Department.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article mentions the implementation of testing, but not when it began.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article does not specify the percentage allocated for diagnostics.</other>
+<question_number>6</question_number>
+<answer>one</answer>
+<other>The article states "one of the mutations" was found in both patients.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article states most cases have been mild, but doesn’t provide a recovery rate.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article mentions a national strategy, but not which state implemented it first.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article states the CDC contracted with commercial manufacturers, but doesn’t specify the number.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article does not mention a predicted mortality rate.</other>
+<question_number>11</question_number>
+<answer>Health and Human Services Department</answer>
+<other>The article states the funds come from HHS.</other>
+<question_number>12</question_number>
+<answer>Robert F. Kennedy Jr.</answer>
+<other>The article directly names him and his statement.</other>
+<question_number>13</question_number>
+<answer>Dr. Paul Friedrichs</answer>
+<other>The article identifies him as the director of the office.</other>
+<question_number>14</question_number>
+<answer>H5N1</answer>
+<other>The article consistently refers to H5N1.</other>
+<question_number>15</question_number>
+<answer>California</answer>
+<other>The article specifically mentions California declaring a state of emergency.</other>
+<question_number>16</question_number>
+<answer>$1.5 billion</answer>
+<other>The article states this amount was spent by the Agriculture Department.</other>
+<question_number>17</question_number>
+<answer>testing of dairy cows moving across state lines</answer>
+<other>The article directly states this mandate.</other>
+<question_number>18</question_number>
+<answer>potential budget cuts to health agencies</answer>
+<other>The article implies concern over cuts to the CDC and NIH.</other>
+<question_number>19</question_number>
+<answer>Center for Strategic and International Studies</answer>
+<other>The article cites their report and J. Stephen Morrison.</other>
+<question_number>20</question_number>
+<answer>gene mutations that might help H5N1 infect people more easily</answer>
+<other>The article describes these mutations as concerning.</other>

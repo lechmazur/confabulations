@@ -1,0 +1,31 @@
+merged_mortgage-rates-housing.txt
+<question_number>1</question_number>
+<answer>0.43</answer>
+<other>The article states the current rate is 6.93% and McBride expects 6.5% at the end of 2025. 6.93 - 6.5 = 0.43</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions December data but doesn't specify a peak month for the 10-year Treasury yield based on the professor's analysis.</other>
+<question_number>3</question_number>
+<answer>3 percent</answer>
+<other>The article directly states "when the average 30-year rate was around 3 percent."</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article does not provide enough information to calculate the rate at the end of the next quarter based on the pace between late September and this week.</other>
+<question_number>5</question_number>
+<answer>4.7 percent</answer>
+<other>The article states "On Wednesday, the 10-yield briefly rose above 4.7 percent."</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article mentions a monthslong decline before late September but doesn't specify the lowest rate reached during that period.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article states economists said Trump's tariffs would be inflationary but doesn't quantify the impact in percentage points.</other>
+<question_number>8</question_number>
+<answer>8 percent</answer>
+<other>The article states mortgage rates peaked "close to 8 percent" in 2022 and 2023.</other>
+<question_number>9</question_number>
+<answer>6.5 percent</answer>
+<other>The article states "He expects mortgage rates to end 2025 around 6.5 percent."</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article only mentions the signaled two reductions and does not provide a projection for three reductions.</other>

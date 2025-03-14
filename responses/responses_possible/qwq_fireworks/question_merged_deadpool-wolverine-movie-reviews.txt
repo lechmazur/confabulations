@@ -1,0 +1,68 @@
+merged_deadpool-wolverine-movie-reviews.txt
+Okay, let's tackle these questions one by one based on the article provided. 
+
+Starting with question 1: The paradox is about the film's self-referential humor and lack of stakes. The article mentions critics saying it's self-referential and lacks real tension or stakes. So the paradox is that the humor might be overshadowing the stakes, making the story weaker. The answer should connect those two points directly.
+
+Question 2 asks how the film's attempt to save superhero movies contrasts with portraying the MCU as a villain. The article says the film "makes the M.C.U. the villain" but also "rescues something... from the ugliness that superhero movies have perpetuated." So the contrast is that while it criticizes the MCU (as a villain), it tries to offer a solution to the genre's problems.
+
+Question 3's theme connects satire and legacy. The Variety review mentions Deadpool's desire for legacy as a microcosm of superhero stories' challenges. The underlying theme is confronting the industry's reliance on franchises and market forces.
+
+Question 4: Deadpool's challenge to being a hero who stands for something. The Polygon review states the film's hero is "the worst kind... doesn't stand for anything." So the answer is that Deadpool's character is seen as not having meaningful principles.
+
+Question 5: The humor being both a strength and weakness. The Guardian says "amusing and exhausting," and the article mentions it's "relentless" and "annoying." So the humor is engaging but overdone.
+
+Question 6's irony in confronting Marvel's control while being part of it. The Variety review says the movie is "at the mercy of both Marvel and the market" even as it addresses that issue. The irony is it criticizes the system it's part of.
+
+Question 7: The final act resolving comedic vs. action. The AP review mentions the final fight scene "perks viewers back up" and "sticks the landing," so the answer is that the finale balances both elements successfully.
+
+Question 8: Being a meta-sequel and a send-off to X-Men. The Variety review calls it a "send-off to Fox's X-Men" while it's a meta-commentary on the MCU. The contradiction is mixing meta-commentary with ending a previous franchise.
+
+Question 9: The irreverence leading to lack of tension. The Vulture quote says the movie's humor "beat you down" but lacks stakes. The answer is that the constant jokes undermine tension.
+
+Question 10: Satire causing "amusing and exhausting." The Guardian's review directly links the satirical elements to being both entertaining and draining. So the relationship is that the satire creates both reactions.
+
+I need to ensure each answer is a direct fragment from the text or a logical inference. If any question can't be answered, mark N/A. Let me check each again quickly.
+
+1. Paradox: humor vs. stakes. Yes, covered.
+2. MCU as villain vs. saving genre. Yes.
+3. Legacy and satire. Yes via Variety.
+4. Deadpool not standing for anything. Polygon says so.
+5. Humor as strength/weakness. Multiple reviews mention both.
+6. Irony in being part of the problem while criticizing. Yes.
+7. Final fight resolves tension. AP says so.
+8. Meta and send-off. Variety mentions both.
+9. Irreverence vs. stakes. Vulture's point.
+10. Satire leads to amusing/exhausting. Guardian's quote.
+
+All answers are covered, so no N/A needed here. Now format each answer properly with tags.
+</think>
+
+<question_number>1</question_number>
+<answer>self-referential humor undermines stakes</answer>
+
+<question_number>2</question_number>
+<answer>film criticizes M.C.U. as villain while attempting to rescue superhero genre</answer>
+
+<question_number>3</question_number>
+<answer>confronting superhero movies' dependence on franchises and market forces</answer>
+
+<question_number>4</question_number>
+<answer>Deadpool's character doesn't stand for anything meaningful</answer>
+
+<question_number>5</question_number>
+<answer>humor is entertaining but excessive/annoying</answer>
+
+<question_number>6</question_number>
+<answer>film critiques Marvel's control while existing within its system</answer>
+
+<question_number>7</question_number>
+<answer>final fight scene balances comedy and action to "stick the landing"</answer>
+
+<question_number>8</question_number>
+<answer>meta-commentary on M.C.U. coexists with farewell to Fox's X-Men</answer>
+
+<question_number>9</question_number>
+<answer>incessant irreverence dilutes narrative tension</answer>
+
+<question_number>10</question_number>
+<answer>satire creates both amusement through irony and exhaustion from repetition</answer>

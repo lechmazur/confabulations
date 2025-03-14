@@ -1,0 +1,22 @@
+merged_ai-language-gap.txt
+<other>First, I will analyze the article to find relevant information for each question.</other>
+<question_number>1</question_number>
+<answer>Low-resource languages yield less digital data because AI tech development and online engagement are centered in the United States and China.</answer>
+<question_number>2</question_number>
+<answer>A delay of access to good technology of even a few years can potentially lead to a few decades of economic delay.</answer>
+<question_number>3</question_number>
+<answer>Lelapa AI focuses on community-specific solutions and crafting products to be more resource-efficient and cost-effective, while large companies have not necessarily trained their models for low-resource languages.</answer>
+<question_number>4</question_number>
+<answer>Because much of the technology is being developed in California.</answer>
+<question_number>5</answer>
+<answer>The development of large-language models for low-resource languages is hindered by the lack of high-quality data, as these models require large banks of high-quality data often collected from the internet.</answer>
+<question_number>6</answer>
+<answer>The article describes that delayed access to advanced AI technology can exacerbate technological inequities and potentially lead to economic delays in regions with low-resource languages.</answer>
+<question_number>7</answer>
+<answer>Governments play a role by backing efforts to build their own language models, as illustrated by examples such as the Nigerian government supporting Awarri and Iceland's and Welsh governments working with OpenAI.</answer>
+<question_number>8</answer>
+<answer>The article illustrates the potential for cultural bias by mentioning that AI's lack of knowledge in low-resource languages can lead to exclusion and misrepresentation of diverse perspectives, as seen in the Stanford study where chatbot answers matched views of people in California.</answer>
+<question_number>9</answer>
+<answer>The primary reason is that large companies do not see enough market value in developing language models for low-resource languages.</answer>
+<question_number>10</question>
+<answer>A delay in access to good technology can potentially lead to decades of economic delay, according to Sang Truong.</answer>

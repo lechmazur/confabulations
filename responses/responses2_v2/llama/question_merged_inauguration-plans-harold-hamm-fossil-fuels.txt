@@ -1,0 +1,78 @@
+merged_inauguration-plans-harold-hamm-fossil-fuels.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+
+<question_number>12</question_number>
+<other>This requires some calculation.</other>
+<other>Bruce Rastetter's donation amount is not mentioned in the article.</other>
+<other>Harold G. Hamm's donation amount is mentioned.</other>
+<answer>N/A</answer>
+
+<question_number>13</question_number>
+<other>This requires some thought.</other>
+<other>The article mentions that Rob Lockwood is an adviser to Mr. Burgum.</other>
+<other>It also mentions that Summit Agriculture Group is the parent company of Summit Carbon Solutions LLC.</other>
+<other>However, it does not mention that Rob Lockwood advises Summit Carbon Solutions LLC.</other>
+<other>But it does mention that Mr. Burgum received an invitation to the celebration from Mr. Hamm's executive assistant.</other>
+<answer>N/A</answer>
+
+<question_number>14</question_number>
+<other>This requires some thought.</other>
+<other>The article mentions that Harold G. Hamm is the founder of the Domestic Producers Energy Alliance.</other>
+<other>It also mentions that Mr. Burgum would not attend Mr. Hamm's party and would instead participate in "formal inauguration proceedings" on Jan. 20.</other>
+<other>However, it does not mention that Harold G. Hamm planned to attend any other formal inauguration proceeding on January 20th besides his event.</other>
+<answer>N/A</answer>
+
+<question_number>15</question_number>
+<answer>N/A</answer>
+
+<question_number>16</question_number>
+<other>This requires some calculation.</other>
+<other>The article mentions a $9 billion project to collect carbon emissions from ethanol plants in five states and send it by pipeline to North Dakota, where it would be buried underground.</other>
+<other>No other project costs are mentioned in the article.</other>
+<answer>$9 billion</answer>
+
+<question_number>17</question_number>
+<other>This requires some calculation.</other>
+<other>The article mentions that Harold G. Hamm poured more than $4.3 million into political action committees supporting Mr. Trump.</other>
+<other>The article also mentions that the oil and gas industry spent more than $75 million on efforts to elect Mr. Trump.</other>
+<answer>(4.3 / 75) * 100%</answer>
+
+ <question_number>18</question_number>
+ <answer>N/A </answer>
+
+ <question_number>19 </question_number>
+ < answer >Fieldnotes </ answer >
+
+ < question_number >20 </ question_number >
+ < answer >Summit Agriculture Group </ answer >

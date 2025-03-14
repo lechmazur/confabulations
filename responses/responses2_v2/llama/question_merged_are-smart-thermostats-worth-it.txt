@@ -1,0 +1,91 @@
+merged_are-smart-thermostats-worth-it.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+
+<question_number>12</question_number>
+<answer>$3.50/month, but no annual data available, so N/A</answer>
+
+becomes 
+
+<question_number>12</question_number>
+<answer>N/A</answer>
+
+<question_number>13</question_number>
+<answer>N/A</answer>
+
+<question_number>14</question_number>
+<answer>N/A</answer>
+
+<question_number>15</question_number>
+<other>The highest installation cost scenario is $500, and the highest device cost is $800, for a total of $1300. The EPA's estimated annual savings is $50. Dividing 1300 by 50 gives 26 years. The EPA's estimated payback period is 5-26 years. Therefore, the difference between the highest total cost and the highest EPA estimate is 26 - 26 = 0 years.</other>
+<answer>0 years longer than the highest EPA estimate of 26 years, but question asks for years longer than EPA's payback estimate which is 5-26 years, so N/A since it depends on a specific value within a range given by the EPA that we don't know which one to use.</answer>
+
+becomes 
+
+ <question_number>15</question_number>
+ <answer>N/A </answer>
+
+ <question_number>16 </question_number>
+ <answer>N/A </answer>
+
+ <question_number>17 </question_number>
+ <answer>N/A </answer>
+
+ <question_number>18 </question_number>
+ <answer>N/A </answer>
+
+ <question_number>19 </question_number>
+ <other>The text does not mention complete elimination of heating bill savings. However, it does mention that turning the heating or cooling back by seven to 10 degrees Fahrenheit during the eight hours you're out for work or school can slash up to 10 percent from your utility bill.</other>
+ <other>This does not answer the question.</other>
+ <other>We are looking for what minimum temperature adjustment during work hours did the Department of Energy study associate with complete elimination of heating bill savings?</other>
+ <other>This information is not present in the text.</other>
+ <other>The text only mentions that turning the heating or cooling back by seven to 10 degrees Fahrenheit during the eight hours you're out for work or school can slash up to 10 percent from your utility bill.</other>
+ <other>This does not tell us what temperature adjustment causes complete elimination of heating bill savings.</other>
+ <other>In fact, it tells us that this specific temperature adjustment causes a reduction, not an elimination of savings.</other>
+ <other>The Department of Energy said this.</other>
+ <other>This does not answer the question.</other>
+ <other>The text does not mention any temperature adjustment causing an elimination of heating bill savings.</other>
+ <other>This information is not present in the text.</other>
+ <other>We are looking for what minimum temperature adjustment during work hours did the Department of Energy study associate with complete elimination of heating bill savings?</other>
+ <other>This information is not present in the text.</other>
+ <other>The text only mentions that turning the heating or cooling back by seven to 10 degrees Fahrenheit during the eight hours you're out for work or school can slash up to 10 percent from your utility bill.</other>
+ <other>This does not tell us what temperature adjustment causes complete elimination of heating bill savings.</other>
+ <other>In fact, it tells us that this specific temperature adjustment causes a reduction, not an elimination of savings.</other>
+ <other>The Department of Energy said this.</other>
+ <other>This does not answer the question.</other>
+ becomes
+ <question_number>19 </question_number><answer>N/A </answer><
+ 
+ question_number>20 </question-number><
+ answer>N/A </answer><
+ other>This concludes all answers.

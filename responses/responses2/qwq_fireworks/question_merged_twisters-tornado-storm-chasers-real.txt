@@ -1,0 +1,18 @@
+merged_twisters-tornado-storm-chasers-real.txt
+Okay, let's tackle these questions one by one. 
+
+First question: What's the name of the government agency that funded the research project that "Twisters" is based on, which also employs Dr. Waugh?
+
+Looking through the article, I remember Dr. Waugh is mentioned as being with the National Severe Storms Laboratory. The article says he's a researcher there. The National Severe Storms Laboratory (NSSL) is part of the National Oceanic and Atmospheric Administration (NOAA), but the article might just state the direct agency. Let me check again. The text says, "Dr. Waugh, a researcher with the National Severe Storms Laboratory." So the agency is the National Severe Storms Laboratory. The question asks for the government agency that funded the research and employs him. The answer should be National Severe Storms Laboratory.
+
+Second question: What type of radar, other than mobile and lidar, are scientists hoping to utilize in the future to create a 3-D representation of tornadoes?
+
+The article mentions that the real team is trying to get radars closer to the base of tornadoes for a 3-D representation. It also says in the movie, they use "portable phased radar." The scientists in real life are using similar setups but with different technology. Wait, the exact quote is: "the nonfiction team is essentially trying to answer the same question that both movies have yet to solve... In the movie, ... they're trying to drop portable phased radar close to the tornado..." So the article states that the real scientists are aiming for something similar. The question asks for the type of radar other than mobile and lidar. The answer here is phased radar. The text says "phased radar" as the type they are trying to deploy. 
+
+Wait, the question specifies "other than mobile and lidar". The article says scientists still can't deploy off the truck and leave on the ground like in the movie, but the movie uses portable phased radar. The real scientists want to get radars closer. The answer must be phased radar. Let me confirm again. The article says: "In the movie, ... they're trying to drop portable phased radar close to the tornado, triangulate around it, and recover data from the three-dimensional winds occurring." Then it says the real team can't do that yet, but the future direction is to get radars closer for 3-D. So the answer is phased radar. The question is asking what type besides mobile and lidar, so phased radar is the answer.
+</think>
+
+<question_number>1</question_number>
+<answer>National Severe Storms Laboratory</answer>
+<question_number>2</question_number>
+<answer>phased radar</answer>

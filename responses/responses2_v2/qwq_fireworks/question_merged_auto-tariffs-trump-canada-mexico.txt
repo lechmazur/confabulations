@@ -1,0 +1,78 @@
+merged_auto-tariffs-trump-canada-mexico.txt
+Okay, let's tackle these questions one by one based on the article provided. I need to make sure I only use the information from the text and follow the instructions strictly.
+
+1. **Question 1**: The question asks how many fewer plants G.M. would need in Mexico if they localized production like Hyundai. The article says G.M. produces 25% of its pickups in Mexico. Hyundai's strategy was to build a U.S. plant to avoid tariffs. If G.M. moved all production to the U.S., they'd eliminate their Mexican plants. But the question is about "theoretically need in Mexico" if they localized. Since they currently have plants there, moving production would mean 0 plants needed in Mexico. But the question says "how many fewer", so subtract current from zero. The article doesn't specify the number of plants, so maybe N/A? Wait, the article says "produces about 25%... in Mexico". But number of plants isn't given. So answer N/A.
+
+2. **Question 2**: Adjusted sticker price for Ford's Mustang Mach E with 25% tariff. The article mentions tariffs on imports. The Mach E is made in Mexico. If the tariff is 25%, then the sticker price would increase by 25%. But the question says "assuming linear relationship". So answer would be 25% increase. The question is about the adjusted price, so the percentage is the same as the tariff. So answer 25%.
+
+3. **Question 3**: Vehicle type with most profit margin reduction. The article says G.M. produces pickups in Mexico (25% of U.S. market). Since tariffs would raise prices, and pickups are profitable, their margins would drop the most. So answer "pickups".
+
+4. **Question 4**: Ford's needed investment to match Hyundai's $7.6B. The article doesn't state Ford's current investment or how much they need. So N/A.
+
+5. **Question 5**: Percentage of workforce at risk if sales drop by tariff's percentage (25%). The article says job losses due to slumping sales. If sales drop 25%, workforce cuts would be similar. So 25%.
+
+6. **Question 6**: Added cost as % of vehicle value if all imports (50%) face 25% tariff. 50% of the vehicle value is imported. 25% tariff on that part: 0.5 * 0.25 = 12.5%. So 12.5%.
+
+7. **Question 7**: Action contradicting USMCA spirit. The article mentions Trump's plan to impose tariffs after inauguration, which would contradict the free trade agreement. The action is imposing 25% tariffs on imports from Canada/Mexico.
+
+8. **Question 8**: Consulting firm advising on supply chain readjustment. The article mentions Proxima's Simon Geale and AlixPartners' Mark Wakefield. The question refers to "rapid supply chain readjustment" – Proxima is mentioned in the context of supply chain adjustments. So Proxima?
+
+9. **Question 9**: South Korean company with $7.6B Georgia plant. The article says Hyundai built that. Answer Hyundai Motor.
+
+10. **Question 10**: Renegotiated agreement replacing NAFTA. The article states USMCA replaced NAFTA under Trump. Answer USMCA.
+
+11. **Question 11**: Situation causing sticker price to increase by full tariff. The article says a 25% tariff on a fully assembled vehicle would force a 25% price increase. So "a fully assembled vehicle".
+
+12. **Question 12**: Executive explaining staffing cuts due to fewer sales. Simon Geale from Proxima is quoted: "you sell less units and therefore you need less people". Answer Simon Geale.
+
+13. **Question 13**: Global automotive lead at consulting firm (AlixPartners) who called tariffs a negotiating chip. Mark Wakefield is mentioned as AlixPartners' lead and made that comment. Answer Mark Wakefield.
+
+14. **Question 14**: Company that declined comment and makes electric in Mexico. Ford's electric Mustang Mach E is made in Mexico. The article says Ford declined to comment. So Ford.
+
+15. **Question 15**: Professor from Michigan who says higher prices lead to keeping old cars. Erik Gordon at University of Michigan. Answer Erik Gordon.
+
+16. **Question 16**: Duration of transnational automaking. The article says "three decades". Answer "three decades".
+
+17. **Question 17**: Operational difficulty with parts delivery. The article mentions cross-border supply chains designed for parts delivery hours before assembly, making re-engineering "extremely difficult and costly". The difficulty is tight scheduling/delivery just before assembly. Answer "tight scheduling of parts delivery before assembly".
+
+18. **Question 18**: Annual value of vehicles from Canada/Mexico to US. The article states "$150 billion". Answer 150 billion.
+
+Now, checking each for exact answers and N/A where needed.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>25%</answer>
+<question_number>3</question_number>
+<answer>pickups</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>25%</answer>
+<question_number>6</question_number>
+<answer>12.5%</answer>
+<question_number>7</question_number>
+<answer>imposing 25% tariffs on imports from Canada and Mexico</answer>
+<question_number>8</question_number>
+<answer>Proxima</answer>
+<question_number>9</question_number>
+<answer>Hyundai Motor</answer>
+<question_number>10</question_number>
+<answer>United States-Mexico-Canada Agreement</answer>
+<question_number>11</question_number>
+<answer>a fully assembled vehicle</answer>
+<question_number>12</question_number>
+<answer>Simon Geale</answer>
+<question_number>13</question_number>
+<answer>Mark Wakefield</answer>
+<question_number>14</question_number>
+<answer>Ford</answer>
+<question_number>15</question_number>
+<answer>Erik Gordon</answer>
+<question_number>16</question_number>
+<answer>three decades</answer>
+<question_number>17</question_number>
+<answer>delivery of parts to car factories only hours before they are installed</answer>
+<question_number>18</question_number>
+<answer>$150 billion</answer>

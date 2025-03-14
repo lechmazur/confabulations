@@ -1,0 +1,60 @@
+merged_korea-zinc-young-poong.txt
+Okay, let me start by going through each question one by one and see what the article says.
+
+1. The first question asks about the total value of the investment by Korea Zinc into the private equity fund linked to cronyism accusations. The article mentions a $380 million investment made by Korea Zinc into a fund run by Mr. Choi's classmate. So that's straightforward.
+
+2. The second question is about which South Korean president implemented the industrial complex policy that allowed Korea Zinc's setup. The article says the company was part of an industrial complex set up by the government, but doesn't name the president. Since the company started in 1974, maybe it's Park Chung-hee? But the text doesn't specify the president, so N/A.
+
+3. Third question: how many times did Young Poong increase their tender offer? The article states they "sweetened its bid twice in the process." So that's two times.
+
+4. Fourth question: percentage of MBK's portfolio controlled by the Chinese investor. The article says the Chinese investor accounts for about 5% of their fund. But the question asks what percentage of MBK's total portfolio is controlled by them. Since 5% is their stake in the fund, but the question's phrasing might be tricky. The answer is 5%.
+
+5. Fifth question: when did the families document their agreement? The article mentions the split ownership arrangement was in a contract, but the exact year isn't given. The companies were established in 1949 and 1974, but the contract's signing date isn't specified. So N/A.
+
+6. Sixth question: share price for the withdrawn issuance. The article says Korea Zinc issued new shares at a "much lower price," but the exact figure isn't provided. So N/A.
+
+7. Seventh question: which U.S. agency did Robert O'Brien consult? The article says he was a national security adviser but doesn't mention the agency he consulted. The letter was to the State Department, but the question is about his consultation. N/A.
+
+8. Eighth question: how many board members at Sorin Corp? The article states Korea Zinc seized board control at Sorin, but the number isn't given. So N/A.
+
+9. Ninth question: year Michael Kim's novel was a bestseller. The article says he published a novel in 2020. It doesn't mention bestseller status, so N/A.
+
+10. Tenth question: voting shares difference after buyback. The article states Young Poong-MBK had 47% vs. Choi's 40%. The difference is 7%. But the question is after the buyback. The buyback might have changed shares, but the article says "after buying back some shares" but the percentages given are the current ones. So 7%.
+
+11. Eleventh question: specific Chinese company alleged to control MBK. The article mentions concerns about Chinese influence but doesn't name a company. So N/A.
+
+12. Twelfth question: nickel refinery capacity. The article says it's the largest by a non-Chinese company but doesn't give the metric tons. N/A.
+
+13. Thirteenth question: U.S. political figure endorsing Young Poong. The article mentions Swalwell wrote a letter, but he's the one expressing concern, not endorsing. The answer is N/A.
+
+14. Fourteenth question: years the agreement lasted. The arrangement was from 1974 until the current dispute, which is in the present (article mentions recent events). Assuming the article is from 2024, that's 50 years. The article says "50 years ago" when they established the subsidiary, so the agreement lasted 50 years before the dispute started now. So 50 years.
+</think>
+
+<question_number>1</question_number>
+<answer>$380 million</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>twice</answer>
+<question_number>4</question_number>
+<answer>5%</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>7%</answer>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<question_number>12</question_number>
+<answer>N/A</answer>
+<question_number>13</question_number>
+<answer>N/A</answer>
+<question_number>14</question_number>
+<answer>50</answer>

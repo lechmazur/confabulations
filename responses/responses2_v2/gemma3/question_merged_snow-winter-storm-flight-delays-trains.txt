@@ -1,0 +1,34 @@
+merged_snow-winter-storm-flight-delays-trains.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article does not specify the model of snow removal equipment.</other>
+<question_number>2</question_number>
+<answer>more than 80 percent</answer>
+<other>The article states that more than 80 percent of departures at National Airport were canceled.</other>
+<question_number>3</question_number>
+<answer>20 percent</answer>
+<other>If 80 percent were canceled, then 100 - 80 = 20 percent were operating normally.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article does not state the scheduled departure time of the connecting flight.</other>
+<question_number>5</question_number>
+<answer>Monday</answer>
+<other>The article states Congress certified Trump’s victory “earlier Monday.”</other>
+<question_number>6</question_number>
+<answer>1490</answer>
+<other>990 (delayed) + 500 (canceled) = 1490</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article states Dallas-Fort Worth had a “creeping up” number of delays, but does not provide a specific number.</other>
+<question_number>8</question_number>
+<answer>four</answer>
+<other>Her original flight and three more on Monday were canceled, totaling four flights.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article states the runways would likely remain closed until Tuesday morning, but does not specify the number of hours.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article states “dozens” of trains were canceled, which is not a specific number to compare to the 9,000+ flights.</other>
+<question_number>11</question_number>
+<answer>nine</answer>
+<other>Texas, New York, Washington, Chicago, Philadelphia, Boston, Raleigh, Richmond, and Cincinnati are the distinct cities mentioned.</other>

@@ -1,0 +1,79 @@
+merged_jeanne-wakatsuki-houston-dead.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>11</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</answer>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>Fort Lincoln</answer>
+
+<question_number>8</question_number>
+<answer>5,000</answer>
+
+<question_number>9</question_number>
+<answer>Gary Nishikawa</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<other>This question is asking about the reaction of the family when the father returned from detention.</other>
+<answer>The family was silent and tearful, with everyone crying.</answer>
+
+<question_number>12</question_number>
+<other>This question is asking about a family occurrence during the father's absence.</other>
+<answer>One of his daughters had given birth to his first grandchild, and two other daughters were pregnant.</answer>
+
+<question_number>13</question_number>
+<other>This question is asking about who urged the internee to share her feelings.</other>
+<answer>Gary Nishikawa, her nephew.</answer>
+
+<question_number>14</question_number>
+<other>This question is asking about the career path encouraged by her involvement in a junior high writing contest.</other>
+<answer>Journalism.</answer>
+
+<question_number>15</question_number>
+<other>This question is asking about the activity that helped her cope with the camp's hardships.</other>
+<answer>Reading books.</answer>
+
+<question_number>16</question_number>
+<other>This question is asking about the title of her most famous memoir.</other>
+<answer>Farewell to Manzanar.</answer>
+
+<question_number>17</question_number>
+<other>This question is asking about the event that signaled the family's departure from the detention camp.</other>
+<answer>The official cessation of World War II, specifically Japan's surrender to the Allies.</answer>
+
+However, it is more accurate to say that it was "about two months after Japan surrendered to the Allies."
+
+So, <answer>About two months after Japan surrendered to the Allies.</answer>
+
+Or more specifically: 
+
+ <other>The article states that they left in October 1945, which was about two months after Japan surrendered on August 15, 1945.</other>
+ <answer>In October 1945.</answer>
+
+ <question_number>18</question_number>
+ <other>This question is asking about a natural phenomenon that intensified her daily hardships at the camp.</other>
+ <answer>Dust storms caused by severe winds.</answer>
+
+ <question_number>19</question_number>
+ <other>This question is asking about her final published work as a novel writer.</other>
+ <answer>The Legend of Fire Horse Woman.</answer>
+
+ <question_number>20</question_number>
+ <other>This question is asking about a re-enactment event she participated in during 2002.</other>
+ <answer>A simulated governmental roundup of Japanese Americans in Watsonville, California.</answer>

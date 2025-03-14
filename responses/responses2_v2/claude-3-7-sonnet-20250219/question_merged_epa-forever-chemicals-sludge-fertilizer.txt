@@ -1,0 +1,80 @@
+merged_epa-forever-chemicals-sludge-fertilizer.txt
+<question_number>1</question_number>
+<answer>California</answer>
+<other>The article mentions California's FAIR Plan having $377 million available to pay claims, according to Senator Alex Padilla's office, while total insured losses from fires could be up to $30 billion.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions that PFAS in sewage sludge can pose risks "sometimes by several orders of magnitude" above EPA safety thresholds, but doesn't specify a concentration threshold.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Hugh Safford is cited discussing how fires move through air rather than ground, but he doesn't attribute this to PFAS contamination.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article mentions 675,000 premature deaths from wildfire smoke worldwide, not from PFAS exposure from sewage sludge.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article mentions Consumer Reports detected PFAS in some milk including organic brands, but doesn't specify a failure rate of 80% or criticize a specific 2019 testing protocol.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article mentions that using sludge means farmers need less synthetic fertilizer, but doesn't provide a percentage reduction.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article mentions 3M found forever chemicals in sludge samples and informed EPA in 2003, but doesn't mention a 2005 study about bioaccumulation rates.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article mentions bidding wars in neighborhoods on the edges of fires, but doesn't specify a number or connect them to PFAS-contaminated groundwater.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article mentions "Landman" contains misinformation about fossil fuels and renewable energy, but doesn't specify claims about PFAS leaching.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article mentions Maine banned sewage sludge on agricultural fields but doesn't mention a numerical limit on PFAS in food packaging.</other>
+
+<question_number>11</question_number>
+<answer>several orders of magnitude</answer>
+<other>The article states that the risk from contaminated fertilizer could in some cases exceed the E.P.A.'s safety thresholds "sometimes by several orders of magnitude."</other>
+
+<question_number>12</question_number>
+<answer>3M</answer>
+<other>The article states that "In 2003, 3M told the E.P.A. of its findings" regarding forever chemicals turning up in sludge samples.</other>
+
+<question_number>13</question_number>
+<answer>using sewage sludge as fertilizer</answer>
+<other>The article discusses how using sewage sludge (from treated wastewater) as fertilizer on farmland can introduce PFAS contamination.</other>
+
+<question_number>14</question_number>
+<answer>they can't fly in strong winds</answer>
+<other>The article states "Planes and helicopters that spray water and flame retardant can't fly" due to the gusting winds.</other>
+
+<question_number>15</question_number>
+<answer>Maine</answer>
+<other>The article explicitly states "Maine, in particular, banned the use of sewage sludge on agricultural fields in 2022 and remains the only state to have done so."</other>
+
+<question_number>16</question_number>
+<answer>Landman</answer>
+<other>The article mentions "Landman," the TV series set in Texas oil fields co-created by Taylor Sheridan, as being "full of misinformation about fossil fuels renewable energy."</other>
+
+<question_number>17</question_number>
+<answer>PFAS (per- and polyfluoroalkyl substances)</answer>
+<other>The article focuses on PFAS or "forever chemicals" which are described as not breaking down in the environment and being linked to illnesses and cancer risk.</other>
+
+<question_number>18</question_number>
+<answer>$377 million available vs. up to $30 billion in estimated losses</answer>
+<other>The article states the FAIR Plan had $377 million available to pay claims while total insured losses from fires were estimated at up to $30 billion.</other>
+
+<question_number>19</question_number>
+<answer>ship sewage sludge out of state</answer>
+<other>The article states "Since Maine's ban, some wastewater treatment plants have said they have been forced to ship sewage sludge out of state."</other>
+
+<question_number>20</question_number>
+<answer>a new era</answer>
+<other>The article quotes former Vice President Al Gore saying "We're in a new era now" regarding climate-related extreme events increasing in frequency and intensity.</other>

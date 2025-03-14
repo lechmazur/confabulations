@@ -1,0 +1,52 @@
+merged_saffron-farming-crop.txt
+<other>Processing question 1: No direct data on percentage replacement is available; answer is N/A.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Question 2: No details on conversion from saffron yield to volume of tincture are provided.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Question 3: Price is $100 per gram. $20,000 would buy 200 grams.</other>
+<question_number>3</question_number>
+<answer>200 grams</answer>
+<other>Question 4: 700,000 flowers minus 60,000 corms equals 640,000.</other>
+<question_number>4</question_number>
+<answer>640,000</answer>
+<other>Question 5: Assuming that from 1,000 corms you add 3,000 extra (total 4,000), the net gain is 3 per starting corm per year. For 12 corms, annual addition = 12×3 = 36. To go from 12 to 120,000: (120,000 - 12)/36 = 119,988/36 = 3333 years.</other>
+<question_number>5</question_number>
+<answer>3333 years</answer>
+<other>Question 6: Difference is 700,000 flowers minus 24,000 customers equals 676,000.</other>
+<question_number>6</question_number>
+<answer>676,000</answer>
+<other>Question 7: No attendee number is given, so answer is N/A.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Question 8: The couple's surname is Philipps.</other>
+<question_number>8</question_number>
+<answer>Philipps</answer>
+<other>Question 9: The product is saffron tincture.</other>
+<question_number>9</question_number>
+<answer>saffron tincture</answer>
+<other>Question 10: The university is the University of Vermont.</other>
+<question_number>10</question_number>
+<answer>University of Vermont</answer>
+<other>Question 11: Fastest pace is one flower per five seconds.</other>
+<question_number>11</question_number>
+<answer>5 seconds</answer>
+<other>Question 12: Iran is cited as the largest producer.</other>
+<question_number>12</question_number>
+<answer>Iran</answer>
+<other>Question 13: The retired musician is Paul Miller, so first name is Paul.</other>
+<question_number>13</question_number>
+<answer>Paul</answer>
+<other>Question 14: The cultural group is the Pennsylvania Dutch.</other>
+<question_number>14</question_number>
+<answer>Pennsylvania Dutch</answer>
+<other>Question 15: The November harvest was valued at $100 per gram.</other>
+<question_number>15</question_number>
+<answer>$100</answer>
+<other>Question 16: A farmer starting with 1,000 corms may have 4,000 the next year.</other>
+<question_number>16</question_number>
+<answer>4000</answer>
+<other>Question 17: The flavor is described as sweet, musky.</other>
+<question_number>17</question_number>
+<answer>sweet, musky</answer>

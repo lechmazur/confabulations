@@ -1,0 +1,63 @@
+merged_buffalo-snow-fake.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article and answer exactly what's asked without any extra fluff.
+
+1. **Question 1**: How does the factory's summer air conditioning policy relate to its product marketing strategy?
+   - The article mentions a second-floor conference room's AC set to 65 degrees. But there's no direct link stated between the AC policy and marketing. So N/A.
+
+2. **Question 2**: How does the company's failed eco-friendly product line relate to current landfill methane emissions?
+   - The article says they tried corn-based and Eco Flurries but discontinued them. Since those weren't successful, the regular polyester snow (which ends up in landfills) still contributes to methane. So the failed products didn't reduce emissions, implying the current products do.
+
+3. **Question 3**: Connection between static properties of Iridescent Sprinkles and mattress production.
+   - The static is mentioned as clinging to clothes. The company makes fiberfill for mattresses. Since fiberfill and snow are made from similar materials, static might be a shared property. But the article doesn't explicitly connect them. Hmm, maybe N/A?
+
+4. **Question 4**: Founder's brainstorming on a snowy day and current global warming.
+   - The article states that global warming reduces snow in many places, but Buffalo still gets blizzards. The founder's idea was inspired by heavy snow, but current trends don't affect that origin. The question is about the brainstorming session's relation to current trends. The article says sales aren't tied to snowfall, so maybe N/A?
+
+5. **Question 5**: Nightly maintenance and employees' decorating habits.
+   - Maintenance involves clearing snow from equipment. The article mentions Marty's wife skips snow at home because he works there. So the maintenance is due to snow clogging, and employees avoid using it at home. The link is that the maintenance is needed because of the product, which employees then avoid at home. That's a connection.
+
+6. **Question 6**: Corn-based product and current polyester pricing.
+   - The corn-based was 3x more expensive. Current pricing mentions $6 for a bag. The article says the corn product is now labeled as fiberfill. So the corn-based was more expensive, but current polyester is cheaper. The relationship is that corn-based was pricier, so current polyester is cheaper in comparison. So the answer is the corn-based was 3x the cost of polyester.
+
+7. **Question 7**: Static properties and fiberfill business.
+   - Static is due to materials. The fiberfill is the same material as snow. So static properties are a result of the fiberfill material. The article says the snow is made from plastic materials used in fiberfill. So the static comes from the fiberfill's properties. Therefore, the connection exists.
+
+8. **Question 8**: Product testing and bathtub cleaning.
+   - The article mentions Melissa Strong found snow in her tub months later and brings it home. So the static properties cause it to stick around, leading to cleaning issues. The testing (or handling) leads to employees having to clean it.
+
+9. **Question 9**: "Home Alone" and product diversification.
+   - The article states Buffalo Snow was used in "Home Alone". Diversification efforts include Halloween Hay. But no direct link between the movie and current diversification. So N/A.
+
+10. **Question 10**: 2022 blizzard deaths and product naming.
+    - The naming convention includes "Buffalo Snow" due to the city's snow reputation. The 2022 blizzard's fatalities are mentioned, but the naming is about the city's snow reputation, not the fatalities. So no direct link. Answer N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>Failed eco-friendly products (discontinued) mean polyester snow still contributes to landfill waste, exacerbating methane emissions.</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>Employees avoid using snow at home due to workplace exposure, necessitating nightly equipment cleaning.</answer>
+
+<question_number>6</question_number>
+<answer>Corn-based snow cost three times as much as polyester version.</answer>
+
+<question_number>7</question_number>
+<answer>Both use same materials (plastic/fiberfill), so static properties stem from fiberfill's composition.</answer>
+
+<question_number>8</question_number>
+<answer>Static cling causes snow to persist in employees' homes, requiring cleanup.</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>

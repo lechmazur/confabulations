@@ -1,0 +1,112 @@
+merged_los-angeles-fires-costs.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information provided in the article. Let's start with the first question.
+
+1. Which major Hollywood studio saw its stock price drop by double digits after canceling multiple productions due to the wildfires?
+
+The article mentions Edison International's parent company's shares fell 10%, but that's a utility company, not a studio. Disney closed its headquarters, but there's no mention of their stock dropping. The answer might be N/A because the stock drop mentioned is for Edison, not a studio.
+
+2. How many consecutive quarters of profit losses did California insurers experience before State Farm's decision to drop coverage in the Santa Monica Mountains?
+
+The text says fires in 2017 and 2018 wiped out a quarter-century of profits. But consecutive quarters? The article doesn't specify the number of consecutive quarters. So N/A.
+
+3. Total market cap loss combining Edison's decline and Constellation's valuation changes?
+
+Edison's shares dropped 10%, but the article doesn't give their market cap. Constellation is closing a deal to buy Calpine at $30B including debt. No info on their market cap loss. So N/A.
+
+4. Which former tech exec's expense-cutting initiative was cited for Treasury yield concerns?
+
+Elon Musk's $2 trillion government expense-cutting initiative is mentioned. So Musk.
+
+5. Meta's ad market share after new policies and Threads?
+
+The article says Meta commands about 45% of the market. No info on gain after policies. Sensor Tower predicted gaining share if Threads has ads, but actual percentage isn't given. So N/A.
+
+6. Settlement costs Edison paid for previous wildfires?
+
+Investors worried about potential liabilities like other utilities that paid billions. The article doesn't state exact numbers Edison paid. So N/A.
+
+7. Total value of canceled Hollywood events and productions?
+
+The article mentions events canceled but no financial figures. So N/A.
+
+8. International bond market with largest yield increase compared to UK's 30-year bonds?
+
+The article mentions global bond markets but doesn't compare percentages. UK's yield is noted, but no other country's is compared. So N/A.
+
+9. CA homeowners switching from FAIR plan to private?
+
+The FAIR plan is a last resort. The article says over 100k lost coverage (to FAIR?), but the question is about switching from FAIR to private. The article says if FAIR needs funds, they get from private insurers, but no numbers on switching direction. So N/A.
+
+10. Percentage difference between AccuWeather's estimates and actual claims?
+
+AccuWeather's estimate is $57B, but actual claims aren't mentioned. So N/A.
+
+11. Which company's parent saw a 10% drop due to wildfire concerns?
+
+Edison International's shares fell 10%. So Edison International.
+
+12. Insurer with 70% customer drop in Santa Monica?
+
+State Farm dropped 70% of its customers there. So State Farm.
+
+13. Forecaster estimating CA fires as triple Hawaii's?
+
+AccuWeather said CA's $57B is triple Hawaii's 2023 ($14-16B). So AccuWeather.
+
+14. Utility's parent referenced with stock drop due to wildfires?
+
+Edison International is the parent of the LA utility. So Edison International.
+
+15. Tech leader who made policy shifts excluding advertisers?
+
+Mark Zuckerberg of Meta didn't mention advertisers. So Zuckerberg.
+
+16. Company near $30B sale in power gen?
+
+Constellation Energy buying Calpine at ~$30B. So Calpine? Or Constellation? The deal values Calpine at $30B including debt. The question asks which company is being sold, so Calpine.
+
+17. Which admin planning export restrictions on AI chips?
+
+Biden administration. So Biden.
+
+18. President-elect with policies on immigration/tariffs affecting bonds?
+
+The text mentions President-elect Trump's plans for tougher immigration and tariffs. So Trump.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>Elon Musk</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>Edison International</answer>
+<question_number>12</question_number>
+<answer>State Farm</answer>
+<question_number>13</question_number>
+<answer>AccuWeather</answer>
+<question_number>14</question_number>
+<answer>Edison International</answer>
+<question_number>15</question_number>
+<answer>Mark Zuckerberg</answer>
+<question_number>16</question_number>
+<answer>Calpine</answer>
+<question_number>17</question_number>
+<answer>Biden administration</answer>
+<question_number>18</question_number>
+<answer>Donald Trump</answer>

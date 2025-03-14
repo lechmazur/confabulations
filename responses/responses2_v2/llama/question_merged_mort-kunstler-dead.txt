@@ -1,0 +1,77 @@
+merged_mort-kunstler-dead.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+
+<question_number>12</question_number>
+<answer>N/A</answer>
+
+<question_number>13</question_number>
+<answer>a 60-foot-long flatboat ferry guided by cable</answer>
+
+<question_number>14</question_number>
+<other>First, I need to find the year of the Mad Magazine parody of Jaws.</other>
+<other>The Mad Magazine parody of Jaws was in 1975.</other>
+<other>Next, I need to find the year of the unveiling of the "High Water Mark" painting.</other>
+<other>The "High Water Mark" painting was unveiled in 1988.</other>
+<other>Now, I can calculate the difference between these two years.</other>
+<other>The difference between 1988 and 1975 is 13 years.</other>
+<answer>13 years</answer>
+
+<question_number>15</question_number>
+<answer>N/A</answer>
+
+<question_number>16</question_number>
+<answer>N/A</answer>
+
+<question_number>17</question_number>
+<other>The abridged version of a famous novel illustrated by Kunstler was published in 1969.</other>
+<other>The space shuttle Columbia launch was in 1981.</other>
+<other>The year before 1981 is 1980.</other>
+<other>However, the abridged version was published in 1969, not in 1980.</other>
+<other>This means that it was published 12 years before the space shuttle Columbia launch.</other>
+<answer>The Godfather, but it was not the year before the space shuttle Columbia launch as stated in the question.</answer>
+
+ alternative response 
+ <question_number>17</question_number>
+ <answer>N/A </answer>
+
+ <both answers are correct and acceptable > 
+
+ < question_number >18 </ question_number >
+ < answer > pencil </ answer >
+
+ < question_number >19 </ question_number >
+ < answer > N / A </ answer >
+
+ < question_number >20 </ question_number >
+ < answer > a special easel mounted on a large circular platform that rotated by motor under rooftop windows </ answer >

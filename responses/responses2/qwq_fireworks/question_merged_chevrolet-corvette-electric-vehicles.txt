@@ -1,0 +1,22 @@
+merged_chevrolet-corvette-electric-vehicles.txt
+Okay, let me tackle these questions one by one. 
+
+Starting with question 1: "What was the main reason for the discontinuation of the Dodge Challenger, and how did it affect the sales of the Chevrolet Corvette?" 
+
+Looking at the article, I remember there was a part that says "G.M. has retired the Chevrolet Camaro and Stellantis has done away with the Dodge Challenger." The reason given for discontinuing these models isn't explicitly stated here. The text mentions that sales of sports cars have been declining, but the specific reason for Dodge stopping the Challenger isn't provided. The question also asks how this affected Corvette sales. The article doesn't link the Challenger's discontinuation directly to Corvette sales numbers. Corvette's sales are noted as increasing, but no causal link is made with Dodge's action. So both parts of the question can't be answered with the given info. Answer should be N/A for both parts.
+
+Moving to question 2: "What was the main technological innovation introduced in the 2024 Corvette E-Ray that differentiates it from other hybrid sports cars, and how does it enhance the vehicle's performance?"
+
+The article states the E-Ray is a hybrid with a V-8 and an electric motor. It mentions the electric motor sends 160 hp to the front wheels, giving total 655 hp. The innovation here is the hybrid setup allowing all-wheel drive and improved performance. The answer should highlight the hybrid system with a mid-engine V-8 and electric motor for AWD, enhancing performance through combined power and efficiency. The text also says it's one of the first mass-produced hybrid sports cars, so that's the differentiation. 
+
+Third question: "What specific model year did General Motors discontinue the Chevrolet Camaro?"
+
+The article mentions that G.M. retired the Camaro but doesn't specify the year. Since the text doesn't give the exact model year, the answer is N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>Hybrid system combining 495-horsepower V-8 with 160-horsepower electric motor for all-wheel drive, enhancing acceleration (2.5 sec 0-60 mph) and fuel efficiency (24 MPG)</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>

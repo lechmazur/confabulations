@@ -1,0 +1,37 @@
+merged_capital-one-savings-interest.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>Scott Bessent</answer>
+
+<question_number>3</question_number>
+<answer>30</answer>
+<other>The article states that Capital One's lowest rate was 0.3%, which is 30 times higher than Chase's 0.01%</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>While the article mentions that many check less than once a month, it doesn't specify the maximum number</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>$2</answer>
+<other>Since $10,000 earns $1 at 0.01%, $20,000 would earn $2</other>
+
+<question_number>11</question_number>
+<answer>3.99%</answer>
+<other>The article shows competitive accounts earn 4% while Chase pays 0.01%, meaning 3.99% is unearned</other>

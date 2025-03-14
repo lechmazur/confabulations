@@ -1,0 +1,46 @@
+merged_trump-aid-malaria-tuberculosis-hiv.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article and answer each question exactly as asked. Let me go through each question carefully.
+
+1. The first question asks which African country had a malaria case increase from 78,000 to 850,000 between 2019 and 2023, leading to the firing of all USAID workers there. Looking at the article, the part about Myanmar mentions that cases increased nearly tenfold from 78,000 in 2019 to 850,000 in 2023. The article also mentions that in countries like Myanmar, the delivery of supplies was frozen. However, the question says "leading to the immediate firing of all USAID workers there." The article states that in countries from India to Zimbabwe, staff were fired, but specifically for Myanmar, it's mentioned that some organizations have no workers left. But does the article explicitly state that all USAID workers in Myanmar were fired? The text says "In countries from India to Zimbabwe, staff members for health projects were immediately fired." Since Myanmar is in Southeast Asia, maybe the answer is N/A? Wait, the question says "African country." Myanmar is not in Africa. The article mentions Zambia, Uganda, South Asia, Africa, etc. Wait, the part about the 850,000 cases is specifically in Myanmar. But the question asks for an African country. Since Myanmar isn't African, then the answer would be N/A? But the question might have a mistake. However, I must answer based on the article. The article says "Myanmar" which is not African, so the answer is N/A for the African country part. Wait, the question says "leading to the immediate firing of all U.S.A.I.D. workers there?" The article says "In countries from India to Zimbabwe, staff members for health projects were immediately fired." Zimbabwe is African. But the case numbers are for Myanmar, so the country with those numbers is Myanmar, not African. Therefore, the answer is N/A because the question specifies an African country, but the case numbers are for Myanmar. So the first question's answer is N/A.
+
+Wait, let me check again. The article says: "the delivery of rapid tests and malaria drugs into Myanmar, where cases of malaria increased nearly tenfold to 850,000 in 2023 (the most recent figures available) from 78,000 in 2019, has been frozen." So the country with those numbers is Myanmar. The question asks for an African country, so the answer is N/A. 
+
+2. Second question: How many permanent staff members at the President's Malaria Initiative were retained after the freeze? The article states that two-thirds of the staff of the President's Malaria Initiative were fired. Those were contract staff, and the permanent staff had hiring freezes. Wait, the article says: "Two-thirds of the staff of the President's Malaria Initiative, an organization... have been fired. Those employees were contract staff members, because the agency had longtime hiring freezes for permanent positions..." So the permanent staff weren't fired? Because the agency had hiring freezes, implying that there were few permanent staff. The question is how many permanent were retained. The article doesn't specify the exact number. It just says that the contract staff were fired, and permanent positions were under hiring freezes. So maybe the permanent staff were retained, but the exact number isn't given. So the answer is N/A.
+
+3. Third question: Total monetary value of oxygen system supplies stranded. The article says: "There will now be no one to take custody of millions of dollars' worth of supplies for vital oxygen systems..." So the value is "millions of dollars" but exact number? The question asks for the total monetary value. Since it's stated as "millions of dollars' worth" but not a specific figure, the answer is N/A because it's not exact.
+
+4. Fourth question: South Asian research organization that maintained full workforce after waiver. The article mentions the International Centre for Diarrhoeal Disease Research, Bangladesh (ICDDR,B), which laid off over 1,000 employees. The waiver might have helped some, but the article says that organizations need specific written instruction. The article doesn't mention any South Asian org retaining full staff. The answer is N/A.
+
+5. Fifth question: Percentage of malaria cases in Myanmar that were fatal in kids under 5. The article states: "in some parts of the country, more than 40 percent of cases are of a type of malaria that is often deadly in children under the age of 5." The type is Plasmodium falciparum? The question is about the percentage of cases that were fatal. The article says "more than 40 percent of cases are of a type that is often deadly," but doesn't give the actual fatality percentage. So the answer is N/A, because the question is about the percentage of cases that were fatal, not the proportion of cases of a type that is deadly. The article doesn't state the actual fatality rate, only that the type is often deadly. So N/A.
+
+6. Sixth question: How many regional hubs in Haiti? The article says: "In Zambia, U.S.A.I.D. supports... seven regional hubs." For Haiti, it says "Similar U.S.-funded systems, now frozen, also moved a major share of basic medical supplies in Mozambique, Nigeria, Malawi and Haiti." But the number of hubs in Haiti isn't specified. The Zambia example had seven, but Haiti's isn't mentioned. So answer N/A.
+
+7. Seventh question: Average monthly salary of 500 USAID employees fired. The article mentions that about 500 U.S.-based employees were fired, but no salary info is given. Answer N/A.
+
+8. Eighth question: Which clinical trial participants in East Africa received follow-up after vaginal ring studies were terminated. The article says researchers are floundering for explanations, but it doesn't say if any received follow-up. The question asks which participants, but the article doesn't mention any receiving follow-up. So N/A.
+
+9. Ninth question: How many doses of hemorrhage prevention medication were stranded in Zambia. The article mentions that in Zambia, medical supplies including drugs to stop hemorrhages in pregnant women couldn't reach villages because the trucking was suspended. But the exact number of doses stranded isn't provided. The answer is N/A.
+
+10. Tenth question: Total annual budget for President's Malaria Initiative before freeze. The article doesn't mention the budget figures. So N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>

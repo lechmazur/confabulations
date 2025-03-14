@@ -1,0 +1,32 @@
+merged_country-without-medals.txt
+<question_number>1</question_number>
+<answer>A country's population size does not necessarily determine its Olympic success, as seen in the examples of Bangladesh, Jamaica, and Grenada.</answer>
+
+<question_number>2</question_number>
+<answer>Winning an Olympic medal can lead to increased investment in sports infrastructure, as seen in the case of Costa Rica, and can motivate government officials to improve facilities, as hoped by Dominica's Thea LaFond-Gadson.</answer>
+
+<question_number>3</question_number>
+<answer>Cuba has achieved more Olympic success than India despite having a smaller population, due to deliberate government spending on sports.</answer>
+
+<question_number>4</question_number>
+<answer>Smaller countries can achieve Olympic success through targeted investment in specific sports, as seen in Jamaica's focus on track and field, and Bolivia is considering a similar strategy.</answer>
+
+<question_number>5</question_number>
+<answer>Countries with no Olympic medals can achieve success through strategic investment, as seen in the examples of Bolivia's proposed strategy and Jamaica's past success.</answer>
+
+<question_number>6</question_number>
+<answer>A country's economic status does not necessarily determine its Olympic success, as seen in the examples of Nepal and Monaco, where Nepal has a low GDP per capita but receives Olympic solidarity funding, and Monaco has a high GDP per capita but has not won an Olympic medal.</answer>
+
+<question_number>7</question_number>
+<answer>Winning an Olympic medal can motivate government officials to improve sports policies and infrastructure, as hoped by Dominica's Thea LaFond-Gadson and St. Lucia's Julien Alfred.</answer>
+
+<question_number>8</question_number>
+<answer>Monaco</answer>
+
+<question_number>9</question_number>
+<other>Cuba has won 235 Olympic medals, while India has won 35. To find out how many times more medals Cuba has won, we need to divide the number of medals won by Cuba by the number of medals won by India.</other>
+<answer>6.71</answer>
+
+<question_number>10</question_number>
+<other>The United States has won 2,975 Olympic medals. The next four countries on the list are the former Soviet Union (1,204), Germany (1,058), Great Britain (955), and France (898). To find out how many more medals the United States has won compared to the combined total of these countries, we need to add up the medals won by these countries and subtract this total from the number of medals won by the United States.</other>
+<answer>860</answer>

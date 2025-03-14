@@ -1,0 +1,35 @@
+merged_crowdstrike-microsoft-outage-software.txt
+<question_number>1</question_number>
+<answer>The article refers to the error message background as "the color of a perfect sky, also known as the Blue Screen of Death"</answer>
+
+<question_number>2</question_number>
+<answer>A routine Windows software update from CrowdStrike that somehow went off the rails</answer>
+
+<question_number>3</question_number>
+<answer>Hours</answer>
+<other>The article states "People complained that Mr. Kurtz was slow to offer an apology. (Hours later, he said, 'I want to sincerely apologize directly to all of you for today's outage.')"</other>
+
+<question_number>4</question_number>
+<answer>Matt Mitchell</answer>
+
+<question_number>5</question_number>
+<answer>Mikko Hypponen</answer>
+<other>The article states: "In other words, the traditional way to fix a balky computer -- turning it off and then turning it on again -- was still the only solution, even as the computers themselves are now increasingly woven into worldwide networks." This statement follows Mikko Hypponen's quote about the workaround.</other>
+
+<question_number>6</question_number>
+<answer>Heading to $100 billion</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article states CrowdStrike has 8,000 employees, but this information is not attributed to Brody Nisbet's statement on X.</other>
+
+<question_number>8</question_number>
+<answer>Matt Mitchell</answer>
+<other>The article quotes Matt Mitchell saying "We talk about having it set up where there is no single point of failure. But we are creating a situation where there is a single point of failure."</other>
+
+<question_number>9</question_number>
+<answer>With centralized controls</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article mentions that Brody Nisbet wrote on X that "It's a mess" and that he had "no further actionable help to provide at the minute," but doesn't specify what workaround he suggested.</other>

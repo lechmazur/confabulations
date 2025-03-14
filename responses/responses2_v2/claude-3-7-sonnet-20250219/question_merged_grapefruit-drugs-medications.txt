@@ -1,0 +1,80 @@
+merged_grapefruit-drugs-medications.txt
+<question_number>1</question_number>
+<answer>0%</answer>
+<other>The article states "Fifty percent of the young plants had high levels of furanocoumarins, and 50 percent had none." This indicates there were no plants with intermediate levels.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article does not mention any pharmaceutical company funding the research.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>While Dr. Eyal mentioned it would be "very time-consuming and it takes many years," he did not provide a specific number of years.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article does not mention any temperature conditions required for growing the hybrid citrus plants.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article mentions that furanocoumarins interfere with human liver enzymes but does not specify which enzyme is primarily responsible for breaking them down.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article mentions "A long-ago citrus breeder" but does not provide a name.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article does not specify how many different varieties of citrus fruits were tested.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article does not mention the specific concentration of furanocoumarins that triggers warning label requirements.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article does not mention which country's regulatory agency first mandated grapefruit warning labels.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article mentions that scientists had worked out the compounds' structures "years ago" but does not specify the year.</other>
+
+<question_number>11</question_number>
+<answer>2-oxoglutarate-dependent dioxygenase (2OGD)</answer>
+<other>The article states that mandarins "have a mutated form of this gene that keeps the enzyme from functioning properly" and identifies the enzyme as "2-oxoglutarate-dependent dioxygenase, or 2OGD for short."</other>
+
+<question_number>12</question_number>
+<answer>mandarins and oranges</answer>
+<other>The article states that mandarins "have a mutated form of this gene that keeps the enzyme from functioning properly" and this version was found "in all the mandarin and orange varieties the researchers checked."</other>
+
+<question_number>13</question_number>
+<answer>Yoram Eyal</answer>
+<other>The article identifies Yoram Eyal as "a professor at the Volcani Center" who commented on how time-consuming the research would be.</other>
+
+<question_number>14</question_number>
+<answer>single gene control</answer>
+<other>The article states "That particular signature meant something very specific, in terms of how the ability to make these substances is inherited. 'We saw there was only one gene that could have controlled it.'"</other>
+
+<question_number>15</question_number>
+<answer>The New Phytologist</answer>
+<other>The article states that researchers "reported Wednesday in the journal The New Phytologist"</other>
+
+<question_number>16</question_number>
+<answer>creating grapefruit without furanocoumarins</answer>
+<other>The article mentions "With gene editing technology, it should be possible to alter the gene in grapefruit" which would create grapefruit that "doesn't require a warning label."</other>
+
+<question_number>17</question_number>
+<answer>selection for an unknown quality</answer>
+<other>The article states "A long-ago citrus breeder, selecting for some unknown quality, must have unwittingly spread this furanocoumarin-busting version of the gene"</other>
+
+<question_number>18</question_number>
+<answer>furanocoumarins</answer>
+<other>The article states "The problem is a set of molecules, furanocoumarins. High levels of furanocoumarins interfere with human liver enzymes, among other processes."</other>
+
+<question_number>19</question_number>
+<answer>Life's Building Blocks Inside an Asteroid</answer>
+<other>Among the additional headlines, this one focuses on organic molecules found in an asteroid sample, which relates to extraterrestrial organic chemistry.</other>
+
+<question_number>20</question_number>
+<answer>50%</answer>
+<other>The article states "Fifty percent of the young plants had high levels of furanocoumarins, and 50 percent had none."</other>

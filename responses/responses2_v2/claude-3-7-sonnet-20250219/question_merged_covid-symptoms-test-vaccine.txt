@@ -1,0 +1,64 @@
+merged_covid-symptoms-test-vaccine.txt
+<question_number>1</question_number>
+<answer>Pemgarda</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions XEC variant making up nearly half of Covid cases, but doesn't mention JN.1 variant.</other>
+
+<question_number>3</question_number>
+<answer>Paxlovid</answer>
+
+<question_number>4</question_number>
+<answer>Bring the test inside and let it come up to room temperature before using it</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article mentions you can order free tests from the federal government but doesn't name a specific program.</other>
+
+<question_number>6</question_number>
+<answer>cornucopia</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article mentions waiting five full days after exposure before testing, but doesn't specify PCR tests specifically.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article states the vaccines target variants "very similar to XEC" but doesn't name a specific variant targeted by the August vaccines.</other>
+
+<question_number>9</question_number>
+<answer>at least 80 percent</answer>
+
+<question_number>10</question_number>
+<answer>Let it come up to room temperature</answer>
+
+<question_number>11</question_number>
+<answer>Paxlovid</answer>
+
+<question_number>12</question_number>
+<answer>XEC</answer>
+
+<question_number>13</question_number>
+<answer>cough</answer>
+<other>Cough is mentioned as a Covid symptom and the article also mentions other respiratory illnesses spreading.</other>
+
+<question_number>14</question_number>
+<answer>five full days</answer>
+
+<question_number>15</question_number>
+<answer>most likely still OK to use</answer>
+
+<question_number>16</question_number>
+<answer>48 hours</answer>
+
+<question_number>17</question_number>
+<answer>Lab P.C.R. tests</answer>
+
+<question_number>18</question_number>
+<answer>65</answer>
+<other>The article states people over 65 are at high risk of severe disease.</other>
+
+<question_number>19</question_number>
+<answer>FDA</answer>
+<other>The article states "The F.D.A. approved updated vaccines in August."</other>

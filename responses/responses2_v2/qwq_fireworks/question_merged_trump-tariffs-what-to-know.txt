@@ -1,0 +1,122 @@
+merged_trump-tariffs-what-to-know.txt
+Okay, let me start going through each question one by one. I need to make sure I only use the information from the provided article and answer exactly what's asked. Let me take it step by step.
+
+1. The first question asks for the total tariff revenue collected by U.S. Customs and Border Protection from Kent International's bicycle imports in 2018. The article mentions Arnold Kamler of Kent International paying tariffs since 2018, but there's no specific amount given. So I'll have to put N/A here because the exact figure isn't provided.
+
+2. The second question is about which agency Trump proposed to create for managing tariff revenue from Canadian imports. The article states Trump floated the idea of a new agency for tariff revenue, but it doesn't specify it's for Canadian imports. The answer might be N/A since the question is too specific, but maybe the answer is the proposed new agency, but since the article doesn't name it, I think N/A is safer.
+
+3. Third question: How much did the Chinese yuan depreciate after the new tariffs on Mexico and Canada? The article mentions that China might devalue currency, but there's no specific number given. So N/A here.
+
+4. Fourth question: What percentage of Kent International's profit margins were eliminated by bicycle parts tariffs before raising prices? The article says paying the tariff would erase profit margins entirely, but it's hypothetical. It doesn't state a specific percentage, so N/A.
+
+5. Fifth question: Which Miller & Chevalier lawyer calculated the percentage of U.S. companies as importers? The article mentions Richard Mojica, so his name should be the answer.
+
+6. Sixth question: The price increase per bicycle Arnold Kamler implemented. The article says he raised prices but no exact amount, so N/A.
+
+7. Seventh: Wendy Edelberg predicted how many jobs? The article doesn't mention job numbers, so N/A.
+
+8. Eighth: Maurice Obstfeld's estimate on losses from currency appreciation. The article discusses his points but no specific dollar amount, so N/A.
+
+9. Ninth: Products under $800 from China exempted. The de minimis exemption allowed under $800 to be tariff-free, but now removed for China. So the answer is products under $800.
+
+10. Tenth: Percentage of tariff costs absorbed by Chinese suppliers. The article says some importers tried to get suppliers to lower prices but no specific percentage, so N/A.
+
+11. Eleventh: Which country's companies pay the tariffs according to the lawyer. The customs lawyer (Richard Mojica) says importers are usually U.S. companies, so the answer is U.S. companies.
+
+12. Twelfth: The threshold eliminated for de minimis exemption. The article says $800 is the threshold being removed, so $800.
+
+13. Thirteenth: Tax Foundation's estimate for burden by 2025 excluding de minimis. The article states over $830 per household in 2025, so that's the answer.
+
+14. Fourteenth: Which org capped tariffs at 2.5%? The WTO is mentioned, so WTO.
+
+15. Fifteenth: Percentage of steel tariff cost passed to consumers in first year. The 2020 paper said half, so 50%.
+
+16. Sixteenth: Current agency collecting tariffs. The article says U.S. Customs and Border Protection, even though Trump proposed a new one.
+
+17. Seventeenth: Primary mechanism of tariffs to protect manufacturers. Wendy Edelberg says raising domestic prices so companies can compete, so "raising domestic prices".
+
+18. Eighteenth: Peterson Institute's GDP impact by 2027. The article says a third of a percentage point dip, so 0.3% or "about a third of a percentage point".
+
+19. Nineteenth: Company manufacturing in China and SC with price hikes. Kent International, as mentioned by Arnold Kamler.
+
+Wait, let me double-check each answer against the text.
+
+1. No specific number for Kent's 2018 revenue → N/A.
+
+2. The article says "Trump has floated the idea of creating an entirely new agency to deal with money earned from his tariffs." It doesn't say it's for Canadian imports specifically, so N/A.
+
+3. No figure on yuan depreciation → N/A.
+
+4. The article says "paying a 25% tariff would erase their profit margins entirely" but that's hypothetical, not actual percentage lost before raising prices. So N/A.
+
+5. Richard Mojica is the lawyer, so his name is correct.
+
+6. Kamler raised prices but no exact amount → N/A.
+
+7. Wendy Edelberg's point was about tariffs' purpose, not job numbers → N/A.
+
+8. Obstfeld discusses currency effects but no number → N/A.
+
+9. The de minimis exemption was under $800, so products under $800 were exempt. The answer is "shipments under $800".
+
+10. No specific percentage absorbed by suppliers → N/A.
+
+11. The lawyer said importers are usually U.S. companies, so the country is U.S. → "U.S. companies".
+
+12. The threshold is $800 → $800.
+
+13. The Tax Foundation says over $830 per household in 2025 → "more than $830".
+
+14. WTO → "World Trade Organization".
+
+15. The 2020 paper said half passed to consumers, so 50%.
+
+16. U.S. Customs and Border Protection → correct.
+
+17. The purpose is to raise domestic prices so manufacturers can compete → "raising domestic prices".
+
+18. Peterson's estimate is a third of a percentage point dip → "about a third of a percentage point".
+
+19. Kent International → correct.
+
+Alright, that seems to cover all questions with answers directly from the text or logical inferences. Let me make sure none are missed.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>Richard Mojica</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>shipments under $800</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>U.S. companies</answer>
+<question_number>12</question_number>
+<answer>$800</answer>
+<question_number>13</question_number>
+<answer>more than $830</answer>
+<question_number>14</question_number>
+<answer>World Trade Organization</answer>
+<question_number>15</question_number>
+<answer>50%</answer>
+<question_number>16</question_number>
+<answer>U.S. Customs and Border Protection</answer>
+<question_number>17</question_number>
+<answer>raising domestic prices</answer>
+<question_number>18</question_number>
+<answer>about a third of a percentage point</answer>
+<question_number>19</question_number>
+<answer>Kent International</answer>

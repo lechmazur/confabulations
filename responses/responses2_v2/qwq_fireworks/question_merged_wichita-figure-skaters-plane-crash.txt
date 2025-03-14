@@ -1,0 +1,84 @@
+merged_wichita-figure-skaters-plane-crash.txt
+Okay, let's tackle these questions one by one based on the article provided. I need to make sure I only use the information from the article and answer exactly as per the instructions.
+
+1. **Question 1:** The question asks which aviation company executive's visit required a layover before the Washington flight. The article mentions Mr. Sauceda listing officials like the head of SpaceX, Airbus Americas, and NASA. Since Airbus is mentioned first in the context of requiring a layover, the answer is Airbus Americas.
+
+2. **Question 2:** The skaters who were polite were teenage boys at the development camp. The article says Jolene Taylor mentioned their manners, so the age group is teenage boys.
+
+3. **Question 3:** The direct flight started a year ago, and the crash happened last week. Since the flight was established just a year prior, the answer is 1 year.
+
+4. **Question 4:** The regional hubs mentioned are Denver, Dallas, Atlanta. The first one listed is Denver, but the question asks for a specific one. The article says "regional hubs like Denver, Dallas and Atlanta," so any of those could be correct. The first one is Denver, but the question might expect the first mentioned. Wait, the question says "explicitly named as a common connecting point," so any of those. The first example is Denver. Let me check the text again: "Most flights from Wichita Dwight D. Eisenhower National Airport are to regional hubs like Denver, Dallas and Atlanta..." So Denver is the first, so answer Denver.
+
+5. **Question 5:** The article mentions Cessna and Beechcraft as historic manufacturers. Since the question is about the legacy tied to the crash, but the crash involved a passenger jet and a helicopter. The jet's manufacturer isn't specified, but the legacy includes Cessna and Beechcraft. The answer would be Cessna or Beechcraft. The first one mentioned is Cessna, so maybe that's the answer. The article says Wichita is the historic home of Cessna and Beechcraft planes. The question asks which was directly referenced as part of the aviation legacy tied to the crash. Since the crash involved a passenger jet, but the manufacturers mentioned are Cessna and Beechcraft. The article doesn't specify the crash aircraft's manufacturer, so perhaps the answer is N/A? Wait, the question is about the city's aviation legacy, so the answer is Cessna and Beechcraft. The question says "directly referenced" so the article mentions them as part of the legacy. The question is about the legacy tied to the crash. Maybe the answer is N/A because the crash's aircraft isn't specified as made there. Wait, the question is phrased as "manufactured in Wichita was directly referenced..." The article states Wichita's legacy includes Cessna and Beechcraft, so those are the brands. The answer is either Cessna or Beechcraft. The first one mentioned is Cessna. Let me check again. The article says "historic home of Cessna and Beechcraft planes, and a major manufacturing center..." So the answer is Cessna.
+
+6. **Question 6:** The Wichita Foundation started the fund. The question asks which organization’s leader advocated for the memorial fund alongside them. The article mentions the Wichita Foundation and discussions about memorials, but it doesn't mention another organization's leader. The answer might be N/A. Wait, the article says "there are discussions about establishing memorials for the skaters and other victims." The Wichita Foundation started the fund. The question says "which organization’s leader publicly advocated for the creation of the memorial fund alongside the Wichita Foundation?" The article doesn't mention another organization. So N/A.
+
+7. **Question 7:** Susie Santo's statements: the article says Wichita worked to persuade U.S. Figure Skating to hold the event by touting its aviation legacy. The primary reason cited would be Wichita's aviation legacy. The article says "by touting Wichita's legacy as the center of the country's aviation industry." So the answer is Wichita's aviation legacy.
+
+8. **Question 8:** The helicopter was an Army one. The article states it was an Army helicopter. So the answer is Army.
+
+9. **Question 9:** The article doesn't state the exact number of passengers. So N/A.
+
+10. **Question 10:** The cities mentioned as alternatives are Oklahoma City or Kansas City. The question asks which was mentioned as a frequent alternative. The article says "some drive two hours to Oklahoma City, or even three hours to Kansas City for more options." So the competing city's airport would be Kansas City's. But the question is about the airport, so Kansas City's airport is named? The article says "Kansas City for more options." The answer is Kansas City.
+
+11. **Question 11:** The public figure advocating for the flight was Senator Jerry Moran. He lobbied American Airlines for the flight. The answer is Jerry Moran.
+
+12. **Question 12:** The leader from the skating club is Jolene Taylor, president of the Wichita Figure Skating Club. She recalled the boys' manners. The answer is Jolene Taylor.
+
+13. **Question 13:** The religious official is Rev. Pamela Hughes Mason of St. Paul A.M.E. Church. She organized prayers after the text. Answer is Pamela Hughes Mason.
+
+14. **Question 14:** The event was the U.S. Figure Skating Championships, which was overshadowed by the crash. The answer is U.S. Figure Skating Championships.
+
+15. **Question 15:** The club with 60 members is the Wichita Figure Skating Club. The article states "Wichita Figure Skating Club... currently around 60..." So the answer is Wichita Figure Skating Club.
+
+16. **Question 16:** The transportation hub is Wichita Dwight D. Eisenhower National Airport. The article mentions "Wichita Dwight D. Eisenhower National Airport" as the departure point. The answer is Wichita Dwight D. Eisenhower National Airport.
+
+17. **Question 17:** The community foundation is the Wichita Foundation. The article says "The Wichita Foundation... has started a fund..." so the answer is Wichita Foundation.
+
+18. **Question 18:** The historic brand mentioned first is Cessna. The article says "historic home of Cessna and Beechcraft planes," so Cessna is first. The answer is Cessna.
+
+19. **Question 19:** The event with over 700 first-time skaters was SkateFest. The article mentions "last fall, more than 700 first-time skaters participated in the city's SkateFest." The answer is SkateFest.
+
+20. **Question 20:** The sport is figure skating, as the article centers on the championships and skating community. The answer is figure skating.
+</think>
+
+<question_number>1</question_number>
+<answer>Airbus Americas</answer>
+<question_number>2</question_number>
+<answer>teenage boys</answer>
+<question_number>3</question_number>
+<answer>1</answer>
+<question_number>4</question_number>
+<answer>Denver</answer>
+<question_number>5</question_number>
+<answer>Cessna</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>Wichita's aviation legacy</answer>
+<question_number>8</question_number>
+<answer>Army</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>Kansas City</answer>
+<question_number>11</question_number>
+<answer>Jerry Moran</answer>
+<question_number>12</question_number>
+<answer>Jolene Taylor</answer>
+<question_number>13</question_number>
+<answer>Pamela Hughes Mason</answer>
+<question_number>14</question_number>
+<answer>U.S. Figure Skating Championships</answer>
+<question_number>15</question_number>
+<answer>Wichita Figure Skating Club</answer>
+<question_number>16</question_number>
+<answer>Wichita Dwight D. Eisenhower National Airport</answer>
+<question_number>17</question_number>
+<answer>Wichita Foundation</answer>
+<question_number>18</question_number>
+<answer>Cessna</answer>
+<question_number>19</question_number>
+<answer>SkateFest</answer>
+<question_number>20</question_number>
+<answer>figure skating</answer>

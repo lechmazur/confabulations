@@ -1,0 +1,123 @@
+merged_california-homeowners-insurance-fires.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article. Let me start by reading through the questions again and then check the article for each answer.
+
+1. **What percentage increase in nonrenewal rates did Pacific Palisades experience between 2020 and 2022 according to the congressional investigators' data?**  
+   The article mentions that since 2020, the share of nonrenewals has grown every year, but it doesn't specify exact percentages for Pacific Palisades. The nonrenewal rates are shown in a figure with percentages like 5%, 10%, etc., but without specific yearly data between 2020-2022. So, answer is N/A.
+
+2. **Which insurance company executive suggested that replacing roofs could help reduce fire risk and stabilize the California insurance market?**  
+   The article says Ricardo Lara proposed paying homeowners to reduce fire risk through steps like replacing roofs. The executive isn't from an insurance company but the insurance commissioner. So, answer is N/A.
+
+3. **How many consecutive years of insurance industry profits were eliminated by the losses from the 2017-2018 wildfires in Southern California?**  
+   The article states the 2017 and 2018 fires "wiped out a full quarter-century of profits." So that's 25 years, but the question asks for consecutive years. The answer is 25, but the question might be a trick. Wait, the exact quote is "wiped out a full quarter-century of profits." So the answer is 25 years, but the question says "consecutive years of profits eliminated." Hmm, maybe 25 is the answer here.
+
+4. **What was the primary reason Kamala Harris cited for visiting the Pacific Palisades fire damage during her post-vice presidency tour?**  
+   The article says she met with local officials, but doesn't state her primary reason. It just mentions it was her first visit since the fires and one of her few public appearances. So N/A.
+
+5. **Which ZIP code showed the highest rate of FAIR Plan enrollment growth between 2023 and 2024 among the areas affected by the current Los Angeles fires?**  
+   The article mentions the ZIP code affected by the Palisades fire had enrollment nearly double. So the answer is Pacific Palisades.
+
+6. **How much additional funding did Ricardo Lara's December 30th policy change require insurance companies to maintain in reserves for California operations?**  
+   The article doesn't mention a specific amount. It talks about setting premiums based on wildfire losses but no figure on reserves. N/A.
+
+7. **What percentage of California homeowners were enrolled in the FAIR Plan when State Farm announced its market position changes?**  
+   The article doesn't state when State Farm announced changes or the FAIR Plan enrollment percentage at that time. N/A.
+
+8. **Which financial metric did AM Best use to rank California as the fourth largest global insurance market?**  
+   The article says Ricardo Lara mentions California is "fourth globally" but doesn't specify the metric. AM Best is mentioned as rating insurers' financial strength, not the market size. N/A.
+
+9. **What threshold of financial losses triggers the FAIR Plan's ability to collect additional funds from insurance companies operating in California?**  
+   The article states if the FAIR Plan doesn't have enough money to pay claims, it collects funds from insurers. No specific threshold (like a percentage or dollar amount) is given. N/A.
+
+10. **How many years has Christopher Flavelle been reporting on California's insurance market challenges according to his biographical information?**  
+    The article says he's covered it for almost a decade. A decade is 10 years. So answer is 10.
+
+11. **Which state-backed insurance system is portrayed as a lender of last resort... saw enrollment nearly double in one ZIP code between 2023-2024?**  
+    The FAIR Plan is mentioned here. So answer is California FAIR Plan.
+
+12. **Who is the actuary from a risk consulting firm that warned the market is "balanced on a knife edge"?**  
+    Nancy Watkins from Milliman, a consulting firm. The quote is hers.
+
+13. **Which major insurer, mentioned first among those covering most homes, asserted its top priority is safety...?**  
+    The article mentions State Farm and Farmers as the top two. State Farm is first. Their spokesperson said exactly that.
+
+14. **Who is the California official that proposed a reform allowing insurers to set premiums based on projected losses and suggested rewards for homeowners?**  
+    Ricardo Lara, the insurance commissioner.
+
+15. **Which risk reduction measure did the state official imply might be rewarded?**  
+    Replacing roofs is mentioned as a step to reduce fire risk.
+
+16. **According to the article, what financial institution is cited as likely to forego issuing mortgages without insurance?**  
+    Banks won't issue mortgages without insurance.
+
+17. **Which industry expert from an insurer-rating firm cautioned that insurer withdrawal would drive up premiums?**  
+    Sridhar Manyem from AM Best is cited here.
+
+18. **Which two-year period of past wildfires erased 25 years of profits?**  
+    2017 and 2018.
+
+19. **Which former high-ranking political figure toured Pacific Palisades fire damage post-vice presidency?**  
+    Kamala Harris.
+
+20. **Which association expressed it's too early to tell if reforms will halt insurer exits?**  
+    The American Property Casualty Insurance Association, via Denneile Ritter.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>25</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>Pacific Palisades</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>10</answer>
+
+<question_number>11</question_number>
+<answer>California FAIR Plan</answer>
+
+<question_number>12</question_number>
+<answer>Nancy Watkins</answer>
+
+<question_number>13</question_number>
+<answer>State Farm</answer>
+
+<question_number>14</question_number>
+<answer>Ricardo Lara</answer>
+
+<question_number>15</question_number>
+<answer>replacing roofs</answer>
+
+<question_number>16</question_number>
+<answer>banks</answer>
+
+<question_number>17</question_number>
+<answer>Sridhar Manyem</answer>
+
+<question_number>18</question_number>
+<answer>2017 and 2018</answer>
+
+<question_number>19</question_number>
+<answer>Kamala Harris</answer>
+
+<question_number>20</question_number>
+<answer>American Property Casualty Insurance Association</answer>

@@ -1,0 +1,63 @@
+merged_los-angeles-fires-costs.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article mentions studios closing operations and canceling productions, but doesn't indicate any studio's stock price dropping by double digits due to the wildfires.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions that "fires in 2017 and 2018 wiped out a quarter-century of their profits" but doesn't specify consecutive quarters of profit losses.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article mentions Edison International's stock falling 10 percent and Constellation Energy being valued at about $30 billion in a potential acquisition, but doesn't provide information to calculate a combined market capitalization loss.</other>
+
+<question_number>4</question_number>
+<answer>Elon Musk</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article doesn't specify what percentage of market share Meta gained after implementing new content policies and launching Threads. It mentions Meta commanded about 45% of the market last year and could gain market share this year with Threads, but doesn't provide specific percentage gains.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article mentions investor concerns about potential legal liabilities that cost "other utilities billions in settlements tied to other wildfires" but doesn't specify how much Edison International paid in previous settlements.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article mentions canceled events and productions but doesn't provide a total combined value.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article only mentions Britain's 30-year bonds reaching levels last seen in 1998, but doesn't compare this with other international bond markets' percentage yield increases.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article states "More than 100,000 Californians lost coverage from 2019 to 2024" but doesn't specify how many switched from the FAIR plan to private insurers (it implies movement in the opposite direction).</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article mentions AccuWeather's damage estimates but doesn't provide information about actual insurance claims filed.</other>
+
+<question_number>11</question_number>
+<answer>Edison International</answer>
+
+<question_number>12</question_number>
+<answer>State Farm</answer>
+
+<question_number>13</question_number>
+<answer>AccuWeather</answer>
+
+<question_number>14</question_number>
+<answer>Edison International</answer>
+
+<question_number>15</question_number>
+<answer>Mark Zuckerberg</answer>
+
+<question_number>16</question_number>
+<answer>Calpine</answer>
+
+<question_number>17</question_number>
+<answer>Biden administration</answer>
+
+<question_number>18</question_number>
+<answer>Donald Trump</answer>

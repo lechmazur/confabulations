@@ -1,0 +1,32 @@
+merged_bengt-samuelsson-dead.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>Dr. Ulf von Euler</answer>
+
+<question_number>3</question_number>
+<other>Dr. Samuelsson's work on arachidonic acid relates to aspirin's mechanism, but the direct connection is through Dr. Vane's discovery that aspirin blocks prostaglandin activity.</other>
+<answer>His work on arachidonic acid (the fatty acid required for prostaglandin production) helped establish the biochemical pathway that aspirin blocks, as discovered by Dr. Vane</answer>
+
+<question_number>4</question_number>
+<answer>Uterine contractions, blood pressure regulation, body temperature regulation, inflammation, blood clotting, asthma, allergies, kidney stones and gallstones</answer>
+
+<question_number>5</question_number>
+<other>The article mentions that some prostaglandins cause uterine contractions, which are related to menstrual cramps.</other>
+<answer>The article states that some prostaglandins "cause uterine contractions"</answer>
+
+<question_number>6</question_number>
+<answer>His Nobel Prize work on basic research into prostaglandins led to drug development, and in his final remarks he emphasized that "without basic research there is no translational research and no clinical development"</answer>
+
+<question_number>7</question_number>
+<answer>The article states that some of the molecules he discovered "are important in... asthma"</answer>
+
+<question_number>8</question_number>
+<answer>His research showed that prostaglandins and related molecules "are important in... kidney stones and gallstones"</answer>
+
+<question_number>9</question_number>
+<answer>The article states that his discoveries led to "drugs that treat... allergies" and that some molecules he discovered "are important in... allergies"</answer>
+
+<question_number>10</question_number>
+<answer>He discovered that some prostaglandins and related molecules "are important in blood clotting"</answer>

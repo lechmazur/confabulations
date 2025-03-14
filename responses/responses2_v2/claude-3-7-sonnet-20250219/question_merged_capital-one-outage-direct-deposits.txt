@@ -1,0 +1,80 @@
+merged_capital-one-outage-direct-deposits.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article doesn't specify what percentage of Capital One's customers were affected by the technical issue, only stating "It was not immediately clear how many customers were affected."</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions a lawsuit about underpayment of interest on savings accounts, but doesn't connect this to the technical issue with direct deposits or mention any specific regulatory action threatened regarding the deposit delays.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article only mentions disruption to "account services, deposits, and payment processing" but doesn't specify any other operational impacts.</other>
+
+<question_number>4</question_number>
+<answer>Friday morning</answer>
+<other>The company's customer service account stated they "expect services to gradually begin to return to normal throughout today and the majority of issues to be resolved by tomorrow morning" on Thursday, which would make "tomorrow morning" Friday morning.</other>
+
+<question_number>5</question_number>
+<answer>3</answer>
+<other>The disruption began on Wednesday, and by Saturday, Capital One stated they had "restored full account functionality and processed outstanding transactions for most of our customers." This represents 3 days from initial reports to restoration for most customers.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any alternative financial product offered to affected customers.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article mentions Down Detector as a website that monitors outages, but doesn't state that Mike Matsos used this or any other specific website to report issues.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any new features announced by Capital One to prevent future disruptions.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any compensation amount pledged by Capital One to affected customers.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article mentions a "third-party vendor" but doesn't identify what type of business it is.</other>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+<other>While the article mentions a lawsuit filed by federal regulators against Capital One for underpaying interest on savings accounts, it doesn't suggest this lawsuit caused the technical failure.</other>
+
+<question_number>12</question_number>
+<answer>hospitality</answer>
+<other>Mike Matsos is identified as "a hospitality worker in Birmingham, Ala." who experienced delayed paycheck processing.</other>
+
+<question_number>13</question_number>
+<answer>N/A</answer>
+<other>The article doesn't provide a number for Wednesday's initial outage reports, only mentioning that "nearly 4,000 customers each time reported issues" on Friday afternoon.</other>
+
+<question_number>14</question_number>
+<answer>N/A</answer>
+<other>While DeepSeek is mentioned in the article, it's not implied to have provided technology responsible for Capital One's service disruption.</other>
+
+<question_number>15</question_number>
+<answer>more than $2 billion</answer>
+<other>The article states: "The suit claims that the company may have cost its depositors more than $2 billion."</other>
+
+<question_number>16</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention Capital One making a commitment on a specific day after Friday morning to fully restore all services.</other>
+
+<question_number>17</question_number>
+<answer>Mark Zuckerberg</answer>
+<other>The article mentions "As Mark Zuckerberg and other tech titans have embraced President Trump and muffled internal dissent at their companies, their mostly left-leaning employees have objected with subtle acts of defiance."</other>
+
+<question_number>18</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention which country the third-party vendor was based in.</other>
+
+<question_number>19</question_number>
+<answer>Bill Gates</answer>
+<other>The article mentions "Bill Gates Isn't Like Those Other Tech Billionaires: The Microsoft co-founder and philanthropist is taking a break from the future to examine his past..."</other>
+
+<question_number>20</question_number>
+<answer>President Trump</answer>
+<other>The article states: "As President Trump takes aim at diversity efforts, creating 'fear and confusion' among corporate leaders, many companies have scaled back their programs."</other>

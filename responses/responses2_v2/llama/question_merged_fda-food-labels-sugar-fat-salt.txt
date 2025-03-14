@@ -1,0 +1,61 @@
+merged_fda-food-labels-sugar-fat-salt.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<other>The article mentions that chronic illnesses linked to sugar, salt, and saturated fat account for $4.5 trillion in annual health care costs, but it does not provide a percentage.</other>
+<answer>N/A</answer>
+
+<question_number>12</question_number>
+<other>Xaq Frohlich mentions that manufacturers might replace added sugar with an artificial sweetener, but he does not specify which one.</other>
+<answer>N/A</answer>
+
+<question_number>13</question_number>
+<other>Senator Bernie Sanders criticizes the F.D.A. for not clearly conveying the health risks of ultra-processed foods, but he does not mention a specific nutrient.</other>
+<answer>N/A</answer>
+
+<question_number>14</question_number>
+<answer>Facts up Front</answer>
+
+<question_number>15</question_number>
+<other>The article mentions that excessive sodium intake is linked to high blood pressure, but it does not explicitly list high blood pressure as a reason for the front-of-package salt warnings.</other>
+<answer>N/A</answer>
+
+<question_number>16</question_number>
+<other>The article mentions that more than a dozen countries have adopted front-of-package warning labels similar to Chile's system since 2016.</other>
+<answer>>12</answer>
+
+<question_number>17</question_number>
+<other>The article mentions that the F.D.A. issued voluntary guidelines aimed at pressing food manufacturers to lower the amount of sodium in processed and packaged goods.</other>
+<answer>sodium</answer>
+
+<question_number>18</question_number>
+<other>The article does not mention Dr. Lauren Fiechtner identifying a specific artificial sweetener as a common replacement for sugar.</other>
+<answer>N/A</answer>

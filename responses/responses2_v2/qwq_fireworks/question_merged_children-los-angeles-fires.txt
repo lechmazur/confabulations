@@ -1,0 +1,84 @@
+merged_children-los-angeles-fires.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article. Let me go through each question carefully.
+
+1. **Question 1:** The article mentions Ivy and Ruby's school had chickens named Sunshine and Marshmallow, and a rabbit named Mr. Fluff. The question asks for another animal besides those two chickens. So the answer should be "rabbit" (Mr. Fluff). 
+
+2. **Question 2:** Phoebe and Abigail moved twice since their house burned, and they know they'll move again. The question is how many moves they had before Kamala Harris's tour. The article says they moved twice already, so the answer is "2".
+
+3. **Question 3:** Kurtis's mom needs to replace sports equipment besides soccer cleats. The article mentions his sports equipment was burned, but only soccer cleats are named. The question says "besides soccer cleats," so maybe there's another item? Wait, the article says "soccer cleats and other sports equipment." Since the question asks for another item besides cleats, but the article doesn't specify, maybe it's "N/A"? Wait, but the question says "other than soccer cleats," so perhaps the answer is "N/A" because the text only mentions cleats explicitly. Hmm. Wait, the exact quote: "how his mom can afford to replace his soccer cleats and other sports equipment." So "other sports equipment" is mentioned, but not specified. Since the question asks for a specific item besides cleats, but there's no detail, the answer is "N/A".
+
+4. **Question 4:** Yasmine brought something Alessandra said they often shared. The text says Yasmine brought medicine, food, her baby blanket, and stuffed elephant. Alessandra packed clothes and mentioned they share clothes often. So the answer is "clothes".
+
+5. **Question 5:** Jet's kindergarten that burned was Aveson School of Leaders. The question mentions his autism and the school being closed. The article says Jet was in kindergarten at Aveson, which burned. So the answer is "Aveson School of Leaders".
+
+6. **Question 6:** Kurtis used a tablet for communicating and online learning. The article says he brought his school Chromebook and a tablet. The question specifies after their vacation rental burned, but the article says the house burned, so the tablet is the answer.
+
+7. **Question 7:** The family pet with magic powers? The article mentions the house had "magic" from people, but the pets they saved include a dog, cats, fish, hamster, tortoise. The question asks for the name of the pet with magic. The house itself was considered magical, not a pet. So maybe "N/A".
+
+8. **Question 8:** Kayla Odom is 12 (her sister is 9, Kurtis is 9, Kayla is 12). She expressed concern about a new school. Abigail was reminded of pandemic. The question asks Kayla's age when she expressed the concern. The answer is "12".
+
+9. **Question 9:** The high school where Lily, Alessandra, and Yasmine started GoFundMe is Palisades Charter High School. Their school part burned. The article says Phoebe's school (Marquez Charter) was across the street from her home, which burned. The high school is Palisades Charter High.
+
+10. **Question 10:** The birthday party at Chuck E. Cheese's flavor isn't mentioned. The article only says they had a party there. So "N/A".
+
+11. **Question 11:** The child who noted the trampoline remained standing is Kurtis. He mentioned that the trampoline was still standing while the house wasn't. He's in 4th grade, in a vacation rental. So the answer is "Kurtis".
+
+12. **Question 12:** The child who missed the big yard is Phoebe. She compared her new school's small yard to the old big one. The answer is "Phoebe".
+
+13. **Question 13:** The child who recalled the trampoline and grandparents from Haiti is Kurtis. His grandparents moved from Haiti, and he mentioned the trampoline. So "Kurtis".
+
+14. **Question 14:** The student with autism in a donated house and school closure is Jet. His mom is worried because he had been doing well with teachers. Remote learning reminded Abigail of pandemic, but the question is about the student with autism. So "Jet".
+
+15. **Question 15:** The shy child worried about new school is Kayla. The article says she's shy and worries about a new school. So "Kayla".
+
+16. **Question 16:** The teen missing Starbucks on the way to school is Lily. She mentioned stopping at Starbucks with friends. The twins started the GoFundMe. So "Lily".
+
+17. **Question 17:** The twin with the baby blanket is Yasmine. Alessandra packed perfume and photos; Yasmine brought the blanket. So "Yasmine".
+
+18. **Question 18:** The student who felt remote learning worse now than pandemic is Abigail. She compared it to pandemic but now it's just her school. So "Abigail".
+
+19. **Question 19:** The twin doing splits on stairs is Ruby. The article says Ruby did splits on the stairs at grandparents' house. So "Ruby".
+
+20. **Question 20:** The child with two books and saved pets is Abigail? Wait, the article says Phoebe and Abigail's family saved all pets, and Abigail took two books. "I only brought two books" is from Abigail. So the answer is "Abigail".
+</think>
+
+<question_number>1</question_number>
+<answer>rabbit</answer>
+<question_number>2</question_number>
+<answer>2</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>clothes</answer>
+<question_number>5</question_number>
+<answer>Aveson School of Leaders</answer>
+<question_number>6</question_number>
+<answer>tablet</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>12</answer>
+<question_number>9</question_number>
+<answer>Palisades Charter High School</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>Kurtis</answer>
+<question_number>12</question_number>
+<answer>Phoebe</answer>
+<question_number>13</question_number>
+<answer>Kurtis</answer>
+<question_number>14</question_number>
+<answer>Jet</answer>
+<question_number>15</question_number>
+<answer>Kayla</answer>
+<question_number>16</question_number>
+<answer>Lily</answer>
+<question_number>17</question_number>
+<answer>Yasmine</answer>
+<question_number>18</question_number>
+<answer>Abigail</answer>
+<question_number>19</question_number>
+<answer>Ruby</answer>
+<question_number>20</question_number>
+<answer>Abigail</answer>

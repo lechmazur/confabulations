@@ -1,0 +1,125 @@
+merged_arctic-wildlife-refuge-drilling-leases.txt
+Okay, let me tackle these questions one by one using the provided article. 
+
+1. The question asks for the percentage of the $2 billion projected royalties that were realized in the 2021 auction. The article mentions the 2021 auction brought in $14.4 million. To find the percentage: (14.4 / 2000) * 100 = 0.72%. But wait, the question also mentions the Gwich'in sacred lands. The article says the Biden administration excluded areas sacred to them, but the $14.4 million is the total from the 2021 auction. The answer should just be 0.72%, but maybe the article says "royalties over 10 years" so maybe it's a one-time payment? Wait, the $2B is projected over 10 years. The 2021 auction's revenue is the bids, not royalties. The article says the first auction in 2021 yielded $14.4M in bids. The question might conflate bids with royalties. Since the question is about the percentage of the projected $2B that was realized, the answer would be (14.4 / 2000)*100 = 0.72%. But the article might not specify if that $14.4M is part of the projected royalties. Hmm, maybe the question is tricky. The article says the projected royalties over 10 years were $2B. The 2021 auction's total bids were $14.4M. Since royalties are over 10 years, the first year's revenue would be a fraction. But the question is about the percentage of the total projected $2B that was realized in the initial auction. So maybe it's (14.4 / 2000)*100 = 0.72%. But I'll check the exact numbers again.
+
+2. The question is hypothetical: If the Alaska corp had bid on all tracts (they bid on 9 out of some number). The article says in 2021, the state corp was the only bidder on 9 tracts, and half of the offered leases had no bids. So if total tracts offered were T, then half had no bids, so maybe T/2 had bids? Wait, the article says "half of the offered leases drew no bids at all." So total tracts offered in 2021: let's say N tracts. Half had no bids, so N/2 had bids. The state corp bid on 9 tracts. If they bid on all tracts, then total bids would be 9 * (N / 9) * X? Wait, maybe the per tract bid was consistent. The state's 9 tracts total $14.4M. So per tract bid was 14.4M /9 = ~1.6M per tract. If they bid on all tracts, then total would be 1.6M * N. But we don't know N. The article doesn't specify the total number of tracts. So this is a problem. Since we don't know how many tracts there were, maybe the answer is N/A? Wait, but maybe the question assumes that the 9 tracts were all the ones that had bids? If half of the offered leases had no bids, then the other half had bids. If the state bid on all those that had bids, then total would be 9 tracts with their bids. But if the state had bid on all tracts (including the half with no bids before), that's impossible. The question says "mirroring their action on nine tracts"—so maybe they bid on all tracts as they did on the nine. If they bid on all tracts with the same per tract amount, then total would be (total tracts) * (14.4M /9). But without knowing total tracts, we can't compute. So answer N/A.
+
+3. The question asks what portion of the original one million acres was deemed economically unviable. The original proposal was 1M acres, but Biden reduced it to 400k, so 1M - 400k = 600k excluded. But the lawsuit by Alaska says the 400k made it unviable. Wait, the article says the Biden admin offered 400k (the minimum required by law), and Alaska sued because they cut it to 400k from 1M. So the 600k was excluded, so the state claims that the remaining 400k is unviable. The question is asking what portion of the original 1M was deemed unviable. Since the state is saying that even the 400k is unviable, but the reduction was 600k, but the question is about the portion of the original 1M that was excluded. The answer is 60%, since 600k/1M = 60%.
+
+4. The question assumes a linear relationship between acreage and bids. In 2021, when they offered more (maybe 1M? Wait, the article says in the most recent sale, Biden offered 400k, but in 2021, the original first auction under Trump's admin: the article says "the first auction... offered for lease in the northernmost section... half of the offered leases drew no bids." Wait, the 2021 auction's acreage isn't specified. Wait the article says "the Biden administration offered 400,000 acres after shaving off one million acres from the original boundaries." Wait, the original proposal was 1M acres? Or the first auction under Trump offered more? Let me recheck.
+
+Original article says: "the Biden administration offered 400,000 acres after shaving off one million acres from the original boundaries to avoid areas crucial..." So the original was 1M + 400k? Wait, no. The article says "the Biden administration offered 400,000 acres after shaving off one million acres from the original boundaries"—so the original was 1.4M? Or perhaps the original area proposed was 1M, and they cut it by 1M to 400k? Wait, maybe the original area to be auctioned was 1M, and they reduced it by 1M to 400k? That doesn't add up. Wait the article says "the Biden administration offered 400,000 acres after shaving off one million acres from the original boundaries to avoid areas crucial..." So the original area (before Biden's cut) was 1M + 400k = 1.4M? Or maybe the original proposed area was 1M, and they cut it by 1M, which would leave 0? That can't be. Maybe the original area was 1.4M, and they removed 1M, leaving 400k. But the question is about the 2021 auction. Wait the 2021 auction was under Trump's admin before Biden took over. The article says: "Two weeks before Mr. Trump left office in 2021, the Interior Department held the first auction. It was a dud. Alaska's state-owned economic development corporation was the only bidder on nine of the tracts offered for lease in the northernmost section of the refuge, and half of the offered leases drew no bids at all."
+
+So in 2021, the first auction under Trump's admin offered some number of acres. The article doesn't specify the acreage offered in 2021. The recent auction (the second one) under Biden was 400k. The question asks, if Biden had offered the full 1M (the original), how many bids would there be, assuming linear relation between acreage and bids. Since the recent auction (400k) had 0 bids, but the 2021 auction (with more acres?) had some bids. Wait, in the 2021 auction, the state corp bid on 9 tracts, and half of the offered leases had no bids. Let's say in 2021, the number of bids was 9 (since they were the only bidder on 9 tracts). The total number of tracts offered in 2021 isn't given, but half had no bids. Let's assume the number of tracts offered in 2021 was T, so bids were on T/2 tracts. But the state bid on 9 of those. So total bids (each tract bid on once?) would be T/2, but the state's 9 bids. Wait, maybe each tract that had a bid was bid on by the state, so total bids were 9. So in the 2021 auction with more acres (assuming original was 1M?), but the article doesn't say how many acres were offered in 2021. Since the question is about acreage, maybe the 2021 auction's acreage was 1M? Because Biden reduced it from 1M to 400k. Wait the article says "the Biden administration offered 400,000 acres after shaving off one million acres from the original boundaries"—so the original area to be auctioned was 1.4M? Or the original area proposed by the Trump admin was 1M, and Biden cut it by 1M to 400k. That would mean the original was 1.4M? Not sure. This is getting too confusing. Maybe the question is unanswerable because the acreage in the 2021 auction isn't specified. So answer N/A?
+
+Alternatively, maybe the 2021 auction's acreage was 1M (since Biden reduced it by 1M to 400k). So if in 2021 they offered 1M acres and got 9 bids (assuming the state's 9 tracts count as bids), and in the recent auction (400k) got 0 bids. Then the linear relationship would be: bids proportional to acreage. So 9 bids at 1M, so per acre: 9/1,000,000 bids per acre. For 1M, it would be same as 2021. But the question is if Biden had offered 1M (the original) instead of 400k, how many bids would there be? If the recent auction (400k) had 0 bids, but with linear, the bids would be (0/400k) *1M = 0. But that's not helpful. Maybe the 2021 auction's acreage was higher. Since the problem is unclear, perhaps answer N/A.
+
+5. The question asks, if the caribou herd's migration shifted to the northern/western parts, what fraction of the 400k acres would be excluded. The environmental review recommended restricting to northern and western parts to avoid areas used by the caribou. So if the caribou were in those areas, then the exclusion would be the entire 400k? Wait, no. The article says the review called for restricting leases to the northern and western parts not used by the caribou. If the caribou now use those areas, then those areas would be excluded. So the 400k was already in those areas (northern/western) to avoid the caribou. So if the caribou moved there, then all 400k would be excluded. But the question is phrased as "if the Porcupine caribou herd's migration patterns had shifted to the northern and western parts..." meaning those areas are now used by the caribou. Since the environmental review restricted leases to those areas *because* they weren't used by the caribou, shifting the herd there would mean the entire 400k is now excluded. So the fraction would be 100% of 400k, so fraction is 1 (or 100%). But the question asks what fraction of the 400k offered would be excluded. So 100%, so answer 1 or 100%? The article says the review recommended restricting to areas NOT used by the caribou. If the caribou are now there, then all the offered 400k (which are in the northern/western parts where the caribou weren't) would now be in areas the caribou use, so all 400k would be excluded. So the fraction is 1 (the whole area). So answer 100% or 1. The question says "fraction", so 1.
+
+6. The question asks what specific clause in the 2017 tax bill might have deterred banks from financing, given environmental concerns and Gwich'in claims. The article says several major banks refused to finance due to environmental concerns and the area's sacredness. The 2017 tax bill ended the drilling ban. Maybe the clause that opened ANWR for drilling, making it subject to environmental regulations or indigenous rights, which the banks found risky. The article doesn't specify a clause, so answer N/A.
+
+7. If Reagan had opened it with same interest as recent auctions (which had 0 bids in recent and 9 in 2021), then outcome would be few or no bids. The answer is N/A since it's hypothetical but the question asks for likely outcome. The 2021 had 9 bids, but recent had 0. So maybe 0 bids. But the question is about "the same level of interest as recent auctions"—so 0 bids. Answer 0.
+
+8. Gov Dunleavy likely proposed more acreage beyond 400k, maybe the original 1M. Since the lawsuit claims the 400k is too small, so answer 1,000,000 acres.
+
+9. The environmental review's provisions beyond acreage reduction that increased risk: maybe protections for permafrost, waterways, wildlife, which add costs or regulations. The article says the review recommended restricting leases and protecting those areas, so maybe the provisions about permafrost or waterways. The question asks for a specific provision. The article mentions "restricting leases to the northern and western part... areas not used by Porcupine caribou herd" and "protecting wildlife, waterways and permafrost." So maybe the permafrost protection or waterway restrictions. The question asks for a specific provision, so "protecting permafrost" or "waterways and permafrost" but the exact wording? The article says "recommended additional protections for wildlife, waterways and permafrost." So the specific provision could be "protections for permafrost." Answer: protections for permafrost.
+
+10. If a third auction under Trump with same interest (0 bids in recent, 9 in 2021), the max would be same as 2021's 14.4M. So maximum additional is 14.4M. But since the third auction might not get more than the first, so answer 14.4 million.
+
+11. The acreage removed before the final offer was 1 million acres (the article says "shaving off one million acres from the original boundaries to avoid...").
+
+12. The state-owned corp was Alaska's.
+
+13. The projected royalties over 10 years were $2 billion.
+
+14. The reason given was that the industry should focus on existing leases first, as per Daniel-Davis's statement: "industry is sitting on millions of acres of undeveloped leases elsewhere" so focus there.
+
+15. The leader who took credit was Trump.
+
+16. The Biden admin aimed to protect areas crucial to polar bears and Porcupine caribou.
+
+17. The resource was "liquid gold."
+
+18. The financial institutions were major banks.
+
+19. The administration accused by the senator (Sullivan) was Biden's.
+
+20. The administration that suspended leases was Biden's.
+</think>
+
+<question_number>1</question_number>
+<answer>0.72%</answer>
+<other>Calculated as (14.4M / 2000M)*100. The Gwich'in lands exclusion is mentioned but doesn't affect the calculation of the percentage.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Number of tracts offered in 2021 is unspecified, making the calculation impossible.</other>
+
+<question_number>3</question_number>
+<answer>60%</answer>
+<other>600,000 acres (1M - 400K) were excluded, representing 60% of the original 1M.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Acreage offered in 2021 is unspecified, preventing linear extrapolation.</other>
+
+<question_number>5</question_number>
+<answer>100%</answer>
+<other>If caribou migrated to the northern/western areas, all 400K acres (previously excluded from caribou use) would now be excluded, per the environmental review's criteria.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>No specific clause in the 2017 tax bill is cited as deterring banks; only general environmental/Gwich'in concerns are mentioned.</other>
+
+<question_number>7</question_number>
+<answer>0 bids</answer>
+<other>Recent auctions saw 0 bids, implying similar outcome if Reagan opened it with same conditions.</other>
+
+<question_number>8</question_number>
+<answer>1,000,000 acres</answer>
+<other>Alaska sought to revert to the original 1M acres cut by Biden's reduction.</other>
+
+<question_number>9</question_number>
+<answer>Protection of permafrost</answer>
+<other>Environmental review emphasized protections for permafrost, increasing drilling complexity and costs.</other>
+
+<question_number>10</question_number>
+<answer>$14.4 million</answer>
+<other>Maximum would mirror the 2021 auction's $14.4M if same interest persisted.</other>
+
+<question_number>11</question_number>
+<answer>1,000,000 acres</answer>
+<other>Biden "shaved off one million acres" to reach 400K.</other>
+
+<question_number>12</question_number>
+<answer>Alaska</answer>
+
+<question_number>13</question_number>
+<answer>$2 billion</answer>
+
+<question_number>14</question_number>
+<answer>Focus on existing leases first</answer>
+<other>Per Daniel-Davis: "industry should pursue undeveloped leases elsewhere first."</other>
+
+<question_number>15</question_number>
+<answer>Donald J. Trump</answer>
+
+<question_number>16</question_number>
+<answer>Polar bears and Porcupine caribou</answer>
+<other>Biden's reduction avoided areas crucial to these species.</other>
+
+<question_number>17</question_number>
+<answer>Oil</answer>
+<other>Trump referred to ANWR's resources as "liquid gold."</other>
+
+<question_number>18</question_number>
+<answer>Major banks</answer>
+
+<question_number>19</question_number>
+<answer>Biden administration</answer>
+<other>Senator Sullivan accused Biden of restricting land to block development.</other>
+
+<question_number>20</question_number>
+<answer>Biden administration</answer>
+<other>Biden canceled 2021 leases due to insufficient environmental analysis.</other>

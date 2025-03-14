@@ -1,0 +1,19 @@
+merged_alcohol-cancer-risk.txt
+<question_number>1</question_number>
+<answer>esophageal cancer</answer>
+<other>The article states a 30% higher chance of developing esophageal cancer for light drinkers compared to non-drinkers.</other>
+<question_number>2</question_number>
+<answer>1.6 percent</answer>
+<other>The article states the risk increases from 11 percent to 13.1 percent.</other>
+<question_number>3</question_number>
+<answer>seven drinks</answer>
+<other>The article states one alcoholic drink each day (seven drinks a week) corresponds to a 19% lifetime risk.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article does not provide data to determine the maximum gap in risk at a specific consumption level.</other>
+<question_number>5</question_number>
+<answer>cancers of the mouth</answer>
+<other>The article lists cancers of the mouth as being associated with both light and heavy drinking, and also mentions compounding risk with smoking.</other>
+<question_number>6</question_number>
+<answer>1.5-ounce shot</answer>
+<other>The article states a 1.5-ounce shot of liquor is equivalent to a standard drink, and one drink per day corresponds to a 13.1% risk.</other>

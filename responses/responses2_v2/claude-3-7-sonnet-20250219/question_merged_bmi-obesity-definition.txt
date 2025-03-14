@@ -1,0 +1,66 @@
+merged_bmi-obesity-definition.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article mentions 18 medical conditions caused by obesity (13 for children and adolescents), but doesn't specify how many require immediate intervention for individuals with a BMI of 30.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions Wegovy and Zepbound as prescription drugs that treat obesity, but doesn't state that any specific pharmaceutical company's drug was excluded from the commission's recommendations.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Dr. Jessup discusses the American Heart Association's endorsement of the report and their struggle with defining "bad weight," but doesn't mention any specific alternative biomarker they initially considered.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article doesn't specify a minimum BMI cutoff for automatically diagnosing clinical obesity in pediatric patients.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>While the article mentions 13 obesity-related medical complications for children and adolescents, it doesn't specify which one is linked to irreversible organ damage.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article doesn't discuss any conflict between the commission's definition and the World Health Organization's stance on metabolic syndrome classification.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention a specific body fat percentage threshold measured via DEXA scan for reclassifying from pre-clinical to clinical obesity.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any commission member disagreeing about the exclusion of psychological disorders from the list of obesity-related complications.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article doesn't discuss which demographic group shows the highest discrepancy between BMI classifications and waist-to-hip ratio measurements.</other>
+
+<question_number>10</question_number>
+<answer>at least 40 inches</answer>
+
+<question_number>11</question_number>
+<answer>DEXA scans</answer>
+
+<question_number>12</question_number>
+<answer>more than 34.6 inches</answer>
+
+<question_number>13</question_number>
+<answer>Dr. David M. Nathan</answer>
+
+<question_number>14</question_number>
+<answer>Dr. Francesco Rubino</answer>
+
+<question_number>15</question_number>
+<answer>pre-clinical obesity</answer>
+
+<question_number>16</question_number>
+<answer>American Heart Association</answer>
+
+<question_number>17</question_number>
+<answer>stroke</answer>
+
+<question_number>18</question_number>
+<answer>Gina Kolata</answer>
+
+<question_number>19</question_number>
+<answer>40 or greater</answer>

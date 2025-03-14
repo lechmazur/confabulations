@@ -1,0 +1,94 @@
+merged_india-doctor-rape-sentence.txt
+Okay, let's tackle these questions one by one using only the article provided.
+
+1. **Question 1**: The victim in the 2012 New Delhi case's age? The article mentions the Kolkata victim was 31, but the 2012 case's victim's age isn't stated. So, N/A.
+
+2. **Question 2**: Jawhar Sircar's corruption allegation? The text says he linked protests to "wholesale corruption in the medical college." So that's the answer.
+
+3. **Question 3**: Number of confessions Roy claimed were forced? The article says "written confessions he gave to police were obtained by force." It doesn't specify the count. So N/A.
+
+4. **Question 4**: Legal precedent rejected? The court used the "rarest of the rare" standard. The CBI wanted death but the court said it didn't meet that. So the precedent is "rarest of the rare."
+
+5. **Question 5**: Mamata Banerjee's role? She's the chief minister, and her party is mentioned. The police under her? The answer is she's the state's chief minister, but the question asks her role in the initial investigation. The article says Kolkata Police answer to her. So her role is Chief Minister overseeing the police.
+
+6. **Question 6**: Physical evidence besides CCTV and headphones? The article mentions the headphones found at the scene and CCTV. No other evidence is listed. So N/A.
+
+7. **Question 7**: Legislative change demanded? The 2012 case led to reforms, but the article doesn't mention what protesters here demanded. So N/A.
+
+8. **Question 8**: Who blamed the police for the sentence? Rekha Sharma, part of Modi's party, said it was due to Kolkata Police's shortcomings. So her name.
+
+9. **Question 9**: Who claimed framed? Sanjay Roy said he was framed. The question specifies he was a volunteer, which matches.
+
+10. **Question 10**: Coerced statements disputed? Same as question 9, so Sanjay Roy.
+
+11. **Question 11**: State leader's social media post? The spokesperson for Banerjee posted that her team was vindicated. The answer is Mamata Banerjee's spokesperson, but the question asks for the individual. The text says "a spokesperson for Ms. Banerjee...greeted the sentencing..." So the answer is Mamata Banerjee, as her spokesperson acted on her behalf.
+
+Wait, the question says "which individual’s social media post", so the spokesperson isn't the individual. The article says "a spokesperson for Ms. Banerjee...posted on social media..." So the spokesperson's post, but the question asks for the state leader. The answer is Mamata Banerjee, since the spokesperson is acting on her behalf. Or maybe the spokesperson is separate? The article says "Ms. Banerjee...greeted the sentencing by posting on social media..." Wait, no, let me check again. The exact text: "A spokesperson for Ms. Banerjee, one of Mr. Modi's most vocal rivals, greeted the sentencing by posting on social media that the politician and the Kolkata police had been vindicated by the verdict." So the spokesperson posted on behalf of Banerjee. The question asks "which individual’s social media post", so the spokesperson isn't the individual, but the answer is Mamata Banerjee, because the spokesperson is representing her. Hmm, tricky. The question might expect the spokesperson's name isn't given, so maybe the answer is N/A? Wait no, the question asks which individual's post. Since the spokesperson is acting on her behalf, but the spokesperson is a separate person. The article doesn't name the spokesperson, so the answer would be N/A? Or does it say the spokesperson is part of her team, so the individual is Banerjee? The question says "the politician and the Kolkata police had been vindicated" by the post. The post was made by the spokesperson, but the question asks which individual's post. Since the spokesperson isn't named, perhaps the answer is N/A. Wait, but the question says "state leader’s social media post", so the state leader is Mamata Banerjee. The spokesperson is her representative, but the question might consider that the spokesperson's post is attributed to her. Alternatively, maybe the answer is Mamata Banerjee. Let me check the exact wording again. The spokesperson did the posting, but it's on behalf of Ms. Banerjee. The question is about the individual (Banerjee) asserting via the post. Since the spokesperson is acting for her, the answer is Mamata Banerjee. So answer is Mamata Banerjee.
+
+12. **Question 12**: Punishment in the earlier case (2012 Delhi)? The article says "eventually to four hangings." So hanging.
+
+13. **Question 13**: Investigative agency recommending death penalty? The Central Bureau of Investigation (CBI).
+
+14. **Question 14**: Professional group striking? Doctors in Kolkata went on strike.
+
+15. **Question 15**: Who said statements were under duress? Sanjay Roy.
+
+16. **Question 16**: Former civil servant who resigned over graft? Jawhar Sircar.
+
+17. **Question 17**: Former city name? Kolkata was formerly called Calcutta.
+
+Now check each against the article.
+
+1. N/A (age not given for 2012 case)
+2. "wholesale corruption in the medical college"
+3. N/A (number not stated)
+4. "rarest of the rare" standard
+5. Mamata Banerjee as Chief Minister of West Bengal (since Kolkata Police report to her)
+6. N/A (only CCTV and headphones mentioned)
+7. N/A (article doesn't state the demanded reform)
+8. Rekha Sharma
+9. Sanjay Roy
+10. Sanjay Roy
+11. Mamata Banerjee (since the spokesperson acts on her behalf)
+12. Hanging
+13. CBI
+14. Doctors
+15. Sanjay Roy
+16. Jawhar Sircar
+17. Calcutta
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>wholesale corruption in the medical college</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>rarest of the rare</answer>
+<question_number>5</question_number>
+<answer>Mamata Banerjee</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>Rekha Sharma</answer>
+<question_number>9</question_number>
+<answer>Sanjay Roy</answer>
+<question_number>10</question_number>
+<answer>Sanjay Roy</answer>
+<question_number>11</question_number>
+<answer>Mamata Banerjee</answer>
+<question_number>12</question_number>
+<answer>hanging</answer>
+<question_number>13</question_number>
+<answer>India's Central Bureau of Investigation</answer>
+<question_number>14</question_number>
+<answer>doctors</answer>
+<question_number>15</question_number>
+<answer>Sanjay Roy</answer>
+<question_number>16</question_number>
+<answer>Jawhar Sircar</answer>
+<question_number>17</question_number>
+<answer>Calcutta</answer>

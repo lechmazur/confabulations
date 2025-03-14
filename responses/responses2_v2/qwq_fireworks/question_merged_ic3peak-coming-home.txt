@@ -1,0 +1,98 @@
+merged_ic3peak-coming-home.txt
+Okay, let's tackle these questions one by one. I need to make sure I use only the information from the provided article and answer strictly based on that.
+
+1. **Question 1**: The article mentions "In 2018, it released 'Death No More' a track whose video features the band members setting themselves alight in front of a government building in Moscow..." and that around that time, police tried to shut down shows. So the year is 2018.
+
+2. **Question 2**: Kreslina lived in Paris, Los Angeles, Istanbul, Turin, Italy, and has an apartment in Riga. But the question specifies European cities only. Paris (France), Riga (Latvia), Turin (Italy) are European. Istanbul is in Turkey, which is transcontinental, but the article might consider it as part of Europe? Hmm. The question says "excluding temporary visits and non-European locations". The article says she wandered between those cities but Riga is her apartment. Istanbul is in Turkey, which is partly in Asia. So maybe exclude Istanbul? The answer would be 3: Paris, Riga, Turin. Wait, the question says "specifically mentioned living in" after leaving Russia. The text says: "Kreslina has wandered between Paris, Los Angeles, Istanbul and Turin, Italy, among other cities; Kostylev now lives in Berlin." So LA is non-European, Istanbul (Turkey) is partially in Asia, so maybe only Paris, Turin (Italy), and Berlin? Wait, Berlin is Kostylev's. The question is about Kreslina's cities. So Kreslina's cities mentioned: Paris, LA (non-Euro), Istanbul (maybe non-Euro), Turin (Italy), and Riga (Latvia). So Riga is included as her apartment. So that's Paris, Turin, Riga. Three European cities. So answer is 3?
+
+3. **Question 3**: The article says "Kostylev said that, based on streaming data, he estimated that about 70 percent of Ic3peak's fans live outside Russia," implying 30% are in Russia. But the question asks prior to exile. Wait, the article says "going into exile had not had a significant financial impact" because 70% were already outside? Or maybe the 70% now are outside, so prior would be different. The text doesn't say the prior percentage. So the answer is N/A because the article doesn't provide the pre-exile figure. The 70% is current.
+
+4. **Question 4**: The article says Kreslina explained the shift: "Everything in our lives has changed." She used to scream, now she whispers. So the member who suggested the change would be Kreslina? The answer is N/A because the article doesn't say who suggested it, just that Kreslina explained the reason. The question is about who "first suggested changing their musical style". The text says Kreslina said there was a simple explanation, but doesn't attribute the suggestion to a specific member. So N/A.
+
+5. **Question 5**: The primary reason Russian authorities shut down shows? The article says "death-obsessed lyrics, anti-state provocations and bloodcurdling screams" were part of their earlier work. The police tried to shut down shows because of their anti-state provocations. So the primary reason would be "anti-state provocations".
+
+6. **Question 6**: Kostylev left before the 2022 invasion. The article says "Kostylev left Russia before the 2022 full-scale invasion of Ukraine began because he had found the atmosphere stifling." So when did he leave? The text doesn't specify the exact time before 2022. So the number of months can't be determined. Answer N/A.
+
+7. **Question 7**: The article says social media users found their unusual acts, so "social media platforms played a role in building their international following by allowing users to discover their unusual acts". The exact quote: "social media users searching out unusual acts online, as well as music fans. 'They've always felt ripe for crossover,' he said." So the answer is that social media helped users discover them, so the role was "allowing discovery of unusual acts" or "social media users searching out unusual acts online".
+
+8. **Question 8**: The video for "Death No More" shows them in front of a government building. The article says "in front of a government building in Moscow while Kreslina sings..." but doesn't name which one. So N/A.
+
+9. **Question 9**: Tolokonnikova saw them at a gig with "thousands of teenage girls dancing". The exact number isn't given, so N/A.
+
+10. **Question 10**: "Coming Home" doesn't have openly political tracks, but subtle allusions. The question is how many tracks directly address political situation. The article says "no openly political tracks", so answer 0?
+
+11. **Question 11**: The altered technique to capture attention was "gently coos and whispers over melodic indie rock" instead of screaming. So the answer is "whispering/coos".
+
+12. **Question 12**: The self-immolation in front of a government building as an anti-state provocation.
+
+13. **Question 13**: The invasion of Ukraine in 2022 is the event that altered their direction. The article says Kreslina left after the invasion started, so that's the major event.
+
+14. **Question 14**: The streaming data says 70% are outside Russia, so that's the figure.
+
+15. **Question 15**: They kept music on Russian streaming to maintain connection with fans opposing the government. The article says they decided not to pull music to stay connected with fans there who oppose the government.
+
+16. **Question 16**: The abandoned vocal method was "screaming".
+
+17. **Question 17**: Kostylev left because of the stifling atmosphere, which led to paranoia over time. The circumstance prompting departure was the stifling atmosphere leading up to the invasion.
+
+18. **Question 18**: Tolokonnikova said they "build a world" beyond music.
+
+19. **Question 19**: The earlier aesthetic was horror-inspired (zombies and monsters), replaced by Goth angels in tracksuits.
+</think>
+
+<question_number>1</question_number>
+<answer>2018</answer>
+
+<question_number>2</question_number>
+<answer>3</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>anti-state provocations</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>allowed discovery of unusual acts online</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>0</answer>
+
+<question_number>11</question_number>
+<answer>whispering</answer>
+
+<question_number>12</question_number>
+<answer>self-immolation in front of a government building</answer>
+
+<question_number>13</question_number>
+<answer>Russia's full-scale invasion of Ukraine</answer>
+
+<question_number>14</question_number>
+<answer>70%</answer>
+
+<question_number>15</question_number>
+<answer>maintain connection with dissenting fans</answer>
+
+<question_number>16</question_number>
+<answer>screaming</answer>
+
+<question_number>17</question_number>
+<answer>stifling political atmosphere</answer>
+
+<question_number>18</question_number>
+<answer>They build a world</answer>
+
+<question_number>19</question_number>
+<answer>horror movie-inspired imagery</answer>

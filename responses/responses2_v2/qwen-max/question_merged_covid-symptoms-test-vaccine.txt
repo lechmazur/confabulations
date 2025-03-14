@@ -1,0 +1,76 @@
+merged_covid-symptoms-test-vaccine.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article mentions Pemgarda, but it is for protection before infection, not after symptoms develop.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article does not mention the JN.1 variant or its prevalence.</other>
+
+<question_number>3</question_number>
+<answer>Paxlovid</answer>
+<other>Paxlovid interacts with antipsychotic drugs and medications for irregular heart rhythms.</other>
+
+<question_number>4</question_number>
+<answer>Bring the test inside and let it come up to room temperature before using it.</answer>
+<other>This is the specific storage warning for tests left outside in freezing temperatures.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article does not specify a program explicitly named as operating in 2024.</other>
+
+<question_number>6</question_number>
+<answer>Cornucopia</answer>
+<other>Dr. Marc Sala uses this term to describe the spread of multiple illnesses.</other>
+
+<question_number>7</question_number>
+<answer>Five full days</answer>
+<other>The FDA recommends waiting at least five full days after exposure before testing if asymptomatic.</other>
+
+<question_number>8</question_number>
+<answer>Variants very similar to XEC</answer>
+<other>The updated vaccines target variants close to XEC, the dominant variant now.</other>
+
+<question_number>9</question_number>
+<answer>80 percent</answer>
+<other>The FDA expects at-home tests to detect the virus at least 80% of the time when someone is infected.</other>
+
+<question_number>10</question_number>
+<answer>Let it come up to room temperature</answer>
+<other>This step is critical for tests exposed to cold outdoor conditions.</other>
+
+<question_number>11</question_number>
+<answer>Paxlovid</answer>
+<other>Paxlovid is highlighted as the primary treatment option despite its interactions with other drugs.</other>
+
+<question_number>12</question_number>
+<answer>XEC</answer>
+<other>XEC is identified as making up nearly half of current Covid cases.</other>
+
+<question_number>13</question_number>
+<answer>Cough</answer>
+<other>Cough is repeatedly emphasized as a common symptom of both Covid and other respiratory infections.</other>
+
+<question_number>14</question_number>
+<answer>Five full days</answer>
+<other>The article advises waiting at least five full days after exposure before testing if asymptomatic.</other>
+
+<question_number>15</question_number>
+<answer>It's most likely still OK to use</answer>
+<other>The article concludes that expired tests kept at room temperature are likely still usable.</other>
+
+<question_number>16</question_number>
+<answer>48 hours</answer>
+<other>A second test should be taken 48 hours after the first negative rapid test.</other>
+
+<question_number>17</question_number>
+<answer>Lab P.C.R. tests</answer>
+<other>Lab P.C.R. tests remain the gold standard for Covid diagnostics.</other>
+
+<question_number>18</question_number>
+<answer>65</answer>
+<other>People over 65 are explicitly mentioned as being at higher risk of severe disease.</other>
+
+<question_number>19</question_number>
+<answer>FDA</answer>
+<other>The FDA approved updated vaccines targeting variants similar to the dominant strain.</other>

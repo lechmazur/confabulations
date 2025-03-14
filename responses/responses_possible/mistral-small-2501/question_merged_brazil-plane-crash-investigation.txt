@@ -1,0 +1,21 @@
+merged_brazil-plane-crash-investigation.txt
+<question_number>1</question_number>
+<answer>The article mentions that the plane's de-icing system was improved since 1994, which could lead readers to assume that the system was effective and not a factor in the crash, potentially distracting from the possibility that the system might have failed or not been used correctly.</answer>
+<question_number>2</question_number>
+<answer>The article states that the plane was traveling roughly 325 miles per hour when its speed dropped sharply in the minutes before the crash, but the speed did not drop far enough to cause a stall unless icing was extremely severe.</answer>
+<question_number>3</question_number>
+<answer>The plane's anti-icing system consisted of rubber tubes on the wings that are supposed to inflate and deflate to break up any ice, but the temperature on the ground where the plane crashed was around 63 degrees, which challenges the primary theory about the cause being severe icing.</answer>
+<question_number>4</question_number>
+<answer>The plane was spinning slowly as it plummeted before crashing almost directly on its belly, which contradicts standard expectations for a stall-induced crash, as stalls typically result in a more abrupt and uncontrolled descent.</answer>
+<question_number>5</question_number>
+<answer>The plane's last recorded speed was roughly 325 miles per hour, which did not drop far enough to cause a stall unless icing was extremely severe, challenging the primary theory about the crash cause being severe icing.</answer>
+<question_number>6</question_number>
+<answer>The pilots did not communicate with controllers just before the crash, which conflicts with standard protocol for addressing severe icing conditions, as pilots typically first alert air traffic controllers to descend to a lower altitude.</answer>
+<question_number>7</question_number>
+<answer>The temperature on the ground where the plane crashed was around 63 degrees, which contradicts a key assumption underlying one expert's statement about potential icing conditions, as 63 degrees is not typically associated with severe icing.</answer>
+<question_number>8</question_number>
+<answer>The improvement of the de-icing system after a previous incident involving the same aircraft model paradoxically complicates the current investigation because it suggests that the system should have been effective, but it might not have been used correctly or could have failed.</answer>
+<question_number>9</question_number>
+<answer>The plane's model, an ATR 72-500 turboprop built in 2010, becomes crucial when considering the icing theory proposed by experts, as it has a specific de-icing system that could have failed or not been used correctly.</answer>
+<question_number>10</question_number>
+<answer>The plane began to fall from 17,000 feet, which challenges assumptions about gradual ice accumulation, as ice typically accumulates more gradually at lower altitudes.</answer>

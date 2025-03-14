@@ -1,0 +1,99 @@
+merged_park-city-strike-union.txt
+Okay, let's tackle these questions one by one based on the article provided. I need to make sure I only use the information given and avoid any assumptions or external knowledge. Let me go through each question carefully.
+
+1. **Average donation amount for the GoFundMe**: The article says over $300,000 was raised with 4,000 contributors. To find the average, I can divide 300,000 by 4,000, which is $75. But wait, the question is asking if it's directly stated. The article doesn't explicitly state the average, just the total and the number of people. Since it requires calculation, but the article provides the numbers needed, maybe it's acceptable? Hmm, the instructions say to answer based on the text. The text gives the total and the count, so maybe it's allowed. But the question is about the average donation. Let me check the instructions again. They say if it can be logically inferred, then it's okay. Since the total is $300k and 4k people, the average is 300,000/4,000=75. So the answer would be $75. Wait, but the article says "more than $300,000" and "more than 4,000 people". The exact numbers aren't given, so maybe it's approximate. But since the question is asking for the average based on the exact figures provided (if they were exact), but the article uses "more than", so the exact average can't be determined. Therefore, maybe N/A? Hmm, tricky. The instructions say to answer based on the text. Since the exact numbers are not given (they are minimums), the average can't be precisely calculated. So the answer is N/A.
+
+2. **Duration of the strike**: The strike started on Dec 27 and ended on the day the contract was ratified on Wednesday (the article mentions the return was on Thursday, so the strike ended Wednesday). The article says "nearly two-week strike". The exact days would be from Dec 27 to the day before the contract was ratified. Since it's "nearly two weeks", maybe 13 days? The article says "nearly two-week strike" but the exact days aren't given. The question asks for the exact number of days. Since the text says "nearly two weeks" but not exact, so maybe 14 days? Wait, "nearly two-week" might mean just under two weeks, so 13? But the article says "nearly two-week strike hobbled the largest U.S. ski resort during a busy holiday period" and then mentions the contract was ratified late Wednesday, with patrollers returning Thursday. The strike started Dec 27. Let me count the days. From Dec 27 to the day before the contract was ratified (Wednesday). Let's see: if they returned Thursday, the strike ended Wednesday. Let's say the contract was ratified on the 10th day? Wait, the article says "nearly two-week", so maybe 14 days? The exact number isn't stated, so the answer is N/A. The question asks for the exact number of days, which isn't given. So N/A.
+
+3. **Percentage of homes as primary residences**: The article states that over 70% are vacant or second homes. So the remaining would be 100% -70% = 30%, but since it's "over 70%", the exact percentage isn't given. So the answer is N/A. The question asks for the exact percentage, which can't be determined precisely from the text. The article just says over 70% are vacant or second homes, so the primary would be less than 30%, but the exact number isn't there. So N/A.
+
+4. **National labor union affiliation**: The article mentions the Park City Professional Ski Patrollers Association and later states that United Mountain Workers, part of the Communications Workers of America, represents nearly 1,100 employees. Since the Park City patrollers are part of that, the direct affiliation is United Mountain Workers (which is under CWA). The question asks which national union they're affiliated with directly, so the answer is United Mountain Workers, part of Communications Workers of America. But the question says "directly affiliated with", so the direct one would be United Mountain Workers. Wait, the article says "United Mountain Workers, part of the Communications Workers of America, now represents nearly 1,100..." So the Park City association is part of United Mountain Workers. Therefore, the answer is United Mountain Workers.
+
+5. **Total unionized employees at Vail Resorts**: The article states that since 2021, the number of ski area employees (mostly patrollers and lift operators) joining unions has doubled. But the total as of 2023 isn't given. The article says United Mountain Workers represents nearly 1,100 employees in 16 bargaining units across four states. But that's the total for United Mountain Workers, not specifically Vail Resorts. However, the Park City patrollers are part of that. The question asks for the total at all Vail Resorts properties. Since Vail owns Park City and 40 others, but the article doesn't specify how many of the 1,100 are at Vail properties. The doubling since 2021: if the current number is double the 2021 number, but we don't know the original. The article only says the current number is ~1,100. But the question asks for the total number across all Vail Resorts properties, which isn't specified. So N/A.
+
+6. **Number of closed trails**: The article says only one-fourth of the terrain was open, so three-fourths were closed. But the question asks how many trails were closed. The total number of trails isn't provided, so can't calculate. Therefore N/A.
+
+7. **Executive who apologized**: The article says Bill Rock, president of Vail Resorts' Mountain Division, said in a statement that they apologized to guests. The union's statement about wage negotiations might be referring to his apology. The question asks which executive by name. The answer is Bill Rock.
+
+8. **Hourly wage increase for experienced patrollers before the strike**: The article states that the most experienced received an average increase of $7.75. But the question asks what the increase was prior to the strike. The article doesn't mention their previous wage, only the increase. So N/A.
+
+9. **Number of certified avalanche specialists**: The article mentions snow safety personnel who ski in avalanche terrain and throw explosives, but doesn't state how many of the 204 are certified. N/A.
+
+10. **News organization that first reported the backlash**: The article mentions skiers used social media and national news organizations, but doesn't name which one first. N/A.
+
+11. **Market value of Vail Resorts**: The article says Vail Resorts is a global corporation valued at nearly $10 billion. So the answer is $10 billion.
+
+12. **Average raise for experienced patrollers**: The article says the most experienced got an average increase of $7.75 per hour. So the answer is $7.75.
+
+13. **Winter sport safeguarded by patrollers**: The patrollers ensure safety for skiers, so the sport is skiing.
+
+14. **GoFundMe amount**: The article states over $300,000. So the answer is $300,000 (though it's "more than", but the exact figure given is $300k).
+
+15. **Median home price**: The article states the median price of a new home is nearly $2 million. So $2 million.
+
+16. **Protest statement about imperiling culture and sport**: The article quotes an Instagram post: "Vail Resorts is killing skiing, ski towns and ski culture every place they go." So that's the statement.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Article provides total donations ($300k+) and contributors (4k+), but not exact average due to "more than" qualifiers.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Strike described as "nearly two-week" but exact days not stated. Started Dec 27 and ended Wednesday before patrollers' Thursday return, but duration not numerically specified.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Over 70% vacant/second homes, but exact percentage of primary residences not given.</other>
+
+<question_number>4</question_number>
+<answer>United Mountain Workers</answer>
+<other>Article states Park City union is part of United Mountain Workers, which is under Communications Workers of America.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Total unionized employees at Vail Resorts not specified; 1,100 total under United Mountain Workers includes non-Vail properties.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Only 1/4 terrain open implies 3/4 closed, but total trail count not provided for calculation.</other>
+
+<question_number>7</question_number>
+<answer>Bill Rock</answer>
+<other>Bill Rock (Vail Resorts Mountain Division president) issued the apology in his statement.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>Article only states $7.75 average post-strike increase, not prior wages.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Role of snow safety personnel described, but no headcount provided among 204 patrollers.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>Article mentions "national news organizations" but doesn't name which one first reported backlash.</other>
+
+<question_number>11</question_number>
+<answer>$10 billion</answer>
+<other>Text states Vail Resorts is valued at "nearly $10 billion."</other>
+
+<question_number>12</question_number>
+<answer>$7.75</answer>
+<other>Explicitly states most experienced patrollers received an average increase of $7.75.</other>
+
+<question_number>13</question_number>
+<answer>skiing</answer>
+<other>Patrollers' avalanche mitigation and rescue efforts directly relate to skier safety.</other>
+
+<question_number>14</question_number>
+<answer>$300,000</answer>
+<other>Article states "more than $300,000" was raised, so the base figure is $300k.</other>
+
+<question_number>15</question_number>
+<answer>$2 million</answer>
+<other>Text states "median price of a new home...nearly $2 million."</other>
+
+<question_number>16</question_number>
+<answer>"Vail Resorts is killing skiing, ski towns and ski culture every place they go"</answer>
+<other>Quoted Instagram comment directly matches the question's description.</other>

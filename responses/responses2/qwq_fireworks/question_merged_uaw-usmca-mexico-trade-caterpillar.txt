@@ -1,0 +1,27 @@
+merged_uaw-usmca-mexico-trade-caterpillar.txt
+Okay, let's tackle these questions one by one. 
+
+First question: How many jobs did CNH move from its Racine, Wisconsin plant to Mexico in 2022, according to the company's financial filings?
+
+Looking at the article, there's a part that says, "CNH, another equipment maker with a large U.S. presence, recently told the U.A.W. that it was moving more than 200 jobs to Mexico from Racine, Wis." The key here is the wording "more than 200 jobs." But the question specifically asks about 2022. The article mentions this move but doesn't specify the year. Wait, the article says "recently told the U.A.W.," but when did this happen? The article's date isn't given, but the Caterpillar strike was in September 2023. The CNH move might be recent, but the question is about 2022. Since the text doesn't mention 2022 explicitly for CNH's job move, the answer would be N/A because the exact year isn't provided here. Wait, but the question says "according to the company's financial filings." The article says "CNH recently told the U.A.W." but doesn't reference financial filings for that specific number. The financial filings mentioned earlier were about Caterpillar's worker numbers. So maybe the answer is N/A because the 200 jobs aren't from financial filings but from a statement to UAW. Hmm, tricky. The question is specifically about financial filings, but the article's info on CNH's job move comes from a statement, not filings. So the answer would be N/A.
+
+Second question: What is the name of the economist who has written extensively on the impact of the USMCA on labor markets in Mexico and has argued that the agreement has led to a significant increase in outsourcing to Mexico?
+
+Looking through the article, there's a mention of Joyce Sadka, an economist expert on Mexico's labor institutions. She talks about the enforcement mechanism under USMCA. However, the article states that she said "many employers have become more careful about following labor law since the mechanism was created." But does she argue that USMCA led to increased outsourcing? The article says the UAW argues that the administration's decision might encourage companies to relocate, but that's the union's view. The economist's comments are more about enforcement effectiveness. The question asks for an economist who argues USMCA caused more outsourcing. The text doesn't mention any economist making that claim. Joyce Sadka's comments are about enforcement, not necessarily linking USMCA to increased outsourcing. So maybe the answer is N/A because the economist mentioned doesn't make that specific argument as per the text.
+
+Third question: According to the article, what is the main reason that many Mexican workers are unaware of their labor rights?
+
+The article states, "enforcement actions are scant by comparison, partly because many Mexican workers don't know their labor rights." So the main reason given is that they don't know their rights. The answer is directly stated here. So the answer is "they don't know their labor rights" or phrased as per the article's wording. The exact quote is "partly because many Mexican workers don't know their labor rights." So the main reason is their lack of knowledge. The answer should be that they are unaware of their rights, so the answer is "they don't know their labor rights" or similar.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Question asks for CNH jobs moved in 2022 via financial filings. The article states CNH moved "more than 200 jobs" to Mexico from Racine but does not specify the year (2022) or mention financial filings as the source for this number. The financial filings cited in the article refer to Caterpillar's worker numbers, not CNH's job moves.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The economist Joyce Sadka is mentioned as an expert on Mexico's labor institutions, but the article does not state that she has written extensively about USMCA's impact on labor markets or argued the agreement caused increased outsourcing. Her comments focus on enforcement mechanisms and employer behavior, not outsourcing trends.</other>
+
+<question_number>3</question_number>
+<answer>they don't know their labor rights</answer>
+<other>Directly quoted from the article: "enforcement actions are scant by comparison, partly because many Mexican workers don't know their labor rights."</other>

@@ -1,0 +1,91 @@
+merged_aurora-borealis-digital-cameras-astrotourism.txt
+Okay, let's tackle these questions one by one. I'll start by going through each question and checking the article for the exact information needed. 
+
+1. **Question 1**: The first question asks about a technological feature introduced by Google in 2018 related to aurora photos. The article mentions that Google's Pixel Camera introduced "night sight" in 2018. The physics professor cited here might be Bentley, but the question specifies the feature, so the answer is "night sight".
+
+2. **Question 2**: The next question is about two atmospheric gases causing green and red hues. The article says the aurora is caused by particles hitting Earth's atmosphere gases. However, it doesn't explicitly name the specific gases like oxygen or nitrogen. Since the text doesn't list them, the answer is N/A.
+
+3. **Question 3**: Borealis Basecamp's guest responses. The text says they get two responses: disappointment and a nuanced one. It doesn't state percentages, so N/A.
+
+4. **Question 4**: Projected revenue for 2030. The 2023 figure is $843M with a ~10% annual growth. The article doesn't give the exact 2030 number, so calculation needed? But instructions say only use text. Since it's not provided, N/A.
+
+5. **Question 5**: Camera brands with night modes. Google's Pixel (2018) and iPhone's night mode (2019) are mentioned. So the two brands are Google Pixel and Apple iPhone.
+
+6. **Question 6**: Years between 2014 solar max and current peak. The current peak is in the next year from the article's context (written in 2024?), so maybe 10 years? The article says the solar cycle is 11 years, but the last peak was in early 2014, and current peak is next year (2024?), so 10 years? But exact?
+
+7. **Question 7**: The traveler who remarked on cellphone images. The article mentions Karl Duesterhaus from Chicago, who noticed the colors were more defined in photos.
+
+8. **Question 8**: 2023 revenue is stated as $843 million, so that's direct.
+
+9. **Question 9**: The smartphone with "night sight" is Google's Pixel.
+
+10. **Question 10**: NOAA says auroras are active within an hour or two of midnight. So the answer is "within an hour or two of midnight".
+
+11. **Question 11**: The academic who mentioned red wavelengths. Scott Engle from Villanova is quoted saying cameras detect red better.
+
+12. **Question 12**: The tour with 20% increase is Gondwana Ecotours.
+
+13. **Question 13**: The first "chief aurora hunter" is Tom Kerss appointed by Hurtigruten.
+
+14. **Question 14**: Adelphi University professor is Sean J. Bentley.
+
+15. **Question 15**: London-based instructor is Nori Jemil.
+
+16. **Question 16**: The iPhone app recommended is NightCap.
+
+Wait, let me check each again to be sure. For question 4, since the article says "projected to grow at nearly 10 percent a year to 2030" starting from $843M in 2023, but the exact figure isn't given. So the answer is N/A. Similarly, question 2: the article doesn't name specific gases. The text says "the sun's particles encounter Earth's atmosphere" but no specific gases like oxygen or nitrogen mentioned. So N/A. 
+
+Double-checking all answers against the text to ensure no mistakes. For question 6, the solar cycle is 11 years, last peak in 2014, current peak next year (assuming article is from 2023/2024), so 10 years between 2014 and 2024. The answer would be 10. 
+
+Wait, the article says "the sun's activity is expected to reach the peak of its 11-year cycle in the next year". If the last peak was in 2014 (as mentioned by Bentley), then from 2014 to 2024 would be 10 years. So the answer is 10 years. 
+
+Okay, that should cover all. Now, format each answer properly.
+</think>
+
+<question_number>1</question_number>
+<answer>night sight</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>Google Pixel and Apple iPhone</answer>
+
+<question_number>6</question_number>
+<answer>10</answer>
+
+<question_number>7</question_number>
+<answer>Karl Duesterhaus</answer>
+
+<question_number>8</question_number>
+<answer>$843 million</answer>
+
+<question_number>9</question_number>
+<answer>Google's Pixel Camera</answer>
+
+<question_number>10</question_number>
+<answer>within an hour or two of midnight</answer>
+
+<question_number>11</question_number>
+<answer>Scott Engle</answer>
+
+<question_number>12</question_number>
+<answer>Gondwana Ecotours</answer>
+
+<question_number>13</question_number>
+<answer>Tom Kerss</answer>
+
+<question_number>14</question_number>
+<answer>Sean J. Bentley</answer>
+
+<question_number>15</question_number>
+<answer>Nori Jemil</answer>
+
+<question_number>16</question_number>
+<answer>NightCap</answer>

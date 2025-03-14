@@ -1,0 +1,30 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>Data was downloaded from Snowflake cloud platform, which AT&T uses to work with large amounts of data in a centralized place</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>Through data broker records, phone numbers can be traced back to individuals, potentially exposing communication networks for people in national security roles</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>Phone records can be linked to individual names through online searches, potentially revealing communication networks</answer>
+
+<question_number>7</question_number>
+<answer>The exposed phone records and call logs could benefit foreign nation states or foreign actors, according to Chris Pierson</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>When moving IT infrastructure to cloud, customers share space with others, making more potential attack vectors possible</answer>
+
+<question_number>10</question_number>
+<answer>Professor Schaumont's explanation about shared cloud infrastructure and increased attack possibilities directly relates to AT&T's use of the Snowflake platform</answer>

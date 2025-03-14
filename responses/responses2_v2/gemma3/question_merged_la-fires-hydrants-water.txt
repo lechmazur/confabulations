@@ -1,0 +1,61 @@
+merged_la-fires-hydrants-water.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article mentions a large reservoir was offline, but doesn't name it.</other>
+<question_number>2</question_number>
+<answer>Maui</answer>
+<other>The article specifically states the fire on Maui.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article mentions a review, but doesn't state the number of homes destroyed.</other>
+<question_number>4</question_number>
+<answer>2021</answer>
+<other>The article states the Marshall fire ignited in late 2021.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article does not mention anyone attributing hydrant failure to wooden water mains.</other>
+<question_number>6</question_number>
+<answer>wooden</answer>
+<other>The article states firefighters repaired water mains with a "fire plug."</other>
+<question_number>7</question_number>
+<answer>New York City</answer>
+<other>The article explicitly states this.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article mentions elevation difference but doesn't specify a particular difference.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article mentions Kamala Harris toured the area but doesn't mention a federal agency collaboration.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article mentions Rob Sowby's viewpoint but doesn't mention a specific policy initiative name.</other>
+<question_number>11</question_number>
+<answer>a large reservoir</answer>
+<other>The article states a large reservoir was offline for maintenance.</other>
+<question_number>12</question_number>
+<answer>Storage tanks</answer>
+<other>The article states storage tanks can quickly be depleted.</other>
+<question_number>13</question_number>
+<answer>the force of water flowing down</answer>
+<other>The article states this is what pressurizes the system.</other>
+<question_number>14</question_number>
+<answer>creating "defensible space"</answer>
+<other>The article directly quotes Dr. Murray mentioning this.</other>
+<question_number>15</question_number>
+<answer>a pumping station</answer>
+<other>The article states a pumping station may not be able to pump water if power is lost.</other>
+<question_number>16</question_number>
+<answer>water in the reservoir</answer>
+<other>The article states the capacity is limited by the amount of water in the reservoir.</other>
+<question_number>17</question_number>
+<answer>rooftop towers</answer>
+<other>The article states this is common in cities like New York City.</other>
+<question_number>18</question_number>
+<answer>bigger reservoirs and bigger pipes</answer>
+<other>The article states this is insufficient on its own.</other>
+<question_number>19</question_number>
+<answer>insufficient water pressure</answer>
+<other>The article states this was a challenge in some neighborhoods.</other>
+<question_number>20</question_number>
+<answer>water pipes</answer>
+<other>The article states fire can damage water pipes.</other>

@@ -1,0 +1,62 @@
+merged_africa-books-quiz.txt
+Alright, let's tackle these questions one by one. I need to make sure I only use the information from the given article. Let me start by recalling the key points from the article.
+
+First question: It's asking about a country known for literary giants like Achebe and Soyinka, and mentions Nnedi Okorafor's autobiographical sci-fi. The article lists Nigeria as the country with those authors, including Soyinka. Okorafor is also Nigerian, so the answer should be Nigeria.
+
+Second question: Hisham Matar's novel is set in a North African country under a regime until 2011. The article says the regime wasn't ousted until 2011, and the country is Libya. The options given were Libya, Morocco, Algeria, Egypt. The correct answer here is Libya.
+
+Third question: The debut novel's first part is in a country bordering South Africa and Botswana. The options for that were Eritrea, Chad, Zambia, Zimbabwe. Zimbabwe shares borders with both, so that's the answer.
+
+Fourth question: Abraham Verghese's novel starts in Addis Ababa, which is Ethiopia's capital. The options include Ethiopia, so the answer is Ethiopia.
+
+Fifth question: The Gold Coast became independent in 1957. The article states that's Ghana. So the answer is Ghana.
+
+Sixth question: The country with political repression until 2011 (Libya again) contrasts with literary renewal. The answer would still be Libya here.
+
+Seventh question: Same as the fifth, so Ghana again.
+
+Eighth question: Same as the third, so Zimbabwe.
+
+Ninth question: Same as the second and sixth, so Libya again.
+
+Wait, need to check each question again to ensure I didn't mix up any details. Let me go through each question again step by step.
+
+1. The first question is about the country with Achebe, Adichie, etc., which the article clearly states is Nigeria. Okorafor is also listed among them, so yes, Nigeria.
+
+2. Hisham Matar's novel is set in Libya. The regime fell in 2011, so Libya.
+
+3. The country bordering South Africa and Botswana is Zimbabwe. Zambia borders Angola and DRC, not Botswana and South Africa. So Zimbabwe is correct.
+
+4. Addis Ababa is Ethiopia's capital. The article says so directly.
+
+5. Gold Coast became Ghana in 1957. Correct.
+
+6. The country with the oppressive regime until 2011 is Libya, which contrasts with the literary renewal mentioned. So Libya.
+
+7. Same as question 5, so Ghana.
+
+8. Same as question 3, so Zimbabwe.
+
+9. Same as question 2 and 6, so Libya.
+
+I think that covers all. Let me make sure none of the questions are tricking me. The sixth question mentions "contrasts with these creative rejuvenations"—the article mentions a renaissance in African publishing, so Libya's oppressive regime is the contrast. Still, the answer is Libya. All other answers seem to align with the text. No N/A needed here because all answers are directly in the article.
+</think>
+
+<question_number>1</question_number>
+<answer>Nigeria</answer>
+<question_number>2</question_number>
+<answer>Libya</answer>
+<question_number>3</question_number>
+<answer>Zimbabwe</answer>
+<question_number>4</question_number>
+<answer>Ethiopia</answer>
+<question_number>5</question_number>
+<answer>Ghana</answer>
+<question_number>6</question_number>
+<answer>Libya</answer>
+<question_number>7</question_number>
+<answer>Ghana</answer>
+<question_number>8</question_number>
+<answer>Zimbabwe</answer>
+<question_number>9</question_number>
+<answer>Libya</answer>

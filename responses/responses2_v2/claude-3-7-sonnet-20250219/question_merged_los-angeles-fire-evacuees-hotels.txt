@@ -1,0 +1,72 @@
+merged_los-angeles-fire-evacuees-hotels.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>1</answer>
+<other>The article mentions "In the middle of one table sat something that has probably never been in the lobby of Shutters before: a portable plastic goldfish tank." This indicates there was one goldfish tank observed.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article mentions an evacuation alert that caused phones to wail and children to cry, but doesn't specify the exact time it occurred.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>a portable plastic goldfish tank</answer>
+<other>The article states: "In the middle of one table sat something that has probably never been in the lobby of Shutters before: a portable plastic goldfish tank."</other>
+
+<question_number>12</question_number>
+<answer>19</answer>
+<other>The article states: "IHG, which includes the Intercontinental, Regent and Holiday Inn chains, said 19 of its hotels across the Los Angeles and Pasadena areas were accommodating evacuees."</other>
+
+<question_number>13</question_number>
+<answer>1,000</answer>
+<other>The article mentions: "Many evacuees turned to a Palisades WhatsApp group that in just a few days has grown from a few hundred to over 1,000 members."</other>
+
+<question_number>14</question_number>
+<answer>Beverly Hilton</answer>
+<other>The article describes: "At the midcentury modern Beverly Hilton hotel, which looms over the lawns and gardens of Beverly Hills... parking ran out on Wednesday as evacuees piled in." It also mentions this hotel "regularly hosts glamorous events like the recent Golden Globe Awards."</other>
+
+<question_number>15</question_number>
+<answer>put away their phones</answer>
+<other>The article states: "People put away their phones a second later when they realized it was a false alarm."</other>
+
+<question_number>16</question_number>
+<answer>gave them drinks tickets</answer>
+<other>The article states: "When we checked in, they could see we were stressed, so the manager gave us drinks tickets and told us, 'We take care of our neighbors.'"</other>
+
+<question_number>17</question_number>
+<answer>dog</answer>
+<other>Sasha Young is quoted saying: "You can tell right away if someone is a fire evacuee by whether they are wearing sweats or have a dog with them."</other>
+
+<question_number>18</question_number>
+<answer>crying inconsolably</answer>
+<other>The article states: "Every phone in the lobby wailed at once, scaring young children who began to cry inconsolably."</other>
+
+<question_number>19</question_number>
+<answer>Europe</answer>
+<other>The article states: "Ceylan Yeginsu is a travel reporter for The Times who frequently writes about the cruise industry and Europe, where she is based."</other>
+
+<question_number>20</question_number>
+<answer>toured fire damage in Pacific Palisades and met with local officials</answer>
+<other>The article states: "Former Vice President Kamala Harris toured fire damage in Pacific Palisades and met with local officials, during her first visit to the neighborhood since the devastating wildfires last month."</other>

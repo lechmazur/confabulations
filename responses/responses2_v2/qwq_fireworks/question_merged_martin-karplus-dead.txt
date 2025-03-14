@@ -1,0 +1,86 @@
+merged_martin-karplus-dead.txt
+Okay, let's tackle these questions one by one using only the provided article. I need to be careful to answer exactly based on the text and avoid any external knowledge. Let me go through each question step by step.
+
+1. **Question 1:** The first question asks about the breakthrough at IBM Watson that led to his Nobel Prize. The article mentions that at IBM, he started modeling chemical reactions. The Nobel was for using computers to model reactions, so the answer might be related to that. The text says "continued his research on NMR and also began to investigate creating models to explain chemical reactions." So the breakthrough here is starting the molecular models. But the Nobel was for combining classical and quantum physics in models. Since IBM is where he began that work, the answer is the models for chemical reactions.
+
+2. **Question 2:** How many students won Nobels? The article says he supervised 250 students, most went on to successful careers, but doesn't mention any Nobel winners among them. So answer N/A.
+
+3. **Question 3:** The teacher who encouraged him. The article says one teacher thought it a waste, but another helped him. The first teacher was in charge of Westinghouse, but the one who encouraged was another. The text says "he found another teacher who was willing to proctor his test." But the name isn't given. So N/A.
+
+4. **Question 4:** CHARMM's decade for enzyme folding. The program was created in 1983 at Harvard. The article says it's used for simulating molecular interactions, including enzymes. The question is about when it first demonstrated enzyme folding. Since the program was made in 1983, the decade is the 1980s.
+
+5. **Question 5:** Arieh Warshel's modification. The text says Karplus, Levitt, and Warshel combined classical and quantum physics. The article states that initially there was skepticism, but their models used both. The modification might be adding quantum physics to classical models. The exact contribution isn't detailed, but the answer is combining quantum with classical.
+
+6. **Question 6:** Principle that caused break with Delbruck. The incident at Caltech was when Karplus presented on vision. Delbruck interrupted multiple times. Feynman supported Karplus. The problem was Karplus's research topic on vision, leading Delbruck to end their relationship. The "principle" here might refer to the research topic or perhaps a misunderstanding, but the article doesn't name a principle. So N/A.
+
+7. **Question 7:** Title of 1983 paper on CHARMM. The article says the program was called Chemistry at Harvard Macromolecular Mechanics (CHARMM), but the paper's title isn't given. So N/A.
+
+8. **Question 8:** Einstein's influence on his career choice. The article mentions Einstein at Princeton, but there's no direct mention of a conversation with Einstein influencing his choice. The decision to go to Caltech was based on Oppenheimer's advice. So N/A.
+
+9. **Question 9:** French institute for the equation. The Karplus equation was developed at University of Illinois. The question asks for a French institute, but he worked in France later (Strasbourg), but the equation was at Illinois. So N/A.
+
+10. **Question 10:** First simulated biological process. The article says the models were used for photosynthesis, combustion, and enzymes. The Nobel committee might have been convinced by enzyme reactions. The text says "particularly useful in understanding biological reactions involving enzymes." So enzymes, but the first successful simulation might be enzymes. The answer is enzymes or a specific process like photosynthesis? The article says "photosynthesis and combustion" as examples. But the committee's focus might be on enzymes. Hmm, the article states that the models were used for those reactions, but which was first? Not specified. The question is about the first that convinced the committee. Since the Nobel announcement mentions enzymes, maybe the answer is enzyme reactions. The article says "particularly useful in understanding biological reactions involving enzymes," so maybe that's the key. But the question is about the first simulation. The text doesn't specify, so maybe N/A? Wait, the first successful simulation that convinced them? The article says their work led to the prize, but the exact process isn't named. So N/A.
+
+11. **Question 11:** Professor who interrupted. At Caltech, Delbruck interrupted Karplus's presentation. The question is asking for the professor's name. The answer is Max Delbruck.
+
+12. **Question 12:** Institution where the early simulation program was developed. The program CHARMM was at Harvard. The question refers to the early version of the program for enzyme reactions. The answer is Harvard University.
+
+13. **Question 13:** Town in Massachusetts. The family moved to Newton after arriving in New York. The article says "soon after moved to Newton, Mass."
+
+14. **Question 14:** Mentor departing. Karplus finished his dissertation before Pauling left for a trip in 1953. The mentor here is Linus Pauling.
+
+15. **Question 15:** Equation at Illinois. The Karplus equation was developed there, so answer is Karplus equation.
+
+16. **Question 16:** Theatrical metaphor. The Nobel committee used "Hamlet" analogy: seeing actors before and dead bodies after, needing the drama in between. The metaphor is the whole drama of Hamlet.
+
+17. **Question 17:** Career phase at IBM and university. The phase when he was at IBM Watson and Columbia University, which was in 1960. The question is about when he began modeling reactions. The text says during his time at IBM, he began the modeling. So the phase is when he was at IBM and Columbia, which is in the 1960s.
+
+18. **Question 18:** Lab apparatus equated with computers. The article says "the computer is just as important a tool for chemists as the test tube." So the answer is test tube.
+
+19. **Question 19:** Country outside US in later years. He was at Louis Pasteur University (Strasbourg) in France from the 1990s onwards.
+
+20. **Question 20:** Family member who discovered hypothalamus functions. His paternal grandfather, Johann Paul Karplus, was a neurologist who discovered the hypothalamus's functions.
+
+Now, cross-checking each answer with the text to ensure accuracy.
+</think>
+
+<question_number>1</question_number>
+<answer>molecular models to explain chemical reactions</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>1980s</answer>
+<question_number>5</question_number>
+<answer>combining classical Newtonian physics with quantum physics</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>enzyme-driven chemical reactions</answer>
+<question_number>11</question_number>
+<answer>Max Delbruck</answer>
+<question_number>12</question_number>
+<answer>Harvard University</answer>
+<question_number>13</question_number>
+<answer>Newton</answer>
+<question_number>14</question_number>
+<answer>Linus Pauling</answer>
+<question_number>15</question_number>
+<answer>Karplus equation</answer>
+<question_number>16</question_number>
+<answer>the whole drama of Hamlet</answer>
+<question_number>17</question_number>
+<answer>1960s</answer>
+<question_number>18</question_number>
+<answer>test tube</answer>
+<question_number>19</question_number>
+<answer>France</answer>
+<question_number>20</question_number>
+<answer>Johann Paul Karplus</answer>

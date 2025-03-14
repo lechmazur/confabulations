@@ -1,0 +1,78 @@
+merged_artists-tried-to-activate-voters-with-billboard-art-did-it-work.txt
+Okay, let's tackle these questions one by one using the article provided. I need to be careful and only use the information given, no external knowledge.
+
+1. **Question 1:** The article mentions a fundraising event at the Los Angeles County Museum of Art (LACMA) where they discussed their billboard campaigns. That's the major art museum here. So the answer is LACMA.
+
+2. **Question 2:** The Perception Institute study compared For Freedoms to Barbara Kruger and others. The article states that those shown For Freedoms materials reported higher intent to vote than those shown Kruger's work. But the question asks how many participants viewing Barbara Kruger's had increased likelihood. The study's results don't give specific numbers for Kruger's group, only that For Freedoms did better. So the answer is N/A.
+
+3. **Question 3:** The article says a print raised $18,000 for Kamala Harris, but the question is about funding billboard installations in Detroit during 2024. The text doesn't specify the amount for Detroit, so N/A.
+
+4. **Question 4:** The article doesn't mention a Fortune 500 company partnering for the billboard. It talks about reposting in Omaha in 2020, but no company named here. N/A.
+
+5. **Question 5:** More in Common's study had 100 participants, but the article says some were confused by "Why Doubt My Experience," but not about "Love Over Rules." No percentage given for that specific question. N/A.
+
+6. **Question 6:** The controversial "Make America Great Again" billboard was in Mississippi. The article mentions they removed it ahead of schedule but doesn't say how many town halls followed there. N/A.
+
+7. **Question 7:** The article mentions Guerrilla Girls collaborated with For Freedoms in 2018 and 2020, but not in the 1990s. The question specifies the 1990s, so N/A.
+
+8. **Question 8:** The 25 cities were "primarily in swing states," so the criteria were swing states. The answer is swing states.
+
+9. **Question 9:** The article mentions a hotline was used but doesn't provide call numbers for Kim's billboard. N/A.
+
+10. **Question 10:** The "Make America Great Again" billboard overlaid on Selma's image caused outrage and removal. That's the answer.
+
+11. **Question 11:** The article says they used studies by Perception Institute and More in Common, which looked at intent to vote instead of clicks. The measure was "intention to vote."
+
+12. **Question 12:** The billboard about Black train porters got a comment calling it a "pretentious tax scam." That's the one.
+
+13. **Question 13:** "Love Over Rules" was created by Thomas and his aunt, and it memorializes his cousin. The recurring phrase is "Love Over Rules."
+
+14. **Question 14:** They phased out the hotline and now use Instagram for feedback. So Instagram.
+
+15. **Question 15:** Formed as a super PAC in 2016, then restructured after Trump won. The year is 2016.
+
+16. **Question 16:** Perception Institute reported higher intent to vote for For Freedoms vs. others. So Perception Institute.
+
+17. **Question 17:** More in Common's study had ~100 participants and discussed confusion over "Why Doubt My Experience." The answer is More in Common.
+
+Wait, let me check each again for accuracy. 
+
+For question 8, the article says "sync their campaigns to national elections... in swing states," so the criteria was swing states. That's correct. 
+
+Question 17 asks which study followed the Perception one. The Perception study was first, then More in Common. The question refers to the one after, which is More in Common's study with 100 participants. So the answer is More in Common.
+</think>
+
+<question_number>1</question_number>
+<answer>Los Angeles County Museum of Art</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>swing states</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>billboard designed by Thomas and Wyatt Gallery overlaying "Make America Great Again" on a Selma civil rights photo</answer>
+<question_number>11</question_number>
+<answer>intention to vote</answer>
+<question_number>12</question_number>
+<answer>billboard about historical Black train porters' union in Los Angeles</answer>
+<question_number>13</question_number>
+<answer>"Love Over Rules"</answer>
+<question_number>14</question_number>
+<answer>Instagram</answer>
+<question_number>15</question_number>
+<answer>2016</answer>
+<question_number>16</question_number>
+<answer>Perception Institute</answer>
+<question_number>17</question_number>
+<answer>More in Common</answer>

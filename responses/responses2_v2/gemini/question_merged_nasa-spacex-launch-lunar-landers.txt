@@ -1,0 +1,32 @@
+merged_nasa-spacex-launch-lunar-landers.txt
+<question_number>1</question_number>
+<answer>$10,000</answer>
+<other>The article states that NASA will buy two soil samples for $5,000 each.</other>
+<question_number>2</question_number>
+<answer>Far above the ground</answer>
+<other>The article mentions the lander hovered "far above the ground" but doesn't specify the exact distance.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article mentions the landers are designed to operate for 14 days, but doesn't mention any plans for extended operations.</other>
+<question_number>4</question_number>
+<answer>One second</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article mentions the drill will measure heat flow, but not the specific depth.</other>
+<question_number>6</question_number>
+<answer>Several</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article mentions an elliptical orbit but not the specific altitude.</other>
+<question_number>8</question_number>
+<answer>Crater rim height</answer>
+<other>The article specifically mentions the software was confused by the crater rim, which is two miles higher than the surrounding terrain.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention the power source for the electrolyzer during the lunar night.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article doesn't mention any communication blackouts.</other>
+<question_number>11</question_number>
+<answer>$101,500,010</answer>
+<other>NASA will pay Firefly $101.5 million, and they will pay Ispace $10,000 for the soil samples.</other>

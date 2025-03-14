@@ -1,0 +1,105 @@
+merged_paradise-hulu-sterling-k-brown.txt
+Okay, let's tackle these questions one by one using only the provided article. I need to be careful to answer exactly what's asked and not infer beyond the text.
+
+1. **Question 1**: Which character suggested building the bunker? The article mentions Sinatra as the icy billionaire who built Paradise, but it says "How'd she build it? Why'd she build it? Whom'd she put in it?" There's no explicit mention of who suggested it, just that she built it. So maybe Sinatra herself? Wait, the question is who "originally suggested"—the article doesn't say, just that she built it. So answer N/A.
+
+2. **Question 2**: Xavier's wife's name? The article says Xavier is a "dutiful wife-guy" but that's probably a typo. Wait, the text says "Brown is Xavier Collins, a stoic father and dutiful wife-guy whose integrity..." Wait, "wife-guy" might be a typo, maybe "husband"? Or maybe it's a term for a supportive partner. Regardless, the question asks for his wife's name. The article doesn't mention her name at all. So N/A.
+
+3. **Question 3**: Month when Cal wanted to retire during his second term? The article says he was about to start his second term and wanted to retire to chill. But no specific month is mentioned. N/A.
+
+4. **Question 4**: Catastrophic event that led to Paradise? The article says "after a vague cataclysm." The exact event isn't named, so N/A.
+
+5. **Question 5**: Which 1970s political thriller is referenced? The article mentions "runners about 'Die Hard' and 'The Karate Kid'". Die Hard is 1980s, The Karate Kid is 1984. The question asks for a 1970s one. The article doesn't mention any 1970s thriller here. So N/A.
+
+6. **Question 6**: Population capacity from Sinatra's blueprints? The article states "25,000 people have fled after a vague cataclysm." But does it say that's the capacity from her blueprints? The question is about the original blueprints. The text just says 25k are there now, but maybe that's the capacity. So maybe 25,000? The article says "about 25,000 people have fled" into the bunker. So answer 25,000.
+
+7. **Question 7**: Who performs the cover of "We Built This City"? The article says "a morose cover of 'We Built This City' wails away." It doesn't mention who performed it. So N/A.
+
+8. **Question 8**: Security breach that let the assassin get close? The article says "despite the intensity of his security detail." But no specifics on the breach. N/A.
+
+9. **Question 9**: How many years Sinatra spent planning before the event? The article says "five years ago when Marsden's President..." and Paradise was built before that? Wait, the timelines are present and five years prior. The article says "How'd she build it? Why'd she build it? Whom'd she put in it?" But no duration of planning. N/A.
+
+10. **Question 10**: Actor who plays the stoic family man and covert agent? The article says Sterling K. Brown is Xavier, the Secret Service agent. The question mentions "echoing the influences of a tearjerker narrative"—since "This Is Us" is mentioned, and Brown was in that. So answer Sterling K. Brown.
+
+11. **Question 11**: Actor playing the president? The article says James Marsden as the president. So James Marsden.
+
+12. **Question 12**: Actor whose character evolved from operative to guardian? Xavier Collins, played by Sterling K. Brown. The question says "based on dual timelines and covert power struggles"—so Brown again.
+
+13. **Question 13**: Creator known for multi-timeline stories? Dan Fogelman, creator of "This Is Us". So Dan Fogelman.
+
+14. **Question 14**: Song covered in the scene? The article mentions "a morose cover of 'We Built This City'". So "We Built This City".
+
+15. **Question 15**: Icy billionaire who's the ultimate architect? The article says "the real top of the food chain is the icy billionaire known as Sinatra (Julianne Nicholson)". So Sinatra.
+
+16. **Question 16**: Actor merging family man and protector roles? Xavier Collins is that character, played by Sterling K. Brown.
+
+17. **Question 17**: TV critic mentioned? The article says "Margaret Lyons is a television critic at The Times, and writes the TV parts of the Watching newsletter." So Margaret Lyons.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Article states Sinatra built it but does not mention who suggested it.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>No name given for Xavier's wife in text.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Text only mentions Cal wanted to retire at start of second term, not specific month.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Described as "vague cataclysm" but no specific event named.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Mentions "Die Hard" and "Karate Kid" but not a 1970s political thriller.</other>
+
+<question_number>6</question_number>
+<answer>25,000</answer>
+<other>States "25,000 people have fled" into the bunker.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>No performer named for "We Built This City" cover.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>No specific security breach details provided.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>No timeframe for Sinatra's planning mentioned.</other>
+
+<question_number>10</question_number>
+<answer>Sterling K. Brown</answer>
+<other>Brown plays Xavier Collins, described as stoic family man and Secret Service agent.</other>
+
+<question_number>11</question_number>
+<answer>James Marsden</answer>
+<other>Explicitly states Marsden plays President Cal Bradford.</other>
+
+<question_number>12</question_number>
+<answer>Sterling K. Brown</answer>
+<other>Xavier Collins' evolution aligns with Brown's role.</other>
+
+<question_number>13</question_number>
+<answer>Dan Fogelman</answer>
+<other>Creator of "This Is Us" and "Paradise."</other>
+
+<question_number>14</question_number>
+<answer>We Built This City</answer>
+<other>Explicitly mentioned in the child's scene.</other>
+
+<question_number>15</question_number>
+<answer>Sinatra</answer>
+<other>Identified as icy billionaire controlling Paradise.</other>
+
+<question_number>16</question_number>
+<answer>Sterling K. Brown</answer>
+<other>Matches description of his character's roles.</other>
+
+<question_number>17</question_number>
+<answer>Margaret Lyons</answer>
+<other>Explicitly stated as the TV critic and newsletter writer.</other>

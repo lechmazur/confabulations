@@ -1,0 +1,40 @@
+merged_alzheimers-blood-test.txt
+<question_number>1</question_number>
+<answer>There are no therapies to offer</answer>
+<other>The article states that if Alzheimer's pathology is detected in someone without cognitive impairment, there are no treatments available.</other>
+
+<question_number>2</question_number>
+<answer>61 percent</answer>
+<other>The article states that primary care doctors got it right only 61 percent of the time.</other>
+
+<question_number>3</question_number>
+<answer>Many do not turn out to have Alzheimer's</answer>
+<other>The article states that lower accuracy probably occurred because many people with subjective cognitive decline do not turn out to have Alzheimer's.</other>
+
+<question_number>4</question_number>
+<answer>Integration into hospital laboratory systems</answer>
+<other>The article states that a remaining hurdle is for blood test analysis to be easily integrated into hospital laboratory systems rather than requiring outside labs.</other>
+
+<question_number>5</question_number>
+<answer>ptau-217</answer>
+<other>The article states that the test focuses on a form of a protein called tau, specifically ptau-217.</other>
+
+<question_number>6</question_number>
+<answer>In the context of a research study</answer>
+<other>The article states that it would not be ethical to use it in people who don't yet have symptoms, unless it's in the context of a research study.</other>
+
+<question_number>7</question_number>
+<answer>Kidney disease</answer>
+<other>The article states that kidney disease can cause high ptau-217 levels that are not linked to Alzheimer's.</other>
+
+<question_number>8</question_number>
+<answer>Risk of anxiety and other psychological reactions</answer>
+<other>The article states there is a "risk of anxiety and other reactions, psychological reactions, to such a test result."</other>
+
+<question_number>9</question_number>
+<answer>41 percent</answer>
+<other>The article states that primary care doctors were wrong 41 percent of the time when they thought patients did not have Alzheimer's.</other>
+
+<question_number>10</question_number>
+<answer>Increase access to screening</answer>
+<other>The article states that the hope is that if primary care doctors can eventually use these tests, it will increase access to screening.</other>

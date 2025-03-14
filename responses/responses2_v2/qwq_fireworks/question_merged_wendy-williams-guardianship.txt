@@ -1,0 +1,52 @@
+merged_wendy-williams-guardianship.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article and follow the instructions strictly.
+
+1. **Question 1:** The first question asks which medical professional diagnosed Wendy with alcohol-induced dementia before guardianship. The article mentions Kevin Hunter Jr. said doctors diagnosed her with alcohol-induced dementia in 2021. But it doesn't name the specific doctor. So answer is N/A.
+
+2. **Question 2:** How much Wells Fargo paid for guardianship. The article says Wells Fargo documented unusual financial events, but there's no figure mentioned about payment. So N/A.
+
+3. **Question 3:** Name of the rehab facility in 2019. The text only states she entered rehab that year, no name given. N/A.
+
+4. **Question 4:** Who petitioned for Sabrina Morrissey's appointment. The article says the court appointed her, but doesn't specify who petitioned. Maybe Wells Fargo? But the text says "after Wells Fargo... documented events" leading to guardianship. Maybe the bank? But not explicitly stated. So N/A.
+
+5. **Question 5:** Monthly allowance. The article mentions her financial affairs are under guardianship, but no specific allowance amount. N/A.
+
+6. **Question 6:** Neurologist who confirmed FTD. The article states she was diagnosed with frontotemporal dementia and aphasia, but doesn't name the specialist. N/A.
+
+7. **Question 7:** Percentage of assets managed. The text doesn't provide numbers on how her assets are divided between guardian and family. N/A.
+
+8. **Question 8:** Visitor hours per week. The article mentions her daily routine but not visitation hours. N/A.
+
+9. **Question 9:** Viewership number for the documentary. No specific viewership figure is given. N/A.
+
+10. **Question 10:** Last visit by her son before the doc. The article says her son mentioned her diagnosis but no date of last visit. N/A.
+
+11. **Question 11:** The neurological condition she disputed. She said she's "not cognitively impaired," contradicting the dementia/aphasia claims. The answer is frontotemporal dementia and aphasia.
+
+12. **Question 12:** Event that triggered her drinking. Her husband Kevin Hunter's infidelity, as per the documentary. So the answer is her husband's cheating.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>frontotemporal dementia and aphasia</answer>
+<question_number>12</question_number>
+<answer>her husband at the time, Kevin Hunter, had been cheating on her</answer>

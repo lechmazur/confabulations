@@ -1,0 +1,94 @@
+merged_bedbugs-turkish-airlines-flights.txt
+Okay, let's tackle these questions one by one based on the article provided. I need to make sure I only use the information given and not any outside knowledge. Let me go through each question carefully.
+
+1. **Which airline maintenance base did Turkish Airlines ultimately send the bedbug-infested aircraft to for treatment after the October incidents?**  
+   The article mentions that planes need to go to a maintenance base but doesn't specify which one. So N/A.
+
+2. **How many total bedbug incidents were reported to Turkish Airlines' customer service department during Fashion Week in Paris?**  
+   The article says Paris had an outbreak during Fashion Week, but it's not clear how many were reported to the airline. N/A.
+
+3. **What was the name of the Facebook travel group where Ms. Titcombe discovered other passengers had similar experiences?**  
+   The text mentions a Facebook travel group but doesn't give its name. N/A.
+
+4. **After receiving medical documentation from Ms. Bourgeois, what compensation did Turkish Airlines provide?**  
+   Ms. Bourgeois was offered 5,000 miles if she couldn't provide docs. The article doesn’t say what happened after she provided them. N/A.
+
+5. **Which route had the highest number of reported incidents according to deep cleaning records?**  
+   The article doesn’t mention specific routes in the records. N/A.
+
+6. **Total cost incurred by Turkish Airlines for treating all mentioned aircraft?**  
+   Costs are given per treatment ($75k-$125k), but not total for all. N/A.
+
+7. **Who was the customer service rep that removed Ms. Bourgeois' flight history?**  
+   The article doesn’t name any specific rep. N/A.
+
+8. **How many passengers moved to jump seats during Myers' flight?**  
+   Only mentions one passenger moved to the jump seat. Answer is 1.
+
+9. **What chemical protocol did Turkish Airlines implement after March incident?**  
+   The article doesn’t mention any new protocols post-Titcombe. N/A.
+
+10. **Days taken out of service after photographic evidence?**  
+    The process takes 2-5 days, but the exact days after evidence isn’t stated. N/A.
+
+11. **Which social media platform did Bourgeois use?**  
+    She shared photos with help desk, but the article mentions X user and Facebook. Wait, the user who claimed in August used X, but Bourgeois' method isn't specified. Wait, the article says "an X user who claimed... shared photos with the airline's help desk". But for Bourgeois, it says she attempted to follow up and they asked for medical docs. The question is about Bourgeois, so the article doesn't specify her platform. N/A.
+
+12. **How many bedbugs fell on Myers' flight?**  
+    The article doesn’t mention a count. N/A.
+
+13. **Cleaning method Rob Tuck referenced conflicting with "deep cleaning every 21 days"?**  
+    Tuck mentions "bug bombing" as part of protocol. The airline's 21-day cleaning might not include that. So answer: bug bombing.
+
+14. **Annual event in Paris during bedbug outbreak?**  
+    Fashion Week is mentioned. Answer: Paris Fashion Week.
+
+15. **Total financial loss for one aircraft?**  
+    The range is $75k-$125k including lost revenue. Answer: $75,000 to $125,000.
+
+16. **U.S. cities beyond the three listed?**  
+    The article mentions New York, SF, DC as the listed ones. It says "several American cities including..." so no others are named. Answer: 0.
+
+17. **Medical documentation required besides photos?**  
+    They asked for a medical report with doctor's signature, stamp, date. Answer: medical report with signature, stamp, and date.
+
+18. **Days to fumigate including transit?**  
+    Tuck says 2-5 days. The question asks for the number of days stated by him. The answer is 2 to 5.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>1</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<question_number>12</question_number>
+<answer>N/A</answer>
+<question_number>13</question_number>
+<answer>bug bomb it</answer>
+<question_number>14</question_number>
+<answer>Paris Fashion Week</answer>
+<question_number>15</question_number>
+<answer>$75,000 to $125,000</answer>
+<question_number>16</question_number>
+<answer>0</answer>
+<question_number>17</question_number>
+<answer>a medical report approved by a doctor with signature, stamp and date</answer>
+<question_number>18</question_number>
+<answer>2 to 5</answer>

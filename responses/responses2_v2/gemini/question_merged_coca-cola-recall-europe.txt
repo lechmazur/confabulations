@@ -1,0 +1,49 @@
+merged_coca-cola-recall-europe.txt
+<question_number>1</question_number>
+<answer>528,000,000 mL</answer>
+<other>66,000 bottles/hour * 8 hours/shift * 1000 mL/bottle (assuming a standard bottle size of 1 liter) = 528,000,000 mL</other>
+<question_number>2</question_number>
+<answer>10</answer>
+<other>The codes range from 328 to 338, which is a difference of 10.</other>
+<question_number>3</question_number>
+<answer>Food and Drug Administration (FDA)</answer>
+<other>The FDA has similar responsibilities in the US.</other>
+<question_number>4</question_number>
+<answer>Chlorine dioxide</answer>
+<question_number>5</question_number>
+<answer>Kidney problems</answer>
+<question_number>6</question_number>
+<answer>Britain (United Kingdom)</answer>
+<other>Germany and France were also contacted, but Britain is the only one specified as receiving a limited quantity.</other>
+<question_number>7</question_number>
+<answer>Bill Gates</answer>
+<other>He's mentioned in the context of examining the role of billionaires.</other>
+<question_number>8</question_number>
+<answer>Artificial intelligence</answer>
+<other>DeepSeek, an AI firm, is mentioned.</other>
+<question_number>9</question_number>
+<answer>Start-up</answer>
+<other>A start-up treating cancer patients is mentioned in the article.</other>
+<question_number>10</question_number>
+<answer>Reporter</answer>
+<question_number>11</question_number>
+<answer>Chlorate</answer>
+<question_number>12</question_number>
+<answer>Ghent, Belgium</answer>
+<question_number>13</question_number>
+<answer>"328 GE" to "338 GE"</answer>
+<question_number>14</question_number>
+<answer>Coca-Cola Europacific Partners</answer>
+<question_number>15</question_number>
+<answer>The Netherlands</answer>
+<other>The Dutch Food and Consumer Product Safety Authority issued the warning.</other>
+<question_number>16</question_number>
+<answer>Luxembourg</answer>
+<other>The Luxembourg Veterinary and Food Administration mentioned the risk to children.</other>
+<question_number>17</question_number>
+<answer>120,000</answer>
+<question_number>18</question_number>
+<answer>Britain (United Kingdom)</answer>
+<question_number>19</question_number>
+<answer>N/A</answer>
+<other>The article lists the recalled brands, but doesn't mention any brands that *weren't* recalled.</other>

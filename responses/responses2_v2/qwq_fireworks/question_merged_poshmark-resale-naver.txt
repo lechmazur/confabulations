@@ -1,0 +1,84 @@
+merged_poshmark-resale-naver.txt
+Okay, let's tackle these questions one by one using the article provided. I need to make sure I only use the information given and answer strictly based on that. Let me go through each question carefully.
+
+1. **Question 1:** The article mentions ThredUp exiting Europe in 2022, but there's no data on their revenue there. So, answer N/A.
+
+2. **Question 2:** The article doesn't provide numbers on daily active users gained after Posh Lens. No data, so N/A.
+
+3. **Question 3:** It says a live auction auctioned off clothes worn by South Korean celebrities, but doesn't name any specific celebrity. So N/A.
+
+4. **Question 4:** No percentage increase in seller engagement from "Promoted Closet" is given. Answer N/A.
+
+5. **Question 5:** Trove purchased Recurate, but the article doesn't mention how much ThredUp paid. So N/A.
+
+6. **Question 6:** The text doesn't specify how many engineers were transferred. Answer N/A.
+
+7. **Question 7:** The article mentions beta testing with frequent sellers who sell thousands yearly, but no monthly threshold is stated. So N/A.
+
+8. **Question 8:** No percentage of revenue from miscategorized listings is provided. Answer N/A.
+
+9. **Question 9:** The new fee structure was introduced in October and scrapped within weeks, so maybe 1 month. The article says "within weeks," but the exact months? The question asks how many months they maintained it. Since weeks are less than a month, maybe 0 months? But the answer should be "1" if rounded up. Wait, the article says "within weeks" so maybe exactly 1 month? Hmm, the article says "within weeks" so maybe less than a month, but the question asks for months. The exact answer might be N/A because the time isn't specified in months. Wait, the article says "introduced in October... scrapped within weeks." So the duration was a few weeks, which is less than a month. Since the question asks for months, the answer would be 0, but the article says "within weeks" so maybe N/A. Wait, the question says "how many months did Poshmark maintain..." Since it's within weeks, maybe the answer is "N/A" because it's not specified in months. Hmm, maybe better to say 0? Or the exact time isn't given. The article doesn't state months, so N/A.
+
+10. **Question 10:** The article says Naver bought Poshmark. So answer Naver.
+
+11. **Question 11:** The tool is called Posh Lens. So that's the answer.
+
+12. **Question 12:** The article mentions peer-to-peer model instead of consignment. So peer-to-peer.
+
+13. **Question 13:** Vanessa Wong, VP of product, mentioned engineers' challenges. So her name.
+
+14. **Question 14:** The feature is "Promoted Closet".
+
+15. **Question 15:** The example is Amazon leggings tagged as Free People. So Free People.
+
+16. **Question 16:** The law is in California. So California.
+
+17. **Question 17:** The article mentions Naver's search technology as crucial. The leader (Chandra) says search built Naver. The attribute is search technology or machine learning? The question asks for the designation the company brought. The exact quote: "search built Naver into the massive power..." So "search technology".
+
+18. **Question 18:** The person is Lauren Eager. She used Posh Lens and exclaimed "Love it".
+
+Wait, let me check each again to be sure.
+
+For question 9, the article says "Within weeks, the company scrapped the new fee structure." So the duration was weeks, which is less than a month. The question asks how many months. Since it's not specified in months, but the answer must be in months. Since it was within weeks, maybe the answer is 0 months. But the question might expect "1" if rounded up? The exact text says "within weeks" so the answer is N/A because it's not in months. So N/A.
+
+Wait, but maybe the question is tricky. The fee structure was introduced in October and scrapped by November? The article says "in October... within weeks" so maybe 1 month? Let me check the article again. The article says "In October, Poshmark introduced a new fee structure... Within weeks, the company scrapped the new fee structure." So the time between introduction and scrapping was weeks, which is less than a month. Therefore, the number of months maintained is 0. But the question asks for months, so 0? But the article says "within weeks" so maybe the answer is N/A because the duration isn't given in months. Hmm, tricky. Since the question asks for months, and the info isn't provided in months, so N/A.
+
+Okay, proceeding with that in mind.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>0</answer>
+<question_number>10</question_number>
+<answer>Naver</answer>
+<question_number>11</question_number>
+<answer>Posh Lens</answer>
+<question_number>12</question_number>
+<answer>peer-to-peer</answer>
+<question_number>13</question_number>
+<answer>Vanessa Wong</answer>
+<question_number>14</question_number>
+<answer>Promoted Closet</answer>
+<question_number>15</question_number>
+<answer>Free People</answer>
+<question_number>16</question_number>
+<answer>California</answer>
+<question_number>17</question_number>
+<answer>search technology</answer>
+<question_number>18</question_number>
+<answer>Lauren Eager</answer>

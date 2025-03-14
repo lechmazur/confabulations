@@ -1,0 +1,70 @@
+merged_the-containment-michelle-adams.txt
+Okay, let's tackle these questions one by one using only the information from the article. I need to be careful to answer exactly what's asked without any extra details.
+
+1. The first question asks which Detroit neighborhood the Citizens Committee for Better Education (CCBE) represented. The article mentions that CCBE represented the white population in the northern part of Detroit, bordered by Eight Mile Road. So the answer should be the northern part of Detroit.
+
+2. The second question is about how many years after Judge Roth's death the Milliken decision led to successful integration with Grosse Pointe. The Supreme Court overturned Roth's plan in 1974, and Roth died just before the decision. The article says the subsequent plan only affected 10% of Detroit students, so integration with suburbs like Grosse Pointe didn't happen. Thus, the answer is N/A because it didn't lead to successful integration.
+
+3. The third question asks the percentage of Black students impacted by the successor's plan. The article states the plan affected 10% of Detroit's students. But the question specifies Black students. Since the schools were almost entirely segregated, maybe that 10% is all Black, but the article doesn't specify. Since it's not clear, maybe N/A? Wait, the article says "it affected just 10 percent of the students in the city's school system". Since Detroit's schools were almost entirely Black, the answer could be 10%, but the question specifies Black students. Since the article doesn't split it, but the system was 95% Black, maybe 10% of all students, so 10% of the total. But the question says "directly impacted" so maybe the answer is 10%. Hmm, but the question is about Black students specifically. The article doesn't break it down, so maybe N/A?
+
+Wait, the article says the original case was about integrating Detroit's schools, which were 95% Black. The successor's plan affected 10% of Detroit's students. Since the students were mostly Black, maybe the 10% is of all students, so the answer would be 10%. But the question is phrased as "Black students", but since the majority are Black, maybe the answer is 10%. Alternatively, maybe the answer is N/A because it's not specified. Hmm, tricky. Let me check the article again. It says "it affected just 10 percent of the students in the city's school system and left many schools untouched." Since the system was 95% Black, the 10% would be of all students, which are mostly Black. But the question specifically asks for Black students. Since the article doesn't specify, perhaps N/A is safer. Wait, but maybe the answer is 10%, since the students are from Detroit schools which were almost entirely Black. The question might just want the 10% figure. Let me note that and check again later.
+
+4. The fourth question asks which presidential candidate Michigan voters supported in the 1972 primary because of their anti-busing stance. The article says George Wallace won the Michigan primary on an antibusing platform. So the answer is George Wallace.
+
+5. The fifth question: how many Nixon-appointed justices voted against upholding Roth's order. The Supreme Court decision in Milliken was 5-4. Nixon appointed four justices by 1974, and they formed the core of the majority. So the majority (5) included those four plus one more? The article says "Nixon had placed four new justices on the court, and they formed the core of the 5-to-4 majority". So the four Nixon appointees plus one other made the 5. So the answer is 4.
+
+6. The sixth question: what research findings did Thomas cite for his position. The article states that Thomas is a leading advocate for Black self-sufficiency, and Adams cites research showing benefits of integration. But the question is about Thomas's cited research. The article doesn't mention what Thomas cited, only that he opposes integration. Since the text doesn't say what research Thomas used, answer N/A.
+
+7. The seventh question asks which real estate associations were responsible for redlining. The article mentions "segregated real estate salesperson associations" as part of containment. The exact name isn't given, so N/A? Wait, the article says "segregated real estate salesperson associations" but doesn't name specific ones, so the answer is N/A.
+
+8. The eighth question: what percentage of Detroit students were in the NAACP's lawsuit. The article doesn't mention the percentage of students involved in the lawsuit, only that the NAACP filed the case. So N/A.
+
+9. The ninth question: what percentage of Grosse Pointe students were affected by the successor's plan. The article says the successor's plan affected 10% of Detroit's students, but Grosse Pointe is a suburb. The initial plan included suburbs, but after Milliken, the successor's plan was within Detroit. So Grosse Pointe wasn't part of it. Thus, 0%? Or N/A because the plan didn't include them. The article says the successor's plan was "within Detroit", so Grosse Pointe wasn't affected. So answer N/A.
+
+10. The tenth question: what percentage Wallace got in the primary. The article says he had a "smashing victory" but doesn't give the exact percentage. So N/A.
+
+11. Eleventh question: what racially restrictive covenant was in deeds north of Eight Mile. The containment policies included restrictive covenants preventing sales to Black people. The article says "racially restrictive covenants in housing deeds (no sales to Black people allowed)". So the answer is "no sales to Black people allowed".
+
+12. Twelfth question: which Boston neighborhood was analogous to Eight Mile in "Common Ground". The article compares to Boston's desegregation, but the specific neighborhood isn't mentioned. "Common Ground" is about Boston schools, but the exact area? The article doesn't say, so N/A.
+
+13. Thirteenth question: the lead plaintiff's name in the NAACP lawsuit. The case was Milliken v. Bradley, so the lead plaintiff is Bradley. The article mentions the case as Milliken v. Bradley, so the answer is Bradley.
+</think>
+
+<question_number>1</question_number>
+<answer>northern part of Detroit</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>10%</answer>
+
+<question_number>4</question_number>
+<answer>George Wallace</answer>
+
+<question_number>5</question_number>
+<answer>4</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>no sales to Black people allowed</answer>
+
+<question_number>12</question_number>
+<answer>N/A</answer>
+
+<question_number>13</question_number>
+<answer>Bradley</answer>

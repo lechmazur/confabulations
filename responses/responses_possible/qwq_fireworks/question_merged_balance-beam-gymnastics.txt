@@ -1,0 +1,1024 @@
+merged_balance-beam-gymnastics.txt
+Okay, let's tackle these questions one by one. I need to make sure I use only the information from the article provided. Let me start by going through each question and see what the article says.
+
+Question 1: If a gymnast intends to perform a switch ring leap but fails to meet the criteria, what is the difference in difficulty score compared to a successful switch leap?
+
+The article mentions that if a gymnast means to do a switch ring leap but doesn't meet the criteria, she might get credit for only a switch leap, which is 0.2 less. So the difference is 0.2. 
+
+Question 2: If a gymnast performs a routine with a double-twisting double tuck dismount, what is the minimum difficulty rating required for the rest of their skills to achieve a D score of 6.0, assuming no connection bonuses?
+
+The double-twisting double tuck is rated H. The D score is the sum of the 8 hardest skills. Each skill's value is from A (0.1) to H (0.8). The question says "minimum difficulty rating for the rest of their skills". Since H is 0.8, if that's one of the 8 skills, the remaining 7 need to add up to 6.0 - 0.8 = 5.2. To find the minimum required for the rest, maybe they need to have the other 7 skills at the lowest possible. But the question is a bit unclear. Wait, actually, the total D score is the sum of the 8 hardest skills. If the dismount is H (0.8), then the other 7 skills need to add up to 5.2. To find the minimum required for the rest, perhaps each of those 7 must be at least A (0.1). But 7 * 0.1 would be 0.7, which is way less than 5.2. So maybe the question is asking for the minimum difficulty ratings of the other skills so that when summed with H, they reach 6.0. But the way it's phrased is confusing. Alternatively, maybe the question wants the minimum total of the other skills. The answer might be 5.2, but the question says "difficulty rating required for the rest of their skills", which might not be the total but the individual ratings. Hmm, maybe the question is wrong. Since the article doesn't give exact numbers for other skills except examples, maybe this is N/A. Wait, the article says "skill values: A is 0.1, B is 0.2 up to H (0.8). The D score is the sum of the 8 hardest skills. If the dismount is H (0.8), then the remaining 7 must total 6.0 -0.8=5.2. To get the minimum for the rest, each of those 7 needs to be at least A (0.1), but that would sum to 0.7, so that's not enough. Therefore, perhaps the gymnast needs other skills with higher ratings. But the question is asking for the minimum difficulty rating required for the rest, so maybe the other 7 must have a total of 5.2. Since each skill can contribute up to 0.8, but the question is about the minimum, so the minimal would be if they are as low as possible but still sum to 5.2. The minimal individual difficulty would be the lowest possible that can add up to 5.2. But maybe the question is expecting an answer like "N/A" because it's not directly stated. Wait, maybe the question is wrong. Alternatively, maybe the answer is 5.2. But the question says "difficulty rating required for the rest of their skills"—maybe the answer is N/A because the article doesn't provide a way to calculate that. Hmm, maybe I need to think again. The D score is the sum of the 8 hardest skills. If the dismount is H (0.8), then the other 7 skills need to total 5.2. The minimal required for the rest would be that their total is 5.2. But the question is phrased as "difficulty rating required for the rest of their skills"—maybe the answer is N/A because the question is asking for the difficulty ratings of the remaining skills, not their total. Since each skill has its own rating, but without knowing how many skills are in the routine, it's impossible. So perhaps N/A?
+
+Wait, the question says "minimum difficulty rating required for the rest of their skills"—maybe it's the minimum total? But the question is unclear. Since the article doesn't provide exact values for other skills except examples like switch leap (D), candle (C), etc., maybe this is N/A. But let me check the question again. The user might have intended that if the dismount is H (0.8), then the remaining 7 skills need to add up to 5.2. So the minimum total of the rest is 5.2, but the question is about the difficulty ratings of the "rest of their skills", which might be the total. Maybe the answer is 5.2? But the question says "difficulty rating", which is per skill. Hmm. Alternatively, maybe the question is wrong, so the answer is N/A.
+
+Question 3: If a gymnast's routine includes a candle mount, a backward acro series, and a double tuck dismount, what is the minimum difficulty rating for their acro series to achieve a D score of 5.5, assuming no connection bonuses?
+
+The D score is sum of 8 hardest skills. The candle mount is C (0.2). The double tuck dismount is D (0.3). The acro series is part of the routine. Let's see. The acro series must be part of the skills. The total D score needs to be 5.5. The candle (C) and the dismount (D) are two of the skills. The acro series skills are part of the acro series. The question is about the minimum difficulty rating of the acro series. The acro series must have at least two skills (since it's a series). Let's see, the acro series could be, for example, a B and a C, but need to find the minimum total for the acro series. Wait, the problem is that the acro series itself is a series of skills. The acro series must have two or more acrobatic skills, at least one salto (no hands). The difficulty of the acro series would depend on the skills in it. The question is asking for the minimum difficulty rating (i.e., the sum of the acro series skills?) to get the total D score of 5.5. Let's think step by step.
+
+The D score is the sum of the 8 hardest skills in the routine. The routine includes a candle (C, 0.2), the acro series (let's say two skills, maybe B and B?), and the dismount (double tuck is D, 0.3). The other skills (like the turn, dance series, etc.) need to be considered. However, the question specifies "assuming no connection bonuses", so only the skill values count, not the connections. 
+
+To achieve a D score of 5.5, the total of the 8 hardest skills must be 5.5. Let's assume the acro series has two skills. Let me think of the minimal case. Let's see, the candle is C (0.2), the dismount is D (0.3). Let's say the acro series has two skills, say B (0.2 each) so total 0.4 for the two. Then, the other skills (like the turn, dance series requirements, etc.) must be at least A (0.1). Let's see:
+
+Suppose the routine has:
+
+- Candle mount (C, 0.2)
+
+- Acro series: two B skills (each 0.2), total 0.4
+
+- Dismount (double tuck D, 0.3)
+
+- Dance series: let's say two skills, maybe A and A (0.1 each) but need to meet the dance series requirements (two consecutive, one with 180 split). Let's assume they're both A (0.1 each)
+
+- The turn requirement (a turn or pirouette, maybe A, 0.1)
+
+- The acrobatic skills in multiple directions (maybe a forward skill? but in this case, maybe the acro series is backward, so maybe another skill to meet direction requirement, perhaps a forward skill like a leap (A or B?)
+
+Wait, this is getting complicated. Maybe the minimal scenario would require the acro series to contribute as little as possible, but the total D score needs to be 5.5. Let me try to calculate:
+
+Suppose the acro series is two skills, each B (0.2). So total from acro series is 0.4. The dismount is D (0.3). The candle is C (0.2). The dance series needs two skills, say both A (0.1 each). The turn is A (0.1). Then, other skills? The acrobatic in multiple directions: maybe another skill like a forward flip (A?), but maybe the acro series already has backward, so a forward skill is needed. Let's say a forward skill is A (0.1). 
+
+So all skills would be:
+
+Candle (C:0.2), two B's (0.2 each), D (0.3), two A's (dance series: 0.1 each), turn (A:0.1), forward skill (A:0.1). 
+
+Total skills: C (0.2), 2 B (0.4), D (0.3), 4 A's (0.4). 
+
+The 8 hardest skills would be the D (0.3), the two B's (0.2 each), the C (0.2), and the four A's (0.1 each). Wait, but when selecting the top 8, the highest are D (0.3), then the two B's (0.2 each), then the C (0.2), then the four A's (0.1 each). Adding those up: 0.3 + (2*0.2) + 0.2 + (4*0.1) = 0.3 + 0.4 + 0.2 + 0.4 = 1.3? Wait, that can't be right. Wait, maybe I'm miscalculating. Let me list all the skills:
+
+1. D (0.3)
+
+2. B (0.2)
+
+3. B (0.2)
+
+4. C (0.2)
+
+5. A (0.1)
+
+6. A (0.1)
+
+7. A (0.1)
+
+8. A (0.1)
+
+Adding those top 8: 0.3 + (0.2*2) + 0.2 + (0.1*4) = 0.3 +0.4 +0.2 +0.4 = 1.3. But that's way below 5.5. So clearly, this isn't enough. Therefore, the acro series must have higher difficulty. 
+
+Maybe the acro series needs to have higher skills. Let me try again.
+
+Suppose the acro series has two skills: a B and a C (0.2 and 0.3). Then total for acro series is 0.5. The dismount is D (0.3). The candle is C (0.2). The dance series: two skills, say both B (0.2 each). The turn is B (0.2). The direction requirement: maybe a forward skill, say A (0.1). 
+
+Total skills:
+
+D (0.3), C (0.2) from dismount and candle,
+
+Acro series: B (0.2) and C (0.3) → total 0.5,
+
+Dance series: two B's (0.2 each → 0.4),
+
+Turn: B (0.2),
+
+Forward skill: A (0.1),
+
+Total skills: 
+
+D (0.3), two B's (0.2 each), C (0.3), two more B's (0.2 each), B (0.2), A (0.1).
+
+Wait, let's list them all:
+
+Skills:
+
+Dismount (D:0.3),
+
+Candle (C:0.2),
+
+Acro series: B (0.2) and C (0.3),
+
+Dance series: two B's (0.2 each),
+
+Turn (B:0.2),
+
+Forward skill (A:0.1),
+
+Total skills: D (0.3), C (0.3), two B's (0.2 each), two more B's (0.2 each), B (0.2), A (0.1).
+
+Total of all skills: 0.3+0.3+ (0.2*5) +0.1 = 0.6 +1.0 +0.1 = 1.7. But the D score is the top 8. Let's see the top 8:
+
+D (0.3), the C (0.3), then five B's (0.2 each). Wait, but there are five B's (0.2 each). So the top 8 would be D (0.3), C (0.3), five B's (0.2 each), and the A (0.1). Wait, but adding the top 8: 0.3 +0.3 + (0.2*5) +0.1? No, the top 8 would be the highest 8. The highest are D (0.3), C (0.3), then five B's (each 0.2). The eighth would be the fifth B (0.2). So total D score: 0.3+0.3 + (0.2*6) = 0.6 +1.2 = 1.8. Still way below 5.5. 
+
+Hmm, maybe I'm misunderstanding the problem. The D score is the sum of the 8 hardest skills, and the question wants to know the minimum difficulty rating for the acro series (i.e., the skills in the acro series) so that the total D score is 5.5. Since the acro series must have at least two skills (the series requirement), perhaps the acro series has two skills. Let's suppose the acro series has two skills with total difficulty X. The other skills (mount, dismount, dance series, turn, direction requirement) must be as low as possible. Let me try to set up equations.
+
+Let me denote:
+
+Let the acro series have two skills with values A and B (difficulty values, e.g., A could be B (0.2), B could be C (0.3), etc.)
+
+The D score is the sum of the top 8 skills. The total needs to be 5.5.
+
+Other skills:
+
+- Mount (candle is C:0.2)
+
+- Dismount (double tuck is D:0.3)
+
+- Dance series: two consecutive skills, at least one 180 split. Let's say both are A (0.1 each) → total 0.2
+
+- Turn: at least A (0.1)
+
+- Acro in multiple directions: maybe a forward skill, say A (0.1)
+
+Other possible skills? Maybe more skills to meet the composition requirements, but the minimal case would have the minimal required skills. The composition requirements add 0.5 each for the four requirements (acro series, dance series, acro directions, turn). But those are part of the composition, not the skill values. Wait, the D score includes the composition requirements. Wait, the article says:
+
+"The D score has three components. Composition requirements: Each of the four requirements [...] is worth 0.5. Skill values: [...] Connection bonuses: [...]"
+
+Wait, hold on! The D score is composed of three parts:
+
+1. Composition requirements: 4 components (each 0.5), so total 2.0.
+
+2. Skill values: sum of the 8 hardest skills' values (A=0.1 up to H=0.8).
+
+3. Connection bonuses: bonuses for connecting skills.
+
+Wait, the user instructions said "assuming no connection bonuses", so connection bonuses are excluded. Therefore, the D score is composition (2.0) plus the skill values (sum of top 8 skills). 
+
+Ah! That's a key point I missed earlier. So the total D score is 2.0 (for composition) plus the sum of the top 8 skill values. So to get a D score of 5.5, the sum of the top 8 skill values must be 5.5 - 2.0 = 3.5. 
+
+So the question is now: What's the minimum difficulty rating (i.e., the total of the acro series skills) so that the sum of the top 8 skill values is at least 3.5, given that the routine includes a candle (C:0.2), backward acro series (two skills?), and a double tuck dismount (D:0.3). 
+
+Let me re-calculate with this in mind. 
+
+The total needed from skill values is 3.5. The skills in the routine are:
+
+- Candle mount: C (0.2)
+
+- Dismount: D (0.3)
+
+- Acro series (two skills, let's say they're X and Y)
+
+- Dance series (two skills, minimal A each → 0.1 each → total 0.2)
+
+- Turn (minimal A:0.1)
+
+- Acro in multiple directions: need at least one forward or sideways skill. Let's assume a forward skill, minimal A (0.1)
+
+Other skills? The routine must fulfill all composition requirements, but we're focusing on the minimal case. 
+
+So all skills:
+
+Candle (0.2), dismount (0.3), acro series (X and Y), dance series (0.1+0.1), turn (0.1), forward skill (0.1). Are there any other skills? The acro series must have two or more acrobatic skills. Let's assume exactly two. So total skills:
+
+Candle (0.2), dismount (0.3), X and Y (from acro series), dance series (two A's:0.1 each), turn (0.1), forward skill (0.1). 
+
+Total skills' values: 0.2 +0.3 + (X + Y) +0.1+0.1 +0.1 +0.1 = 0.2+0.3=0.5; +0.4 (dance, turn, forward) → total so far 0.9, plus X+Y. 
+
+The top 8 skills would be the highest of these. The D score's skill part needs to be 3.5. 
+
+Let's assume that the acro series skills (X and Y) are as low as possible. Let's try to set X and Y to the minimal required for the acro series. The acro series requires at least one salto (no hands). A salto could be a B (0.2) or higher. Let's say X is B (0.2) and Y is also B (0.2). Then X+Y=0.4. 
+
+Total skills' values: 0.9 +0.4 =1.3. The top 8 skills would be the highest 8, but there are only 7 skills here. Wait, let's count again:
+
+Candle (0.2), dismount (0.3), X (0.2), Y (0.2), dance1 (0.1), dance2 (0.1), turn (0.1), forward (0.1). Total 8 skills. 
+
+Sum of all skill values: 0.2+0.3+0.2+0.2+0.1*4=0.2+0.3=0.5; 0.2+0.2=0.4 → total so far 0.9; plus 0.4 → total 1.3. 
+
+Thus, the skill part of D score would be 1.3, plus composition 2.0 → total D score 3.3, which is below 5.5. 
+
+So clearly, the acro series must have higher skills. Let me try with X and Y as C (0.3 each). Then X+Y=0.6. 
+
+Total skill values: 0.9 +0.6=1.5. Still way too low. 
+
+Wait, maybe the acro series requires more skills. The acro series must be a series of two or more acrobatic skills. Let's assume three skills for the acro series. Let's say two B's and a C. Then X+Y+Z=0.2+0.2+0.3=0.7. 
+
+Total skill values: 0.2 (candle) +0.3 (dismount) +0.7 (acro) +0.2 (dance series) +0.1 (turn) +0.1 (forward) = 1.6. Still too low. 
+
+Alternatively, maybe the dance series can have higher skills. Let's say dance series has two B's (0.2 each → 0.4). Then the dance series contributes more. Let's try:
+
+Acro series with two C's (0.3 each → 0.6)
+
+Dance series two B's (0.4)
+
+Turn B (0.2)
+
+Forward skill B (0.2)
+
+Total skills:
+
+Candle (0.2), dismount (0.3), acro (0.6), dance (0.4), turn (0.2), forward (0.2). 
+
+Total skills count: candle (1), dismount (1), acro series (2), dance series (2), turn (1), forward (1). Total 9 skills. 
+
+Sum of all skill values: 0.2 +0.3 +0.6 +0.4 +0.2 +0.2 = 1.9. 
+
+Top 8 would be the highest 8. Let's list them:
+
+0.3 (dismount), two 0.3 (acro?), no, acro series are two C's (0.3 each?), wait acro series has two C's (each 0.3). So total:
+
+Skills: 
+
+Dismount D (0.3),
+
+Candle C (0.2),
+
+Acro series: two C (0.3 each → total 0.6),
+
+Dance series two B (0.2 each → total 0.4),
+
+Turn B (0.2),
+
+Forward B (0.2).
+
+So individual skills:
+
+D (0.3), C (0.2), C (0.3), C (0.3), B (0.2), B (0.2), B (0.2), B (0.2), and the other 0.2 (candle?). Wait, candle is C (0.2). So the list is:
+
+0.3 (dismount),
+
+0.3 (acro1),
+
+0.3 (acro2),
+
+0.2 (candle),
+
+0.2 (dance1),
+
+0.2 (dance2),
+
+0.2 (turn),
+
+0.2 (forward),
+
+plus another 0.2?
+
+Wait, maybe I'm miscalculating. Let's list each skill's value:
+
+- Dismount: D (0.3)
+
+- Candle: C (0.2)
+
+- Acro series: two C's (each 0.3)
+
+- Dance series: two B's (each 0.2)
+
+- Turn: B (0.2)
+
+- Forward skill: B (0.2)
+
+Total skills: 1 (dismount) +1 (candle) +2 (acro) +2 (dance) +1 (turn) +1 (forward) = 8 skills. Wait, total 8 skills. 
+
+So all skills' values: 
+
+0.3 (dismount),
+
+0.2 (candle),
+
+0.3 (acro1),
+
+0.3 (acro2),
+
+0.2 (dance1),
+
+0.2 (dance2),
+
+0.2 (turn),
+
+0.2 (forward).
+
+Total sum: 0.3+0.2=0.5; +0.3*2=0.6 → total 1.1; +0.2*4=0.8 → total 1.9. 
+
+Thus, the skill part of D score is 1.9, plus composition 2.0 → total D score 3.9. Still below 5.5. 
+
+Hmm, this is tough. Let me think differently. To get the skill part to 3.5 (since 5.5 total D score minus 2.0 composition), the sum of the top 8 skills must be 3.5. 
+
+To achieve that, perhaps the acro series needs to have higher-rated skills. Let's try:
+
+Acro series has two H skills (0.8 each → 1.6). 
+
+Other skills:
+
+Candle (C:0.2),
+
+Dismount (D:0.3),
+
+Dance series two B's (0.4),
+
+Turn B (0.2),
+
+Forward skill B (0.2).
+
+Total skills:
+
+Acro series (two H's → 1.6),
+
+Dismount (0.3),
+
+Candle (0.2),
+
+Dance (0.4),
+
+Turn (0.2),
+
+Forward (0.2).
+
+Total skill values: 1.6 +0.3 +0.2 +0.4 +0.2 +0.2 = 2.9. 
+
+That's the total of all skills (assuming they're all in the top 8). The top 8 would include the two H's (0.8 each), dismount (0.3), candle (0.2), dance (two B's 0.2 each?), turn (0.2), forward (0.2). Wait, but the total here is 2.9, which is less than 3.5 needed. 
+
+Hmm, maybe I need to have more high skills. Let's suppose the acro series has two H's (1.6), dismount is H (but it's a double tuck which is D). Wait, no, the dismount is a double tuck (D). So maybe other skills can be higher. 
+
+Alternatively, maybe the dance series can have higher skills. Let's say the dance series has two D's (0.4 each → 0.8). 
+
+Acro series: two H's (1.6)
+
+Dismount: D (0.3)
+
+Candle: C (0.2)
+
+Dance series: two D's (0.4 each → 0.8)
+
+Turn: D (0.3)
+
+Forward skill: D (0.3)
+
+Total skills:
+
+Acro (1.6), dismount (0.3), candle (0.2), dance (0.8), turn (0.3), forward (0.3). 
+
+Adding up: 1.6+0.3=1.9; +0.2=2.1; +0.8=2.9; +0.3=3.2; +0.3=3.5. Exactly 3.5. 
+
+So the skill values sum to 3.5. That meets the requirement. 
+
+In this case, the acro series has two H's (each 0.8). So the minimum difficulty rating for the acro series would be H (each skill is H). But the question is asking for the minimum difficulty rating for the acro series. Since the acro series requires at least two skills, to get the minimum total, they could be two H's, but is there a lower possible? 
+
+Wait, maybe there's a way to have lower skills but still reach the total. Let's see. Suppose the acro series has one H (0.8) and one G (0.7). Then total is 1.5. 
+
+Then, other skills: 
+
+Dismount D (0.3),
+
+Candle C (0.2),
+
+Dance series: two D's (0.8),
+
+Turn D (0.3),
+
+Forward D (0.3).
+
+Total skills: 1.5 (acro) +0.3 +0.2 +0.8 +0.3 +0.3 = 3.4. Close but not enough. 
+
+Adding another 0.1 somewhere? Maybe a B in another place? 
+
+Alternatively, if acro series has two G's (0.7 each → 1.4). Then total:
+
+1.4 +0.3 (dismount) +0.2 (candle) +0.8 (dance) +0.3 (turn) +0.3 (forward) = 1.4+0.3=1.7; +0.2=1.9; +0.8=2.7; +0.3=3.0; +0.3=3.3 → still short. 
+
+Hmm, perhaps the minimal acro series would need to have two H's (1.6) plus other skills adding up to 1.9. Wait in the previous scenario with two H's, the total is exactly 3.5. So the minimum difficulty for the acro series would be H each (total 1.6). But maybe there's a way with lower skills. 
+
+Alternatively, if the acro series has one H (0.8) and one G (0.7), totaling 1.5, and other skills:
+
+Dismount D (0.3),
+
+Candle C (0.2),
+
+Dance series: two D's (0.8),
+
+Turn D (0.3),
+
+Forward D (0.3),
+
+Plus another D (0.3) somewhere? 
+
+Wait, the forward skill could be a D. Then total would be:
+
+1.5 (acro) +0.3 (dismount) +0.2 (candle) +0.8 (dance) +0.3 (turn) +0.3 (forward) +0.3 (another D?) → but where is this another D? Maybe the turn or forward could be D. 
+
+Wait, maybe the forward skill is a D (0.3), and the turn is a D (0.3). So:
+
+Total skills: 1.5 +0.3 +0.2 +0.8 +0.3 +0.3 → 1.5+0.3=1.8; +0.2=2.0; +0.8=2.8; +0.3+0.3=3.4. Still need 0.1 more. Maybe the candle could be a D (0.3) instead of C. But the candle is a C (the question says candle mount is part of the routine). 
+
+Ah, the candle is a candle mount, which is rated C (0.2). So can't change that. 
+
+Alternatively, the dance series could have one D and one E (0.5). Then dance series total would be 0.4 +0.5=0.9. 
+
+So with acro series H and G (1.5), then total:
+
+1.5 +0.3 (dismount) +0.2 (candle) +0.9 (dance) +0.3 (turn) +0.3 (forward) → total 1.5+0.3=1.8; +0.2=2.0; +0.9=2.9; +0.3+0.3=3.5. That works. 
+
+In this case, the acro series has one H and one G (total 1.5). So the minimum difficulty would be G (since one is G and one is H). But the question asks for the minimum difficulty rating for the acro series. The acro series could have one G and one H. But the minimum required would be the lower of the two, which is G. 
+
+Wait, but the acro series must have at least two skills. The minimum total for the acro series to contribute to reaching 3.5 would be 1.5 (H+G) or lower? Let's see if lower is possible. 
+
+Suppose acro series has two G's (1.4). Then total:
+
+1.4 (acro) +0.3 (dismount) +0.2 (candle) +0.9 (dance) +0.3 (turn) +0.3 (forward) → total 1.4+0.3=1.7; +0.2=1.9; +0.9=2.8; +0.3+0.3=3.4. Still 0.1 short. 
+
+Adding another 0.1 somewhere? Maybe the turn could be a D (0.3) and forward a D (0.3), totaling 0.6 instead of 0.3+0.3. 
+
+Wait, in this case, the turn and forward are already at D (0.3 each). So that's 0.6. 
+
+Wait, the total would then be 1.4+0.3+0.2+0.9+0.3+0.3 → same as before. Still 3.4. 
+
+Hmm, maybe the dance series can have an E (0.5) and a D (0.4), totaling 0.9. 
+
+Alternatively, adding another skill? Like another acro skill? If the acro series has three skills, maybe. Let's try:
+
+Acro series has three skills: G (0.7), G (0.7), and B (0.2). Total 1.6. 
+
+Then:
+
+Acro:1.6,
+
+Dismount:0.3,
+
+Candle:0.2,
+
+Dance:0.8 (two D's),
+
+Turn:0.3,
+
+Forward:0.3,
+
+Total:1.6+0.3=1.9; +0.2=2.1; +0.8=2.9; +0.3+0.3=3.5. 
+
+Thus, the acro series has a total of 1.6 (two G's and a B? Wait no, the three skills would be G, G, B? That gives 0.7+0.7+0.2=1.6. 
+
+In this case, the acro series has a B (0.2), but the acro series must include at least one salto (no hands). A B could be a handstand or something? Wait, the candle is a C. The acro series needs at least one salto (no hands), so a B could be a salto? Maybe. 
+
+In this case, the acro series's minimum difficulty would be B (for one of them), but the total is sufficient. However, the question is asking for the minimum difficulty rating for the acro series. The acro series has skills with B (0.2), G (0.7), and G (0.7). The minimum individual difficulty is B, but the total is 1.6. 
+
+But the question asks for the minimum difficulty rating for their acro series. Maybe it's asking for the total of the acro series's skills. In this case, the total would need to be at least 1.6. 
+
+Alternatively, the question might be asking for the minimum difficulty of each skill in the acro series. But that's not clear. 
+
+Alternatively, perhaps the answer is that the acro series must have a minimum total of 1.6 (to allow the total skill value to reach 3.5), so the minimum difficulty rating for the acro series is 1.6. But the question says "difficulty rating for their acro series"—difficulty rating per skill? Or the total? 
+
+The article says each skill has a difficulty rating from A to H. The acro series is a series of skills. The question is ambiguous, but since it's asking for the minimum difficulty rating for the acro series (the series itself), perhaps it's the total of the skills in the series. In that case, the minimum total needed would be 1.6 (from two G's and a B, but that's three skills). But the acro series only needs two skills. 
+
+Wait, the acro series requires two or more skills. So the minimum number is two. 
+
+If two skills, then to get the total of the acro series to be part of the 3.5 total, perhaps the acro series must have a total of at least 1.5 (as in the case with H+G). 
+
+Therefore, the minimum difficulty rating for the acro series would be 1.5 (H+G). But the question might be asking for the difficulty of each skill. Alternatively, maybe the answer is G, since one of them could be G. 
+
+Alternatively, perhaps the answer is N/A because the article doesn't specify how to calculate it step by step. 
+
+Hmm, this is getting too involved. Maybe the answer is 1.5? But the question might want the difficulty of the acro series's skills in terms of their ratings. Since one is H and one is G, the minimum among them is G. So the minimum difficulty rating for the acro series is G (since they need at least one G and H to reach that total). 
+
+Alternatively, maybe the question is simpler. Since the acro series must contribute enough so that when combined with other skills (dismount D (0.3), candle C (0.2)), the total skill values plus composition reach 5.5. 
+
+Alternatively, perhaps the answer is N/A because the article doesn't provide exact required values for the acro series. 
+
+Wait, the article says "skill values: A-rated skill worth 0.1, B 0.2 up to H 0.8". The acro series must have two or more acrobatic skills, at least one salto. 
+
+The minimal total for the acro series would be two skills: one B (0.2) and one C (0.2), totaling 0.4. But that's too low. 
+
+To reach the required total of 3.5 (skill part), the acro series must contribute significantly. The minimal would be when other skills are as high as possible. 
+
+Wait, perhaps the answer is N/A because the problem requires calculations not directly stated in the article. 
+
+Alternatively, maybe the question is simpler. The acro series needs to have skills that, along with the others, contribute 3.5. 
+
+The dismount is D (0.3), candle is C (0.2). The dance series must have two skills, at least one 180 split, which can be a leap (D?), but minimal is A. 
+
+Assuming dance series is two A's (0.2), turn is A (0.1), forward skill A (0.1). 
+
+Then the other skills are the acro series (two skills). 
+
+Total needed from skill values: 3.5. 
+
+Current non-acro contributions: 0.3 (dismount) +0.2 (candle) +0.2 (dance) +0.1 (turn) +0.1 (forward) = 0.9. 
+
+Thus, the acro series must contribute 3.5 -0.9 = 2.6. Since it has two skills, each must average 1.3. But the highest is H (0.8). So two H's give 1.6, which is still only 0.9 +1.6 =2.5, which is still 0.1 short. 
+
+Thus, impossible with two skills. So the acro series must have three skills. 
+
+Three skills would need to contribute 2.6. So each averages ~0.87, so H (0.8) each. Three H's would be 2.4 → total 0.9+2.4=3.3. Still short. 
+
+Alternatively, two H's and one G (0.7 → total 2.3 → 3.2). 
+
+Hmm, so even with three skills, it's still short. 
+
+This suggests that the problem as posed might not have an answer, so perhaps the answer is N/A. But the question specifies that the routine includes the candle, backward acro series, and double tuck dismount. Maybe I'm missing something. 
+
+Alternatively, maybe the composition requirements are part of the D score. Wait, the composition adds 2.0, so the skill values need to be 3.5. 
+
+If the acro series has two H's (1.6), then total skill values would be:
+
+Dismount (0.3) + candle (0.2) + acro (1.6) + dance (two A's:0.2) + turn (0.1) + forward (0.1) → total 0.3+0.2=0.5; +1.6=2.1; +0.2=2.3; +0.1+0.1=2.5. Thus, skill total 2.5, which is below 3.5. 
+
+Thus, impossible with minimal other skills. Therefore, the answer must be that the acro series needs to have a total of at least 2.6, which requires skills like two H and one G (total 2.3) plus other higher skills. 
+
+This is getting too complex. Maybe the article doesn't provide enough info to compute this, so answer N/A? 
+
+Alternatively, maybe I made a mistake in calculations. Let me try again with the acro series having three skills:
+
+Suppose the acro series has three H's (0.8 each → 2.4). 
+
+Other skills:
+
+Dismount D (0.3),
+
+Candle C (0.2),
+
+Dance series two A's (0.2),
+
+Turn A (0.1),
+
+Forward A (0.1).
+
+Total skill values: 2.4 +0.3 +0.2 +0.2 +0.1 +0.1 = 3.3. Still 0.2 short. 
+
+If dance series is two B's (0.4), then total:
+
+2.4 (acro) +0.3 (dismount) +0.2 (candle) +0.4 (dance) +0.1 (turn) +0.1 (forward) → total 2.4+0.3=2.7; +0.2=2.9; +0.4=3.3; +0.2 → total 3.5. 
+
+Ah! Here, the dance series is two B's (0.2 each → 0.4). 
+
+Thus, the acro series has three H's (2.4). 
+
+The acro series's total is 2.4. 
+
+The question asks for the minimum difficulty rating for the acro series. Since each skill is H (0.8), the minimum difficulty rating per skill is H. But the acro series needs three H's. But the question says "minimum difficulty rating for their acro series"—maybe the total? Or the individual? 
+
+The question says "minimum difficulty rating for their acro series". Since the acro series must have at least two skills, to achieve the required total, they need to have high enough skills. The minimal would be when the acro series has the lowest possible total that still allows the total skill value to reach 3.5. 
+
+In this case, with three skills, two H's and one G (total 2.3) plus the dance series as two B's (0.4), the total skill values would be 2.3 +0.3+0.2+0.4+0.1+0.1 → 2.3+0.3=2.6; +0.2=2.8; +0.4=3.2; +0.2=3.4. Still short. 
+
+Alternatively, three H's (2.4) plus two B's in dance (0.4) gives 2.4+0.3+0.2+0.4+0.1+0.1 = 3.5. 
+
+Thus, the acro series must have three H's. 
+
+But the question says "backward acro series"—so maybe the series is two skills. 
+
+If it's two skills, then they must be H and H (total 1.6). Then other skills must contribute 1.9. 
+
+Dance series two D's (0.8), turn D (0.3), forward D (0.3). 
+
+Total non-acro: 0.3 (dismount) +0.2 (candle) +0.8 (dance) +0.3 (turn) +0.3 (forward) = 1.9. 
+
+Thus total skill values: 1.6 +1.9 =3.5. 
+
+This works. 
+
+Thus, the acro series needs two H's (each 0.8). 
+
+Therefore, the minimum difficulty rating for the acro series is H (since each of the two skills must be H). 
+
+But the question asks for the minimum difficulty rating for their acro series. Since each skill is H, the minimum (the lowest rating in the series) is H. 
+
+Alternatively, the question might be asking for the total difficulty of the acro series, which is 1.6. 
+
+The question is ambiguous. Given the way it's phrased, "minimum difficulty rating for their acro series"—since the acro series requires two skills, the minimal would be two H's (each H). So the minimum difficulty rating required for each of the acro series skills is H. 
+
+Therefore, the answer is H. But the options are letters A to H, so the answer is H. 
+
+Wait, but the question says "minimum difficulty rating for their acro series"—if they have two H's, then the minimum rating in the series is H. So the answer is H. 
+
+Alternatively, if they can have one H and one G, but that wouldn't reach the total. 
+
+Wait, with two H's, it's possible. So the minimum required is H. 
+
+Thus, the answer is H. 
+
+But I'm not sure. Given the complexity, maybe the answer is N/A. But since I think it's possible with two H's, the answer is H. 
+
+Moving on to Question 4: What is the difficulty rating difference between a gymnast who performs a switch leap and one who performs a switch ring leap, assuming both are executed perfectly?
+
+The article says that a switch ring leap is harder than a switch leap. The switch leap is D (0.4?), wait no. The article says "switch leaps (D)". The switch ring leap would be a higher difficulty. The article says "switch ring leap (0.2 less)". Wait, when the gymnast fails to do switch ring leap, she gets credit for a switch leap (D) which is 0.2 less. So the switch ring leap is D+0.2 = E (since D is 0.4, E would be 0.5? Wait the ratings are A=0.1, B=0.2, C=0.3, D=0.4, E=0.5, F=0.6, G=0.7, H=0.8. 
+
+So switch leap is D (0.4). The switch ring leap must be E (0.5) because the difference is 0.2 (since the article says if she does switch ring but fails, she gets D, which is 0.2 less than the intended E). 
+
+Thus, the difference is E-D = 0.1? Wait no. If the switch ring leap is E (0.5), then the difference is 0.1 (0.5-0.4). But the article says "0.2 less", so perhaps the switch ring leap is F (0.6). Because 0.6-0.4 is 0.2. 
+
+The article says: "if she means to do a switch ring leap but her head position and back leg don't fulfill the criteria, she might get credit for only a switch leap, 0.2 less." 
+
+Thus, the switch ring leap is 0.2 higher than switch leap. Switch leap is D (0.4), so switch ring is E (0.6?) Wait, no. Let's see:
+
+The difference is 0.2 in difficulty. If switch leap is D (0.4), then switch ring must be E (0.5) would be 0.1 less? No. Wait, if the switch ring is higher, then the difference is switch ring - switch leap = 0.2. 
+
+So switch leap is D (0.4), then switch ring must be E (0.6? No, E is 0.5). Wait the difficulty ratings are A=0.1, B=0.2, C=0.3, D=0.4, E=0.5, F=0.6, G=0.7, H=0.8. 
+
+Thus, to have a difference of 0.2 between them, the switch ring must be F (0.6) because 0.6-0.4=0.2. 
+
+Therefore, the switch ring leap is F (0.6), switch leap is D (0.4). The difference is F-D = 0.2. 
+
+Thus, the answer is 0.2. 
+
+Question 5: If a gymnast performs a routine with a switch leap mount, a backward acro series, and a double pike dismount, what is the minimum difficulty score they could achieve, assuming no connection bonuses?
+
+The D score is composition (2.0) plus skill values. 
+
+The routine includes:
+
+- Switch leap mount (switch leap is D, 0.4).
+
+- Backward acro series (must have at least two skills, one salto. Minimal would be B and B (0.2 each) → total 0.4).
+
+- Double pike dismount (E, 0.5).
+
+Other required skills:
+
+- Dance series: two consecutive dance skills, at least one with 180 split. Minimal A and A (0.1 each → 0.2).
+
+- Turn or pirouette: minimal A (0.1).
+
+- Acro in multiple directions: since acro series is backward, need a forward or sideways acro skill. Minimal A (0.1).
+
+Total skills:
+
+Mount: D (0.4),
+
+Dismount: E (0.5),
+
+Acro series: two B's (0.4),
+
+Dance series: two A's (0.2),
+
+Turn: A (0.1),
+
+Forward skill: A (0.1).
+
+Total skill values: 0.4+0.5+0.4+0.2+0.1+0.1 = 1.7.
+
+Adding composition 2.0 → total D score 3.7. 
+
+Thus, the minimum difficulty score is 3.7. 
+
+Question 6: How does the difficulty rating of a double-twisting double tuck dismount compare to a full-twisting double tuck dismount?
+
+The article says "full-twisting double tuck (G). So naturally, Simone Biles went and did a double-twisting double tuck (H)". 
+
+Thus, double-twisting is H, full-twisting is G. So double-twisting is one level higher (H vs G). The difference is 0.1 (H is 0.8, G is 0.7 → difference is 0.1). 
+
+Question 7: If a gymnast's routine includes a switch leap, a backward acro series, and a double pike dismount, what is the minimum number of skills needed to achieve a D score of 5.0, assuming no connection bonuses?
+
+The D score is 2.0 (composition) plus skill values. Need total D score of 5.0 → skill values must be 3.0. 
+
+The skills are:
+
+- Switch leap (D:0.4),
+
+- Backward acro series (minimal two B's → 0.4),
+
+- Double pike dismount (E:0.5),
+
+- Dance series: two A's (0.2),
+
+- Turn (A:0.1),
+
+- Forward skill (A:0.1).
+
+Total skill values: 0.4+0.4+0.5+0.2+0.1+0.1 = 1.7. 
+
+Need 3.0. 
+
+Thus, need additional skills. The question is asking the minimum number of skills required. 
+
+To reach 3.0, let's see:
+
+Let's maximize the skill values with as few skills as possible. 
+
+Replace the minimal skills with higher ones. 
+
+Suppose the dance series has two E's (0.5 each →1.0),
+
+Turn is E (0.5),
+
+Forward skill is E (0.5),
+
+Acro series: two E's (1.0),
+
+Dismount is E (0.5).
+
+Wait, but the dismount is double pike (E). 
+
+Let's calculate:
+
+Switch leap (D:0.4),
+
+Acro series two E's (1.0),
+
+Dismount E (0.5),
+
+Dance two E's (1.0),
+
+Turn E (0.5),
+
+Forward E (0.5).
+
+Total skill values: 0.4+1.0+0.5+1.0+0.5+0.5 = 3.9. That's over. 
+
+But to get exactly 3.0, maybe:
+
+Acro series two D's (0.4 each →0.8),
+
+Dismount E (0.5),
+
+Dance two C's (0.3 each →0.6),
+
+Turn C (0.3),
+
+Forward C (0.3).
+
+Total: 0.4 (switch) +0.8 (acro) +0.5 (dismount) +0.6 (dance) +0.3+0.3 → total 0.4+0.8=1.2; +0.5=1.7; +0.6=2.3; +0.6=2.9. Close. 
+
+Add one more C (0.3):
+
+Total 2.9 +0.3=3.2. 
+
+Thus, with 8 skills (switch, two acro, dismount, two dance, two others), but need to count the exact number. 
+
+Alternatively, minimal number of skills: 
+
+The routine must include all required skills. The composition requires:
+
+- Acro series (at least two),
+
+- Dance series (two),
+
+- Turn,
+
+- Acro in multiple directions (one),
+
+ plus mount and dismount. 
+
+Total minimum skills without extra:
+
+Mount (switch leap),
+
+Acro series (two),
+
+Dismount,
+
+Dance series (two),
+
+Turn,
+
+Forward skill (for direction),
+
+Total 2+2+1+2+1+1=9 skills. 
+
+To reach skill values of 3.0, perhaps some of these can be higher. 
+
+Suppose:
+
+Acro series two H's (1.6),
+
+Dismount H (but dismount is double pike, which is E. So can't change that. So dismount is E (0.5).
+
+Dance series two H's (1.6),
+
+Turn H (0.8),
+
+Forward H (0.8),
+
+Switch leap H (but it's a switch leap, which is D. Can't be H unless it's a switch ring leap. 
+
+Wait, the mount is switch leap (D). 
+
+Thus, highest possible:
+
+Acro series two H (1.6),
+
+Dance two H (1.6),
+
+Turn H (0.8),
+
+Forward H (0.8),
+
+Dismount E (0.5),
+
+Switch D (0.4).
+
+Total skill values: 1.6+1.6+0.8+0.8+0.5+0.4 = 5.7. 
+
+But that's way over. 
+
+To get exactly 3.0, perhaps:
+
+Acro series two D's (0.8),
+
+Dismount E (0.5),
+
+Dance two D's (0.8),
+
+Turn D (0.4),
+
+Forward D (0.4).
+
+Switch D (0.4).
+
+Total: 0.4 (switch) +0.8 (acro) +0.5 (dismount) +0.8 (dance) +0.4 (turn) +0.4 (forward) = 3.3. 
+
+That's with 6 skills (switch, two acro, dismount, two dance, turn, forward). 
+
+Wait, count the skills:
+
+Mount (1),
+
+Acro series (2),
+
+Dismount (1),
+
+Dance (2),
+
+Turn (1),
+
+Forward (1).
+
+Total 1+2+1+2+1+1=8 skills. 
+
+Thus, with 8 skills, the total is 3.3, which exceeds 3.0. 
+
+To minimize the number of skills, perhaps some skills can be counted in multiple requirements. For example, a skill can be part of the dance series and also the turn. 
+
+But the turn is a separate requirement. 
+
+Alternatively, the acro series can include the dismount? No, the dismount is separate. 
+
+Thus, the minimal number of skills needed is 8. 
+
+Wait, but the question is asking for the minimum number of skills needed to achieve a D score of 5.0 (which requires skill values of 3.0). 
+
+With 8 skills as above (total skill value 3.3), that works. Can it be done with fewer? 
+
+Suppose the dance series uses the turn as part of it? No, the turn is a separate requirement. 
+
+Alternatively, the forward skill can be part of the dance series? The dance series requires two consecutive dance skills (turns, leaps, jumps). A forward skill (like a leap) could be part of the dance series. 
+
+Thus, maybe:
+
+Acro series two skills (B each →0.4),
+
+Dismount E (0.5),
+
+Dance series includes the turn and a leap (both B's →0.4),
+
+Forward skill is part of the dance series (but must be consecutive). 
+
+Wait, this might allow overlapping. 
+
+Let's try:
+
+Mount: switch leap D (0.4),
+
+Acro series: two B's (0.4),
+
+Dismount: E (0.5),
+
+Dance series: two B's (0.4),
+
+Turn is part of the dance series (so counted there),
+
+Forward skill: a B (0.2), but must be a forward acro skill. 
+
+Wait, this is getting too tangled. 
+
+Alternatively, with 7 skills:
+
+Mount (1),
+
+Acro (2),
+
+Dismount (1),
+
+Dance (2),
+
+Turn (1),
+
+Forward (1). 
+
+Total 7. 
+
+If dance series is two B's (0.4),
+
+Turn is B (0.2),
+
+Forward is B (0.2),
+
+Acro two B's (0.4),
+
+Dismount E (0.5),
+
+Mount D (0.4).
+
+Total skill values: 0.4+0.4+0.5+0.4+0.2+0.2 = 2.1 → too low. 
+
+Thus, 7 skills can't reach 3.0. 
+
+Therefore, the minimal number is 8. 
+
+Question 8: What is the maximum possible deduction a gymnast could receive for a single skill if they wobble and fail to achieve a 180-degree split in a leap?
+
+The article says "deductions for poor form and excessive pauses between skills. Jumps and leaps can be minefields, with deductions for insufficient height, flexed feet and splits short of 180 degrees." Also, "Judges deduct amounts ranging from 0.1 for a slight balance check to 1.0 for a fall."
+
+The maximum deduction for a single skill would be 1.0 (a fall), but the question specifies failing to achieve a 180 split in a leap. A fall is separate from that. 
+
+For a split short of 180, the deduction isn't specified, but "minefields" with deductions like 0.1-1.0. The article says "Jumps and leaps can be minefields, with deductions for insufficient height, flexed feet and splits short of 180 degrees." 
+
+The maximum possible deduction for this specific error (split short of 180) would be up to 1.0? Or is there a specific max? 
+
+The article says "Judges deduct amounts ranging from 0.1 for a slight balance check to 1.0 for a fall." 
+
+Thus, the maximum deduction for a single skill (other than a fall) could be less than 1.0. Since a fall is a separate issue. 
+
+The question specifies a wobble and failure to achieve 180 split. The maximum deduction for such an error would be the highest possible for that error. The article doesn't specify the exact max for split, but since balance checks can lose up to 1.0 (but that's for falls), perhaps the max for a non-fall error is 0.5? 
+
+Wait, the article says "small balance checks are common" but deduct 0.1-0.3. "Judges deduct amounts ranging from 0.1 for a slight balance check to 1.0 for a fall." 
+
+Thus, the maximum deduction for a single skill (other than a fall) is 0.3? Or perhaps 0.5? 
+
+The article doesn't specify, so maybe the answer is N/A. 
+
+Alternatively, since the question allows up to 1.0 for a fall, but the error here is not a fall. The article says "deductions for poor form [...] splits short of 180 degrees". The maximum possible deduction for that specific error would be up to 1.0? Or maybe up to 0.5? 
+
+Since the article doesn't specify, perhaps it's N/A. 
+
+Wait, the article says "Judges deduct amounts ranging from 0.1 for a slight balance check to 1.0 for a fall." So the maximum deduction for a single skill error (not a fall) is 0.3? Or could it be more? 
+
+Perhaps the maximum is 0.5. Since the article doesn't specify, maybe the answer is N/A. 
+
+Alternatively, the maximum deduction for any single error (other than a fall) is 0.5. But I'm not sure. 
+
+Given the info, the answer is N/A. 
+
+Question 9: If a gymnast performs a routine with a switch leap mount, a backward acro series, and a double tuck dismount, what is the minimum difficulty score they could achieve, assuming no connection bonuses?
+
+This is similar to Question 5 but with double tuck dismount (D:0.3) instead of double pike (E:0.5). 
+
+Calculating:
+
+D score = 2.0 (composition) + skill values. 
+
+Skills:
+
+Mount: switch leap (D:0.4),
+
+Acro series two B's (0.4),
+
+Dismount: D (0.3),
+
+Dance series two A's (0.2),
+
+Turn A (0.1),
+
+Forward A (0.1).
+
+Total skill values: 0.4+0.4+0.3+0.2+0.1+0.1 = 1.5. 
+
+Total D score: 2.0+1.5=3.5. 
+
+Thus, the minimum is 3.5. 
+
+Question 10: If a gymnast's routine includes a candle mount, a forward acro skill, and a full-twisting double tuck dismount, what is the highest possible difficulty rating for their dismount?
+
+The dismount is a full-twisting double tuck, which is G (0.7). 
+
+Thus, the highest possible is G. 
+
+Wait, but the article says "full-twisting double tuck (G). So naturally, Simone Biles went and did a double-twisting double tuck (H)". 
+
+Thus, the full-twisting is G. So the answer is G. 
+
+Now compiling all answers:
+
+1. 0.2
+
+2. N/A (can't be determined from article)
+
+3. H (assuming two H's needed)
+
+4. 0.2
+
+5. 3.7
+
+6. double-twisting is one level higher (H vs G → difference 0.1)
+
+Wait, question 6 asks for the difficulty rating difference. Since double is H (0.8) and full is G (0.7), difference is 0.1. 
+
+7. 8
+
+8. N/A
+
+9. 3.5
+
+10. G
+</think>
+
+<question_number>1</question_number>
+<answer>0.2</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>H</answer>
+<question_number>4</question_number>
+<answer>0.2</answer>
+<question_number>5</question_number>
+<answer>3.7</answer>
+<question_number>6</question_number>
+<answer>0.1</answer>
+<question_number>7</question_number>
+<answer>8</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>3.5</answer>
+<question_number>10</question_number>
+<answer>G</answer>

@@ -1,0 +1,30 @@
+merged_ai-data-restrictions.txt
+<question_number>1</question_number>
+<answer>Unable to afford licensing data directly from publishers</answer>
+
+<question_number>2</question_number>
+<answer>Major tech companies already have all the data, so changing licenses primarily impacts smaller actors and researchers</answer>
+
+<question_number>3</question_number>
+<answer>Many researchers doubt today's A.I. systems can generate enough high-quality synthetic data to replace human-created data</answer>
+
+<question_number>4</question_number>
+<answer>The web will start shutting its doors and restricting data access</answer>
+
+<question_number>5</question_number>
+<answer>Licensing deals would exclude researchers and civil society from participating in A.I. technology governance</answer>
+
+<question_number>6</question_number>
+<answer>Past data gathering permissions remain intact, despite new license changes</answer>
+
+<question_number>7</question_number>
+<answer>Smaller start-ups and researchers will be most negatively impacted by new data restrictions</answer>
+
+<question_number>8</question_number>
+<answer>Creators are seeking compensation and control over how their data is used for A.I. training</answer>
+
+<question_number>9</question_number>
+<answer>55 percent (since 45 percent was already restricted by terms of service)</answer>
+
+<question_number>10</question_number>
+<answer>75 percent (since 25 percent of high-quality sources were already restricted)</answer>

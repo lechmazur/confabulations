@@ -1,0 +1,12 @@
+merged_brazil-plane-crash-investigation.txt
+Okay, let's tackle these questions one by one. 
+
+First question: "What was the exact speed of the plane when it first began to lose altitude, according to the flight data?" The article mentions that Mr. Cox, the pilot and crash investigator, said the plane was traveling roughly 325 mph when its speed dropped sharply before the crash. But the question is about the exact speed when it first began to lose altitude. The article says "roughly" 325 mph, which is an approximate figure. Since the question asks for the exact speed and the text doesn't provide an exact number, maybe this should be N/A? Wait, but the article does state 325 mph as the speed when the drop started. Hmm, the wording is "publicly available flight data suggested that the plane was traveling roughly 325 miles per hour when its speed dropped sharply in the minutes before the crash." The key here is "roughly," so the exact speed isn't given. Therefore, the answer is N/A because it's approximate.
+
+Second question: "What was the name of the gated community where the plane crashed?" The article says the plane crashed in a gated community in the small city of Vinhedo. However, it doesn't mention the specific name of the gated community. It only refers to it as "a gated community." Since the name isn't provided, the answer would be N/A here as well.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>

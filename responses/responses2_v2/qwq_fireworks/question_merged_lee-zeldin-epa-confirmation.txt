@@ -1,0 +1,105 @@
+merged_lee-zeldin-epa-confirmation.txt
+Okay, let's tackle these questions one by one using only the provided article. I need to make sure I don't use any outside knowledge. Let's start with question 1.
+
+1. The first question asks which environmental advocacy groups endorsed Lee Zeldin's nomination based on his commitment. Scanning the article, I don't see any mention of specific groups endorsing him. The article says he stated his commitment during the hearing but doesn't name endorsing groups. So answer N/A.
+
+2. Question 2 is about how many Scientific Advisory Board members kept their positions after showing no EPA grants. The article mentions Payne dismissed all members but allowed reapplying. It doesn't say any stayed based on grants. The prior Trump action removed some for having EPA grants, but current info says all were dismissed. So N/A.
+
+3. Question 3 asks the percentage reduction proposed by the auto industry. The article mentions automakers wanted adjustments like lower penalties but doesn't state a specific percentage. The Biden target was over half by 2032, but no alternative percentage is given. N/A.
+
+4. Question 4: Who established the Particulate Matter Review Panel? The article says Trump disbanded it but doesn't name who created it. So N/A.
+
+5. Question 5: Sean Duffy's role in Biden's standards before joining Trump. The article says Duffy released a memo to weaken standards but doesn't mention his prior role. So N/A.
+
+6. Question 6: API's estimated savings from eliminating rules. The article states API sought elimination but no dollar figure. N/A.
+
+7. Question 7: Which Republicans joined Dems in opposing Zeldin. The article says the Senate vote was 56-42, but doesn't name specific senators opposing. Barrasso supported him. So N/A.
+
+8. Question 8: Metrics Jim Payne used to let members reapply. The article says dismissed but can reapply, but no criteria mentioned. N/A.
+
+9. Question 9: How CA's 2035 rule influenced Biden's targets. The article states CA's rule and other states adopted it, but doesn't say it influenced the national target. The Biden rules aimed for over half EVs by 2032, which aligns but isn't stated as influenced. So N/A.
+
+10. Question 10: Joseph Arvai's credentials explaining the dismissal's strategy. He's an oceanographer and psychologist, as stated in the article. So answer those titles.
+
+11. Question 11: Biden's 2035 target. Wait, the article says Biden's rules aimed for over half EVs by 2032. The CA rule is 2035, but the question is about Biden's 2035? Wait, the question says "by 2035" but the article says 2032. Hmm, maybe typo? Let me check. The article states "ensuring that more than half of new passenger vehicles sold in the United States are all-electric by 2032." So the answer for 2035 would be N/A, but the question might have a typo. Since the question specifies 2035, answer N/A.
+
+Wait, the question says "by 2035" but the article's target is 2032. So the answer is N/A.
+
+12. Question 12: What legal authority to revoke? The article says EPA under Zeldin wants to revoke California's authority to set stricter standards. So answer California's authority.
+
+13. Question 13: Who said they wouldn't reapply. Joseph Arvai stated he won't reapply. So answer his name.
+
+14. Question 14: The emissions the "EV mandate" aimed to cut. The article says it cuts tailpipe emissions of greenhouse gases. So answer greenhouse gases.
+
+15. Question 15: The name of the oceanographer fired in 2027. The article mentions Joseph Arvai was fired on Tuesday (assuming the article is current, but the date isn't given). The question says 2027, but the article's context is current events. Since the article doesn't specify the year of dismissal beyond "on Tuesday", and the question's year isn't in the text, N/A.
+
+16. Question 16: The stated goal by 2032. The article says over half (more than 50%) all-electric by 2032. So answer "more than half" or exact phrasing. The article says "more than half".
+
+17. Question 17: Other pollution Zeldin is to address. The article mentions chemical pollution rules besides climate. So answer chemical pollution.
+
+18. Question 18: Number of clubs West Point ended. The article says "dozen", so 12.
+
+19. Question 19: Migrants in tent city. The article says up to 30,000.
+
+20. Question 20: Acting administrator who announced panel dismissals. The article says Jim Payne.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>oceanographer and psychologist</answer>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+
+<question_number>12</question_number>
+<answer>California's legal authority to set stricter tailpipe limits</answer>
+
+<question_number>13</question_number>
+<answer>Joseph Arvai</answer>
+
+<question_number>14</question_number>
+<answer>greenhouse gases</answer>
+
+<question_number>15</question_number>
+<answer>N/A</answer>
+
+<question_number>16</question_number>
+<answer>more than half</answer>
+
+<question_number>17</question_number>
+<answer>chemical pollution</answer>
+
+<question_number>18</question_number>
+<answer>12</answer>
+
+<question_number>19</question_number>
+<answer>30,000</answer>
+
+<question_number>20</question_number>
+<answer>Jim Payne</answer>

@@ -1,0 +1,80 @@
+merged_chevron-power-plant-ai.txt
+<question_number>1</question_number>
+<answer>Constellation Energy</answer>
+<other>The article states "Shares of chip-maker Nvidia tumbled 17 percent and the stock of Constellation Energy, a large power producer, closed down more than 20 percent." So Constellation Energy had the larger percentage drop at more than 20%.</other>
+
+<question_number>2</question_number>
+<answer>up to four gigawatts</answer>
+<other>The article states "Chevron and Engine No. 1...have been in talks with prospective customers and expect to build up to four gigawatts of gas-generating capacity." This refers to their total planned capacity, not specifically what they secured through the turbine reservation.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article only mentions predictions for 2023 and 2028, stating "A recent study by the Lawrence Berkeley National Laboratory estimated that the facilities are poised to use up to 12 percent of U.S. electricity in 2028, up from 4.4 percent in 2023." There is no specific prediction for 2025.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article only mentions Engine No. 1 waging a successful proxy battle against Exxon Mobil in 2021. It does not mention any proxy battle against Chevron.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article mentions that Chevron and Engine No. 1 "have reserved seven gas turbines from GE Vernova" but does not specify the total value of this equipment order.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>While the article mentions they "scouted potential sites" and "looked for sites able to accommodate the capturing and sequestering carbon dioxide emissions," it doesn't specify how many viable sites they identified.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article does not provide information about Chevron's projected return on investment for these facilities compared to traditional oil drilling operations.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article only mentions that they "ruled out the East Coast because of infrastructure constraints and feedback from potential customers" but doesn't specify which region had the highest potential.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>While the article mentions that "Technology giants like Microsoft and Google have set targets to get all of their energy from sources that do not contribute to climate change," it doesn't specify the timeline for this transition.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article does not provide information about how much additional grid capacity would be needed to support their planned data center power plants.</other>
+
+<question_number>11</question_number>
+<answer>Chevron</answer>
+<other>The article clearly states that Chevron is working with Engine No. 1 (the San Francisco-based firm known for the proxy battle against Exxon) to build natural gas power plants for data centers.</other>
+
+<question_number>12</question_number>
+<answer>Chevron</answer>
+<other>The article quotes Mike Wirth, identified as "Chevron's chief executive," saying "It's a chance for us to help meet the moment and address this growing need for reliable and affordable power."</other>
+
+<question_number>13</question_number>
+<answer>$2 billion</answer>
+<other>The article states "Natural gas-fired power plants cost around $2 billion per gigawatt, Morgan Stanley recently estimated."</other>
+
+<question_number>14</question_number>
+<answer>plants can get up and running more quickly</answer>
+<other>The article states "the plants would not be connected to the electric grid to start, so the plants can get up and running more quickly. It can take years for grid managers to approve connection requests."</other>
+
+<question_number>15</question_number>
+<answer>7.6 percentage points</answer>
+<other>The article states data centers are "poised to use up to 12 percent of U.S. electricity in 2028, up from 4.4 percent in 2023." The increase is 12 - 4.4 = 7.6 percentage points.</other>
+
+<question_number>16</question_number>
+<answer>Engine No. 1</answer>
+<other>The article states "Chevron is working with Engine No. 1, a San Francisco-based investment firm best known for waging a successful proxy battle against Exxon Mobil in 2021."</other>
+
+<question_number>17</question_number>
+<answer>Nvidia</answer>
+<other>The article states "Shares of chip-maker Nvidia tumbled 17 percent" following DeepSeek's announcement.</other>
+
+<question_number>18</question_number>
+<answer>Constellation</answer>
+<other>The article states "Constellation, which has a large fleet of nuclear power plants, agreed this month to buy rival Calpine, which owns many natural gas plants, for $16.4 billion."</other>
+
+<question_number>19</question_number>
+<answer>carbon dioxide</answer>
+<other>The article states "natural gas, which produces carbon dioxide when it is burned. The greenhouse gas is the leading cause of climate change."</other>
+
+<question_number>20</question_number>
+<answer>co-locating power plants with data centers</answer>
+<other>The article mentions "the plants would be located alongside the data centers they power" which describes co-location of the power generation facilities with the data centers they serve.</other>

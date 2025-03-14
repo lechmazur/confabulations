@@ -1,0 +1,76 @@
+merged_africa-center-new-leader-martin-kimani.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information given in the article. Let me start by reading through each question carefully and cross-referencing with the text.
+
+1. **Question 1**: The first question asks about the specific financial instrument Kimani found most challenging during his bond and currency sales work on Wall Street in the mid-1990s. The article mentions his experience in bond and currency sales but doesn't specify which was harder. So the answer should be N/A because there's no detail on which was most challenging.
+
+2. **Question 2**: The building's floors not dedicated to the Center or condos. The article says the building includes 17 floors of condos and the Africa Center uses part of the space. The total floors aren't mentioned, but the question is about floors used for other purposes besides the Center and condos. Since the article doesn't mention other uses, maybe it's only those two? Hmm, but the question might be tricky. Wait, the article says "the building also includes 17 floors of luxury condos." So the Africa Center is in the tower, and condos take 17 floors. The rest might be other uses? But the article doesn't say. So the answer is N/A because we don't know other uses.
+
+3. **Question 3**: The year Iweala expressed concerns. The article says Kimani mentioned that when Iweala took over, there was frustration. But it doesn't give a specific year. The only date mentioned is Kimani starting in Jan 2024 (since he started 9 months after Iweala left). Iweala left after 7 years. But no exact year for when he started. So N/A.
+
+4. **Question 4**: Title of his war studies dissertation. The article says he has a PhD in war studies but doesn't mention the title. So N/A.
+
+5. **Question 5**: Another institution on Museum Mile expanding. The article mentions the Africa Center's expansion and Museum Mile, but the other events listed (like Anne Frank's exhibit) are in different locations (Center for Jewish History, BAM, MoMA, etc.), but not on Museum Mile. The Africa Center is on Museum Mile, but the question asks for another one there. The article doesn't mention another institution on Museum Mile expanding. So N/A.
+
+6. **Question 6**: Art type to deemphasize. The Center is moving beyond art to include geopolitics, etc. Previously focused on art, now expanding. So the art itself is being deemphasized? The question asks for a specific type. The article says "transformed from an art museum to an institution..." So maybe "art exhibitions"? The question says "specific type of art mentioned in context of other NYC events". The other events mention AI art, sculpture, etc. But the article says the Africa Center is moving beyond art exhibitions. So the answer is "art exhibitions".
+
+7. **Question 7**: Years in political risk analysis before Center on International Cooperation. The article says he was executive director there most recently before this role, but no duration. So N/A.
+
+8. **Question 8**: Street address. The article mentions it's in Harlem and part of a tower on Museum Mile designed by Stern, but no specific address. So N/A.
+
+9. **Question 9**: Governmental appointment that sets him apart. Previous directors were in arts/humanities. Kimani's background includes being Kenya's special envoy for countering violent extremism. That's the governmental role different from others. So the answer is "special envoy for countering violent extremism".
+
+10. **Question 10**: Neighborhood needing closer ties. The article says he wants to connect with Harlem's neighborhood. The question is asking which neighborhood he highlights. Answer is "Harlem".
+
+11. **Question 11**: Fraction of space in use. The article says they occupy about 20% of 70k sq ft. So the fraction is 20%, which is 1/5. The answer is "20%".
+
+12. **Question 12**: Monetary gap. The article states $4.25 million needed. So that's the answer.
+
+13. **Question 13**: London institution for his degrees. It's King's College London. The article says "King's College London".
+
+14. **Question 14**: High-profile visitor noted. The article mentions "visits from sitting African presidents". So that's the answer.
+
+15. **Question 15**: Financial arena where he couldn't make money. He mentioned Wall Street in the mid-90s and said "making money wasn't one of them". So the answer is "Wall Street" or the specific area? The exact quote says "on Wall Street during the mid-1990s" and his remark is about that time. So the answer is "Wall Street".
+
+16. **Question 16**: Floors for condos. The article states 17 floors of luxury condos. So answer is 17.
+
+17. **Question 17**: Previous academic institute. He was executive director at NYU's Center on International Cooperation. So answer is "New York University's Center on International Cooperation".
+
+18. **Question 18**: Months between Iweala's departure and Kimani's start. The article says Kimani started Jan 21, and Iweala announced stepping down 9 months prior. So the answer is 9.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>art exhibitions</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>special envoy for countering violent extremism</answer>
+<question_number>10</question_number>
+<answer>Harlem</answer>
+<question_number>11</question_number>
+<answer>20%</answer>
+<question_number>12</question_number>
+<answer>$4.25 million</answer>
+<question_number>13</question_number>
+<answer>King's College London</answer>
+<question_number>14</question_number>
+<answer>sitting African presidents</answer>
+<question_number>15</question_number>
+<answer>Wall Street</answer>
+<question_number>16</question_number>
+<answer>17</answer>
+<question_number>17</question_number>
+<answer>New York University's Center on International Cooperation</answer>
+<question_number>18</question_number>
+<answer>9</answer>

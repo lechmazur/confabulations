@@ -1,0 +1,54 @@
+merged_polio-vaccine-outbreaks.txt
+Okay, let's tackle these questions one by one. I need to make sure I only use the information from the provided article and follow the instructions strictly.
+
+1. **Question 1**: Which European country reported the highest number of vaccine-derived polio cases in its wastewater testing program during 2024?
+   - The article mentions that in 2024, Nigeria had 93 cases of Type 2 vaccine-derived virus. However, the question is about European countries. The article states that vaccine-derived poliovirus was detected in wastewater in five European countries but doesn't specify which had the highest. Since Nigeria is in Africa, the answer is N/A because the text doesn't name the European country with the highest cases.
+
+2. **Question 2**: How many cancer deaths were definitively linked to the contaminated early polio vaccine batches that Robert F. Kennedy Jr. referenced?
+   - The article says Kennedy claimed the contamination caused many deaths, but it also states "research never bore out a link to cancer." So the answer is 0.
+
+3. **Question 3**: What was the total number of polio survivors Dr. Karen Kowalske treated who required ventilator support due to post-polio syndrome?
+   - The article mentions Dr. Kowalske tends to about 100 post-polio patients needing braces, wheelchairs, etc., but doesn't specify ventilator support. Since ventilators aren't mentioned, answer N/A.
+
+4. **Question 4**: In which month of 2022 did the Rockland County ultra-Orthodox Jewish community first detect polio in their wastewater samples?
+   - The article says the virus was detected in sewage after the case in 2022 but doesn't mention the exact month. So N/A.
+
+5. **Question 5**: What percentage of Carol Paulk's mobility was restored after her experimental post-polio treatment regimen?
+   - The text doesn't mention any treatment regimen for Carol Paulk. It says her right leg never recovered, so N/A.
+
+6. **Question 6**: How many doses of the oral polio vaccine were required to achieve full immunity in Nigerian vaccination programs?
+   - The article states Nigeria eliminated wild polio but doesn't specify the number of doses. It mentions the oral vaccine is given as two drops, but "full immunity" requirements aren't detailed. Answer N/A.
+
+7. **Question 7**: What was the mortality rate among the five polio cases reported in Afghanistan and Pakistan in 2021?
+   - The article says in 2021, there were five cases but doesn't mention deaths. Mortality rate can't be determined, so N/A.
+
+8. **Question 8**: Which pharmaceutical company manufactured the contaminated early polio vaccine batches that Robert F. Kennedy Jr. discussed?
+   - The article doesn't name any company, so N/A.
+
+9. **Question 9**: What was the average age of post-polio syndrome onset among Dr. Kowalske's immigrant patients?
+   - The article mentions immigrant patients but doesn't provide age data. N/A.
+
+10. **Question 10**: How many confirmed cases of vaccine-derived Type 2 poliovirus were detected in Canadian wastewater samples during the New York outbreak?
+    - The article says genetically related viruses were detected in Canada's wastewater but doesn't give a number. So N/A.
+</think>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>0</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>

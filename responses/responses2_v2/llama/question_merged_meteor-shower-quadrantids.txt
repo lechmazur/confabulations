@@ -1,0 +1,64 @@
+merged_meteor-shower-quadrantids.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<other>This question requires some calculation. The Quadrantids are visible from Dec. 26 to Jan. 16, which is a total of 21 days. The peak occurs on Jan. 2-3, and the optimal viewing time is between midnight and sunrise, which is approximately 6 hours. To calculate the percentage of the total shower period that a viewer would miss, we need to first calculate the total number of hours in the shower period. There are 24 hours in a day, so the total number of hours is 21 days * 24 hours/day = 504 hours. The viewer would miss 504 hours - 6 hours = 498 hours. To calculate the percentage, we can divide the number of hours missed by the total number of hours and multiply by 100: (498 hours / 504 hours) * 100 = 98.8%. Therefore, the viewer would miss approximately 98.8% of the total shower period.</other>
+<answer>98.8%</answer>
+
+<question_number>11</question_number>
+<answer>6 hours</answer>
+
+<question_number>12</question_number>
+<answer>N/A</answer>
+
+<question_number>13</question_number>
+<other>The article only mentions the Quadrantids as an example of a meteor shower that originates from asteroid debris.</other>
+<answer>1</answer>
+
+<question_number>14</question_number>
+<answer>Bootes</answer>
+
+<question_number>15</question_number>
+<other>The article does not provide a specific hour range for viewing the Quadrantids' peak in Chicago.</other>
+<answer>N/A</answer>
+
+<question_number>16</question_number>
+<other>The article mentions the F.A.A. investigation into a SpaceX test flight explosion, but it is not related to the Quadrantids' observation challenges.</other>
+<answer>N/A</answer>
+
+<question_number>17</question_number>
+<other>The article mentions that some showers are strong enough to produce up to 100 streaks an hour, but it does not specifically state that this is the maximum hourly rate for the Quadrantids.</other>
+<answer>N/A</answer>
+
+<question_number>18</question_number>
+<other>The article states that Quadrans Muralis is no longer in use by astronomers.</other>
+<answer>N/A</answer>
+
+<question_number>19</question_number>
+<other>The article does not specify a latitude range for optimal viewing of the Quadrantids.</other>
+<answer>N/A</answer>

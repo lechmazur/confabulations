@@ -1,0 +1,30 @@
+merged_brazil-plane-crash-investigation.txt
+<question_number>1</question_number>
+<answer>The article mentions that the ATR 72-500's de-icing system was improved after a 1994 crash, which might lead to the assumption that icing could not have played a role in this crash, potentially diverting attention from other contributing factors.</answer>
+
+<question_number>2</question_number>
+<answer>The article states that the plane was traveling at roughly 325 mph before its speed dropped sharply, but not low enough to cause a stall unless icing was extremely severe, creating a conditional relationship between icing severity and the stall.</answer>
+
+<question_number>3</question_number>
+<answer>The plane's anti-icing system should have prevented ice buildup, and the crash location's ground temperature of 63 degrees suggests that descending could have melted any ice, challenging the icing theory.</answer>
+
+<question_number>4</question_number>
+<answer>The plane was seen spinning slowly as it plummeted before crashing almost directly on its belly, which is not typical for a stall-induced crash, where a nose-down descent is more expected.</answer>
+
+<question_number>5</question_number>
+<answer>The plane's speed did not drop far enough to cause a stall unless icing was extremely severe, which challenges the primary theory that icing alone caused the crash.</answer>
+
+<question_number>6</question_number>
+<answer>The pilots did not communicate with air traffic controllers before the crash, which conflicts with standard protocol to declare an emergency and request a lower altitude to mitigate icing.</answer>
+
+<question_number>7</question_number>
+<answer>The crash location's ground temperature was around 63 degrees, contradicting the assumption that icing conditions were severe enough to cause the crash.</answer>
+
+<question_number>8</question_number>
+<answer>The improved de-icing system implemented after the 1994 crash complicates the investigation by raising questions about whether it failed or was not activated.</answer>
+
+<question_number>9</question_number>
+<answer>The ATR 72-500's rubber tube-based de-icing system is crucial when considering the icing theory, as its effectiveness or failure could have influenced the crash.</answer>
+
+<question_number>10</question_number>
+<answer>The plane fell from 17,000 feet, which challenges assumptions about gradual ice accumulation, as pilots could have taken corrective action before reaching a critical point.</answer>

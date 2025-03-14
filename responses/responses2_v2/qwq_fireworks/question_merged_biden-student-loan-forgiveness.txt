@@ -1,0 +1,80 @@
+merged_biden-student-loan-forgiveness.txt
+Okay, let's tackle these questions one by one using only the provided article. 
+
+1. The question asks which Education Secretary during Trump's first term restricted the Public Service Loan Forgiveness program, resulting in only 7,000 approvals. The article mentions Betsy DeVos as Trump's first Education Secretary and says the program was deprioritized under her. So the answer is Betsy DeVos.
+
+2. The second question is about the amount forgiven via the SAVE plan before legal challenges. The article says the SAVE plan was opposed and stalled by courts, but doesn't give a specific number for how much was forgiven before that. So N/A.
+
+3. The third question asks for the total borrowers forgiven through emergency Covid powers. The article states the Supreme Court rejected the 2023 plan that aimed for over 40 million, but doesn't specify how many were actually processed before rejection. So N/A.
+
+4. The interest waiver was part of the Biden administration's actions after the initial plan was rejected. The article mentions waiving interest on loans that had piled up for decades. The program under which this happened is the SAVE repayment plan. So the answer is SAVE.
+
+5. The initial strategy aimed to help over 40 million, but since it was rejected, none actually received forgiveness through that method. So 0%, but the question asks for percentage. The article doesn't state exact numbers, so N/A.
+
+6. The public service requirement for the interest waiver isn't mentioned. The Public Service Loan Forgiveness requires 10 years, but the interest waiver might be different. Since it's not specified, N/A.
+
+7. The SAVE plan's payment reduction amount isn't given. The article mentions "sharply reduce monthly payments" but no exact figure. So N/A.
+
+8. The Supreme Court challenge's lead attorney general isn't named. The article says "Republican attorneys general" but no specific name. N/A.
+
+9. The number of borrowers approved after the Supreme Court rejection and before alternative programs isn't provided. N/A.
+
+10. The average loan amount per borrower in the final authorization isn't stated. N/A.
+
+11. The final round covered over 150,000 borrowers, as per the first paragraph. So 150000.
+
+12. The legal challenge mechanism was likely the lawsuits from Republican states. The article says they used legal challenges leading to Supreme Court rejection. The mechanism would be lawsuits under administrative law, maybe the Administrative Procedure Act. But the exact term isn't given. The article mentions "legal challenges brought by Republican states led to repeated setbacks", so maybe "legal challenges by Republican states". But the question asks for the mechanism, like a specific law or legal doctrine. Since it's not specified, N/A.
+
+13. The SAVE plan's other provision was forgiveness after set payments. The article says "qualified borrowers to have their full balances forgiven after making payments for a set period". That's the part challenged. So the answer is the provision allowing full forgiveness after set payments.
+
+14. The Public Service program was restricted under the previous Trump administration, as per Cardona's statement. So Trump.
+
+15. Trudeau linked Trump's comments to Canada's critical minerals and its location as a northern neighbor. The answer is "Canada's wealth of critical minerals".
+
+16. USAID's purpose is stated as the main provider of global humanitarian and development aid. So that's the answer.
+
+17. The lawsuits lack legal merit per the experts, but the grounds cited might be something like abuse of power or violating First Amendment. The article says the lawsuits lack merit but are harassing. The grounds would be the legal basis Trump used, perhaps claiming defamation or misuse of records. But the question asks for the legal grounds experts cite. Since the article says the experts think the lawsuits lack merit, maybe they argue the First Amendment isn't violated. The exact grounds aren't specified here. The answer might be "N/A" since the article doesn't state the grounds, only that they lack merit.
+
+18. The tent city can hold up to 30,000 migrants as per the last paragraph. So 30000.
+
+19. Linda McMahon's role at America First Policy Institute was chair. The article says she served as a chair there. So "chair".
+</think>
+
+<question_number>1</question_number>
+<answer>Betsy DeVos</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>SAVE</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>150,000</answer>
+<question_number>12</question_number>
+<answer>N/A</answer>
+<question_number>13</question_number>
+<answer>full balances forgiven after making payments for a set period</answer>
+<question_number>14</question_number>
+<answer>Trump</answer>
+<question_number>15</question_number>
+<answer>Canada's wealth of critical minerals</answer>
+<question_number>16</question_number>
+<answer>global humanitarian and development aid</answer>
+<question_number>17</question_number>
+<answer>N/A</answer>
+<question_number>18</question_number>
+<answer>30,000</answer>
+<question_number>19</question_number>
+<answer>chair</answer>

@@ -1,0 +1,37 @@
+merged_drug-prices-medicare.txt
+<question_number>1</question_number>
+<answer>The $2,000 annual cap takes effect in 2025, one year before the negotiated prices take effect in 2026</answer>
+
+<question_number>2</question_number>
+<answer>The program could be weakened or reversed if Trump wins and Republicans control Congress</answer>
+
+<question_number>3</question_number>
+<answer>Harris highlighted "taking on Big Pharma" as among her first presidential campaign priorities, after having cast the tiebreaking vote for the legislation enabling the drug price negotiation program</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article only provides the total 22% reduction across all drugs, not individual drug savings</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Cannot calculate as the 22% overall reduction may not apply uniformly to individual drugs</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article doesn't provide pre-negotiation spending per drug to calculate proportional savings</other>
+
+<question_number>7</question_number>
+<answer>Entresto</answer>
+<other>Among non-specialty drugs, Entresto at $295/month would take the most refills to reach $2,000</other>
+
+<question_number>8</question_number>
+<answer>94%</answer>
+<other>Imbruvica ($9,319), Stelara ($4,695), and Enbrel ($2,355) total $16,369 out of $17,499 total</other>
+
+<question_number>9</question_number>
+<answer>$19</answer>
+<other>Jardiance ($197) and Farxiga ($178) both treat diabetes, heart failure and chronic kidney disease</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>While legal challenges are mentioned, the article doesn't specify which companies filed them</other>

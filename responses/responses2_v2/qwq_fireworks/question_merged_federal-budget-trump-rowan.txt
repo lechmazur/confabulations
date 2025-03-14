@@ -1,0 +1,84 @@
+merged_federal-budget-trump-rowan.txt
+Okay, I need to go through each question and answer them based strictly on the provided article. Let me start with the first question.
+
+1. The first question asks for the percentage reduction in health insurance premiums from requiring young immigrants to join the healthcare pool. The article mentions that premiums come down almost a third. So that's 33%. I'll check the text again to confirm. Yes, "premiums come way down because you add this massive requirement for young immigrants to be in the health care pool, which takes premiums down almost a third." So the answer is 33%.
+
+2. The second question is about who was chosen as Treasury Secretary instead of Rowan. The article states that Scott Bessent did. The exact line is: "he flew across the globe to meet with Trump. Rowan... ultimately did not get the job. (Scott Bessent did.)" So the answer is Scott Bessent.
+
+3. Third question: How many Excel spreadsheets were used before the model? The text says, "It's like 28 Excel spreadsheets." So the answer is 28.
+
+4. Fourth question: The tax revenue from eliminating step-up basis. The article doesn't mention a specific amount or percentage, so I have to put N/A. It does mention that this provision is removed, but no numbers on revenue.
+
+5. Fifth question: Minimum funding required from Rowan's agreement with Amy Gutmann. The article says he offered to build the entity if the university supported it, but there's no specific funding amount mentioned. So N/A.
+
+6. Sixth question: The difference between nominal and effective corporate tax rates. The article states the nominal rate is 21%, effective is 13.6. The gap is 7.4 points. So 7.4. But the question says "how many percentage points lower"—so 21 minus 13.6 is 7.4. The answer is 7.4.
+
+7. Seventh question: Timeframe for health insurance requirements for undocumented immigrants. The article doesn't specify a timeframe, just mentions the requirement. So N/A.
+
+8. Eighth question: Specific pharmaceutical write-offs contributing to tax rate gap. The article mentions "Pharmaceutical write-offs, R & D credits, all the distortions that get the rate from 21 to 13.6." But it doesn't name specific ones beyond "pharmaceutical write-offs." Since the question asks for the specific ones Rowan identified, but the text only says "Pharmaceutical write-offs," the answer is Pharmaceutical write-offs. But maybe the question expects more specifics? The article doesn't list any beyond that, so that's the answer.
+
+9. Ninth question: GDP increase from only immigration and healthcare parts. The article's projections are for the entire model's effect by 2054, which includes more than just immigration and healthcare. The 21% GDP increase is the total, but the question specifies only immigration and healthcare. Since the text doesn't separate those numbers, answer is N/A.
+
+10. Tenth question: Number of meetings with Democrats before Trump's team. The article doesn't mention how many meetings, so N/A.
+
+11. Eleventh question: Marginal tax rate that diminishes SALT deductions. The text says, "At the point the top marginal tax rate becomes like 27 percent [down from 37 percent], the deduction for SALT is not worth that much." So the answer is 27%.
+
+12. Twelfth question: Corporate tax rate to eliminate offshoring. The article states Rowan suggests 15% corporate rate. "I can get him a 15 percent corporate rate." So 15%.
+
+13. Thirteenth question: Federal debt reduction by 2054. The article says the model projects a 38% reduction. So 38%.
+
+14. Fourteenth question: Economic indicator increasing by 7%. The article mentions "a 7 percent increase in wages." So wages.
+
+15. Fifteenth question: Who was chosen instead of Rowan? Scott Bessent again. The same as question 2. So Scott Bessent.
+
+16. Sixteenth question: Name of the research tool. "Penn Wharton Budget Model," as stated multiple times.
+
+17. Seventeenth question: The tax benefit to eliminate. "step up basis at death" is mentioned. So step-up basis at death.
+
+18. Eighteenth question: Who did Rowan call in 2008? Amy Gutmann, the then president of UPenn. The article says he called Amy Gutmann.
+
+19. Nineteenth question: Which group benefits—active earners or passive? The text says "you reward people who work more... and corporations to record income in the US." Also mentions "the idle rich pay more." So active earners benefit. The answer is active earners (those actively earning).
+
+20. Twentieth question: Trump's promise Rowan can achieve without entitlement cuts. The article states Rowan says his plan can "balance the budget and fiscal prudence without doing a bunch of things that get to entitlements." So the answer is balancing the budget.
+</think>
+
+<question_number>1</question_number>
+<answer>33%</answer>
+<question_number>2</question_number>
+<answer>Scott Bessent</answer>
+<question_number>3</question_number>
+<answer>28</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>7.4</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>Pharmaceutical write-offs</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>27%</answer>
+<question_number>12</question_number>
+<answer>15%</answer>
+<question_number>13</question_number>
+<answer>38%</answer>
+<question_number>14</question_number>
+<answer>wages</answer>
+<question_number>15</question_number>
+<answer>Scott Bessent</answer>
+<question_number>16</question_number>
+<answer>Penn Wharton Budget Model</answer>
+<question_number>17</question_number>
+<answer>step up basis at death</answer>
+<question_number>18</question_number>
+<answer>Amy Gutmann</answer>
+<question_number>19</question_number>
+<answer>actively earning</answer>
+<question_number>20</question_number>
+<answer>balance the budget</answer>
