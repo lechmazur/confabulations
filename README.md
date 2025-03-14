@@ -9,7 +9,7 @@ Combining confabulation and non-response rates enables a comprehensive ranking. 
 
 ### 50-50 Ranking bar chart
 
-![leaderboard_bar_common](https://github.com/user-attachments/assets/12b5fa06-c3fe-4d5b-a0cc-5badf10bf365)
+![leaderboard_bar_common](https://github.com/user-attachments/assets/e4979992-d18c-4f7a-9d51-0961331246a1)
 
 ### 50-50 Ranking leaderboard
 
@@ -49,17 +49,17 @@ Combining confabulation and non-response rates enables a comprehensive ranking. 
 |32|Claude 3 Haiku|56.9|11.5|34.21|
 |33|Claude 3.5 Haiku|65.8|7.6|36.74|
 |34|GPT-4o mini|60.9|13.5|37.21|
-|35|Gemma 3 27B|68.9|14.3|41.60|
+|35|Gemma 3 27B|66.3|14.2|40.26|
 
 ## Confabulation and Non-Response Rates
 
 ![confabulations drawio (1)](https://github.com/user-attachments/assets/ab3c4ae4-7605-4f7d-83ce-ae6a6f8fa1c7)
 
-![confabulations_common](https://github.com/user-attachments/assets/a2a576d0-23cd-43d2-a816-8cfb9bb150ba)
+![confabulations_common](https://github.com/user-attachments/assets/358dba6a-2234-4538-8ea6-73f1bd73ccea)
 
 The raw confabulation rate alone isn't sufficient for meaningful evaluation. A model that simply declines to answer most questions would achieve a low confabulation rate. To address this, the benchmark also tracks the LLM non-response rate using the same prompts and documents but specific questions with answers that are present in the text. Currently, 2,612 hard questions (see the prompts) with known answers in the texts are included in this analysis.
 
-![nonresponse_common](https://github.com/user-attachments/assets/97785cab-ec01-4cfa-8b9c-c97685996a0f)
+![nonresponse_common](https://github.com/user-attachments/assets/4b60fdf5-3e41-4a16-b446-cdb4830412c8)
 
 Accuracy benchmarks can also be considered for a more comprehensive assessment. This benchmark currently focuses solely on pure confabulations to keep it distinct for now. For example, I have created a separate benchmark to test LLMs using the extended version of the [New York Times Connections](https://github.com/lechmazur/nyt-connections/).
 
