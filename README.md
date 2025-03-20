@@ -4,6 +4,7 @@ This benchmark evaluates large language models (LLMs) based on how frequently th
 
 As of Feb 10, 2025, 201 questions, confirmed by a human to lack answers in the provided texts, have been carefully curated and assessed. The number of questions will ideally increase over time, and the error margins will continue to narrow. However, the current dataset is already sufficient to differentiate between various models.
 
+---
 ## Combined Evaluation
 Combining confabulation and non-response rates enables a comprehensive ranking. Depending on your priorities, you may prefer [fewer confabulations or fewer non-responses](https://lechmazur.github.io/leaderboard1.html). 
 
@@ -51,6 +52,7 @@ Combining confabulation and non-response rates enables a comprehensive ranking. 
 |34|GPT-4o mini|60.9|13.5|37.21|
 |35|Gemma 3 27B|66.3|14.2|40.26|
 
+---
 ## Confabulation and Non-Response Rates
 
 ![confabulations drawio (1)](https://github.com/user-attachments/assets/ab3c4ae4-7605-4f7d-83ce-ae6a6f8fa1c7)
@@ -63,7 +65,7 @@ The raw confabulation rate alone isn't sufficient for meaningful evaluation. A m
 
 Accuracy benchmarks can also be considered for a more comprehensive assessment. This benchmark currently focuses solely on pure confabulations to keep it distinct for now. For example, I have created a separate benchmark to test LLMs using the extended version of the [New York Times Connections](https://github.com/lechmazur/nyt-connections/).
 
-
+---
 ## Interesting Hallucination Results
 - Claude 3.7 models hallucinate little, but often don't respond with the true answer.
 - Reasoning appears to help. For example, DeepSeek R1 performs better than DeepSeek-V3 and Gemini 2.0 Flash Thinking Exp 01-21 performs better than Gemini 2.0 Flash.
@@ -73,7 +75,7 @@ Accuracy benchmarks can also be considered for a more comprehensive assessment. 
 - Gemma 3 27B dissapoints.
 - Llama models tend to respond cautiously, resulting in fewer confabulations but higher non-response rates
 
-
+---
 ## Additional Notes
 - A popular hallucination leaderboard on GitHub uses a model for evaluation of document summaries, but I found this to lead to a very high error rate and different rankings. This approach can be very misleading.
 - While the initial set of questions was suggested by LLMs, the final 201 questions were all painstakingly human-verified to have no answers in the provided texts. Only a percentage of LLM-suggested questions were unequivocally answer-free.
@@ -83,9 +85,22 @@ Accuracy benchmarks can also be considered for a more comprehensive assessment. 
 - A temperature setting of 0 was used
 - Multi-turn ensemble is my unpublished system. It utilizes multiple LLMs (that existed in Oct 2024), multi-turn dialogues, and other proprietary techniques. It is slower and more costly to run but it does very well. It [outperforms](https://x.com/LechMazur/status/1828804485033992514/photo/1) non-o1 LLMs on MMLU-Pro and GPQA.
 
+---
+## Other multi-agent benchmarks
+- [Public Goods Game (PGG) Benchmark: Contribute & Punish](https://github.com/lechmazur/pgg_bench/)
+- [Elimination Game: Social Reasoning and Deception in Multi-Agent LLMs](https://github.com/lechmazur/elimination_game/)
+- [Step Race: Collaboration vs. Misdirection Under Pressure](https://github.com/lechmazur/step_game/)
 
+## Other benchmarks
+- [Extended NYT Connections](https://github.com/lechmazur/nyt-connections/)
+- [LLM Thematic Generalization Benchmark](https://github.com/lechmazur/generalization/)
+- [LLM Creative Story-Writing Benchmark](https://github.com/lechmazur/writing/)
+- [LLM Confabulation/Hallucination Benchmark](https://github.com/lechmazur/confabulations/)
+- [LLM Deceptiveness and Gullibility](https://github.com/lechmazur/deception/)
+- [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent/)
 
-## Updates and Other Benchmarks
+---
+## Updates 
 - March 13, 2025: Gemma 3 27B added.
 - March 7, 2025: Qwen QwQ-32B added.
 - Feb 27, 2025: GPT-4.5 Preview added.
@@ -96,7 +111,6 @@ Accuracy benchmarks can also be considered for a more comprehensive assessment. 
 - Oct. 23, 2024: Grok Beta added
 - Oct. 23, 2024: Claude 3.5 Sonnet (2024-10-22) added
 - Oct. 15, 2024: Grok 2 added
-- Also check out [Multi-Agent Elimination Game LLM Benchmark](https://github.com/lechmazur/elimination_game/), [LLM Public Goods Game](https://github.com/lechmazur/goods), [LLM Step Game](https://github.com/lechmazur/step_game), [LLM Thematic Generalization Benchmark](https://github.com/lechmazur/generalization), [LLM Creative Story-Writing Benchmark](https://github.com/lechmazur/writing), [LLM Deception Benchmark](https://github.com/lechmazur/deception) and [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent).
 - Follow [@lechmazur](https://x.com/LechMazur) on X (Twitter) for other upcoming benchmarks and more.
 
 
