@@ -1,0 +1,55 @@
+merged_auto-tariffs-trump-canada-mexico.txt
+<other>Analyzing question 1. The article mentions GM produces 25% of its pickups in Mexico but does not state the number of plants involved. Hyundai built *a* complex. Therefore, the number of fewer plants cannot be determined from the text.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 2. The article states a 25% tariff would force a 25% price increase on a vehicle like the Mustang Mach E made in Mexico. However, the original sticker price is not provided, so the adjusted price cannot be calculated.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 3. The article states GM produces pickups in Mexico and that pickups are among the most profitable vehicles. A tariff on these would significantly impact profit margins.</other>
+<question_number>3</question_number>
+<answer>Pickups</answer>
+<other>Analyzing question 4. The article mentions Hyundai's $7.6 billion investment but provides no information on Ford's current U.S. investments or a quantifiable relationship between investment size and tariff mitigation needed to calculate how much *more* Ford would need to invest.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 5. The article mentions potential job losses due to slumping sales and quotes Simon Geale on the link between fewer sales and fewer people needed. However, it does not state a direct percentage correlation between a sales drop (assumed 25% based on the tariff) and workforce reduction, nor does it provide workforce numbers for the specific plant.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 6. The Bernstein report states about half (50%) of components by value are imported. A 25% tariff on these imported components would add 25% of 50% to the cost. 0.25 * 0.50 = 0.125 or 12.5%.</other>
+<question_number>6</question_number>
+<answer>12.5%</answer>
+<other>Analyzing question 7. The USMCA facilitates free trade. The article states Mr. Trump planned to impose 25% tariffs on imports from Canada and Mexico shortly after his inauguration, which contradicts the free-trade spirit.</other>
+<question_number>7</question_number>
+<answer>Imposing 25 percent tariffs on imports from Canada and Mexico.</answer>
+<other>Analyzing question 8. The article mentions AlixPartners and Proxima. Proxima is explicitly mentioned as a consultancy focusing on supply chains, making it the most likely firm to advise on rapid supply chain readjustment.</other>
+<question_number>8</question_number>
+<answer>Proxima</answer>
+<other>Analyzing question 9. The article explicitly states Hyundai Motor built a $7.6 billion factory complex in Georgia and quotes its CEO, Jose Munoz, about localizing investments to avoid problems like tariffs.</other>
+<question_number>9</question_number>
+<answer>Hyundai Motor</answer>
+<other>Analyzing question 10. The article states the North American Free Trade Agreement was replaced in 2020 by the United States-Mexico-Canada Agreement, a rewrite engineered by Mr. Trump.</other>
+<question_number>10</question_number>
+<answer>United States-Mexico-Canada Agreement</answer>
+<other>Analyzing question 11. The article contrasts the impact of tariffs on parts versus whole vehicles, stating "a 25 percent tariff on a fully assembled vehicle made in Mexico would almost immediately force a 25 percent increase in the sticker price".</other>
+<question_number>11</question_number>
+<answer>A 25 percent tariff on a fully assembled vehicle made in Mexico.</answer>
+<other>Analyzing question 12. The article quotes Simon Geale from Proxima, a supply chain consultancy, explaining the link between lower sales and workforce reduction.</other>
+<question_number>12</question_number>
+<answer>Simon Geale</answer>
+<other>Analyzing question 13. The article quotes Mark Wakefield from AlixPartners, identifying him as the global automotive market lead and stating his view that the tariffs are likely a negotiating tactic.</other>
+<question_number>13</question_number>
+<answer>Mark Wakefield</answer>
+<other>Analyzing question 14. The article states Ford Motor declined to comment and also mentions that Ford makes its electric Mustang Mach E in Mexico.</other>
+<question_number>14</question_number>
+<answer>Ford Motor</answer>
+<other>Analyzing question 15. The article quotes Erik Gordon, a business professor at the University of Michigan, predicting that higher prices will cause people to keep their old cars longer.</other>
+<question_number>15</question_number>
+<answer>Erik Gordon</answer>
+<other>Analyzing question 16. The article states, "North American automaking has been essentially transnational for three decades".</other>
+<question_number>16</question_number>
+<answer>Three decades</answer>
+<other>Analyzing question 17. The article highlights the difficulty and cost of "re-engineering cross-border supply chains, which are designed to deliver parts to car factories only hours before they are installed in vehicles".</other>
+<question_number>17</question_number>
+<answer>Re-engineering cross-border supply chains designed to deliver parts only hours before installation.</answer>
+<other>Analyzing question 18. The article quotes Mark Wakefield stating that "about $150 billion worth of vehicles move annually from Canada and Mexico across the border into the United States."</other>
+<question_number>18</question_number>
+<answer>About $150 billion</answer>

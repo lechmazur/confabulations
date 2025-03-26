@@ -1,0 +1,30 @@
+merged_balance-beam-gymnastics.txt
+<question_number>1</question_number>
+<answer>0.2</answer>
+<question_number>2</question_number>
+<other>Calculation: Target D = 6.0. Composition = 2.0 (assumed). Connection = 0. Skill Value needed = 4.0. Dismount = H (0.8). Value needed from other 7 skills = 3.2. If all 7 skills had the same rating, 7 * value(X) >= 3.2. 7 * 0.4 (D) = 2.8 (too low). 7 * 0.5 (E) = 3.5 (sufficient). Minimum rating if all 7 were the same is E.</other>
+<answer>E</answer>
+<question_number>3</question_number>
+<other>The question asks for the minimum difficulty rating "for their acro series". An acro series consists of multiple skills, and the article defines ratings for individual skills, not series. The minimum rating of the individual skills within the series cannot be determined without knowing the minimum rating for a salto and how the 8 skills interact to achieve the total value. The phrasing is ambiguous.</other>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<other>Switch leap is D (0.4). A failed switch ring leap might get credit for a switch leap, 0.2 less than the switch ring leap. Therefore, the switch ring leap value is 0.4 + 0.2 = 0.6 (F rating). The question asks for the "rating difference". This could be interpreted as the difference in letter grades (D vs F, two levels) or the difference in value (0.2). The text explicitly mentions the value difference of 0.2.</other>
+<answer>0.2</answer>
+<question_number>5</question_number>
+<other>Calculation: Min D = Min Comp (2.0 assumed) + Min Skill Value + Connection (0). Skill Value = sum of 8 hardest skills (>=3 acro, >=3 dance). Skills: Mount=Switch Leap (D=0.4, Dance), Dismount=Double Pike (E=0.5, Acro). Min other skills to meet requirements (assuming min salto=B): Acro Series (A=0.1, B=0.2), Dance Series (A=0.1, A=0.1), Turn (A=0.1), Multi-direction Acro (A=0.1). Total 8 skills: D(0.4)+E(0.5)+A(0.1)+B(0.2)+A(0.1)+A(0.1)+A(0.1)+A(0.1) = 1.6. Min D = 2.0 + 1.6 + 0 = 3.6.</other>
+<answer>3.6</answer>
+<question_number>6</question_number>
+<other>Double-twisting double tuck is H. Full-twisting double tuck is G. H is one rating level higher than G.</other>
+<answer>One rating higher</answer>
+<question_number>7</question_number>
+<other>The D score calculation requires the values of the 8 hardest skills. The number of skills counted for the Skill Value component is always 8. The question asks for the "minimum number of skills needed," which doesn't align with the scoring description provided, as 8 skills are always used for the value calculation. The question seems ill-posed based on the article's description of scoring.</other>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<other>The article mentions deductions for wobbles (0.1 for slight, up to 1.0 for a fall) and for splits short of 180 degrees, but does not specify the deduction amount for insufficient splits or for wobbles greater than "slight". Therefore, the maximum combined deduction cannot be calculated from the text.</other>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<other>Calculation: Min D = Min Comp (2.0 assumed) + Min Skill Value + Connection (0). Skill Value = sum of 8 hardest skills (>=3 acro, >=3 dance). Skills: Mount=Switch Leap (D=0.4, Dance), Dismount=Double Tuck (D=0.4, Acro). Min other skills to meet requirements (assuming min salto=B): Acro Series (A=0.1, B=0.2), Dance Series (A=0.1, A=0.1), Turn (A=0.1), Multi-direction Acro (A=0.1). Total 8 skills: D(0.4)+D(0.4)+A(0.1)+B(0.2)+A(0.1)+A(0.1)+A(0.1)+A(0.1) = 1.5. Min D = 2.0 + 1.5 + 0 = 3.5.</other>
+<answer>3.5</answer>
+<question_number>10</question_number>
+<other>The routine includes a "full-twisting double tuck dismount". The article explicitly states the rating for this skill: "full-twisting double tuck (G)".</other>
+<answer>G</answer>

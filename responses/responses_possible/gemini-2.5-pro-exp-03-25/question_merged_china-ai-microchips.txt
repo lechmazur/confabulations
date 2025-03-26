@@ -1,0 +1,32 @@
+merged_china-ai-microchips.txt
+<other>Okay, I will go through each question and find the answer solely based on the provided article.</other>
+<question_number>1</question_number>
+<answer>Nvidia created a slightly downgraded chip (A800) by disabling some connections on the banned A100, allowing continued sales to China within the government's technical parameters, although U.S. officials felt it allowed China to achieve practically the same results.</answer>
+<other>The article explains Nvidia adapted the A100 into the A800 to comply with the letter of the restrictions while continuing sales.</other>
+<question_number>2</question_number>
+<answer>The U.S. implemented extensive technological blockades and added companies to the entity list (national security), which cost American companies billions in sales and raised concerns about harming U.S. competitiveness (economic interests), while officials acknowledged the difficulty and resource limitations in enforcing these bans.</answer>
+<other>The article details the bans, the economic costs, industry pushback, and official acknowledgments of enforcement challenges.</other>
+<question_number>3</question_number>
+<answer>Servers containing more than 2,000 advanced Nvidia microchips.</answer>
+<other>The article explicitly mentions a shipment of servers with over 2,000 advanced Nvidia chips for $103 million.</other>
+<question_number>4</question_number>
+<answer>Sun Yat-sen University.</answer>
+<other>The article names this university in southern China.</other>
+<question_number>5</question_number>
+<answer>Nettrix.</answer>
+<other>The article identifies Nettrix as the company formed by former Sugon executives that partnered with Nvidia, Intel, and Microsoft.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article mentions China's hypersonic missile test and that officials later learned more about the role of U.S. chips in cyberoperations, cryptography, disinformation, and military research, which informed restrictions. However, it states broader restrictions were *already* being developed before the missile test, and doesn't specify *one* single military application that prompted the *broader* restrictions.</other>
+<question_number>7</question_number>
+<answer>Label banned chips as tea or toys.</answer>
+<other>The article quotes Wang Qiang giving this specific advice.</other>
+<question_number>8</question_number>
+<answer>A hypersonic missile.</answer>
+<other>The article explicitly states China tested a hypersonic missile that surpassed American technology and used U.S. chips.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article mentions a university in central China affiliated with the Chinese Academy of Sciences was added to the list for this reason, but it does not provide the specific name of the university.</other>
+<question_number>10</question_number>
+<answer>At least 550.</answer>
+<other>The article cites C4ADS findings showing "at least 550 restricted Nvidia chips" were sold based on examined procurement records.</other>

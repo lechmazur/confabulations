@@ -1,0 +1,54 @@
+merged_stomach-bloating-pain-nausea-fever-volvulus.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>0</answer>
+<other>The article mentions her mother suggested the ER once before, but the daughter declined. The visit described is the first time she went to the ER for these symptoms according to the text.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>Sky high</answer>
+<other>The article states her blood pressure was "sky high" but does not provide a numerical reading.</other>
+<question_number>5</question_number>
+<answer>Sprinting</answer>
+<other>The article mentions "as she sprinted the length of the pool" but doesn't specify a particular stroke like freestyle, backstroke, etc.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article states her mother picked her up from the Charlotte airport, not who drove her to the departure airport.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article mentions "reduced cabin pressure" but not a specific altitude.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<other>The article suggests reduced cabin pressure worsened bloating and tightened the existing twist, not that it caused the initial twisting.</other>
+<question_number>12</question_number>
+<answer>N/A</answer>
+<other>The article mentions potential anatomical abnormalities or artery laxity sometimes linked to volvulus in young people, but doesn't name a specific genetic disorder that was ruled out.</other>
+<question_number>13</question_number>
+<answer>N/A</answer>
+<other>The article mentions she took a laxative, but doesn't name it or state it worsened her condition, only that it didn't help.</other>
+<question_number>14</question_number>
+<answer>N/A</answer>
+<other>The article suggests previous episodes resolved on their own, explaining the intermittent pain, but doesn't state surgeons confirmed a number of past episodes.</other>
+<question_number>15</question_number>
+<answer>N/A</answer>
+<other>The article mentions compromised blood flow on the first scan, but doesn't name a specific artery or mention blood flow findings from the second scan.</other>
+<question_number>16</question_number>
+<answer>N/A</answer>
+<other>The pediatrician diagnosed a "sensitive stomach". The article states the cause of the volvulus was ultimately unclear and no anatomical abnormality was found, so it doesn't frame the pediatrician's assessment as a misdiagnosis delaying identification of an anatomical cause.</other>
+<question_number>17</question_number>
+<answer>The gut retwisted itself</answer>
+<other>The article states a second CT showed the gut had retwisted after the initial detorsion procedure.</other>
+<question_number>18</question_number>
+<answer>N/A</answer>
+<question_number>19</question_number>
+<answer>N/A</answer>
+<question_number>20</question_number>
+<answer>N/A</answer>
+<other>The article states no sign of any anatomic abnormality was found and the cause was unclear.</other>

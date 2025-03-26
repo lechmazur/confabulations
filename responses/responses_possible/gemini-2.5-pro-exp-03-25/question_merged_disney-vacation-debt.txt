@@ -1,0 +1,31 @@
+merged_disney-vacation-debt.txt
+<other>Analyzing Question 1: The question asks about the financial mechanism Alyssa Leach uses. The text states she "relies on quarterly bonuses to cover vacation costs" and "books first, then pays off her balances as the bonuses come in." It also mentions she charged the $6,000 trip to her Disney-branded credit card.</other>
+<question_number>1</question_number>
+<answer>Relying on quarterly bonuses and using a credit card to pay off balances later.</answer>
+<other>Analyzing Question 2: The question asks for a correlation between Disney's softening demand and Rebecca Mitchell's behavior. The article mentions softening demand due to families having less money post-inflation. Rebecca Mitchell took on debt because she prioritized the trips over waiting to save, feeling saving was futile for her. The article doesn't explicitly draw a correlation between her specific actions and the overall market trend reported by Disney. Her behavior seems counter to the trend of reduced spending.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Analyzing Question 3: The question asks how Alyssa Leach's strategy shows challenges. Her strategy is booking first, paying later with fluctuating bonuses, and using credit, which led to accruing interest ($382). This demonstrates the difficulty of aligning variable income with fixed vacation booking/payment schedules.</other>
+<question_number>3</question_number>
+<answer>Booking vacations first and relying on fluctuating quarterly bonuses to pay off balances later, sometimes accruing credit card interest when funds are not immediately available.</answer>
+<other>Analyzing Question 4: The question asks which family's strategy mirrors a sales professional using quarterly bonuses. The article explicitly states Alyssa Leach works in sales and relies on quarterly bonuses for vacations.</other>
+<question_number>4</question_number>
+<answer>Alyssa Leach's family.</answer>
+<other>Analyzing Question 5: The question asks for the financial product connecting Alyssa Leach (who accrued $382 interest) and the Magic Kingdom (most visited park, part of Disney World). The article states she charged her $6,000 Disney World vacation to her Disney-branded credit card and accrued interest.</other>
+<question_number>5</question_number>
+<answer>Disney-branded credit card.</answer>
+<other>Analyzing Question 6: The question asks about the service replaced in 2021 linking nostalgia spending (Esfeller) and expert advice (Cruze). The article states FastPass (free line-skipping) was replaced by a paid version in Fall 2021. Esfeller felt compelled to buy the paid version. Cruze warns against such spending pressures. The service is the line-skipping system.</other>
+<question_number>6</question_number>
+<answer>FastPass (or the line-skipping system).</answer>
+<other>Analyzing Question 7: The question asks how the minimum deposit ($200) compares to Rebecca Mitchell's typical trip cost ($2,500). The deposit is a small fraction of the total cost.</other>
+<question_number>7</question_number>
+<answer>The $200 minimum deposit is significantly less than the typical $2,500 trip cost.</answer>
+<other>Analyzing Question 8: The question asks for a financial product linking Alyssa Leach (Tampa resident, annual pass) and Rebecca Mitchell (former Iowa resident, payment strategy). Alyssa Leach used a Disney-branded credit card for her big trip. Rebecca Mitchell used credit cards to pay off remaining balances. Both used credit cards for Disney expenses. Alyssa now lives in Tampa and has an annual pass, but the article doesn't specify how she pays for the pass. Rebecca lived in Iowa and used credit cards for trips. The common financial product mentioned in relation to their Disney spending is a credit card.</other>
+<question_number>8</question_number>
+<answer>Credit card.</answer>
+<other>Analyzing Question 9: The question asks which transportation option's pricing change reflects variable costs mentioned by the spokesperson. The article states the Minnie Van service changed from a flat rate to surge pricing. The spokesperson discussed variable pricing.</other>
+<question_number>9</question_number>
+<answer>Minnie Van service.</answer>
+<other>Analyzing Question 10: The question asks for the financial product connecting Alyssa Leach's $6,000 trip cost and the survey finding about parental debt. Alyssa Leach charged her $6,000 trip to her Disney-branded credit card. The survey found many parents went into debt, often facilitated by credit cards.</other>
+<question_number>10</question_number>
+<answer>Credit card.</answer>

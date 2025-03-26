@@ -1,0 +1,35 @@
+merged_nasa-spacex-launch-lunar-landers.txt
+<other>Analyzing the questions based on the provided article.</other>
+<question_number>1</question_number>
+<answer>$10,000</answer>
+<other>The article states NASA will buy two soil samples for $5,000 each (2 * $5,000 = $10,000). It does not mention factoring in transportation costs.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article says the lander hovered "far above the ground" but does not specify the altitude in miles.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Julianna Scheiman from SpaceX spoke at the conference, but SpaceX only provided the launch, not the landers. The article doesn't state that any mission director confirmed operation beyond 14 days.</other>
+<question_number>4</question_number>
+<answer>One second</answer>
+<other>The article states the rocket stage fired "once more, for just a second, to adjust the orbit for the deployment of Resilience".</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article mentions a drill payload but does not specify the depth it will penetrate.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article says Firefly launched Alpha "several times" but doesn't specify the number of successful launches before the lunar mission selection.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article mentions an elliptical orbit but does not state the specific altitude reached during the adjustment burn.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article mentions the Mission 1 software was confused by the crater rim height but doesn't detail the specific characteristics the modified software now accounts for, only that the mistakes were fixed.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article states Resilience will operate for one lunar day and does not mention any power generation system for experiments during the lunar night.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article confirms communication was established but does not mention any period of communication blackout.</other>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<other>The article states NASA will pay Firefly $101.5 million (or less). It mentions NASA buying samples from Ispace for $10,000 but explicitly states the Ispace mission is not a NASA mission. Therefore, a total combined cost agreed upon by NASA for both missions cannot be determined from the text.</other>

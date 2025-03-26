@@ -1,0 +1,29 @@
+merged_africa-books-quiz.txt
+<other>The user wants me to answer questions based only on the provided article. I will go through each question and find the relevant information in the text.</other>
+<question_number>1</question_number>
+<other>The article lists Chinua Achebe, Chimamanda Ngozi Adichie, Akwaeke Emezi, Chinelo Okparanta, Ben Okri and Wole Soyinka as prominent writers from "one country in particular". These are well-known Nigerian authors. The multiple-choice options listed are Cameroon, Nigeria, Mali, Kenya. The question asks which country is implicitly identified. The list strongly implies Nigeria. The mention of Nnedi Okorafor, another writer often associated with Nigeria, reinforces this, although the article doesn't state her nationality.</other>
+<answer>Nigeria</answer>
+<question_number>2</question_number>
+<other>The article describes Hisham Matar's "In the Country of Men" as set in a North African country in 1979 under an oppressive regime run by a leader not ousted until 2011. The options are Libya, Morocco, Algeria, Egypt. The description matches Libya under Muammar Gaddafi.</other>
+<answer>Libya</answer>
+<question_number>3</question_number>
+<other>The article describes NoViolet Bulawayo's "We Need New Names" as taking place first in a country that shares borders with both South Africa and Botswana. The options are Eritrea, Chad, Zambia, Zimbabwe. Zimbabwe shares borders with both South Africa and Botswana.</other>
+<answer>Zimbabwe</answer>
+<question_number>4</question_number>
+<other>The article states that Abraham Verghese's "Cutting for Stone" opens in the city of Addis Ababa and asks which country this is the capital of. The options are Ethiopia, Central African Republic, Democratic Republic of Congo, Malawi. Addis Ababa is the capital of Ethiopia.</other>
+<answer>Ethiopia</answer>
+<question_number>5</question_number>
+<other>The article describes Yaa Gyasi's "Homegoing" having African sections set in a region called the Gold Coast by European colonizers until 1957. It asks for the country's current name. The options are Liberia, Benin, Senegal, Ghana. The Gold Coast became Ghana upon independence in 1957.</other>
+<answer>Ghana</answer>
+<question_number>6</question_number>
+<other>This question refers back to the North African nation from Hisham Matar's novel (identified in Q2 as Libya) where the regime lasted until 2011. It asks which nation stands in contrast to the 'Renaissance' in African publishing mentioned elsewhere in the article. The nation identified by its political repression until 2011 is Libya.</other>
+<answer>Libya</answer>
+<question_number>7</question_number>
+<other>This question refers back to the West African country from Yaa Gyasi's novel (identified in Q5 as Ghana), formerly known as the Gold Coast until 1957. It asks which country shed its European label in 1957.</other>
+<answer>Ghana</answer>
+<question_number>8</question_number>
+<other>This question refers back to the country from NoViolet Bulawayo's novel (identified in Q3 as Zimbabwe), which shares borders with South Africa and Botswana. It asks which single country is indicated as the origin of this migration tale.</other>
+<answer>Zimbabwe</answer>
+<question_number>9</question_number>
+<other>This question refers back to the setting of Hisham Matar's debut novel (identified in Q2 as Libya), characterized by state oppression under a regime that persisted until 2011. It asks which country is unmistakably linked to this oppression and serves as the novel's setting.</other>
+<answer>Libya</answer>

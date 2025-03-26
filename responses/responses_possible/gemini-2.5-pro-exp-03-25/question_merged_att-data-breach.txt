@@ -1,0 +1,21 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>Outsourcing data to the cloud involves sharing infrastructure, making security trickier and creating more potential attack vectors.</answer>
+<question_number>3</question_number>
+<answer>The breach poses a national security concern and involved a Justice Department request to delay disclosure due to national security risks, highlighting the importance of secure data management for companies with government contracts.</answer>
+<question_number>4</question_number>
+<answer>The records identify which numbers interacted with each other, and these numbers can be traced back to individuals (including those in national security roles) using online searches or data broker records, thus revealing their communication patterns.</answer>
+<question_number>5</question_number>
+<answer>Federal agencies using AT&T could have had their personnel's communication metadata (numbers interacted with) exposed, potentially revealing interaction networks relevant to national security.</answer>
+<question_number>6</question_number>
+<answer>The exposed data shows which phone numbers interacted, directly mapping communication links; tracing these numbers back to individuals in sensitive positions reveals their communication networks.</answer>
+<question_number>7</question_number>
+<answer>Foreign nation states could use the metadata (records of interactions between numbers) to map the communication networks of individuals in US national security roles, potentially gaining intelligence.</answer>
+<question_number>8</question_number>
+<answer>The compromised data reveals which phone numbers interacted; if government officials' numbers are among those exposed or interacted with, their communication networks can be mapped.</answer>
+<question_number>9</question_number>
+<answer>According to Professor Schaumont, outsourcing to the cloud involves sharing infrastructure with others, which makes security trickier and creates more potential attack vectors, increasing exposure.</answer>
+<question_number>10</question_number>
+<answer>The breach occurred via Snowflake, a third-party cloud platform, exemplifying the risks associated with shared cloud infrastructure described by Professor Schaumont.</answer>

@@ -1,0 +1,31 @@
+merged_chipmakers-promise-investment.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article mentions Intel received funding and later announced job cuts, but it does not state a relationship between these two events.</other>
+<question_number>2</question_number>
+<answer>The funding helps increase capacity</answer>
+<other>The article states the investments spurred by the funding will help triple domestic chip manufacturing capacity.</other>
+<question_number>3</question_number>
+<answer>10:1</answer>
+<other>Calculated from "more than $300 billion" in private commitments and "more than $30 billion" in public funding allocated ($300B / $30B = 10).</other>
+<question_number>4</question_number>
+<answer>$8.05 billion</answer>
+<other>Calculated as the difference between the largest mentioned grant (Intel, up to $8.5 billion) and the smallest mentioned grant (SK Hynix, up to $450 million or $0.45 billion).</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article states "more than $30 billion" of the $39 billion pot has been allocated, making the exact remaining amount and percentage impossible to determine.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article states "more than $30 billion" was allocated and this is helping create "more than 100,000 jobs". The use of "more than" for both figures prevents calculation of an exact average.</other>
+<question_number>7</question_number>
+<answer>$10</answer>
+<other>Calculated based on "more than $300 billion" in private commitments accompanying "more than $30 billion" in public investment ($300B / $30B = $10).</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article mentions grants to non-U.S. companies SK Hynix ($450M) and TSMC ($6.6B), and notes Samsung (non-U.S.) also received funds, but the amount for Samsung is not specified, nor is the exact total allocated amount known ("more than $30 billion"). Therefore, the total amount for non-U.S. companies cannot be determined.</other>
+<question_number>9</question_number>
+<answer>18.89 times larger</answer>
+<other>Calculated by dividing the largest mentioned grant (Intel, $8.5 billion) by the SK Hynix grant ($450 million or $0.45 billion): $8.5B / $0.45B ≈ 18.89.</other>
+<question_number>10</question_number>
+<answer>27 percentage points</answer>
+<other>Calculated as the difference between the 1990 share (about 37 percent) and the current share (about 10 percent).</other>

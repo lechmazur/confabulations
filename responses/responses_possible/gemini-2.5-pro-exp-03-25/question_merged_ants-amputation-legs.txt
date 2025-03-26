@@ -1,0 +1,23 @@
+merged_ants-amputation-legs.txt
+<other>Reading the article to understand the facts about Florida carpenter ants and their amputation behavior.</other>
+<question_number>1</question_number>
+<answer>Thigh injuries reduce hemolymph flow, slowing bacterial movement into the body, making amputation more effective in preventing infection compared to lower leg injuries where bacteria penetrate quickly.</answer>
+<question_number>2</question_number>
+<answer>Many hemolymph-pumping muscles located in the thighs.</answer>
+<question_number>3</question_number>
+<answer>Amputations are more successful for wounds closer to the body (thighs) and less successful for wounds further away (lower legs).</answer>
+<question_number>4</question_number>
+<answer>It saves the colony the energy required to produce replacement ants for those lost to injury.</answer>
+<question_number>5</question_number>
+<answer>The time window for successful amputation is narrow for lower leg injuries.</answer>
+<other>The article implies the window is wider for thigh injuries due to slower bacterial spread but doesn't explicitly state the difference in the window itself, only the outcome and reason (narrow window/slim chance for lower leg vs. high chance if done quickly for thigh).</other>
+<question_number>6</question_number>
+<answer>When a thigh injury occurs near these muscles, the flow of hemolymph is reduced, making it more difficult for bacteria to move from the wound into the body.</answer>
+<question_number>7</question_number>
+<answer>Slower bacterial movement from thigh wounds increases amputation effectiveness, while faster bacterial movement from lower leg wounds decreases effectiveness because infection can penetrate the body quickly.</answer>
+<question_number>8</question_number>
+<answer>The injured ant presents its injured leg, sits calmly while another ant gnaws it off, and then presents the newly amputated wound for cleaning.</answer>
+<question_number>9</question_number>
+<answer>Amputations are more successful for thigh injuries, where many hemolymph-pumping muscles are located, because injury there reduces hemolymph flow and slows bacterial movement.</answer>
+<question_number>10</question_number>
+<answer>The high survival rate (90 percent for thigh amputations) saves the colony an enormous amount of energy by reducing the need to produce replacement ants.</answer>

@@ -1,0 +1,43 @@
+merged_breast-cancer-young-women.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>Estrogen</answer>
+<question_number>12</question_number>
+<answer>Before the age of 40</answer>
+<question_number>13</question_number>
+<answer>Becoming pregnant (especially before age 30) and breastfeeding</answer>
+<other>The question asks for a practice, and the article lists two related practices with a similar protective effect and age consideration. Listing both seems appropriate based on the text.</other>
+<question_number>14</question_number>
+<answer>Having mammograms read by an A.I. model in addition to a radiologist</answer>
+<question_number>15</question_number>
+<answer>Colorectal cancer</answer>
+<other>The article lists colorectal, gastric, kidney and liver cancer. The question asks for "which other", implying one example is sufficient.</other>
+<question_number>16</question_number>
+<answer>Childhood nutrition</answer>
+<question_number>17</question_number>
+<answer>Breast cancers fueled by the sex hormone estrogen</answer>
+<question_number>18</question_number>
+<answer>Alcohol use</answer>
+<question_number>19</question_number>
+<answer>Lowering the recommended age to begin screening to 40</answer>
+<question_number>20</question_number>
+<answer>Siobhan Donovan</answer>

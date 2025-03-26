@@ -1,0 +1,61 @@
+merged_africa-trump-hiv-pepfar-aid.txt
+<other>Analyzing question 1: The article mentions long waits (10 hours) and larger crowds in South Africa but does not provide percentage increases or compare different nations regarding wait time increases.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 2: The article mentions 13,000 PEPFAR-employed professionals were ordered to stop working, largely impacting South Africa. It mentions Botswana was affected but gives no specific number of job losses there, nor specifies the timeframe as the first 48 hours.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 3: The article discusses medication shortages and access issues but does not mention expired medications or their monetary value in South Africa.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 4: The article does not mention any regional health minister or the announcement of an emergency contingency plan.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 5: The article states staff shortages led to larger crowds at existing public clinics in South Africa but does not mention the government establishing additional testing centers.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 6: The article states HealthPlus 4 Men's outreach programs were "put on hold" due to funding uncertainty. It does not specify what percentage, if any, remained operational.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 7: The article describes the decision as "abrupt," implying little notice, but does not specify the number of days of advance notice given to administrators.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 8: The article mentions Stanley Monageng's reliance on PEPFAR and his worry but does not state that he secured alternative funding.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 9: The article mentions HealthPlus's mobile clinic was "put on hold" but does not state that any units in Eswatini were permanently closed.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 10: The article mentions a Johannesburg clinic gave a reduced supply (3 months instead of 6) on Wednesday, *after* the freeze was known. It does not mention supply reductions *before* the announcement.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 11: Sibusiso Maziya is quoted stating his organization, HealthPlus, was withholding medication. The article mentions general confusion and other shuttered clinics but does not state that Maziya indicated *other specific clinics* were taking the same action for the same reasons.</other>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 12: The article states PEPFAR accounts for 17% of South Africa's HIV budget. It mentions PEPFAR staff shortages caused issues (like longer waits) at public clinics, impacting overall operations, but doesn't quantify this impact as a percentage of the remaining 83% of the budget being "directly affected" by the temporary halt.</other>
+<question_number>12</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 13: The article provides a projected death figure (600,000 over a decade) for South Africa if PEPFAR ended, but not for Botswana.</other>
+<question_number>13</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 14: The article mentions one 19-year-old student born with HIV expressing fear of returning to 1990s conditions. It does not mention any other individuals *born with HIV* expressing this specific fear.</other>
+<question_number>14</question_number>
+<answer>0</answer>
+<other>Analyzing question 15: The article mentions HealthPlus 4 Men in Eswatini, which primarily serves gay men, was closed. It does not mention any other clinics specifically serving this population in Eswatini being closed.</other>
+<question_number>15</question_number>
+<answer>0</answer>
+<other>Analyzing question 16: The article states "around 13,000 medical professionals" employed by PEPFAR were ordered to stop working. It implies many are in South Africa but doesn't give a specific number for those *outside* South Africa, nor does it detail instructions for them to resume work after the partial reversal.</other>
+<question_number>16</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 17: The article states the administration ordered a halt, then "suddenly announcing on Tuesday" that treatments could continue. Sibusiso found his clinic closed on Wednesday. This suggests the *order* was reversed quickly (perhaps within a day or two, between the initial order and Tuesday), but the article doesn't specify the exact duration in days.</other>
+<question_number>17</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 18: The article mentions Stanley Monageng's organization supports "dozens of children" in Botswana. It does not provide numbers for children supported by other PEPFAR programs in Botswana.</other>
+<question_number>18</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 19: The article states "Some patients have been forced to wait 10 hours". It does not provide an average wait time increase or mention waits longer than 10 hours.</other>
+<question_number>19</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 20: The article quotes Solange Baptiste of the International Treatment Preparedness Coalition criticizing the stop as "not responsible" and putting "lives at risk". While others expressed fear and frustration (Nozizwe Ntsesang, Sibusiso Maziya, Msizi Mkhabela), only Baptiste's quote directly matches the specific criticism mentioned. The question asks for organizations *in addition* to this one.</other>
+<question_number>20</question_number>
+<answer>0</answer>

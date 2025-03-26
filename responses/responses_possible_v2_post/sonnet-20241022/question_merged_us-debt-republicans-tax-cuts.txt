@@ -1,0 +1,5 @@
+merged_us-debt-republicans-tax-cuts.txt
+<other>Let me analyze the numbers from the text. The tax cuts extension would cost "more than $4 trillion over the next decade" and the 20% universal tariff would raise "$3.3 trillion from 2025 through 2034". Since these periods align (next decade), I can subtract to find the net cost.</other>
+<question_number>1</question_number>
+<answer>more than $700 billion</answer>
+<other>This is calculated by subtracting the $3.3 trillion in tariff revenue from the "more than $4 trillion" cost of tax cuts, resulting in a net cost of more than $700 billion over the decade.</other>

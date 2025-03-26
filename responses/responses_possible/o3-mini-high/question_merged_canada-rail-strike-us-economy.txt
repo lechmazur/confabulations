@@ -1,0 +1,22 @@
+merged_canada-rail-strike-us-economy.txt
+<other>Reasoning: Q1 is answered by noting that a prolonged stoppage would greatly damage Canada's export-dependent economy, with losses surpassing the $1 billion weekly loss. Q2 is answered by noting that fertilizer relies almost entirely on rail as trucks cannot handle its volume. Q3 is answered by stating that C.H. Robinson advised customers to shift exports from Canadian ports to U.S. ports, signaling expected severe supply chain disruption. Q4 is answered by identifying the Railway Association of Canada—the only industry group in the article providing export volume estimates—as the one most affected. Q5 is answered by noting that sawmills and pulp and paper plants could be forced to close due to storage shortages. Q6 finds no specific link between low water levels at the Panama Canal and a particular export industry from Canada, so answer is N/A. Q7 is answered by indicating that the primary challenge for fertilizer distribution would be the lack of alternative transport options, compounded by port disruptions due to a dockworkers' strike. Q8 is answered by stating that a two‐week stoppage would severely disrupt the North American automotive supply chain, delaying new vehicle deliveries. Q9 is answered by noting that grain exporters would be most concerned over the absence of any practical alternative mode of transport when rail and container shipping routes (affected by Red Sea disruptions) are down. Q10 is answered as N/A because the article does not single out one type of plant as being the first to shut down.</other>
+<question_number>1</question_number>
+<answer>Severe disruption to Canada’s export-dependent economy and global supply chains, with losses exceeding the $1 billion estimated for a weeklong stoppage.</answer>
+<question_number>2</question_number>
+<answer>No practical alternative to rail; trucks cannot handle the huge volumes.</answer>
+<question_number>3</question_number>
+<answer>Advised shifting exports from Canadian to U.S. ports, indicating anticipation of major supply chain disruptions.</answer>
+<question_number>4</question_number>
+<answer>Railway Association of Canada</answer>
+<question_number>5</question_number>
+<answer>Sawmills and pulp and paper plants closing due to storage limitations.</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>Inability to move large fertilizer volumes via trucks, compounded by port disruptions from the dockworkers’ strike.</answer>
+<question_number>8</question_number>
+<answer>Severe disruption of the automotive supply chain leading to delayed new vehicle deliveries.</answer>
+<question_number>9</question_number>
+<answer>No practical alternative for transporting massive grain volumes when both rail and container shipping routes are disrupted.</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>

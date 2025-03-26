@@ -1,0 +1,32 @@
+merged_broadway-plays-hollywood-stars.txt
+<other>Analyzing the article to find answers for each question based *only* on the provided text.</other>
+<question_number>1</question_number>
+<answer>They are seen as safer bets and more likely to earn a profit than expensive musicals.</answer>
+<other>The article states producers see plays with stars as "safer bets" and "more likely to earn a profit".</other>
+<question_number>2</question_number>
+<answer>Plays have much lower production costs than musicals, reducing the financial risk for investors, even though the potential upside is also lower.</answer>
+<other>The article contrasts the lower cost and risk of plays (capitalized under $7 million, potential 30% return) with the higher cost and risk of musicals (often over $20 million, potential for huge returns but few achieve profitability).</other>
+<question_number>3</question_number>
+<answer>His debut is part of a striking abundance of screen stars coming to Broadway, reflecting producers betting on star power for rejuvenation and actors seeking challenging roles amid changes in Hollywood.</answer>
+<other>The article places Clooney's debut alongside Downey Jr., Washington, and Reeves, calling the abundance "striking" and linking it to economic calculus and actors' motivations.</other>
+<question_number>4</question_number>
+<answer>Plays cost significantly less to produce than musicals, but offer lower potential returns for investors, whereas expensive musicals have a much higher potential upside, though few achieve it.</answer>
+<other>The article states plays cost less than half as much as musicals but might return 30%, while musical juggernauts can return many times their investment but are rare.</other>
+<question_number>5</question_number>
+<answer>As TV networks and streaming companies cut back on scripted series, the stage offers actors a chance to tell more challenging stories.</answer>
+<other>The article explicitly states this connection as a factor for actors choosing stage roles.</other>
+<question_number>6</question_number>
+<answer>Producers need stars to commit to runs long enough (at least four months) for potential profitability, and they share financial details and recoupment charts with stars to justify the required commitment length.</answer>
+<other>The article mentions stars often want shorter runs, but producers explain the financial necessity of longer commitments using data.</other>
+<question_number>7</question_number>
+<answer>Robert Downey Jr.</answer>
+<other>The article identifies Robert Downey Jr. (known for Iron Man) as making his Broadway debut as an "A.I.-obsessed novelist" in "McNeal".</other>
+<question_number>8</question_number>
+<answer>Keanu Reeves and Alex Winter</answer>
+<other>The article states Keanu Reeves and his "Bill & Ted" co-star Alex Winter plan to star in "Waiting for Godot".</other>
+<question_number>9</question_number>
+<answer>Seaview</answer>
+<other>The article mentions Greg Nobile's company, Seaview, had a hit with "An Enemy of the People" and is now producing "Romeo and Juliet" and the Clooney play.</other>
+<question_number>10</question_number>
+<answer>$20 million</answer>
+<other>The article states new musicals "often costs more than $20 million" and gives "Boop!" capitalized up to $26 million as an example.</other>

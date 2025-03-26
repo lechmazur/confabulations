@@ -1,0 +1,7 @@
+merged_rent-prices-realpage-lawsuit.txt
+<other>Analyzing Question 1: The article states, "The Justice Department has not taken legal action against the company." It mentions the Justice Department filed a brief in support of a renters' case and is investigating potential antitrust violations in the multifamily housing industry (leading to an FBI search at Cortland), but explicitly says no legal action has been taken against RealPage by the Justice Department. It mentions lawsuits by the Attorney General of the District of Columbia and the Attorney General of Arizona, but these are not federal agencies. Therefore, based on the text, no federal agency has taken legal action against RealPage.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Analyzing Question 2: The article mentions a quote from RealPage's website praising the software. It attributes the quote to "Rick Graf, the Pinnacle executive," described as "the former chief executive of the Texas-based property management company Pinnacle." Pinnacle is identified as a customer of RealPage, not RealPage itself. The question asks for a former *RealPage* executive. The text does not provide the name of a former RealPage executive quoted on the website.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>

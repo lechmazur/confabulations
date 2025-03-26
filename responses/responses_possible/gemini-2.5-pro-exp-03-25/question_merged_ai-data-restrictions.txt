@@ -1,0 +1,31 @@
+merged_ai-data-restrictions.txt
+<other>Answering question 1 based on the text describing challenges for smaller entities.</other>
+<question_number>1</question_number>
+<answer>They cannot afford to license data directly from publishers.</answer>
+<other>Answering question 2 based on Stella Biderman's quote regarding the impact of changing licenses.</other>
+<question_number>2</question_number>
+<answer>Changing data licenses primarily harms later-arriving actors like smaller start-ups or researchers, rather than the major tech companies who already possess the data acquired under previous permissions.</answer>
+<other>Answering question 3 based on the text discussing doubts about synthetic data quality and quantity.</other>
+<question_number>3</question_number>
+<answer>Many researchers doubt that current A.I. systems can generate enough high-quality synthetic data to replace the human-created data being lost.</answer>
+<other>Answering question 4 based on the article's concluding sentence.</other>
+<question_number>4</question_number>
+<answer>The web (data sources) will start shutting its doors, restricting access.</answer>
+<other>Answering question 5 based on the text contrasting the capabilities and reliance of smaller entities versus major companies.</other>
+<question_number>5</question_number>
+<answer>Smaller companies and researchers rely more on public data sets and cannot afford licensing deals, while major tech companies may already have the data or the resources to license it.</answer>
+<other>Answering question 6 based on the implications of Stella Biderman's quote.</other>
+<question_number>6</question_number>
+<answer>Major tech companies retain the advantage of data gathered previously, while future data acquisition becomes harder, especially for newcomers.</answer>
+<other>Answering question 7 based on the implications of Stella Biderman's quote regarding later-arriving actors.</other>
+<question_number>7</question_number>
+<answer>It highlights that data restrictions create barriers to entry, hindering competition and innovation from smaller start-ups and researchers.</answer>
+<other>Answering question 8 based on mentions of consent crisis, backlash, new deals, and the concluding remarks.</other>
+<question_number>8</question_number>
+<answer>It suggests a shift away from unilateral data scraping towards negotiation, licensing deals, and greater consideration for data creators' rights and value.</answer>
+<other>Answering question 9. The article states 5% of *all data* across three sets is restricted by robots.txt and *up to* 45% in C4 is restricted by ToS. It doesn't provide the specific robots.txt percentage for C4 or the overlap between the two restriction types for C4, making a calculation impossible based solely on the text.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Answering question 10. The article states 25% of data from the highest-quality sources has been restricted (linked to the study's findings on robots.txt). Inferring the remaining unrestricted percentage.</other>
+<question_number>10</question_number>
+<answer>75%</answer>

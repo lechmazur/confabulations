@@ -1,0 +1,23 @@
+merged_alzheimers-treatment-kisunla-donanemab.txt
+<other>Analyzing the article to answer each question based *only* on the provided text.</other>
+<question_number>1</question_number>
+<answer>The belief that the significant safety risks (swelling and bleeding in the brain) outweigh the potential for only a slight or modest benefit in slowing cognitive decline.</answer>
+<question_number>2</question_number>
+<answer>It might discourage patients from participating in trials for other potentially better treatments, slowing progress in the field.</answer>
+<question_number>3</question_number>
+<answer>There is no correlation between the removal of amyloid plaques and the clinical response in individual subjects.</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article states donanemab had higher rates of swelling/bleeding in its trial than Leqembi but notes comparisons are difficult. It doesn't explicitly state how this comparison impacts the perception of Kisunla's safety.</other>
+<question_number>5</question_number>
+<answer>The expectation that patients can stop taking Kisunla after their amyloid plaques are cleared, potentially reducing overall cost and inconvenience over time.</answer>
+<question_number>6</question_number>
+<answer>Emphasis on anti-amyloid drugs might discourage patients from participating in trials for treatments that could be better.</answer>
+<question_number>7</question_number>
+<answer>Kisunla is given monthly (compared to Leqembi every two weeks) and patients may be able to stop the drug after amyloid is cleared.</answer>
+<question_number>8</question_number>
+<answer>Amyloid</answer>
+<question_number>9</question_number>
+<answer>Dr. Michael Greicius</answer>
+<question_number>10</question_number>
+<answer>Trial participants with intermediate tau levels declined more slowly on donanemab than those with high tau levels.</answer>

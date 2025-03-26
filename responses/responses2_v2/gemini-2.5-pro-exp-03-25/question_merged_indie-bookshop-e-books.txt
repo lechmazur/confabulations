@@ -1,0 +1,40 @@
+merged_indie-bookshop-e-books.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<other>The article states that when bookstores sell digital books directly from their own websites, "all profits from digital sales will go to stores". This implies 0% goes to Bookshop's operational costs in this specific scenario.</other>
+<answer>0%</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<other>The question includes the premise "assuming all e-book sales were through Amazon", which contradicts the article's mention of Kobo and Nook having made inroads. Following the instruction "if the question contains an incorrect premise, don't correct it but answer 'N/A' instead".</other>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>Roughly 40 percent</answer>
+<question_number>12</question_number>
+<other>The article states "all profits from digital sales will go to stores" in this scenario, but does not specify what percentage of the e-book's list price this represents.</other>
+<answer>N/A</answer>
+<question_number>13</question_number>
+<answer>Libro.fm</answer>
+<question_number>14</question_number>
+<answer>Ingram</answer>
+<question_number>15</question_number>
+<answer>All profits from digital sales will go to stores.</answer>
+<question_number>16</question_number>
+<answer>Passing encryption security tests to prove that Bookshop was secure and wasn't vulnerable to digital piracy.</answer>
+<question_number>17</question_number>
+<answer>Kindle</answer>
+<question_number>18</question_number>
+<answer>Around 90 percent</answer>

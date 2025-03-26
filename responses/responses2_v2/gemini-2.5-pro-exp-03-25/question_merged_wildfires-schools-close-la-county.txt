@@ -1,0 +1,61 @@
+merged_wildfires-schools-close-la-county.txt
+<other>Processing question 1: Searching the article for mentions of Kamala Harris and school closures. The article mentions her tour separately from the school closure list and reasons. No district links its closure to her tour.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Processing question 2: The article states 80 districts total and "at least 18" closed. The exact number closed is not given, so the exact number open (80 - "at least 18") cannot be determined.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Processing question 3: Checking Azusa USD and Las Virgenes USD reasons. Azusa mentions the "Eaton fire". Las Virgenes mentions "abundance of caution" but no specific fire. No fire is named by both.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Processing question 4: Checking San Marino SD details and mentions of precautions or insurance. San Marino closed due to power outages. The insurance section is separate and general. No specific insurance-related precaution for San Marino parents is mentioned.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Processing question 5: Searching for districts closing on Thursday instead of Wednesday or mentioning delayed forecasts. Several districts expected to reopen Thursday after closing Wednesday. No district closed *for* Thursday *instead* of Wednesday, and no "delayed wind forecasts" are mentioned.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Processing question 6: Reviewing all stated reasons for closures (winds, power outages, Eaton fire, uncertainty of power, downed trees/lines, campus damage). Flooding from firefighting is not mentioned.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Processing question 7: Counting explicitly named wildfires linked to closure decisions. The article mentions "at least four wildfires" generally, but only the "Eaton fire" is cited by a specific district (Azusa USD) as a reason for closure.</other>
+<question_number>7</question_number>
+<answer>One</answer>
+<other>Processing question 8: Searching district announcements for "insurance commissioner" or "claims". The mention of the insurance regulator is in a separate section, not tied to any specific district's announcement.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>Processing question 9: Checking districts and reasons for mention of Malibu fire. Santa Monica-Malibu USD closed, but no reason involving a Malibu fire is given for its Wednesday closure in the text provided. The mention of past fires near Pacific Palisades is separate.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Processing question 10: Examining the text about Matthew Mpoke Bigg and Kamala Harris. He wrote the article which includes info on the tour, and he covers wildfires. The text doesn't specify his role *in covering the tour itself*.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>Processing question 11: Searching for the district citing "volatile high winds" and "Eaton fire". Azusa Unified School District's announcement matches these conditions (along with power outages).</other>
+<question_number>11</question_number>
+<answer>Azusa Unified School District</answer>
+<other>Processing question 12: Searching for the district citing "strong winds" and "uncertainty of power". El Monte City School District's announcement matches.</other>
+<question_number>12</question_number>
+<answer>El Monte City School District</answer>
+<other>Processing question 13: Searching for the district citing "downed trees, power outages, and damaged campuses". Temple City Unified School District's announcement matches (also includes downed power lines).</other>
+<question_number>13</question_number>
+<answer>Temple City Unified School District</answer>
+<other>Processing question 14: Searching for districts planning to reopen Thursday and using the phrase "out of an abundance of caution". Las Virgenes Unified School District matches both criteria.</other>
+<question_number>14</question_number>
+<answer>Las Virgenes Unified School District</answer>
+<other>Processing question 15: Searching for a district citing only safety without mentioning specific natural or technical issues. Alhambra Unified School District's quoted reason focuses solely on safety.</other>
+<question_number>15</question_number>
+<answer>Alhambra Unified School District</answer>
+<other>Processing question 16: Searching for the London-based journalist covering the wildfires. The text identifies Matthew Mpoke Bigg as such.</other>
+<question_number>16</question_number>
+<answer>Matthew Mpoke Bigg</answer>
+<other>Processing question 17: Identifying the district affected by the Eaton fire (Azusa USD). Checking if the article implies it will resume promptly despite no reopening date being given. The article provides no such implication; it simply omits the reopening detail for Azusa.</other>
+<question_number>17</question_number>
+<answer>N/A</answer>
+<other>Processing question 18: Searching for districts citing *only* high winds. Monrovia USD ("due to 'high winds'") and Mountain View SD ("due to the 'high winds impacting our region'") fit. Monrovia's reason is slightly more succinct.</other>
+<question_number>18</question_number>
+<answer>Monrovia Unified School District</answer>
+<other>Processing question 19: Identifying the district with detailed damage (Temple City USD). Checking if the article suggests a misleading link to the Eaton fire. No such suggestion or connection is made in the text.</other>
+<question_number>19</question_number>
+<answer>N/A</answer>
+<other>Processing question 20: Finding the district closing only "some schools" (Los Angeles Unified School District) and identifying the district listed immediately after it (Monrovia Unified School District), which cited high winds.</other>
+<question_number>20</question_number>
+<answer>Los Angeles Unified School District</answer>

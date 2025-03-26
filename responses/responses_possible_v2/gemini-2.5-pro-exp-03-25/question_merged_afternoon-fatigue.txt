@@ -1,0 +1,22 @@
+merged_afternoon-fatigue.txt
+<question_number>1</question_number>
+<answer>Sai Krupa Das</answer>
+<question_number>2</question_number>
+<answer>Dr. Ravi Allada</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<other>The article mentions Dr. Stephen Justin Thomas stating the dip is "normal physiology" and "everybody has this dip". Dr. Alon Avidan, a professor of neurology, also explains the normal dip but notes extreme sleepiness could indicate a problem. However, Dr. Thomas's statement most directly contradicts the idea that the *typical* afternoon sleepiness is inherently a sign of a medical condition requiring immediate attention, even though his specific title isn't given as "neurological scientist". Dr. Avidan, the neurologist, explains the normal dip, implying it's not necessarily a medical condition unless extreme. Given the constraint to pick a neurological scientist, Dr. Avidan is the best fit, as he explains the normal mechanism while also providing context for when it might be concerning.</other>
+<answer>Dr. Alon Avidan</answer>
+<question_number>5</question_number>
+<answer>Tasks requiring less focus, such as sorting through an email inbox or filling out a routine spreadsheet</answer>
+<question_number>6</question_number>
+<answer>Dr. Stephen Justin Thomas</answer>
+<question_number>7</question_number>
+<answer>Eggs or whole-grain oatmeal</answer>
+<question_number>8</question_number>
+<answer>Early evening</answer>
+<question_number>9</question_number>
+<answer>David Earnest</answer>
+<question_number>10</question_number>
+<answer>20 minutes</answer>

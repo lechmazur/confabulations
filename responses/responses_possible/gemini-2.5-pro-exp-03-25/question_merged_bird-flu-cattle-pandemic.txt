@@ -1,0 +1,25 @@
+merged_bird-flu-cattle-pandemic.txt
+<other>Analyzing the article for answers to each question.</other>
+<question_number>1</question_number>
+<answer>The longer the virus circulates in cattle, the more chances it gains to acquire the mutations necessary to set off an influenza pandemic.</answer>
+<question_number>2</question_number>
+<answer>The dairy industry could sink the poultry industry.</answer>
+<question_number>3</question_number>
+<answer>The Agriculture Department.</answer>
+<question_number>4</question_number>
+<other>The article states the transmission method (mechanical/anthropogenic, not respiratory) is "good news" because control efforts can focus on this specific pathway, implying it makes containment easier. However, it does not explicitly state how this specific transmission method also makes containment *more challenging*. Therefore, the answer is N/A based on the strict requirement to only use information directly stated or logically inferred from the text about how the *transmission method itself* presents both ease and challenge.</other>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<other>The article mentions the virus is entrenched in wild birds and mammals including house mice, cats, and raccoons. House mice fit the description well.</other>
+<answer>House mice.</answer>
+<question_number>6</question_number>
+<answer>Americans move animals between farms at a larger scale.</answer>
+<question_number>7</question_number>
+<answer>The poultry industry.</answer>
+<question_number>8</question_number>
+<answer>Genetic data suggest the U.S. outbreak stemmed from a single spillover of the virus from birds into cattle.</answer>
+<question_number>9</question_number>
+<other>The article contrasts vaccinating cattle with vaccinating humans, suggesting the former might be workable while the latter is premature.</other>
+<answer>Vaccinating cattle.</answer>
+<question_number>10</question_number>
+<answer>Finding the cattle version of the virus in blackbirds in Texas.</answer>

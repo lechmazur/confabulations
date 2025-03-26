@@ -1,0 +1,11 @@
+merged_ftc-pharmacy-benefit-managers-drug-prices.txt
+<other>Analyzing the questions based on the provided article.</other>
+<question_number>1</question_number>
+<other>The article states the FTC has sharply criticized PBMs and the industry fears a lawsuit, but it explicitly mentions the FTC "has so far stopped short of bringing a lawsuit". Therefore, the article does not state that the FTC decided to bring a lawsuit or the reason for such a decision.</other>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<other>The article identifies "CVS Health's Caremark" as a major PBM and mentions vertical integration occurred by the end of 2018 for the top three PBMs, but it does not specify the year CVS Health acquired Caremark.</other>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<other>The article mentions the FTC found PBMs paid their own pharmacies much more for two generic cancer drugs, resulting in nearly $1.6 billion in revenue for the PBM conglomerates. It also mentions Lina Khan stated PBMs can hike costs, "including overcharging patients for cancer drugs". However, it does not provide a specific FTC estimate for the total amount patients overpaid for generic drugs.</other>
+<answer>N/A</answer>

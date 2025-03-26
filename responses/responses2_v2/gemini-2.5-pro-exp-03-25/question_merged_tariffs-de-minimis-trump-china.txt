@@ -1,0 +1,58 @@
+merged_tariffs-de-minimis-trump-china.txt
+<other>Analyzing question 1: The article mentions Amazon started Haul in late 2024 to compete with Temu and Shein. It gives Shein and Temu's combined market share (17%) but not Haul's share.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 2: The article provides exempted export values for 2018 ($5.3 billion) and 2023 ($66 billion). It does not provide the value for 2017.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 3: The article states the USPS reversed its decision "some 12 hours later" after its initial announcement. It mentions a CRS report released "last week" but does not link the timing of the USPS reversal to the release of the CRS report.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 4: The article gives an example of a $15 dress increasing to $17, attributed to Izzy Rosenzweig (Portless CEO). The question asks for a proportional increase calculation for a $45 dress, attributed to Aaron Rubin (ShipHero CEO). The article does not provide this calculation or attribute such a prediction method to Aaron Rubin.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 5: Yannis Bakos mentions Amazon fulfilling from U.S. warehouses would benefit. The article does not name any specific Amazon warehouse.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 6: The article mentions the de minimis rule is Section 321 of the Tariff Act of 1930. It states the threshold was $200 before being raised in 2016. It does not state the value before the 1930 Act itself.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 7: The White House official cited the fentanyl trade and lost tariff revenue as reasons. No other specific health concern was mentioned.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 8: The article states the number of duty-free parcels rose tenfold since 2016. It gives dollar values for Chinese exports in 2018 and 2023, but not the number of parcels for any year, making it impossible to calculate the 2015 number.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 9: The article identifies Aaron Rubin's company, ShipHero, as a "warehouse management software firm".</other>
+<question_number>9</question_number>
+<answer>warehouse management software</answer>
+<other>Analyzing question 10: The article states Congress raised the threshold in 2016. It mentions Shein and Temu used the exemption to expand and currently hold about 17% market share according to a CRS report. It does not state the 2016 legislation directly led to this specific market share figure, nor the year they achieved it.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 11: The article states Amazon started Haul in late 2024. It provides no revenue figures for Haul, especially not for 2023, nor does it mention a CRS report linking Haul revenue to de minimis shipments.</other>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 12: The White House official linked the de minimis loophole generally to challenges in identifying fentanyl shipments due to the high volume of low-cost goods. The article does not state the official specifically accused Temu and Shein of facilitating illegal trade.</other>
+<question_number>12</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 13: The article says traditional retailers *explored* shifting toward direct shipping under pressure from competitors like Temu and Shein. It does not state the 2016 increase *caused* them to *abandon* bulk shipments.</other>
+<question_number>13</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 14: FedEx and UPS advocated for preserving de minimis. Separately, the article mentions research showing elimination would hurt minority households. It does not state that FedEx or UPS made this specific argument.</other>
+<question_number>14</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 15: Izzy Rosenzweig predicted a price increase for a $15 dress. The article does not mention any prediction from him regarding $50 electronics from Temu.</other>
+<question_number>15</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 16: The article states Canada and Mexico reached deals to *delay* tariffs by 30 days. The 10% tariffs mentioned as going into effect on Tuesday were specifically on *Chinese* goods. The article does not give the effective date for Canada and Mexico.</other>
+<question_number>16</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 17: The article states Amazon started Haul in late 2024. It does not attribute this specific fact (the launch year) to the Congressional Research Service's findings.</other>
+<question_number>17</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 18: The article mentions CBP's role in border enforcement and that eliminating de minimis could increase their burden. It does not state that CBP relinquished any primary responsibility.</other>
+<question_number>18</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 19: Aaron Rubin mentioned about a quarter of the biggest Shopify sellers use the loophole to ship from China. The article does not specify how many are based exclusively in Hong Kong.</other>
+<question_number>19</question_number>
+<answer>N/A</answer>

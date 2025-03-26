@@ -1,0 +1,30 @@
+merged_ai-data-restrictions.txt
+<question_number>1</question_number>
+<answer>They can't afford to license data directly from publishers.</answer>
+
+<question_number>2</question_number>
+<answer>It primarily impacts smaller start-ups or researchers, not the major tech companies.</answer>
+
+<question_number>3</question_number>
+<answer>Today's A.I. systems may not generate enough high-quality synthetic data to replace human-created data.</answer>
+
+<question_number>4</question_number>
+<answer>The web will start shutting its doors to them.</answer>
+
+<question_number>5</question_number>
+<answer>They rely on public data sets and can't afford to license data directly from publishers.</answer>
+
+<question_number>6</question_number>
+<answer>Major tech companies already have the data, so changing licenses doesn't affect them retroactively.</answer>
+
+<question_number>7</question_number>
+<answer>Later-arriving actors (smaller start-ups or researchers) are disproportionately affected by data restrictions.</answer>
+
+<question_number>8</question_number>
+<answer>A.I. companies may need to give more value to data owners in return for using their data.</answer>
+
+<question_number>9</question_number>
+<answer>50% (since 45% is restricted by terms of service and 5% by Robots Exclusion Protocol).</answer>
+
+<question_number>10</question_number>
+<answer>75% (since 25% of high-quality data is restricted).</answer>

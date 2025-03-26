@@ -1,0 +1,31 @@
+merged_stocks-bonds-investing-trump.txt
+<other>Answering question 1 based on the text: "U.S. equities have paid off handsomely, with annual returns for the S&P 500 of roughly 25 percent, including dividends, for each of the last two calendar years." and "All you really needed to do was hold a piece of the broad U.S. stock market in a cheap, diversified index fund."</other>
+<question_number>1</question_number>
+<answer>Roughly 25 percent</answer>
+<other>Answering question 2 based on the text: "The Semiconductor UltraSector ProFund rose 106 percent, mainly because of Nvidia. That stock accounted for more than half the assets of the fund... Marvelous as this strategy was last year, it would produce big losses should Nvidia falter."</other>
+<question_number>2</question_number>
+<answer>Nvidia</answer>
+<other>Answering question 3 based on the text: "The culprit was rising yields... The bond market's assessment of the economy -- and of the inflation risks posed by the incoming administration's policies -- is less sanguine than the Fed's. The market sees a strong possibility of sharply rising prices..."</other>
+<question_number>3</question_number>
+<answer>Sharply rising prices</answer>
+<other>Answering question 4 based on the text: "...I think it's important to go beyond U.S. stocks... Hold diversified, fixed-income investments, too, as well as a broad range of international equities." and "High-quality bonds... have historically been safer than stock and are often a balm when the stock market falls." The question asks for a single asset class emphasized for reducing volatility alongside U.S. stocks. While both fixed-income and international equities are mentioned, fixed-income (bonds) is specifically highlighted later for its safety and role as a balm.</other>
+<question_number>4</question_number>
+<answer>Diversified, fixed-income investments</answer>
+<other>Answering question 5 based on the text: "After a brief surge from Election Day through Nov. 11, stocks stalled, and for the last three months of the year, the average U.S. domestic stock fund rose less than 1 percent, according to Morningstar..."</other>
+<question_number>5</question_number>
+<answer>Less than 1 percent</answer>
+<other>Answering question 6 based on the text: "One was Palantir Technologies, a military contractor that uses A.I., which returned 340.5 percent."</other>
+<question_number>6</question_number>
+<answer>Palantir Technologies</answer>
+<other>Answering question 7 based on the text: "Most bond funds eked out modest gains for the year... municipal bonds 2.7 percent, according to Morningstar." The year under review is 2024.</other>
+<question_number>7</question_number>
+<answer>2.7 percent</answer>
+<other>Answering question 8 based on the text: "The president-elect says he wants to... eliminate wind-powered electric generation..."</other>
+<question_number>8</question_number>
+<answer>Wind-powered electric generation</answer>
+<other>Answering question 9 based on the text: "But the market rose too high, forming a bubble that burst in March 2000. Starting that year, for three consecutive years, stocks had catastrophic losses."</other>
+<question_number>9</question_number>
+<answer>The market bubble bursting in March 2000</answer>
+<other>Answering question 10 based on the text: "Then there was MicroStrategy, whose main business is buying and holding Bitcoin. MicroStrategy rose 359 percent in 2024..."</other>
+<question_number>10</question_number>
+<answer>359 percent</answer>

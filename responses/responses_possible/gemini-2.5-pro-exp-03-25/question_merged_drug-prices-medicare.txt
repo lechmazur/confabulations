@@ -1,0 +1,31 @@
+merged_drug-prices-medicare.txt
+<question_number>1</question_number>
+<answer>The $2,000 annual cap takes effect before the new negotiated prices.</answer>
+<other>The article states the $2,000 limit goes into effect "next year" (implying 2025) and the negotiated prices take effect in 2026.</other>
+<question_number>2</question_number>
+<answer>The Project 2025 playbook argues for the repeal of the drug price negotiation program, which would prevent the negotiation of an increased number of drugs.</answer>
+<other>The article mentions Biden's goal to negotiate 500 drugs and that Project 2025 calls for the program's repeal.</other>
+<question_number>3</question_number>
+<answer>Her tiebreaking vote enabled the legislation creating the program, and she has made efforts to "take on Big Pharma" a focus of her early presidential campaign and stated priorities.</answer>
+<other>The article links her vote to the program's existence and highlights her campaign focus on these reforms.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article states it is impossible to tell how much the new prices will save Medicare for each individual drug.</other>
+<question_number>5</question_number>
+<answer>$1716</answer>
+<other>Medicare's overall savings rate was 22%. Judy Aiken's pre-negotiation first refill cost was $2,200. $2,200 * (1 - 0.22) = $1716. This calculation uses the overall Medicare savings rate as requested by the question, not the specific Enbrel negotiated price effect mentioned elsewhere in the article.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article does not provide the pre-negotiation spending for each drug, making it impossible to determine the proportional distribution of the $6 billion savings.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article provides the maximum price paid by Medicare plans and the patient combined, but not the specific patient out-of-pocket cost per refill for each drug, which is needed to calculate how many refills reach the $2,000 cap.</other>
+<question_number>8</question_number>
+<answer>92.5%</answer>
+<other>The three most expensive drugs are Imbruvica ($9,319), Stelara ($4,695), and Enbrel ($2,355), totaling $16,369. The total price for all 10 drugs is $17,699. ($16,369 / $17,699) * 100% ≈ 92.485%, rounded to one decimal place.</other>
+<question_number>9</question_number>
+<answer>$19</answer>
+<other>Jardiance ($197) treats diabetes, heart failure, and chronic kidney disease. Farxiga ($178) treats the same three conditions. The difference is $197 - $178 = $19.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article mentions "drugmakers" have filed lawsuits and specifically notes Bristol Myers Squibb (Eliquis) criticized the price, but it does not explicitly state which specific companies filed the lawsuits mentioned. Therefore, the total negotiated price for drugs produced by companies involved in legal challenges cannot be determined solely from the text.</other>

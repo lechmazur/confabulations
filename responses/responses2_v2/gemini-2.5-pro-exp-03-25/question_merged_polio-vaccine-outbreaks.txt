@@ -1,0 +1,32 @@
+merged_polio-vaccine-outbreaks.txt
+<other>Analyzing the article for answers to each question based *only* on the provided text.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article mentions polio virus was detected in wastewater in five European countries in 2024, but does not specify which had the highest number, nor does it explicitly state these were vaccine-derived cases found in wastewater, although it later mentions vaccine-derived Type 2 was found in wastewater in Britain.</other>
+<question_number>2</question_number>
+<answer>0</answer>
+<other>The article states, "The contamination was real, but research never bore out a link to cancer." Therefore, zero deaths were definitively linked.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article mentions Dr. Kowalske treats about 100 post-polio patients and that post-polio syndrome can include respiratory problems, but it does not state how many of her patients required ventilator support.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article mentions a case in Rockland County in 2022 and that the virus was later detected in sewage after circulating for months, but it does not specify the month it was first detected in wastewater samples.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article describes Carol Paulk's condition but does not mention any experimental treatment regimen or any percentage of mobility restoration.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article mentions the oral vaccine is given as two drops but does not specify the number of doses required for full immunity in Nigerian programs.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article states there were five cases in Afghanistan and Pakistan in 2021 but does not provide information on the mortality rate among those cases.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article mentions contaminated early polio vaccine batches but does not name the manufacturer.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article mentions Dr. Kowalske treats middle-aged immigrants suffering from post-polio syndrome but does not state the average age of onset for this group.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article states genetically related vaccine-derived Type 2 polioviruses were detected in Canadian wastewater samples but does not specify the number of confirmed cases.</other>

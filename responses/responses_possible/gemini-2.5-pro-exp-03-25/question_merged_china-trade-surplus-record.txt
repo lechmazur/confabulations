@@ -1,0 +1,22 @@
+merged_china-trade-surplus-record.txt
+<question_number>1</question_number>
+<answer>The emphasis on industrial expansion, including building more factories, is intended to offset China's housing crisis.</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>Building more automated factories supports China's export strategy, which foreign governments worry will displace their own industrial output and hurt economic growth, thus exacerbating trade imbalances.</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>The increase reflects a shift in lending, as loans to industries have almost exactly replaced the loans that previously went to the real estate sector, indicating a response to offset the housing crisis.</answer>
+<question_number>6</question_number>
+<answer>China's export blitz is presented as the driver of global concerns about one-sided trade and excessive dependence on Chinese supply.</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>China's trade surplus is a result of its export-driven strategy, which raises global concerns about excessive dependence on Chinese supply.</answer>
+<question_number>10</question_number>
+<other>The article states China's exports to Kenya are more than 40 times its imports from Kenya. Imports from Kenya are Kenya's exports to China. If China's exports (E) > 40 * China's imports (I), then I < E/40. Since 1/40 = 0.025 or 2.5%, Kenya's exports to China are less than 2.5% of China's exports to Kenya.</other>
+<answer>Kenya</answer>

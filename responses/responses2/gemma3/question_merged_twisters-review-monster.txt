@@ -1,2 +1,10 @@
 merged_twisters-review-monster.txt
-Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+<question_number>1</question_number>
+<answer>Things have been getting worse</answer>
+<other>The article states that things have been getting worse, and mentions climate change as a factor, but doesn't explicitly explain how the film addresses this.</other>
+<question_number>2</question_number>
+<answer>one</answer>
+<other>The article states Jeff Swearingen was switched out with one stunt performer.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article states "Minari" garnered six Oscar nominations, but does not state how many it won.</other>

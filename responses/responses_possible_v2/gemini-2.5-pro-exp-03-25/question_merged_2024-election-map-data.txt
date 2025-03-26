@@ -1,0 +1,31 @@
+merged_2024-election-map-data.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article rejects *data* from certain places due to incompleteness (missing early/mail votes), not a specific *type of data presentation*.</other>
+<question_number>2</question_number>
+<answer>73 percent</answer>
+<other>The article states the map "currently includes results for more than 110,000 precincts, or 73 percent of all votes".</other>
+<question_number>3</question_number>
+<answer>early or mail-in absentee ballots</answer>
+<other>The article states many places exclude this data from precinct releases, and since a majority vote this way, excluding it would misrepresent turnout.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article states the complexity of "putting the data into precinct boundaries" stems from mismatched names/codes in results and boundary files, not from any relationship between shading intensity and population density.</other>
+<question_number>5</question_number>
+<answer>putting the data into precinct boundaries</answer>
+<other>The article identifies this as "half the battle" and explicitly states its difficulty arose because precinct names/codes often did not align, a problem bypassed if only perfectly aligned data were used.</other>
+<question_number>6</question_number>
+<answer>it does not account for population</answer>
+<other>Adding primarily large, sparsely populated areas would visually emphasize them despite low voter numbers, exacerbating the choropleth's drawback of not reflecting population density.</other>
+<question_number>7</question_number>
+<answer>submissions to help add missing data</answer>
+<other>If a state provides complete data, the need for external submissions to fill gaps caused by previously incomplete data (like missing early/mail votes) becomes less crucial for that state.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The limitation related to excluding incomplete data stems from the data source quality, not the visualization method. Changing the visualization method doesn't make incomplete data usable or the exclusion irrelevant.</other>
+<question_number>9</question_number>
+<answer>local knowledge and insights</answer>
+<other>The article mentions welcoming submissions, including "local knowledge and insights," which would be crucial for understanding discrepancies in boundary shapes despite matching vote totals, possibly due to boundary changes or file issues specific to that locality.</other>
+<question_number>10</question_number>
+<answer>Each of these entities has its own way of releasing such data</answer>
+<other>The fundamental challenge that states and counties release data in varied, non-standardized formats (PDFs, tables, etc.) is independent of the specific candidates or the comparison year used for analysis.</other>

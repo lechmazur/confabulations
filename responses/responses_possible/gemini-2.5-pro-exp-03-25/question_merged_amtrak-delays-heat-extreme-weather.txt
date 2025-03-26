@@ -1,0 +1,31 @@
+merged_amtrak-delays-heat-extreme-weather.txt
+<question_number>1</question_number>
+<answer>Fiscal year 2023</answer>
+<other>The article states that in fiscal year 2023, heat delays accounted for nearly 1,200 hours out of over 4,010 total weather-related delay hours (~30%). The charts also visually show the proportion of high temperature delays relative to total weather delays peaking in '23.</other>
+<question_number>2</question_number>
+<answer>Approximately 1,870 hours</answer>
+<other>Heat delays increased from 530 hours in FY2018 to nearly 1,200 hours in FY2023 (a 5-year period). Assuming "nearly 1,200" is 1,200, the increase is 670 hours over 5 years, or 134 hours/year. Extrapolating this linear rate for another 5 years (to FY2028) adds another 670 hours to the FY2023 total: 1200 + 670 = 1870 hours.</other>
+<question_number>3</question_number>
+<answer>More than 750,000 passengers daily</answer>
+<other>The article states, "About 2,200 trains carry more than 750,000 passengers daily along the route [Northeast Corridor], which is the busiest in the United States."</other>
+<question_number>4</question_number>
+<answer>Nearly 670 hours</answer>
+<other>FY2023 heat delays were "nearly 1,200 hours". FY2018 heat delays were 530 hours. The difference is approximately 1200 - 530 = 670 hours.</other>
+<question_number>5</question_number>
+<answer>Nearly 60 percent</answer>
+<other>The article states, "Last year [FY2023], heat was responsible for nearly 60 percent of delays attributable to a specific weather-related cause" in the Northeast Corridor.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article mentions federal grants "could provide a few billion dollars" but does not specify an annual rate or timeframe, making it impossible to calculate how long it would take to reach $117 billion (or the remaining amount after the $30 billion from the infrastructure law).</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article does not provide the length of the Northeast Corridor, the typical travel time at top Acela speed, or state whether the 100 mph or 80 mph restriction would apply uniformly, making the calculation impossible based on the text.</other>
+<question_number>8</question_number>
+<answer>More than 7.5 times</answer>
+<other>Total weather delays in FY2023 were "more than 4,010 hours". Heat delays in FY2018 were 530 hours. The ratio is >4010 / 530, which is approximately >7.57.</other>
+<question_number>9</question_number>
+<answer>Fiscal year 2033</answer>
+<other>NEC heat delays were 83 hours in FY2018 and "more than 230 hours" in FY2023. Using 230 hours for FY2023, the increase over 5 years is 147 hours, an average linear rate of 29.4 hours/year. Starting from 230 hours in FY2023, it would take approximately 9.18 years (270 / 29.4) to reach an additional 270 hours needed to surpass 500 hours. This points to sometime during fiscal year 2033 (FY2023 + 10 years).</other>
+<question_number>10</question_number>
+<answer>The overhead power lines use a technology from the 1930s, causing them to sag under intense summer heat.</answer>
+<other>The article explicitly states this as the reason: "Amtrak's overhead power lines use a technology from the 1930s, and they sag under intense summer heat and interrupt electric transmission..."</other>

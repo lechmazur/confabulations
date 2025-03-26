@@ -1,0 +1,29 @@
+merged_electric-cars-ev-battery-value.txt
+<question_number>1</question_number>
+<answer>An increase in the number of available electric vehicle models has led to intense competition, driving down resale values for some models.</answer>
+<question_number>2</question_number>
+<answer>A chemical reaction involving emissions from cars and buildings that can negate the environmental benefits of trees.</answer>
+<other>The article mentions this in a blurb summarizing other research, linking car emissions and urban environments to negating tree benefits.</other>
+<question_number>3</question_number>
+<answer>Less than 1 percent.</answer>
+<other>The article states this likelihood applies to EVs built in 2016 or later, which includes 2023 models, within the typical 8-year warranty period.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article only mentions the warranty threshold of losing more than 30% capacity within 8 years/100,000 miles triggers replacement, not a specific maximum acceptable loss for a 4-year-old vehicle within normal parameters.</other>
+<question_number>5</question_number>
+<answer>The environmental impact of the battery recycling process itself or the disposal of non-recyclable battery components.</answer>
+<other>The article mentions batteries contain valuable metals that can be recycled but doesn't detail the impacts of the recycling process or disposal of remaining materials.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article provides data only for vehicles built in 2016 or later, not for those built in 2015.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article suggests the total cost of ownership might become lower for EVs due to fuel and maintenance savings recouping the higher sticker price, but does not specify a time or mileage point when this typically occurs.</other>
+<question_number>8</question_number>
+<answer>210 miles.</answer>
+<other>The warranty covers replacement if capacity loss exceeds 30% within 8 years. Therefore, minimum acceptable capacity is 70%. 70% of the original 300 miles is 210 miles.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article provides annual cost savings estimates but does not give the specific price difference between the electric and gasoline F-150 models or the annual mileage assumed for the EPA cost estimates, making a break-even calculation in miles impossible based solely on the text.</other>
+<question_number>10</question_number>
+<answer>Factor: Steep price cuts on new models by manufacturers like Tesla. Comparison: This contributed to higher average depreciation for electric vehicles (49% over five years) compared to all vehicles (39% over five years).</answer>

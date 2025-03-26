@@ -1,0 +1,21 @@
+merged_ai-chatbots-chatgpt-math.txt
+<question_number>1</question_number>
+<answer>They were never designed to do math; they are fine-tuned for determining probabilities, not doing rules-based calculations.</answer>
+<question_number>2</question_number>
+<answer>They excel when trained on vast relevant math data like textbooks and tests, achieving high scores on standardized tests, yet they still struggle with basic or multi-step math problems because their probabilistic nature makes them unreliable for precise calculations unless they have seen very similar questions.</answer>
+<question_number>3</question_number>
+<answer>Traditional computing follows step-by-step rules for accurate calculations, while AI chatbots learn from data and predict likely answers, leading educational tools like Khanmigo to use separate calculator programs for math problems instead of relying on the chatbot's probabilistic approach.</answer>
+<question_number>4</question_number>
+<answer>Computing's past was defined by rule-based, accurate calculation ("math on steroids"), whereas the new AI, based on neural networks learning from data, excels at language and probability but struggles with mathematical accuracy, representing a break from this traditional understanding.</answer>
+<question_number>5</question_number>
+<answer>Modern AI chatbots, a form of advanced computing, often struggle with mathematical accuracy, contrasting sharply with the traditional view of computers as inherently fast, accurate calculating machines defined as "math on steroids."</answer>
+<question_number>6</question_number>
+<answer>Teachers use the chatbots' occasional math errors to prompt student discussion, comparing solutions and fostering critical thinking about the accuracy of information sources.</answer>
+<question_number>7</question_number>
+<answer>The perceived strength has shifted from rule-based processing and calculation towards language fluency and pattern recognition based on probabilistic learning, where current AI excels despite weaknesses in precise calculation.</answer>
+<question_number>8</question_number>
+<answer>The chatbots' mathematical shortcomings provide evidence for skeptics who argue that large language models alone lack fundamental logic and reasoning, suggesting that simply scaling them up may not lead to AGI and that broader approaches are necessary.</answer>
+<question_number>9</question_number>
+<answer>The article describes the AI as being "more liberal arts major than numbers whiz," excelling at language tasks while struggling with math, blurring the traditional lines where computing was primarily associated with numerical prowess.</answer>
+<question_number>10</question_number>
+<answer>David Ferrucci finds current AI impressive for language but lacking the "painful precision" required for critical applications, necessitating the use of more reliable rules-based software alongside large language models for things that really matter.</answer>

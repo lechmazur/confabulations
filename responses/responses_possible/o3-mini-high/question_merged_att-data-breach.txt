@@ -1,0 +1,21 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>Use of the third-party cloud (Snowflake) introduces shared infrastructure challenges that make securing data more difficult.</answer>
+<question_number>3</question_number>
+<answer>It underscores the national security risk and the need for robust data security when serving federal agencies.</answer>
+<question_number>4</question_number>
+<answer>By linking phone numbers to names using data brokers, the records can be used to map communication networks of national security personnel.</answer>
+<question_number>5</question_number>
+<answer>There is a risk that exposed call and text metadata could compromise federal communication networks, impacting national security.</answer>
+<question_number>6</question_number>
+<answer>The call and text metadata, although lacking content, can be cross-referenced to reveal networks of communication among sensitive individuals.</answer>
+<question_number>7</question_number>
+<answer>The compromised metadata can be exploited for intelligence gathering, making it advantageous for foreign nation states.</answer>
+<question_number>8</question_number>
+<answer>The exposed call records can be analyzed to reveal the communication patterns of government officials.</answer>
+<question_number>9</question_number>
+<answer>Outsourcing to cloud networks creates shared environments with increased access points, thereby raising the risk of data breaches.</answer>
+<question_number>10</question_number>
+<answer>The professor’s explanation highlights that shared cloud infrastructure, as seen with Snowflake, inherently increases security challenges.</answer>

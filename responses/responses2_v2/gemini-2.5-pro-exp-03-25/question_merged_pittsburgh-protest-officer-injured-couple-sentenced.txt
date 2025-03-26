@@ -1,0 +1,61 @@
+merged_pittsburgh-protest-officer-injured-couple-sentenced.txt
+<other>Analyzing question 1: The article states "the couple were also ordered to pay $1,400 in restitution to the university". It does not specify the amount Brian DiPippa alone was ordered to pay towards this $1,400.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 2: The article mentions Brad Polumbo, a libertarian journalist, participated in the debate but does not state he organized or hosted it.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 3: The article mentions one campus police sergeant required back surgery. It mentions "injuries to several officers" but only details the sergeant's injuries including the back surgery. It doesn't state if more than one officer needed this specific surgery.</other>
+<question_number>3</question_number>
+<answer>1</answer>
+<other>Analyzing question 4: The article states Brian DiPippa dropped the smoke bombs. It does not state Krystal DiPippa placed them. It also doesn't name the specific building, only referring to "a building for a scheduled event".</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 5: The article quotes Michael J. DeRiso saying his client made a "piss-poor decision" and had "no desire to hurt or maim". It does not mention him citing political motivations in the statement provided.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 6: The article describes the sergeant trying to bat away a device but does not mention the time of day this occurred.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 7: The article focuses on the DiPippas and does not mention any other protesters being arrested.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 8: The article details Brian DiPippa's prison sentence and restitution but does not mention a mandatory psychological evaluation.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 9: The article mentions the Justice Department and U.S. attorney's involvement, and university police, but not which specific university department conducted an internal investigation leading to the identification.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 10: The article mentions a "loud explosion" but provides no specific decibel level measurement.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 11: Krystal DiPippa did not use an explosive; she concealed her husband while he threw one ("large explosive firework"). The university spokesperson stated the university would not tolerate "threats or acts of violence". The question's premise is flawed as Krystal didn't use an explosive.</other>
+<question_number>11</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 12: Aimee Ortiz is the author of the article. The text does not state she was present at the event or took any action similar to the police sergeant.</other>
+<question_number>12</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 13: The article identifies Brad Polumbo as a libertarian journalist but does not state he represented any publication, right-leaning or otherwise, at the event.</other>
+<question_number>13</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 14: Brian DiPippa threw the explosive at the police officers. He was sentenced to five years in prison.</other>
+<question_number>14</question_number>
+<answer>Five years</answer>
+<other>Analyzing question 15: The article mentions the University of California regarding admissions policies, not a similar protest case with restitution.</other>
+<question_number>15</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 16: Both pleaded guilty to obstruction. Brian DiPippa *also* pleaded guilty to conspiracy. Krystal did not plead guilty to conspiracy. Therefore, there is no *additional* charge that *both* pleaded guilty to besides obstruction. The reference to Houston is irrelevant context from unrelated news snippets.</other>
+<question_number>16</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 17: Aimee Ortiz is the author. The article mentions her reporting on various topics. The section on UC admissions discusses lawsuits over admissions policies, not physical injuries similar to the sergeant's.</other>
+<question_number>17</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 18: The article names Michael Ovens as Krystal DiPippa's lawyer. It does not connect him to the Houston superintendent mentioned in a separate news brief.</other>
+<question_number>18</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 19: The article mentions Trump's executive order on antisemitism but does not link it to a specific incident similar to the Pittsburgh one occurring in another city.</other>
+<question_number>19</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 20: The event was a "transgender-rights debate". The comparison to Trump's diversity efforts is irrelevant context from unrelated news snippets.</other>
+<question_number>20</question_number>
+<answer>Transgender rights</answer>

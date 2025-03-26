@@ -1,0 +1,30 @@
+merged_ai-weather-forecast-hurricane.txt
+<question_number>1</question_number>
+<answer>A.I. learns from historical data to predict weather patterns, while traditional methods rely on current observations and complex calculations; A.I. processes forecasts in minutes/seconds versus hours.</answer>
+
+<question_number>2</question_number>
+<answer>GraphCast was trained on four decades of global weather data, enabling it to identify patterns that suggested Texas landfall.</answer>
+
+<question_number>3</question_number>
+<answer>Paul G. Allen founded the Allen Institute for A.I., whose team leader noted the European center's interest in GraphCast could push global adoption.</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>Both could be weaponized to spread misinformation or manipulate public response to weather events.</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>By recognizing recurring patterns in historical atmospheric behavior despite chaos.</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>Both face challenges of integrating disparate inputs, risking skewed outputs if not carefully managed.</answer>

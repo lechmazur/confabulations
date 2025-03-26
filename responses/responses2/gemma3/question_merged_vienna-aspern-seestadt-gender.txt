@@ -1,2 +1,4 @@
 merged_vienna-aspern-seestadt-gender.txt
-Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+<question_number>1</question_number>
+<answer>Conveniences within walking distance</answer>
+<other>The article states that having everything within walking distance allows her to maintain a full-time job without sacrificing family life, and that the thought of losing these conveniences stops them from moving.</other>

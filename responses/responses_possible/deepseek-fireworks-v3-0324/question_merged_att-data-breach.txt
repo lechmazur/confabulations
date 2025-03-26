@@ -1,0 +1,30 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>Moving IT infrastructure to a shared cloud environment increases potential attack vectors.</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>Phone numbers can be traced back to individuals through data broker records.</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>Phone numbers can reveal communication networks when linked to individuals.</answer>
+
+<question_number>7</question_number>
+<answer>Foreign actors could trace phone numbers to identify communication networks of national security personnel.</answer>
+
+<question_number>8</question_number>
+<answer>Phone records can expose communication networks when linked to government officials.</answer>
+
+<question_number>9</question_number>
+<answer>Cloud infrastructure is shared, increasing exposure to potential breaches.</answer>
+
+<question_number>10</question_number>
+<answer>Snowflake is a third-party cloud platform, illustrating the risks of shared IT infrastructure.</answer>

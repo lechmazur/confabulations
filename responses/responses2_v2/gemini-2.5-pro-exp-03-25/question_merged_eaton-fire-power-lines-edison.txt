@@ -1,0 +1,44 @@
+merged_eaton-fire-power-lines-edison.txt
+<other>Processing the article to answer each question based only on the provided text.</other>
+<question_number>1</question_number>
+<answer>Three seconds</answer>
+<other>The article states: "The flashes occurred in short succession -- one at 6:10 p.m. and then another three seconds later". It also links this timing to the Whisker Labs data.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions the Hurst fire burned about 800 acres but does not state how many homes or businesses were destroyed.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article states 19 employees lost homes in "the fire", which contextually refers to the Eaton fire, not specifically the Hurst fire.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article states that on Jan 19, technicians observed "small white flashes" during power restoration testing, indicating abnormal function. It separately mentions finding "signs of damage from arcing... on some inactive equipment" later in the investigation, but doesn't state this specific damage was discovered *during* the Jan 19 testing, nor does it explicitly link the Jan 19 flashes to pre-existing arcing damage found on that day.</other>
+<question_number>5</question_number>
+<answer>Jan. 19</answer>
+<other>The article explicitly states: "On Jan. 19... technicians for Southern California Edison began testing electrical equipment... They soon noticed small white flashes appearing on high-voltage transmission lines when power was being restored".</other>
+<question_number>6</question_number>
+<answer>Southern California Edison</answer>
+<other>The article identifies Southern California Edison (Edison) as the utility investigating its equipment's potential role in the Eaton fire and notes a separate filing where Edison said its equipment might also be associated with the Hurst fire. It also calls Edison "the state's second-largest investor-owned utility".</other>
+<question_number>7</question_number>
+<answer>Whisker Labs</answer>
+<other>The article states: "...data released by Whisker Labs, a Maryland technology company... identified two huge transmission faults...".</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article mentions finding "signs of damage from arcing... on some inactive equipment" but does not specify the location where this damaged inactive equipment was found.</other>
+<question_number>9</question_number>
+<answer>100-mile-an-hour</answer>
+<other>The article states: "...its system was under strain from 100-mile-an-hour winds that night...".</other>
+<question_number>10</question_number>
+<answer>The New York Times</answer>
+<other>The article states: "The utility later expanded its internal investigation after The New York Times published a video...".</other>
+<question_number>11</question_number>
+<answer>Cut power to three distribution circuits</answer>
+<other>The article states: "As a preventive measure on the afternoon of Jan. 7, Edison cut power to some of its customers in the area. But the cutoff included only three distribution circuits that connected Kinneloa Mesa...".</other>
+<question_number>12</question_number>
+<answer>$10 billion</answer>
+<other>The article states: "Verisk, an analytics company, has estimated financial losses from the Eaton fire at as much as $10 billion." The question asks for the maximum estimated loss.</other>
+<question_number>13</question_number>
+<answer>Pedro J. Pizarro</answer>
+<other>The article quotes Pedro J. Pizarro saying, "We understand the community wants answers..." and adds, "He added that 19 of the company's employees had also lost their homes in the fire."</other>
+<question_number>14</question_number>
+<answer>January</answer>
+<other>The article mentions the Eaton fire broke out on Jan. 7, testing occurred on Jan. 19, and the stock value loss was measured since Jan. 7. All key dates provided fall within January.</other>
