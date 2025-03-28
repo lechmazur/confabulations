@@ -1,0 +1,21 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>AT&T's breach during May 2022 to October 2022 could have affected phone records related to its federal contracts with agencies like the State Department, Department of Homeland Security, and Department of Defense.</answer>
+<question_number>2</question_number>
+<answer>Using a third-party cloud platform like Snowflake introduces shared infrastructure, increasing potential attack vectors and complicating security.</answer>
+<question_number>3</question_number>
+<answer>It highlights the risk of exposing sensitive government communication data, emphasizing the need for robust data protection.</answer>
+<question_number>4</question_number>
+<answer>Phone numbers can be traced back to individuals, revealing communication patterns of those in national security roles.</answer>
+<question_number>5</question_number>
+<answer>Federal agencies' communication logs may have been exposed, posing national security risks due to AT&T's government contracts.</answer>
+<question_number>6</question_number>
+<answer>The data shows which numbers interacted, which can reveal communication networks of individuals in sensitive positions.</answer>
+<question_number>7</question_number>
+<answer>Foreign nation states could use the data to trace individuals and expose communication networks for intelligence purposes.</answer>
+<question_number>8</question_number>
+<answer>Interaction records between phone numbers can reveal patterns that expose sensitive communication networks of officials.</answer>
+<question_number>9</question_number>
+<answer>Cloud infrastructure is shared among users, increasing the number of potential attack vectors and exposure to breaches.</answer>
+<question_number>10</question_number>
+<answer>Snowflake, the platform involved, exemplifies shared cloud infrastructure that increases complexity and vulnerability to attacks.</answer>

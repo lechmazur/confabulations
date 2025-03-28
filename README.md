@@ -38,22 +38,23 @@ Combining confabulation and non-response rates enables a comprehensive ranking. 
 |20|Claude 3.7 Sonnet|25.2|14.3|19.76|
 |21|Claude 3.5 Sonnet 2024-10-22|12.9|27.0|19.94|
 |22|Grok 2 12-12|25.7|14.5|20.14|
-|23|Mistral Large 2|32.2|10.6|21.40|
-|24|Qwen 2.5 Max|31.2|12.4|21.78|
-|25|Claude 3 Opus|28.2|17.2|22.70|
-|26|Llama 3.3 70B|17.8|27.8|22.81|
-|27|MiniMax-Text-01|44.6|3.3|23.92|
-|28|Mistral Small 3|38.6|11.8|25.21|
-|29|DeepSeek V3-0324|39.1|13.2|26.15|
-|30|Gemini 2.0 Flash|24.3|29.4|26.85|
-|31|Gemma 2 27B|47.3|7.2|27.24|
-|32|GPT-4 Turbo|26.7|30.1|28.42|
-|33|Microsoft Phi-4|52.5|6.5|29.49|
-|34|Amazon Nova Pro|54.5|5.6|30.05|
-|35|Claude 3 Haiku|56.9|11.5|34.21|
-|36|Claude 3.5 Haiku|65.8|7.6|36.74|
-|37|GPT-4o mini|60.9|13.5|37.21|
-|38|Gemma 3 27B|66.3|14.2|40.26|
+|23|GPT-4o Mar 2025|38.1|3.5|20.81|
+|24|Mistral Large 2|32.2|10.6|21.40|
+|25|Qwen 2.5 Max|31.2|12.4|21.78|
+|26|Claude 3 Opus|28.2|17.2|22.70|
+|27|Llama 3.3 70B|17.8|27.8|22.81|
+|28|MiniMax-Text-01|44.6|3.3|23.92|
+|29|Mistral Small 3|38.6|11.8|25.21|
+|30|DeepSeek V3-0324|39.1|13.2|26.15|
+|31|Gemini 2.0 Flash|24.3|29.4|26.85|
+|32|Gemma 2 27B|47.3|7.2|27.24|
+|33|GPT-4 Turbo|26.7|30.1|28.42|
+|34|Microsoft Phi-4|52.5|6.5|29.49|
+|35|Amazon Nova Pro|54.5|5.6|30.05|
+|36|Claude 3 Haiku|56.9|11.5|34.21|
+|37|Claude 3.5 Haiku|65.8|7.6|36.74|
+|38|GPT-4o mini|60.9|13.5|37.21|
+|39|Gemma 3 27B|66.3|14.2|40.26|
 
 ---
 ## Confabulation and Non-Response Rates
@@ -104,6 +105,7 @@ Accuracy benchmarks can also be considered for a more comprehensive assessment. 
 
 ---
 ## Updates 
+- March 27, 2025: GPT-4o March 2025 added.
 - March 26, 2025: Gemini 2.5 Pro Exp 03-25, DeepSeek V3-0324, o3-mini-high added.
 - March 13, 2025: Gemma 3 27B added.
 - March 7, 2025: Qwen QwQ-32B added.
