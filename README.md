@@ -41,20 +41,21 @@ Combining confabulation and non-response rates enables a comprehensive ranking. 
 |23|GPT-4o Mar 2025|38.1|3.5|20.81|
 |24|Mistral Large 2|32.2|10.6|21.40|
 |25|Qwen 2.5 Max|31.2|12.4|21.78|
-|26|Claude 3 Opus|28.2|17.2|22.70|
-|27|Llama 3.3 70B|17.8|27.8|22.81|
-|28|MiniMax-Text-01|44.6|3.3|23.92|
-|29|Mistral Small 3|38.6|11.8|25.21|
-|30|DeepSeek V3-0324|39.1|13.2|26.15|
-|31|Gemini 2.0 Flash|24.3|29.4|26.85|
-|32|Gemma 2 27B|47.3|7.2|27.24|
-|33|GPT-4 Turbo|26.7|30.1|28.42|
-|34|Microsoft Phi-4|52.5|6.5|29.49|
-|35|Amazon Nova Pro|54.5|5.6|30.05|
-|36|Claude 3 Haiku|56.9|11.5|34.21|
-|37|Claude 3.5 Haiku|65.8|7.6|36.74|
-|38|GPT-4o mini|60.9|13.5|37.21|
-|39|Gemma 3 27B|66.3|14.2|40.26|
+|26|Llama 4 Maverick|28.2|16.9|22.58|
+|27|Claude 3 Opus|28.2|17.2|22.70|
+|28|Llama 3.3 70B|17.8|27.8|22.81|
+|29|MiniMax-Text-01|44.6|3.3|23.92|
+|30|Mistral Small 3|38.6|11.8|25.21|
+|31|DeepSeek V3-0324|39.1|13.2|26.15|
+|32|Gemini 2.0 Flash|24.3|29.4|26.85|
+|33|Gemma 2 27B|47.3|7.2|27.24|
+|34|GPT-4 Turbo|26.7|30.1|28.42|
+|35|Microsoft Phi-4|52.5|6.5|29.49|
+|36|Amazon Nova Pro|54.5|5.6|30.05|
+|37|Claude 3 Haiku|56.9|11.5|34.21|
+|38|Claude 3.5 Haiku|65.8|7.6|36.74|
+|39|GPT-4o mini|60.9|13.5|37.21|
+|40|Gemma 3 27B|66.3|14.2|40.26|
 
 ---
 ## Confabulation and Non-Response Rates
@@ -105,6 +106,7 @@ Accuracy benchmarks can also be considered for a more comprehensive assessment. 
 
 ---
 ## Updates 
+- April 7, 2025: Llama 4 Maverick added.
 - March 27, 2025: GPT-4o March 2025 added.
 - March 26, 2025: Gemini 2.5 Pro Exp 03-25, DeepSeek V3-0324, o3-mini-high added.
 - March 13, 2025: Gemma 3 27B added.

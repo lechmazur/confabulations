@@ -1,0 +1,80 @@
+merged_cancer-causes-risk-factors-treatments.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article does not directly state the percentage of cancers attributed to cigarette smoking, sun exposure, alcohol use, and excess body weight combined that directly damage DNA. It mentions that 40% of cancers can be attributed to risk factors that people can address, but it does not specify that these factors directly damage DNA.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions that certain cancers used to be "death sentences" but are now manageable like diabetes, and Dr. Davendra Sohal is quoted in this context. However, it specifically states that CAR T-cell therapy has been most effective at treating blood cancers, not the type of cancer Dr. Sohal mentioned.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article discusses air pollution, specifically fine particulate matter (PM 2.5), as disproportionately affecting Black people in the United States, leading to higher rates of lung cancer. However, it does not specifically link PM 2.5 to higher rates of pancreatic cancer.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article mentions Dr. Kevin Cheung's research showing that dead and dying cells within a tumor might create an environment that makes it easier for living tumor cells to get out and spread. However, it does not detail the primary mechanism by which this occurs.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article mentions that Dr. Demetri discussed the shift from guesswork to targeted therapies, including chemotherapy, which delivers toxins to kill both healthy and cancerous cells. However, it does not specify that chemotherapy targets microbiome imbalance caused by unhealthy diets.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article mentions that getting vaccinated for HPV can reduce the risk of certain cancers. Dr. Marcel van den Brink is quoted discussing the hope for curing cancers with newer treatments like stem cell transplants and CAR T-cell therapy, but it does not specify that HPV vaccination is directly related to cancers treatable with stem cell transplants.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article states that fine particulate matter (PM 2.5) has been shown to increase the risk for lung and breast cancers, according to Dr. Loretta Erhunmwunsee. It does not specifically mention colon cancer in this context.</other>
+
+<question_number>8</question_number>
+<answer>immune cells</answer>
+<other>The article mentions that some research has suggested that immune cells might transfer their contents to tumor cells to make them more invasive.</other>
+
+<question_number>9</question_number>
+<answer>T cells</answer>
+<other>The article discusses engineered T cells, specifically CAR T-cell therapy, as being used to treat blood cancers by taking the brakes off the immune system's fighters.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>Robert Weinberg is quoted explaining that exposures affecting cancer risk likely do so by provoking inflammation, not by directly damaging DNA.</other>
+
+<question_number>11</question_number>
+<answer>PM 2.5</answer>
+<other>The article mentions that fine particulate matter (PM 2.5) has been linked to both lung and breast cancers through its role in inducing inflammation.</other>
+
+<question_number>12</question_number>
+<answer>epigenetic changes</answer>
+<other>The article highlights epigenetic changes, affected by factors such as aging, diet, and environmental exposures, as a major driver of tumor growth.</other>
+
+<question_number>13</question_number>
+<answer>unhealthy diet</answer>
+<other>The article describes an unhealthy diet as upsetting the gut microbiome and triggering chronic inflammation that may lead to colon or pancreatic cancer.</other>
+
+<question_number>14</question_number>
+<answer>Black people</answer>
+<other>The article states that Black people in the United States are exposed to disproportionately high levels of air pollution and have higher rates of lung cancer.</other>
+
+<question_number>15</question_number>
+<answer>N/A</answer>
+<other>The article discusses air pollution (PM 2.5) as inducing inflammation that can awaken dormant mutant cells, but it does not imply that it is mistakenly thought to directly damage DNA.</other>
+
+<question_number>16</question_number>
+<answer>creation of a favorable microenvironment</answer>
+<other>The article mentions Dr. Kevin Cheung's research suggesting that dead and dying cells within a tumor might create an environment that makes it easier for living tumor cells to spread.</other>
+
+<question_number>17</question_number>
+<answer>30</answer>
+<other>The article states that women can start collecting their own vaginal samples for HPV testing at age 30.</other>
+
+<question_number>18</question_number>
+<answer>CAR T-cell therapy</answer>
+<other>The article identifies CAR T-cell therapy as an immunotherapy involving the engineering of T cells, especially effective for treating blood cancers.</other>
+
+<question_number>19</question_number>
+<answer>cigarette smoking</answer>
+<other>The article mentions that cigarette smoking is the biggest modifiable risk factor contributing to cancer cases and deaths.</other>
+
+<question_number>20</question_number>
+<answer>immune cells</answer>
+<other>The article describes tumors as complex tissues made up of cancer cells and normal cells, including immune cells that are recruited to support tumor growth.</other>

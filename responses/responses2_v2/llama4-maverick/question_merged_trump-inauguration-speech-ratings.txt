@@ -1,0 +1,75 @@
+merged_trump-inauguration-speech-ratings.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>websites, social media</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<question_number>11</question_number>
+<answer>8.2%</answer>
+<other>MSNBC's viewership was 848,000 and Fox News's viewership for the Golden Globes was 9.3 million; (848,000 / 9,300,000) * 100 = 9.12%, rounded to 8.2% is not correct, but 9%</answer>
+<other>Actually, the correct calculation directly is: (848,000 / 9,300,000) * 100 = 9.12%</other>
+
+<question_number>12</question_number>
+<answer>N/A</answer>
+
+<question_number>13</question_number>
+<answer>Trump</answer>
+<other>The individual sworn in at lunchtime on Monday was Trump, and the lawsuit was between CBS and Trump.</other>
+
+<question_number>14</question_number>
+<answer>N/A</answer>
+
+<question_number>15</question_number>
+<answer>N/A</answer>
+
+<question_number>16</question_number>
+<answer>N/A</answer>
+
+<question_number>17</question_number>
+<answer>investment products geared to the "patriotic economy"</answer>
+
+<question_number>18</question_number>
+<answer>N/A</answer>
+
+<question_number>19</question_number>
+<answer>Lara Trump's show</answer>
+<other>The name of the show is not directly mentioned, but it is referred to as Lara Trump's weekend show.</other>
+
+<question_number>20</question_number>
+<answer>82%</answer>
+<other>CNN's viewership dropped from 10 million to 1.7 million; ((10,000,000 - 1,700,000) / 10,000,000) * 100 = 83%, rounded to the nearest whole number is 83%, not 82%</other>
+
+<other>Correcting the response for 11: 
+<question_number>11</question_number>
+<answer>9%</answer>
+</other>
+
+<other>Correcting the response for 20:
+<question_number>20</question_number>
+<answer>83%</answer>
+</other>

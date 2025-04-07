@@ -1,0 +1,60 @@
+merged_wildfires-schools-close-la-county.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>62</answer>
+<other>The article states that 18 out of 80 school districts closed. So, 80 - 18 = 62 remained open.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Only Azusa Unified School District is mentioned as citing the Eaton fire. Las Virgenes Unified School District is mentioned but not for the Eaton fire.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>No information is given about the San Marino School District requiring parents to take any specific precautions involving insurance policy documentation.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>No district is mentioned as announcing closures for Thursday instead of Wednesday.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>No district's closure is attributed to flooding caused by firefighting efforts.</other>
+<question_number>7</question_number>
+<answer>1</answer>
+<other>The Eaton fire is the only wildfire explicitly named in the article as directly impacting a school closure decision.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>No district's announcement references collaboration with the office of California's insurance commissioner.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>No district is cited as being damaged by a neighboring wildfire that started in Malibu.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>Matthew Mpoke Bigg is mentioned as a London-based reporter on the Live team at The Times, covering breaking and developing news, but there's no indication he covered Kamala Harris's tour.</other>
+<question_number>11</question_number>
+<answer>Azusa Unified School District</answer>
+<other>The Azusa Unified School District is mentioned as attributing its closure to the volatility of the high wind event and the nearby Eaton fire.</other>
+<question_number>12</question_number>
+<answer>El Monte City School District</answer>
+<other>The El Monte City School District is mentioned as closing due to "strong winds and the uncertainty of power" service.</other>
+<question_number>13</question_number>
+<answer>Temple City Unified School District</answer>
+<other>The Temple City Unified School District justified its decision to suspend classes citing downed trees, power outages, downed power lines, and damage to several campuses.</other>
+<question_number>14</question_number>
+<answer>Las Virgenes Unified School District</answer>
+<other>Las Virgenes Unified School District stated its closure was "out of an abundance of caution" and expected to reopen on Thursday.</other>
+<question_number>15</question_number>
+<answer>Alhambra Unified School District</answer>
+<other>The Alhambra Unified School District is mentioned as closing to "ensure the safety of our students, staff, and families" without referencing natural events or technical issues.</other>
+<question_number>16</question_number>
+<answer>Matthew Mpoke Bigg</answer>
+<other>Matthew Mpoke Bigg is the London-based journalist mentioned in the article.</other>
+<question_number>17</question_number>
+<answer>Azusa Unified School District</answer>
+<other>The Azusa Unified School District is mentioned in relation to the Eaton fire.</other>
+<question_number>18</question_number>
+<answer>Monrovia Unified School District</answer>
+<other>The Monrovia Unified School District is mentioned as closing due to "high winds."</other>
+<question_number>19</question_number>
+<answer>Temple City Unified School District</answer>
+<other>The Temple City Unified School District's announcement about downed trees, power outages, and power lines could be misleading in relation to the Eaton fire, though no actual connection is made.</other>
+<question_number>20</question_number>
+<answer>Los Angeles Unified School District</answer>
+<other>The Los Angeles Unified School District is mentioned immediately before Monrovia Unified School District in the list and is noted for announcing closures at some of its schools.</other>

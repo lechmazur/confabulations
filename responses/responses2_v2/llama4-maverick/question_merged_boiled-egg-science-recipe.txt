@@ -1,0 +1,75 @@
+merged_boiled-egg-science-recipe.txt
+<question_number>1</question_number>
+<answer>Pellegrino Musto</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article states that the egg is immersed in 212-degree water, not 230-degree water.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The ideal temperature for cooking the yolk is given in Fahrenheit (150 degrees), not Celsius.</other>
+
+<question_number>4</question_number>
+<answer>soaring prices</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article does not specify the kitchen utensils required for J. Kenji Lopez-Alt's recipe.</other>
+
+<question_number>6</question_number>
+<answer>Ernesto Di Maio</answer>
+<other>The article states that Ernesto Di Maio is a materials scientist in Naples, Italy, not Milan.</other>
+
+<question_number>7</question_number>
+<answer>polyphenols</answer>
+
+<question_number>8</question_number>
+<answer>Emilia Di Lorenzo</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article does not state that Deb Perelman mentioned the smelly compound; it was mentioned earlier in the article as ferrous sulfide.</other>
+
+<question_number>10</question_number>
+<answer>1</answer>
+
+<question_number>11</question_number>
+<answer>16</answer>
+<other>The cycle is repeated 8 times, with 2 temperature transitions per cycle.</other>
+
+<question_number>12</question_number>
+<answer>N/A</answer>
+<other>The article does not specify the chemical element in the yolk's composition that leads to the formation of ferrous sulfide.</other>
+
+<question_number>13</question_number>
+<answer>N/A</answer>
+<other>The article does not directly cite Emilia Di Lorenzo's previous research as influencing the development of the periodic egg-cooking technique.</other>
+
+<question_number>14</question_number>
+<answer>N/A</answer>
+<other>The article does not compare the periodic method's average temperature to the optimal sous vide temperature for denaturing albumen proteins.</other>
+
+<question_number>15</question_number>
+<answer>N/A</answer>
+<other>The article does not specify the kitchen appliances required for J. Kenji Lopez-Alt's alternative egg-steaming method beyond a standard pot.</other>
+
+<question_number>16</question_number>
+<answer>N/A</answer>
+<other>The article does not mention that the preservation of any nutritional component was mistakenly attributed to polyphenols.</other>
+
+<question_number>17</question_number>
+<answer>N/A</answer>
+<other>The article states that the eggs are softer, making them more difficult to peel, but does not provide the primary chemical reason.</other>
+
+<question_number>18</question_number>
+<answer>N/A</answer>
+<other>The article does not specify which polymer science principle from Pellegrino Musto's expertise was applied.</other>
+
+<question_number>19</question_number>
+<answer>N/A</answer>
+<other>The article does not provide the exact percentage reduction in protein clumping achieved by the periodic method.</other>
+
+<question_number>20</question_number>
+<answer>hard-boiling</answer>
+<other>The article discusses the failure of hard-boiling to maintain yolk texture and albumen texture.</other>

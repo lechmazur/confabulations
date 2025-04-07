@@ -1,0 +1,81 @@
+merged_cancer-diagnosis-language.txt
+<question_number>1</question_number>
+<answer>10</answer>
+<other>The article states that more than 90% of patients in Sweden with low-risk prostate cancer choose a watch-and-wait approach, implying that less than 10% opt for aggressive treatment.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Dr. Howard Markel is quoted in the article discussing the historical context of the term "cancer," but he does not suggest alternative diagnostic labels.</other>
+
+<question_number>3</question_number>
+<answer>1898</answer>
+<other>The article directly mentions the year 1898 in relation to the New York Medical Journal article.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article does not provide the specific number of women who experienced a higher rate of invasive cancer after choosing active monitoring.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The 1898 New York Medical Journal article is mentioned as advocating for keeping patients ignorant of their cancer diagnosis, not a specific communication technique highlighted by Dr. Ronald M. Epstein.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article states that by 1970, cancer had become the second-leading cause of death in the United States, but it does not specify the cause of death in 1977.</other>
+
+<question_number>7</question_number>
+<answer>surgical oncologist</answer>
+<other>Dr. Shelley Hwang is mentioned as a surgical oncologist at Duke University and was involved in the DCIS trial.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article does not directly link a specific screening tool advancement to the increased diagnosis of DCIS.</other>
+
+<question_number>9</question_number>
+<answer>hormone-blocking medications</answer>
+<other>Dr. Laura J. Esserman is quoted mentioning hormone-blocking medications as part of the treatment for DCIS under active monitoring.</other>
+
+<question_number>10</question_number>
+<answer>doctor's tone of voice</answer>
+<other>Dr. Laura Scherer is quoted discussing how the term "cancer" affects patients, and the article mentions that a diagnosis is more than words on a page, including the doctor's tone of voice.</other>
+
+<question_number>11</question_number>
+<answer>dysplasia</answer>
+<other>The term "dysplasia" is presented as a precedent for renaming early-stage conditions to reduce patient anxiety.</other>
+
+<question_number>12</question_number>
+<answer>Dr. Laura J. Esserman</answer>
+<other>Dr. Laura J. Esserman is quoted arguing that the urgency attached to a DCIS diagnosis arises from awareness rather than its biological progression.</other>
+
+<question_number>13</question_number>
+<answer>1970s</question_number>
+<answer>N/A</answer>
+<other>The article mentions that by 1970, cancer had become the second-leading cause of death and was known as "the dread disease," but it does not specify the decade in which it became notorious.</other>
+
+<question_number>14</question_number>
+<answer>90</answer>
+<other>The article states that more than 90% of Swedish patients with low-risk prostate cancer choose a watch-and-wait approach.</other>
+
+<question_number>15</question_number>
+<answer>DCIS</answer>
+<other>DCIS (ductal carcinoma in situ) is the diagnosis critiqued for provoking overly aggressive treatment responses despite being confined to the original tissue.</other>
+
+<question_number>16</question_number>
+<answer>Dr. Shelley Hwang</answer>
+<other>Dr. Shelley Hwang voiced concerns that renaming conditions like DCIS might be seen as paternalistic.</other>
+
+<question_number>17</question_number>
+<answer>Dr. Arif Kamal</answer>
+<other>Dr. Arif Kamal is mentioned as having his affiliated organization misidentified as the American Cancer Association.</other>
+
+<question_number>18</question_number>
+<answer>cancer</answer>
+<other>A social psychologist, Laura Scherer, compares the term "cancer" to being hit by a truck.</other>
+
+<question_number>19</question_number>
+<answer>the consensus of opinion is that patients be kept in ignorance of the nature and probable outcome of the disease as long as possible</answer>
+<other>This is the advisory statement from the 1898 New York Medical Journal article cited in the text.</other>
+
+<question_number>20</question_number>
+<answer>cancer</answer>
+<other>The term "cancer" is criticized for not accurately reflecting the biological behavior of early-stage conditions in various organs.</other>

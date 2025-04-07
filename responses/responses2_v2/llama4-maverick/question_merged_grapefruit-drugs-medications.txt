@@ -1,0 +1,72 @@
+merged_grapefruit-drugs-medications.txt
+<question_number>1</question_number>
+<answer>0</answer>
+<other>The article states that 50% of the young plants had high levels of furanocoumarins and 50% had none, implying that none showed intermediate levels.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article mentions that the project was time-consuming and took many years but does not provide a specific estimate given by Dr. Eyal.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article mentions that furanocoumarins interfere with human liver enzymes but does not specify which liver enzyme is primarily responsible for breaking down furanocoumarins.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article mentions that scientists had worked out the compounds' structures years ago but does not provide a specific year.</other>
+
+<question_number>11</question_number>
+<answer>2-oxoglutarate-dependent dioxygenase</answer>
+<other>The article states that the gene produces an enzyme called 2-oxoglutarate-dependent dioxygenase, or 2OGD for short, and that mandarins have a mutated form of this gene.</other>
+
+<question_number>12</question_number>
+<answer>mandarins</answer>
+<other>The article states that mandarins have a mutated form of the gene that keeps the enzyme from functioning properly, thereby reducing furanocoumarin production.</other>
+
+<question_number>13</question_number>
+<answer>Yoram Eyal</answer>
+<other>The article mentions Yoram Eyal, a professor at the Volcani Center, who led the study and commented on the extensive time necessary for breeding new citrus trees.</other>
+
+<question_number>14</question_number>
+<answer>single-gene control</answer>
+<other>The article states that the observation of an even split between high and zero furanocoumarin levels implies single-gene control.</other>
+
+<question_number>15</question_number>
+<answer>The New Phytologist</answer>
+
+<question_number>16</question_number>
+<answer>grapefruit without warning labels</answer>
+<other>The article suggests that gene editing technology could be used to alter the gene in grapefruit, potentially eliminating the need for medication warnings.</other>
+
+<question_number>17</question_number>
+<answer>mutated version of the 2OGD gene</answer>
+<other>The article states that a long-ago citrus breeder must have unwittingly spread a furanocoumarin-busting version of the gene to an ancestor of modern varieties of mandarins and oranges.</other>
+
+<question_number>18</question_number>
+<answer>furanocoumarins</answer>
+
+<question_number>19</question_number>
+<answer>Life's Building Blocks Inside an Asteroid</answer>
+<other>The article mentions this topic as relating to scientists studying samples from the asteroid Bennu and finding organic molecules that shed light on how life arose.</other>
+
+<question_number>20</question_number>
+<answer>50</answer>
+<other>The article states that 50% of the young plants from a mandarin and grapefruit cross had high levels of furanocoumarins.</other>

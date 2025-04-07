@@ -1,0 +1,31 @@
+merged_2025-travel-prices-flights-hotels-cruises.txt
+<question_number>1</question_number>
+<answer>cruise</answer>
+
+<question_number>2</question_number>
+<answer>cruise</answer>
+<other>The cruise sector had a 9% customer volume growth rate from 2023 to 2024 and a 6% average price increase for summer 2025 bookings. Other sectors don't have both pieces of information provided.</other>
+
+<question_number>3</question_number>
+<answer>cruise</answer>
+<other>Cruise lines are sailing nearly full and prefer offering incentives over price cuts, indicating a strong inverse relationship between capacity utilization and pricing flexibility.</other>
+
+<question_number>4</question_number>
+<answer>spring and summer</answer>
+<other>The article states that domestic airfares are expected to be up by double digits for spring and summer compared to 2024, when domestic fares were some of the lowest on record.</other>
+
+<question_number>5</question_number>
+<answer>cruise</answer>
+<other>Cruise lines are maintaining nearly full capacity and preferring to offer incentives like prepaid gratuities and shipboard credits over fare cuts.</other>
+
+<question_number>6</question_number>
+<answer>economy hotels</answer>
+<other>Economy hotel rates are projected to rise a negligible 0.2%, which is below the rate of inflation, indicating a large gap between the rate of change and the general inflation rate.</other>
+
+<question_number>7</question_number>
+<answer>cruise</answer>
+<other>Cruise ships are sailing nearly full, yet they prefer to offer incentives rather than direct price reductions.</other>
+
+<question_number>8</question_number>
+<answer>cruise</answer>
+<other>The cruise sector had a 9% year-over-year passenger volume increase and is showing pricing strategy inflexibility by preferring incentives over price cuts.</other>

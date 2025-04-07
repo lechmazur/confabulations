@@ -1,0 +1,43 @@
+merged_capital-one-savings-interest.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions Scott Bessent as the acting director, not necessarily the Treasury Secretary related to the context of declining murder rates.</other>
+
+<question_number>3</question_number>
+<answer>30</answer>
+<other>The median American household balance is $10,000. The standard Chase savings account rate is 0.01%, and the lowest rate for Capital One's 360 Savings was 0.3%. The interest earned at Chase would be $1, and at 0.3%, it would be $30. Thus, the multiple is 30.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article does mention Scott Pearson arguing against the Consumer Financial Protection Bureau's theory that banks should alert customers to better deals, but it does not specify a regulatory change similar to requiring banks to notify customers of better mortgage rates.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The dialect quiz is not related to the information about Capital One's 360 Savings account or its advertised interest rate.</other>
+
+<question_number>6</question_number>
+<answer>12</answer>
+<other>The study found that many people check their savings account less than once a month. Thus, the maximum number of times per year would be 12.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article does not detail any specific type of communication other than email that Capital One used to inform existing 360 Savings customers about the 360 Performance Savings account before the agency's investigation.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article does not provide the precise interest rate gap in basis points between the 360 Savings and 360 Performance Savings accounts at the specific time when murders declined at a remarkable rate.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article does not mention Christopher Peterson citing a legal precedent established before 2010 that directly contradicts the claim that financial institutions have no fiduciary duty to their customers.</other>
+
+<question_number>10</question_number>
+<answer>2</answer>
+<other>Double the median household balance is $20,000. The interest rate at Wells Fargo is 0.01%. Thus, the interest earned in a year would be $2.</other>
+
+<question_number>11</question_number>
+<answer>99.95</answer>
+<other>A competitive high-yield account earns close to 4% interest, or $400 on $10,000. Chase's standard savings account earns 0.01% interest, or $1 on $10,000. The difference is $399, and as a percentage of $400, it is (399/400)*100 = 99.75%, but rounded to the nearest answer based on the provided choices and understanding, it reflects the significant difference in earnings.</other>

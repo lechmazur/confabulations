@@ -1,0 +1,24 @@
+merged_alcohol-cancer-risk.txt
+<question_number>1</question_number>
+<answer>esophageal cancer</answer>
+<other>The article mentions that light drinkers have a 30% higher chance of developing esophageal cancer compared to non-drinkers, which is the highest percentage increase among the cancer types listed.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article does not provide the precise percentage increase in lifetime breast cancer risk for women consuming exactly two drinks daily compared to the reference group. It only provides the lifetime risk percentage for the "less than one drink per week" group and other consumption levels.</other>
+
+<question_number>3</question_number>
+<answer>7 drinks</answer>
+<other>The article states that women who consume one drink per day (7 drinks per week) have a 19% lifetime risk of developing any alcohol-related cancer.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article does not provide a direct comparison of the absolute lifetime risk difference between men and women at various consumption levels to determine the maximum gap.</other>
+
+<question_number>5</question_number>
+<answer>mouth cancer</answer>
+<other>The article mentions that cancers of the mouth are associated with both light and heavy drinking. It also notes that drinking and smoking cigarettes compound the risk of head and neck cancers, which include mouth cancer.</other>
+
+<question_number>6</question_number>
+<answer>1.5 ounces</answer>
+<other>The article defines a standard drink as containing 14 grams of alcohol, which is about the amount in a 1.5-ounce shot of liquor. It also states that women who consume one drink per day have a 13.1% lifetime risk of breast cancer.</other>

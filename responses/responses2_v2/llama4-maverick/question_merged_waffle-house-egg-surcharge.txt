@@ -1,0 +1,40 @@
+merged_waffle-house-egg-surcharge.txt
+<question_number>1</question_number>
+<answer>1.15</answer>
+<other>To find the approximate cost of a single Midwest large egg at Waffle House after including the extra charge, we need to first determine the cost of an egg before the surcharge. According to Expana, a dozen Midwest large eggs cost $7.79, making the cost per egg $7.79 / 12 = $0.65. Adding the 50-cent surcharge, the total cost per egg becomes $0.65 + $0.50 = $1.15.</other>
+
+<question_number>2</question_number>
+<answer>Grade-A large</answer>
+<other>The article states that Waffle House will continue to use "quality, fresh-cracked, Grade-A large eggs" in their dishes.</other>
+
+<question_number>3</question_number>
+<answer>Monday</answer>
+<other>The article mentions that Waffle House said on Monday that it was adding a temporary 50-cent surcharge, indicating that the surcharge was introduced on that Monday.</other>
+
+<question_number>4</question_number>
+<answer>Highly pathogenic avian influenza</answer>
+<other>The article directly attributes the egg shortage to "highly pathogenic avian influenza," also referred to as the bird flu.</other>
+
+<question_number>5</question_number>
+<answer>134</answer>
+<other>The price of a dozen Midwest large eggs increased from $3.33 to $7.79. The percentage increase is calculated as (($7.79 - $3.33) / $3.33) * 100 = 134%.</other>
+
+<question_number>6</question_number>
+<answer>272 million</answer>
+<other>The article states that Waffle House serves more than 272 million eggs a year.</other>
+
+<question_number>7</question_number>
+<answer>Dramatic increase in egg prices</answer>
+<other>Waffle House attributed the surcharge to the "dramatic increase in egg prices" caused by the bird flu, justifying the surcharge instead of a broader menu price increase.</other>
+
+<question_number>8</question_number>
+<answer>Brooke Rollins</answer>
+<other>The article mentions that Brooke Rollins, Donald Trump's nominee for secretary of agriculture, prioritized a swift response to animal disease outbreaks.</other>
+
+<question_number>9</question_number>
+<answer>30 million</answer>
+<other>The article states that more than 30 million chickens have recently been killed to prevent the spread of disease.</other>
+
+<question_number>10</question_number>
+<answer>The price of eggs</answer>
+<other>The article notes that the price of eggs has become a tangible barometer of the economy and the rising cost of food in the United States for many consumers.</other>

@@ -1,0 +1,33 @@
+merged_ai-data-restrictions.txt
+<question_number>1</question_number>
+<answer>They can't afford to license data directly from publishers.</answer>
+
+<question_number>2</question_number>
+<answer>It primarily impacts later-arriving actors, not major tech companies.</answer>
+
+<question_number>3</question_number>
+<answer>Today's A.I. systems may not generate enough high-quality synthetic data.</answer>
+
+<question_number>4</question_number>
+<answer>The web will start shutting its doors.</answer>
+
+<question_number>5</question_number>
+<answer>Smaller companies can't afford to license data directly from publishers.</answer>
+
+<question_number>6</question_number>
+<answer>Major tech companies retain permission to use already gathered data.</answer>
+
+<question_number>7</question_number>
+<answer>Later-arriving actors, typically smaller start-ups or researchers, are impacted.</answer>
+
+<question_number>8</question_number>
+<answer>It might lead to blowback from data creators and a need for new governance.</answer>
+
+<question_number>9</question_number>
+<answer>55</answer>
+
+<question_number>10</question_number>
+<answer>75</answer>
+
+<other>For question 9, the calculation is based on the fact that 45% of the data in the C4 dataset is restricted by websites' terms of service. So, 100% - 45% = 55% remains unrestricted.</other>
+<other>For question 10, the article states that 25% of high-quality data is restricted. So, 100% - 25% = 75% remains unrestricted.</other>

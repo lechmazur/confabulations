@@ -1,0 +1,23 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>It becomes much trickier and there are many more ways in which potential attacks can be done.</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>Through data broker records, phone numbers can be traced back to individuals.</answer>
+<question_number>5</question_number>
+<answer>AT&T has contracts to provide communications services for several federal agencies.</answer>
+<question_number>6</question_number>
+<answer>The data identify the telephone numbers an AT&T cellular number interacted with.</answer>
+<question_number>7</question_number>
+<answer>The data can be used to expose communication networks for people in national security roles.</answer>
+<question_number>8</question_number>
+<answer>The data identify the telephone numbers an AT&T cellular number interacted with.</answer>
+<question_number>9</question_number>
+<answer>Customers are increasingly exposed to potential data breaches.</answer>
+<question_number>10</question_number>
+<answer>The platform involved is called Snowflake, a third-party cloud platform.</answer>
+
+<other>The answers are based on the information provided in the article about the AT&T data breach and its implications.</other>

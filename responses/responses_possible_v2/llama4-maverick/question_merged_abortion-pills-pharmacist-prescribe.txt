@@ -1,0 +1,36 @@
+merged_abortion-pills-pharmacist-prescribe.txt
+<question_number>1</question_number>
+<answer>4</answer>
+<other>The pilot program involved 10 pharmacists serving 43 patients. To find the average number of patients per pharmacist, we divide 43 by 10, which equals 4.3. Rounding this number gives us 4.</other>
+
+<question_number>2</question_number>
+<answer>mifepristone prescription requirement by doctors</answer>
+<other>The article mentions that the incoming Trump administration could try to reinstate FDA regulations that required mifepristone to be prescribed only by doctors.</other>
+
+<question_number>3</question_number>
+<answer>Dr. Ingrid Skop, vice president and director of medical affairs at the Charlotte Lozier Institute</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article does not specify a singular safety-monitoring process that must be replicated for in-person prescribing.</other>
+
+<question_number>5</question_number>
+<answer>Comstock Act</answer>
+
+<question_number>6</question_number>
+<answer>birth control and morning-after pills</answer>
+<other>The article mentions that in many states, pharmacists can already prescribe birth control and morning-after pills.</other>
+
+<question_number>7</question_number>
+<answer>10</answer>
+
+<question_number>8</question_number>
+<answer>$40</answer>
+
+<question_number>9</question_number>
+<answer>Don Downing, professor emeritus of pharmacy at the University of Washington</answer>
+<other>The article describes Don Downing as a professor emeritus of pharmacy and a co-director of the project, mentioning his role in pioneering other prescribing programs.</other>
+
+<question_number>10</question_number>
+<answer>Michael Hogue, chief executive of the American Pharmacists Association</answer>
+<other>The article quotes Michael Hogue, emphasizing the benefit of having accessible healthcare providers like pharmacists.</other>

@@ -1,0 +1,80 @@
+merged_chevron-power-plant-ai.txt
+<question_number>1</question_number>
+<answer>Constellation Energy</answer>
+<other>According to the article, Constellation Energy's stock closed down more than 20 percent after DeepSeek's announcement.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions that Chevron and Engine No. 1 reserved seven gas turbines from GE Vernova, but it does not directly state the total gigawatts secured through this reservation. However, it does mention they expect to build up to four gigawatts of gas-generating capacity.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article actually predicts data centers will use up to 12 percent of U.S. electricity in 2028, not 2025.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article only mentions Engine No. 1's successful proxy battle against Exxon Mobil in 2021, not against Chevron.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article does not provide the total value of the equipment order Chevron placed with GE Vernova.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article does not specify the number of potential data center locations identified as viable sites meeting their carbon sequestration criteria.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article does not provide Chevron's projected return on investment for their data center power generation facilities compared to traditional oil drilling operations.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article actually states that the East Coast was ruled out due to infrastructure constraints and feedback from potential customers, but it does not specify which region had the highest potential.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article mentions that Microsoft and Google have set targets to get all of their energy from sources that do not contribute to climate change, but it does not provide a specific timeline.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article does not provide Chevron's estimate of additional grid capacity needed to support their planned data center power plants.</other>
+
+<question_number>11</question_number>
+<answer>Chevron</answer>
+<other>The article describes Chevron's plan to build natural gas power plants adjacent to AI data centers in partnership with Engine No. 1, a San Francisco-based firm known for a proxy challenge against Exxon Mobil.</other>
+
+<question_number>12</question_number>
+<answer>Chevron</answer>
+<other>Mike Wirth, Chevron's CEO, is quoted in the article highlighting the importance of affordable and reliable power for expanding artificial intelligence services.</other>
+
+<question_number>13</question_number>
+<answer>$2 billion</answer>
+<other>According to Morgan Stanley's estimate, natural gas-fired power plants cost around $2 billion per gigawatt.</other>
+
+<question_number>14</question_number>
+<answer>quicker startup</answer>
+<other>The article states that bypassing connection to the electric grid initially allows the plants to get up and running more quickly.</other>
+
+<question_number>15</question_number>
+<answer>7.6</answer>
+<other>The article cites a prediction that data centers will use up to 12 percent of U.S. electricity in 2028, up from 4.4 percent in 2023, representing an increase of 7.6 percentage points.</other>
+
+<question_number>16</question_number>
+<answer>Engine No. 1</answer>
+<other>The article identifies Engine No. 1 as the San Francisco-based investment firm collaborating with Chevron on the natural gas power plant project and notes its earlier proxy battle with Exxon Mobil.</other>
+
+<question_number>17</question_number>
+<answer>Nvidia</answer>
+<other>The article reports that Nvidia's stock tumbled 17 percent following the announcement related to the advances of the Chinese startup DeepSeek.</other>
+
+<question_number>18</question_number>
+<answer>Constellation Energy</answer>
+<other>The article states that Constellation Energy agreed to buy rival Calpine, which owns many natural gas plants, for $16.4 billion.</other>
+
+<question_number>19</question_number>
+<answer>carbon dioxide</answer>
+<other>The article identifies carbon dioxide, produced by burning natural gas, as a greenhouse gas and a major driver of climate change.</other>
+
+<question_number>20</question_number>
+<answer>co-location of power plants with data centers</answer>
+<other>The article discusses the plan to co-locate natural gas power plants with data centers to meet the rising power demands of artificial intelligence, initially operating off-grid for rapid startup.</other>

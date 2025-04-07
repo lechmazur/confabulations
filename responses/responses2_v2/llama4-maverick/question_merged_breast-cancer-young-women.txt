@@ -1,0 +1,46 @@
+merged_breast-cancer-young-women.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<question_number>11</question_number>
+<answer>estrogen</answer>
+<question_number>12</question_number>
+<answer>40</answer>
+<question_number>13</question_number>
+<answer>pregnancy</answer>
+<other>More specifically, pregnancy before age 30 and breastfeeding are mentioned as having a protective effect.</other>
+<question_number>14</question_number>
+<answer>A.I. model</answer>
+<other>Supplementing radiologist interpretations with machine analysis is mentioned in the context of having mammograms read by both a radiologist and an A.I. model.</other>
+<question_number>15</question_number>
+<answer>colorectal</answer>
+<other>Other cancers mentioned include gastric, kidney, and liver cancer.</other>
+<question_number>16</question_number>
+<answer>childhood nutrition</answer>
+<question_number>17</question_number>
+<answer>estrogen-receptor-positive</answer>
+<other>Dr. Toriola found that the increase has been driven largely by breast cancers fueled by the sex hormone estrogen.</other>
+<question_number>18</question_number>
+<answer>alcohol</answer>
+<question_number>19</question_number>
+<answer>lowering the recommended age to begin screening to 40</answer>
+<other>The U.S. Preventive Services Task Force lowered the recommended age to begin screening to 40, from 50.</other>
+<question_number>20</question_number>
+<answer>Siobhan Donovan</answer>

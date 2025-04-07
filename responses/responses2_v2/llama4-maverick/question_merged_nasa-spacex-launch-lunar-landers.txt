@@ -1,0 +1,44 @@
+merged_nasa-spacex-launch-lunar-landers.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article does not mention transportation costs for the soil samples.</other>
+
+<question_number>2</question_number>
+<answer>2 miles</answer>
+<other>The article states that the Hakuto-R Mission 1 lander hovered far above the ground before crashing, and that the crater rim was two miles higher than the surrounding terrain.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>No lunar mission director is quoted or mentioned as confirming their spacecraft's capability to operate beyond the initial 14-day mission window.</other>
+
+<question_number>4</question_number>
+<answer>1 second</answer>
+<other>The article mentions that the rocket stage fired once more, for just a second, to adjust the orbit for the deployment of Resilience.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article does not provide detailed specifications of the heat flow measurement experiment or the depth to which Blue Ghost's drill will penetrate.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article does not specify the number of successful Alpha rocket launches completed by Firefly Aerospace before being selected for the lunar mission program.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article does not provide information about the altitude reached by the Falcon 9's second stage during the elliptical orbit adjustment.</other>
+
+<question_number>8</question_number>
+<answer>crater rim height</answer>
+<other>The article states that the landing software was confused when it passed over the crater rim, which is two miles higher than the surrounding terrain.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article does not mention the power generation system to be used by the water electrolyzer experiment during the lunar night period.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article does not mention any communication blackout during the critical orbital insertion maneuver for both spacecraft.</other>
+
+<question_number>11</question_number>
+<answer>$101.5 million</answer>
+<other>The article only mentions the cost NASA agreed to pay Firefly Aerospace, which is $101.5 million if it takes 10 payloads to the lunar surface. It does not mention the total combined cost for both Firefly Aerospace and Ispace.</other>

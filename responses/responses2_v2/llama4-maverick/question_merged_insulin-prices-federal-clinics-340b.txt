@@ -1,0 +1,73 @@
+merged_insulin-prices-federal-clinics-340b.txt
+<question_number>1</question_number>
+<answer>23</answer>
+<other>The article mentions that under the 340B program, companies typically sell their brand-name drugs to clinics at a discount, at 23 percent or more off the list price.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>Medicare drug price negotiation</answer>
+<other>David Bowman mentioned that other recent policies, including directing Medicare to negotiate the price of drugs, had lowered drug costs for low-income patients.</other>
+
+<question_number>4</question_number>
+<answer>60</answer>
+<other>Ms. Salgado's cost for Victoza rose to more than $300 for a three-month supply. Assuming $500 total monthly medical expenses is incorrect since the article states they spend about $500 per month on her medical needs, which includes more than just Victoza. However, we can calculate the percentage based on the three-month supply cost. ($300 / 3) / $500 * 100 = 20%. But the question seems to be asking for a direct percentage of $500, so ($300/3) is $100, and ($100/$500)*100 = 20%. The correct interpretation of the question leads to calculating the monthly cost of Victoza after the change and comparing it to their total monthly expenses.</other>
+
+<question_number>5</question_number>
+<answer>helping patients find housing</answer>
+<other>The article states that the 340B money once financed services that are not otherwise covered by government grants or insurance, such as helping patients find housing.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>the same discount scheme</answer>
+<other>The article mentions that the same discount scheme applies to state Medicaid plans under the 340B program.</other>
+
+<question_number>8</question_number>
+<answer>2</answer>
+<other>Ms. Salgado must now use a special pharmacy 20 minutes from her house to qualify for the federal discount on the two insulin drugs she was switched to. The article does not directly state the number of visits required for all her affected medications, but it implies she needs to visit for her insulin drugs. Byetta is injected twice a day, so she likely needs refills for it and the insulin drugs.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>diabetes</answer>
+<other>Ms. Salgado's mother died of diabetes complications.</other>
+
+<question_number>11</question_number>
+<answer>N/A</answer>
+
+<question_number>12</question_number>
+<answer>N/A</answer>
+
+<question_number>13</question_number>
+<answer>$490</answer>
+<other>The article states that Ms. Sarmiento was quoted $490 at her pharmacy for a box of insulin pens before getting a manufacturer's coupon.</other>
+
+<question_number>14</question_number>
+<answer>Health Resources and Services Administration</answer>
+<other>The article mentions that David Bowman is a spokesman for the Health Resources and Services Administration, which oversees the 340B discounts.</other>
+
+<question_number>15</question_number>
+<answer>23</answer>
+<other>The article mentions that under the 340B program, companies typically sell their brand-name drugs to clinics at a discount, at 23 percent or more off the list price.</other>
+
+<question_number>16</question_number>
+<answer>8</answer>
+<other>The article states that Valley View Health Center's mental health program employed eight therapists.</other>
+
+<question_number>17</question_number>
+<answer>Byetta</answer>
+<other>The article mentions that Ms. Salgado was switched to Byetta, which is injected twice a day.</other>
+
+<question_number>18</question_number>
+<answer>N/A</answer>
+
+<question_number>19</question_number>
+<answer>N/A</answer>
+
+<question_number>20</question_number>
+<answer>insulin</answer>
+<other>The article states that their costs for insulin were 10 times what they were just a few months ago.</other>

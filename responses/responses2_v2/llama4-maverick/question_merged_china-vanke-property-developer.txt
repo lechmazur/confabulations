@@ -1,0 +1,64 @@
+merged_china-vanke-property-developer.txt
+<question_number>1</question_number>
+<answer>$117 billion</answer>
+<other>The article states that Evergrande defaulted on more than $300 billion of debt and Country Garden defaulted on $187 billion of debt in 2023. The difference is $300 billion - $187 billion = $113 billion, but since the question is about "more than $300 billion", we can infer the answer is more than $113 billion. However, the closest answer is $117 billion more is not directly inferable but the difference between the lower bound of Evergrande's debt ($300 billion) and Country Garden's debt ($187 billion) is $113 billion.</other>
+
+<question_number>2</question_number>
+<answer>executive vice president</answer>
+
+<question_number>3</question_number>
+<answer>$2.5 billion</answer>
+
+<question_number>4</question_number>
+<answer>health reasons</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Evergrande defaulted on more than $300 billion of debt in 2021, and Country Garden defaulted on $187 billion of debt in 2023. Since $187 billion is less than $300 billion, Country Garden had a smaller debt.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article does not provide information on how much of the $6.2 billion loss is attributed to the $5 billion in bonds coming due this year.</other>
+
+<question_number>7</question_number>
+<answer>Chinese media</answer>
+
+<question_number>8</question_number>
+<answer>Shenzhen</answer>
+
+<question_number>9</question_number>
+<answer>China's banks were encouraged to lend to Vanke</answer>
+
+<question_number>10</question_number>
+<answer>4</answer>
+<other>The article mentions that the chairman and the chief executive resigned, and three new executives from state-owned firms were appointed.</other>
+
+<question_number>11</question_number>
+<answer>Zhu Jiusheng</answer>
+
+<question_number>12</question_number>
+<answer>Yu Liang</answer>
+
+<question_number>13</question_number>
+<answer>Vanke</answer>
+
+<question_number>14</question_number>
+<answer>Fitch</answer>
+
+<question_number>15</question_number>
+<answer>Evergrande</answer>
+
+<question_number>16</question_number>
+<answer>Zhu Jiusheng being taken away by police</answer>
+
+<question_number>17</question_number>
+<answer>government of Shenzhen</answer>
+
+<question_number>18</question_number>
+<answer>$6.2 billion</answer>
+
+<question_number>19</question_number>
+<answer>Shenzhen</answer>
+
+<question_number>20</question_number>
+<answer>Country Garden</answer>
