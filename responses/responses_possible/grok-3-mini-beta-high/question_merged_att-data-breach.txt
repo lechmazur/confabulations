@@ -1,0 +1,21 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>Complicates security by introducing shared infrastructure and increasing potential attack vectors through third-party involvement.</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>By tracing phone numbers to individuals via data brokers and analyzing recorded interactions to reveal patterns.</answer>
+<question_number>5</question_number>
+<answer>Potential exposure of communication networks for federal agencies, posing national security risks.</answer>
+<question_number>6</question_number>
+<answer>Exposed data identifies call and text interactions, which can be linked to individuals to map communication networks.</answer>
+<question_number>7</question_number>
+<answer>Data can benefit foreign nation states by enabling identification of communication networks for espionage.</answer>
+<question_number>8</question_number>
+<answer>Compromised data shows interactions between phone numbers, which can be traced to expose networks of officials.</answer>
+<question_number>9</question_number>
+<answer>Increases exposure due to shared infrastructure and more ways for attacks, as stated by professor.</answer>
+<question_number>10</question_number>
+<answer>Professor's explanation of shared cloud risks relates to Snowflake as a third-party platform that was breached.</answer>

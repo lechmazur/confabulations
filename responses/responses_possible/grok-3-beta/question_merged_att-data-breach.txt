@@ -1,0 +1,23 @@
+merged_att-data-breach.txt
+<other>Reviewing the article to ensure accurate answers based solely on the provided text.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>Outsourcing to a third-party cloud platform like Snowflake means data is in a shared environment, making security trickier and increasing potential attack vectors.</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>Exposed phone records can be traced back to individuals through data broker records, potentially revealing communication networks for those in national security roles.</answer>
+<question_number>5</question_number>
+<answer>Since AT&T has contracts with federal agencies like the State Department and Department of Defense, the exposed phone records could potentially affect communication security for these agencies.</answer>
+<question_number>6</question_number>
+<answer>The exposed data includes phone numbers interacted with, which can be linked to individuals via online searches, potentially revealing communication networks of those in sensitive positions.</answer>
+<question_number>7</question_number>
+<answer>The compromised data, consisting of phone records, could benefit foreign nation states by allowing them to map communication networks of individuals in national security roles, as suggested by the cybersecurity expert.</answer>
+<question_number>8</question_number>
+<answer>The nature of the compromised data, which includes phone numbers interacted with, can be used to trace communication networks, potentially exposing sensitive networks of government officials.</answer>
+<question_number>9</question_number>
+<answer>Outsourcing to cloud networks places data in shared environments, increasing exposure to potential breaches due to more attack vectors, according to the cybersecurity expert.</answer>
+<question_number>10</question_number>
+<answer>The professor's explanation of cloud infrastructure being shared and trickier to secure relates to Snowflake, the specific third-party cloud platform from which AT&T's customer data was downloaded.</answer>
+<other>Ensured all answers are derived strictly from the article content without external input.</other>

@@ -1,0 +1,21 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>Shared infrastructure in the cloud creates more ways for potential attacks, making security trickier.</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>By tracing phone numbers to individuals to expose communication networks.</answer>
+<question_number>5</question_number>
+<answer>Potential exposure of communication networks for people in national security roles.</answer>
+<question_number>6</question_number>
+<answer>Exposed data can link phone numbers to individuals, revealing communication patterns.</answer>
+<question_number>7</question_number>
+<answer>Data could allow foreign nation states to trace communications of sensitive individuals.</answer>
+<question_number>8</question_number>
+<answer>Compromised data might reveal interaction patterns of government officials.</answer>
+<question_number>9</question_number>
+<answer>Outsourcing to cloud networks exposes customers to more potential attacks due to shared infrastructure.</answer>
+<question_number>10</question_number>
+<answer>Professor explains shared cloud infrastructure increases risks, which applies to the third-party platform used.</answer>
