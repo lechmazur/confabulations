@@ -1,2 +1,2 @@
 merged_bari-weiss-free-press.txt
-Error: Error code: 422 - {'error': {'message': 'Unprocessable Entity', 'type': 'invalid_request_error', 'param': None, 'code': None}}
+Error: Error code: 422 - {'id': 'nqdp5s6-4Yz4kd-93275ce2d9e07444', 'error': {'message': 'Input validation error: `inputs` tokens + `max_new_tokens` must be <= 8193. Given: 8197 `inputs` tokens and 2048 `max_new_tokens`', 'type': 'invalid_request_error', 'param': None, 'code': None}}

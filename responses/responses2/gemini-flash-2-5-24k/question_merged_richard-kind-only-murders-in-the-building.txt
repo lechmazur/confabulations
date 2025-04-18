@@ -1,0 +1,11 @@
+merged_richard-kind-only-murders-in-the-building.txt
+<other>Analyzing the article to find the answers to the questions, using only the provided text.</other>
+<other>Question 1 asks for the first television series after moving to LA. The article lists "Bennett Brothers" (a pilot) and "Carol & Company" as shows he booked after moving to LA in his early 30s, but does not specify which was first or if there were others before these.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Question 2 asks for his age when he landed his first major television role. The article mentions he moved to LA in his early 30s and booked series, but doesn't define or identify his "first major television role" or state his age when he got it. He also states he hasn't had a "big break".</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Question 3 asks at what age Frank Galati predicted he would win his first major award. The article states Galati predicted he would "come into his own" around age 32 or 33, but does not mention any prediction about winning awards.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>

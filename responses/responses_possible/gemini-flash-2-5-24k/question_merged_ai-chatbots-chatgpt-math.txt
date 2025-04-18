@@ -1,0 +1,22 @@
+merged_ai-chatbots-chatgpt-math.txt
+<other>Based on the provided article, I will answer each question in order, adhering strictly to the specified format and constraints. I will only use information present in the text and answer "N/A" if the information is not available or cannot be directly inferred.</other>
+<question_number>1</question_number>
+<answer>They were never designed to do it and are fine-tuned for determining probabilities, not doing rules-based calculations.</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>Chatbots predict based on data and likelihood, while traditional systems follow step-by-step rules and retrieve from structured databases, with chatbots sometimes using calculator programs for math.</answer>
+<question_number>4</question_number>
+<answer>The shift is from computing being defined as "math on steroids" and rules-based calculation to A.I. being more focused on language fluency, prediction, and learning from data, often struggling with precise math.</answer>
+<question_number>5</question_number>
+<answer>A.I. chatbots struggle with math and are described as "more liberal arts major than numbers whiz," challenging the idea that computing is always excellent at math.</answer>
+<question_number>6</question_number>
+<answer>Using the chatbot's answers as a focal point for discussion, comparing answers, and discussing methods to teach critical thinking.</answer>
+<question_number>7</question_number>
+<answer>The shift is from perceived strength in precise, rules-based calculation to perceived strength in language processing and generation.</answer>
+<question_number>8</question_number>
+<answer>The struggle with math supports the view of skeptics who question whether large language models alone are sufficient and argue for a broader approach like "world modeling."</answer>
+<question_number>9</question_number>
+<answer>The new A.I. is described as "more liberal arts major than numbers whiz," excelling in language while struggling with math, challenging the idea that computing is purely a STEM field focused on numbers.</answer>
+<question_number>10</question_number>
+<answer>While impressive for language skills, A.I.'s lack of accuracy means it is not sufficient on its own for critical applications where painful precision is required, necessitating the use of rules-based software.</answer>

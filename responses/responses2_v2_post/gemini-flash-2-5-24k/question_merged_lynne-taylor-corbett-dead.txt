@@ -1,0 +1,9 @@
+merged_lynne-taylor-corbett-dead.txt
+<other>The user wants me to answer question 1 based solely on the provided article.
+The question asks for the title of a ballet described as a "whopping success" by a *New York Post* critic.
+I need to find if the article mentions a ballet described as a "whopping success" and if that description came from a *New York Post* critic.
+The article mentions "Great Galloping Gottschalk" and states that Anna Kisselgoff in *The New York Times* acknowledged it was a "whopping success with the public."
+The article does not mention a *New York Post* critic or attribute the "whopping success" description to anyone from the *New York Post*.
+Therefore, I cannot answer the question based on the provided text. The answer is N/A.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>

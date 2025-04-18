@@ -1,0 +1,23 @@
+merged_ai-language-gap.txt
+<other>Extracting answers from article and brief reasoning.</other>
+<question_number>1</question_number>
+<answer>A.I. tech development and online engagement are centered in the United States and China, so less digital data is produced for those languages.</answer>
+<question_number>2</question_number>
+<answer>It could avoid the “few decades of economic delay” linked to late access.</answer>
+<question_number>3</question_number>
+<answer>Lelapa AI emphasizes community‑specific, resource‑efficient, speech‑to‑speech solutions for local African languages rather than large‑scale models.</answer>
+<question_number>4</question_number>
+<answer>Because most of the technology is developed in California.</answer>
+<question_number>5</question_number>
+<answer>LLMs need large, high‑quality data sets, but such data are scarce for low‑resource languages, hindering their development.</answer>
+<question_number>6</question_number>
+<answer>A few years’ technology delay can translate into decades of economic delay.</answer>
+<question_number>7</question_number>
+<answer>Governments fund or partner with firms (e.g., Nigeria with Awarri, Iceland and Wales with OpenAI) to build or improve native‑language models.</answer>
+<question_number>8</question_number>
+<answer>The study showing chatbot answers aligning with California views highlights cultural bias when low‑resource languages are excluded.</answer>
+<question_number>9</question_number>
+<answer>They see insufficient market value in those communities.</answer>
+<question_number>10</question_number>
+<answer>A brief technology lag can cause multi‑decade economic delay.</answer>
+<other>All questions answered per instructions.</other>

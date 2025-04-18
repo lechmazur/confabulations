@@ -1,0 +1,22 @@
+merged_bengt-samuelsson-dead.txt
+<other>The user wants me to answer 10 questions based solely on the provided article. I need to extract the answers directly or make simple logical inferences based only on the text. Each answer must be enclosed in `<answer>` tags, preceded by the question number in `<question_number>` tags. If the answer is not in the text or cannot be directly inferred, I must answer "N/A". I must not include any information outside of the specified tags.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>Dr. Ulf von Euler</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>uterine contractions, blood pressure regulation, blood clotting, asthma</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>His basic research on prostaglandins exemplifies the importance of basic science for drug development, which was the topic of his remarks.</answer>
+<question_number>7</question_number>
+<answer>His research was on molecules important in asthma.</answer>
+<question_number>8</question_number>
+<answer>His research was on molecules important in kidney stones, gallstones, and inflammation.</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>

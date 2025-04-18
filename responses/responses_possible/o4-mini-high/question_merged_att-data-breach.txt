@@ -1,0 +1,21 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>overlaps with period AT&T provided services to federal agencies, potentially exposing their phone logs</answer>
+<question_number>2</question_number>
+<answer>reliance on Snowflake’s shared environment broadens attack surface and limits AT&T’s control</answer>
+<question_number>3</question_number>
+<answer>demonstrates that inadequate data security can jeopardize government communications and contracts</answer>
+<question_number>4</question_number>
+<answer>metadata can be linked to individuals via data brokers to map their call networks</answer>
+<question_number>5</question_number>
+<answer>federal agencies’ metadata could be exposed, risking national security by revealing contact patterns</answer>
+<question_number>6</question_number>
+<answer>call/text logs can be analyzed to uncover networks of sensitive individuals</answer>
+<question_number>7</question_number>
+<answer>foreign states can use metadata to identify and target strategic communication networks</answer>
+<question_number>8</question_number>
+<answer>call-detail data reveals who government officials communicate with, exposing sensitive networks</answer>
+<question_number>9</question_number>
+<answer>cloud outsourcing creates shared infrastructure, increasing potential vulnerabilities and attack vectors</answer>
+<question_number>10</question_number>
+<answer>professor’s shared-cloud risk description applies directly to Snowflake, the third-party platform used</answer>

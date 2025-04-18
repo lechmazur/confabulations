@@ -1,0 +1,21 @@
+merged_ai-chatbots-chatgpt-math.txt
+<question_number>1</question_number>
+<answer>They predict likely words instead of following step‑by‑step rules, so models tuned for probabilities were never designed for precise calculations.</answer>
+<question_number>2</question_number>
+<answer>Despite ingesting massive math datasets that let them ace familiar tests, their multi‑step reasoning remains erratic and often wrong.</answer>
+<question_number>3</question_number>
+<answer>Chatbots generate language and call an external calculator for numbers, whereas traditional programs directly execute rule‑based calculations, as shown by Khanmigo and ChatGPT off‑loading math to calculator software.</answer>
+<question_number>4</question_number>
+<answer>It marks a move from rule‑driven number crunching toward data‑driven neural networks focused on language prediction, redefining computing beyond flawless math.</answer>
+<question_number>5</question_number>
+<answer>Their frequent arithmetic mistakes contradict the long‑held view that computers’ essence is superhuman mathematical accuracy.</answer>
+<question_number>6</question_number>
+<answer>Teachers use the bots’ wrong answers as discussion fodder for students to compare solutions and strengthen critical thinking.</answer>
+<question_number>7</question_number>
+<answer>It underscores that AI’s standout ability is now linguistic fluency, while math—once computing’s hallmark—has become a weakness.</answer>
+<question_number>8</question_number>
+<answer>The shortcomings bolster skeptics like Yann LeCun who argue that reliance on ever‑larger language models is insufficient and broader reasoning frameworks are needed.</answer>
+<question_number>9</question_number>
+<answer>By likening chatbots to liberal‑arts majors—eloquent yet poor at math—it blurs the STEM‑versus‑humanities divide.</answer>
+<question_number>10</question_number>
+<answer>Ferrucci notes that while large language models are impressive linguistically, critical domains still demand rule‑based systems because “painful precision” is required.</answer>

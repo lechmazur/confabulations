@@ -1,0 +1,40 @@
+merged_china-swimmers-doping-food.txt
+<other>Processing Question 1: The article states WADA chose not to appeal China's decision, despite skepticism from investigators and an expert. It also mentions WADA is supposed to be a backstop when national authorities fail. The question asks how this decision reflects on its role. The article implies it reflects a failure by global antidoping agencies to ensure a level playing field and that WADA did not act as a backstop in this instance.</other>
+<question_number>1</question_number>
+<answer>A failure by global antidoping agencies to ensure a level playing field.</answer>
+
+<other>Processing Question 2: The article states the 2022 case explanation was contaminated food (hamburgers). The distance runner claimed she ingested the substance unwittingly when she accidentally drank from a training partner's water bottle. These are different explanations.</other>
+<question_number>2</question_number>
+<answer>Different; the runner claimed drinking from a training partner's water bottle.</answer>
+
+<other>Processing Question 3: The article states the 2022 case explanation was contaminated food. It also states that in the case of the 23 swimmers before Tokyo, China also blamed food contamination.</other>
+<question_number>3</question_number>
+<answer>Similar; China also blamed food contamination for the 23 positive tests.</answer>
+
+<other>Processing Question 4: The article states Chinada said it "has always maintained... a firm stance of 'zero tolerance' for doping". The handling of the 2022 case involved clearing athletes who tested positive based on a contamination finding, which critics see as looking the other way. The question asks how the handling aligns with the stated policy. The article implies it does not align, as athletes who tested positive were cleared.</other>
+<question_number>4</question_number>
+<answer>Critics see it as looking the other way, not aligning with 'zero tolerance'.</answer>
+
+<other>Processing Question 5: The article states the investigation was unable to pinpoint the source of any potentially tainted meat. It does not explicitly state an implication of this inability.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<other>Processing Question 6: The article states that athletes can escape punishment if they can clear the high bar of showing exactly how they ingested the drug unwittingly through circumstances outside their control, like tainted food, but China has repeatedly invoked this explanation despite being unable to prove the source. It also notes that antidoping authorities and experts could not think of another case where a positive test for metandienone was confirmed to have come from food contamination. The question asks how the explanation challenges standard protocols. The article implies it challenges the requirement to prove the source and the rarity of this specific drug being linked to food contamination.</other>
+<question_number>6</question_number>
+<answer>It involves invoking the explanation without proving the source and involves a drug rarely linked to food contamination.</answer>
+
+<other>Processing Question 7: The article states WADA noted "several cases in the United States in the past few months where highly intricate contamination scenarios were accepted." It also states WADA reviewed the Chinese case with skepticism but found no evidence to challenge the scenario. The question asks how the stances compare. WADA accepted intricate scenarios in the U.S. and accepted the scenario in the Chinese case despite skepticism.</other>
+<question_number>7</question_number>
+<answer>WADA accepted intricate scenarios in the U.S. and accepted the scenario in the Chinese case despite skepticism.</answer>
+
+<other>Processing Question 8: The article states that under the code, athletes are responsible for what is in their bodies and must clear a high bar to show exactly how they ingested the drug unwittingly. China's investigation involved the state's security services and testing meat samples across the country, focusing on the source of contamination rather than solely the athlete's responsibility to prove the exact mechanism. The question asks which aspect contradicts standard procedures for athlete responsibility. The focus on a wide-ranging state investigation into the source, rather than solely requiring the athlete to prove the exact mechanism, could be seen as contradicting the athlete's primary responsibility.</other>
+<question_number>8</question_number>
+<answer>A wide-ranging state investigation into the source of contamination.</answer>
+
+<other>Processing Question 9: The article states that at least one I.T.A. official believed World Aquatics should appeal, but World Aquatics said it "never received any recommendation from the I.T.A. to appeal the case." This is a discrepancy.</other>
+<question_number>9</question_number>
+<answer>I.T.A. officials believed World Aquatics should appeal, but World Aquatics said it received no such recommendation.</answer>
+
+<other>Processing Question 10: The article states that China does not ever appear to have publicly disclosed its finding of food contamination in either the 2022 case or the earlier case of the 23 swimmers, as required under WADA rules. This is an inconsistency.</other>
+<question_number>10</question_number>
+<answer>Failure to publicly disclose findings of food contamination as required by WADA rules.</answer>

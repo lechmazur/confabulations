@@ -1,0 +1,22 @@
+merged_ai-voice-scarlett-johansson.txt
+<other>The user wants me to answer 10 questions based *only* on the provided article. I need to extract direct answers or infer logically based *only* on the text. I must use the specified tag format for each question and answer, and use "N/A" if the answer is not present or cannot be directly inferred from the text.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>Stubborn stereotypes about women are re-encoded again and again.</answer>
+<question_number>3</question_number>
+<answer>AI voice design sounds like crisis management.</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>By presenting synthetic voices built on layers of artifice and simulation.</answer>
+<question_number>7</question_number>
+<answer>By using Sky's voice as an example of cutting-edge technology based on old ideas, intended for comfort but leading to controversy.</answer>
+<question_number>8</question_number>
+<answer>By discussing how gender stereotypes are re-encoded in AI voices and how feminized voices are often portrayed as subservient.</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>Scarlett Johansson</answer>

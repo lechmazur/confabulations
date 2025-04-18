@@ -1,0 +1,23 @@
+merged_ai-california-bill-silicon-valley.txt
+<other>Reasoning to ensure answers are drawn only from article.</other>
+<question_number>1</question_number>
+<answer>open‑source A.I. development, because liability and safety‑test mandates could discourage code sharing and shift innovation to other states</answer>
+<question_number>2</question_number>
+<answer>Dario Amodei</answer>
+<question_number>3</question_number>
+<answer>the bill was drafted with input from the Center for A.I. Safety, which is tied to the effective altruism movement focused on existential risk</answer>
+<question_number>4</question_number>
+<answer>Dario Amodei</answer>
+<question_number>5</question_number>
+<answer>the costly safety‑test requirement for models whose development exceeds $100 million in compute and expense</answer>
+<question_number>6</question_number>
+<answer>after urging government guardrails last year, many tech firms now oppose California’s attempt to provide those very regulations</answer>
+<question_number>7</question_number>
+<answer>Anthropic</answer>
+<question_number>8</question_number>
+<answer>discouraging open‑source release of underlying code, reducing broad scrutiny and potentially heightening risks</answer>
+<question_number>9</question_number>
+<answer>it demands rigorous pre‑release safety testing even though studies show current A.I. is no more dangerous than search engines</answer>
+<question_number>10</question_number>
+<answer>the threat of legal liability via attorney‑general lawsuits and strict safety rules, which critics say could drive developers to other regions</answer>
+<other>All questions answered per instructions.</other>

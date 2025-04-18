@@ -1,0 +1,22 @@
+merged_ai-data-restrictions.txt
+<other>Based on the provided article, I will answer each question in order, using only the information given in the text. I will adhere to the specified tag format and use "N/A" where the answer is not present or cannot be logically inferred from the article.</other>
+<question_number>1</question_number>
+<answer>Cannot afford to license data directly from publishers</answer>
+<question_number>2</question_number>
+<answer>Changing the license on the data doesn't retroactively revoke that permission, and the primary impact is on later-arriving actors</answer>
+<question_number>3</question_number>
+<answer>Researchers doubt that today's A.I. systems are capable of generating enough high-quality synthetic data to replace the human-created data they're losing</answer>
+<question_number>4</question_number>
+<answer>The web will start shutting its doors</answer>
+<question_number>5</question_number>
+<answer>They rely on public data sets and can't afford to license data directly from publishers, while major companies already have data</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>The restrictions primarily affect smaller start-ups or researchers</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>75 percent</answer>

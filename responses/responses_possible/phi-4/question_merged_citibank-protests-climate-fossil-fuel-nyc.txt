@@ -1,8 +1,7 @@
 merged_citibank-protests-climate-fossil-fuel-nyc.txt
 <other>The article provides information about the protest movement known as Summer of Heat on Wall Street, which targets Citigroup for its investments in fossil fuel projects. movement The challenges Citigroup's claims of supporting a transition to a low-carbon economy by highlighting the bank's significant financial contributions to new oil and gas projects, which contradict global climate goals. The article also mentions the bank's climate neutrality targets for 0205 and its $1 trillion sustainable finance goal, which argue activists are undermined by its current investment.</ practicesother>
 
-<question_number>1</question>
-_number<answer>The protest movement challenges Citigroup's claim by its highlighting significant investments in new oil and gas projects, which contradict the bank's stated of goal supporting a transition to a low-carbon economy.</answer>
+<question_number>1</question_number><answer>The protest movement challenges Citigroup's claim by its highlighting significant investments in new oil and gas projects, which contradict the bank's stated of goal supporting a transition to a low-carbon economy.</answer>
 
 <other>The article discusses the protest movement's focus on Citigroup's global investments in fossil fuels, which activists argue contribute to local climate impacts, such as heat waves and environmental degradation in specific regions like the Gulf Coast. This focus underscores the tension between Citigroup's international financial practices and the immediate climate impacts experienced locally.</other>
 
@@ -16,7 +15,7 @@ _number<answer>The protest movement challenges Citigroup's claim by its highligh
 
 <other>The article indicates that the protest movement targets Citigroup for its role in financing fossil fuel projects, revealing an understanding of the interconnectedness of global financial systems. The activists argue that Citigroup's investments support the continued use of fossil fuels, which has global climate implications.</other>
 
-<_numberquestion>4</question_number>
+<question_number>4</question_number>
 <answer>The focus an reveals understanding the of interconnectedness by highlighting Citigroup's role in financing fossil fuel projects, which have global climate implications.</answer>
 
 <other>The article mentions Citigroup's climate neutrality targets for 2050 and its $1 trillion sustainable finance goal. The protest movement critiques these targets by arguing that the bank's current investments in fossil fuels undermine its public image as a leader in sustainable financeother.</>

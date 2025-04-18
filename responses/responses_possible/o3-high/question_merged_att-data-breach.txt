@@ -1,0 +1,21 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>It overlaps the period when AT&T was providing service to federal agencies, meaning phone logs of government customers under those contracts could have been exposed, posing national security risk.</answer>
+<question_number>2</question_number>
+<answer>Storing data on the third‑party cloud platform Snowflake placed the records outside AT&T’s direct control in a shared environment, adding attack vectors that AT&T’s internal defenses alone could not block.</answer>
+<question_number>3</question_number>
+<answer>The exposure of federal‐agency phone logs shows that a contractor’s data lapse can endanger national security, highlighting the critical need for airtight data management by companies with government ties.</answer>
+<question_number>4</question_number>
+<answer>By linking phone numbers to individuals through data brokers and analyzing which numbers interacted, attackers can map communication patterns of national‑security personnel.</answer>
+<question_number>5</question_number>
+<answer>Federal agencies using AT&T services may have had their call and text logs revealed, potentially compromising their operational security.</answer>
+<question_number>6</question_number>
+<answer>Because the records list every number a phone interacted with, they allow reconstruction of communication networks once the numbers are matched to people in sensitive roles.</answer>
+<question_number>7</question_number>
+<answer>The metadata reveals who contacts whom, offering foreign nation states intelligence on government and national‑security communication networks.</answer>
+<question_number>8</question_number>
+<answer>The call‑and‑text logs identify interaction links, so once numbers are tied to officials, their sensitive communication networks become visible.</answer>
+<question_number>9</question_number>
+<answer>Schaumont notes that cloud storage places data in a shared space with many users, creating more avenues for attackers and thus raising customers’ breach exposure.</answer>
+<question_number>10</question_number>
+<answer>Schaumont’s point about shared, vulnerable cloud infrastructure is exemplified by Snowflake—AT&T’s cloud data hub—being the vector from which the records were stolen.</answer>
