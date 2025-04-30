@@ -1,0 +1,33 @@
+merged_china-ai-microchips.txt
+
+
+<question_number>1</question_number>
+<answer>Nvidia created a slightly downgraded chip (A800) by disabling some connections on the A100, allowing China to achieve practically the same results while technically complying with regulations</answer>
+<other>Other information: The loophole involved modifying the chip to meet government parameters while maintaining functionality.</other>
+<question_number>2</question_number>
+<answer>The bans cost American companies billions in sales, with executives arguing restrictions would give Chinese competitors an edge, while officials defended them as necessary for national security</answer>
+<other>Other information: The tension between economic losses and security priorities illustrates the complexity.</other>
+<question_number>3</question_number>
+<answer>Nvidia microchips (specifically A100s and H100s)</answer>
+<other>Other information: The transaction involved servers with over 2,000 advanced Nvidia chips.</other>
+<question_number>4</question_number>
+<answer>Sun Yat-sen University</answer>
+<other>Other information: The university used restricted A100 chips for missile and torpedo modeling starting November 2022.</other>
+<question_number>5</question_number>
+<answer>Nettrix</answer>
+<other>Other information: Formed by former Sugon executives, Nettrix became a partner of Nvidia, Intel, and Microsoft.</other>
+<question_number>6</question_number>
+<answer>Development of hypersonic missiles</answer>
+<other>Other information: China's hypersonic missile test in 2021, which used U.S. chip technology, prompted broader restrictions.</other>
+<question_number>7</question_number>
+<answer>Label banned chips as tea or toys</answer>
+<other>Other information: Logistics employee Wang Qiang advised clients to mislabel shipments to evade detection.</other>
+<question_number>8</question_number>
+<answer>Hypersonic missile</answer>
+<other>Other information: China tested a hypersonic missile that circled the Earth, surpassing U.S. capabilities.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Other information: The article mentions a university affiliated with the Chinese Academy of Sciences but does not specify its name.</other>
+<question_number>10</question_number>
+<answer>550</answer>
+<other>Other information: C4ADS procurement records showed at least 550 restricted Nvidia chips sold to state-linked institutions.</other>

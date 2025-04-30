@@ -1,0 +1,33 @@
+merged_bird-flu-cows-milk.txt
+
+
+<question_number>1</question_number>
+<answer>Wildlife, including wild birds, may be involved in transporting the virus to new locations and spreading it between farms</answer>
+<other>Genomic sequencing showed that cows passed the virus to cats, raccoons, and wild birds, with wild blackbirds carrying a virus matching that in cows from two states. This implies wildlife can disseminate H5N1 across farms.</other>
+<question_number>2</question_number>
+<answer>Infection may start in the upper respiratory tract before moving to mammary glands</answer>
+<other>The study found asymptomatic cows had higher nasal virus presence than sick cows, suggesting the respiratory tract is an initial replication site, challenging the prior focus on mammary gland transmission.</other>
+<question_number>3</question_number>
+<answer>Surveillance relying on milk samples may miss asymptomatic spread</answer>
+<other>Asymptomatic cows shed virus more frequently in urine and nasal swabs than milk, indicating milk testing alone is insufficient to detect all infections.</other>
+<question_number>4</question_number>
+<answer>Other species like cats and raccoons can spread the virus, making cow/equipment controls insufficient</answer>
+<other>The study found cows transmitted H5N1 to cats and raccoons, which could spread it further, suggesting movement restrictions on cows and equipment alone cannot stop the outbreak.</other>
+<question_number>5</question_number>
+<answer>Wild birds might transport the virus between farms or to other wild animals</answer>
+<other>Wild blackbirds near a Texas farm carried a virus nearly identical to that in cows from Texas and Kansas, raising the possibility of inter-farm spread via birds.</other>
+<question_number>6</question_number>
+<answer>Wild blackbirds</answer>
+<other>Two infected wild blackbirds found 5-8 miles from a Texas farm had a virus closely matching that in cows from Texas and Kansas.</other>
+<question_number>7</question_number>
+<answer>Asymptomatic cows shed virus more in urine and noses than milk</answer>
+<other>The study found asymptomatic cows were more likely to have virus in nasal swabs and urine than milk, indicating current milk-focused surveillance may overlook infections.</other>
+<question_number>8</question_number>
+<answer>Asymptomatic cows shed more virus in urine and noses than milk</answer>
+<other>Asymptomatic cows had higher viral presence in nasal and urine samples compared to milk, contradicting the assumption that milk is the primary transmission route.</other>
+<question_number>9</question_number>
+<answer>Other species (cats, raccoons, wild birds) spread the virus, undermining farm-focused measures</answer>
+<other>Genomic analysis showed cows infected other species, which could spread H5N1 further, indicating that controlling only cows and equipment is inadequate.</other>
+<question_number>10</question_number>
+<answer>Asymptomatic cows had more virus in noses than sick cows</answer>
+<other>The study found asymptomatic cows were more likely to have virus in nasal swabs compared to visibly sick cows, revealing an unexpected link between symptom absence and nasal viral presence.</other>

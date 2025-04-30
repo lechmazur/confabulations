@@ -1,0 +1,42 @@
+merged_ai-chatbots-chatgpt-math.txt
+
+
+<question_number>1</question_number>
+<answer>They were designed for language tasks based on probability and pattern recognition, not rules-based mathematical calculations</answer>
+<other>Article states chatbots like ChatGPT are "fine-tuned for determining probabilities, not doing rules-based calculations" and "were never designed to do [math]."</other>
+
+<question_number>2</question_number>
+<answer>Training data improves pattern recognition but math requires precise accuracy</answer>
+<other>Article notes chatbots excel with vast training data but still have "erratic performance in math" because "likelihood is not accuracy" and math demands exactness beyond probabilistic language models.</other>
+
+<question_number>3</question_number>
+<answer>Traditional systems follow rigid rules; A.I. chatbots use neural networks and data-driven prediction</answer>
+<other>Article contrasts "step-by-step rules" of traditional computing with chatbots' neural network approach, citing Khanmigo's use of calculator programs for math as an example of hybrid solutions.</other>
+
+<question_number>4</question_number>
+<answer>Computing shifted from "math on steroids" to language-focused probabilistic models</answer>
+<other>Article explicitly states computing's historical definition as "math on steroids" but notes A.I. chatbots represent a "sharp break" by prioritizing language fluency over numerical precision.</other>
+
+<question_number>5</question_number>
+<answer>A.I. demonstrates computing can excel at language tasks without strong mathematical accuracy</answer>
+<other>Article contrasts traditional computing's "tireless, fast, accurate calculating machines" with A.I.'s language proficiency despite math shortcomings, redefining computing's core capabilities.</other>
+
+<question_number>6</question_number>
+<answer>Using errors to teach critical thinking through comparison and analysis</answer>
+<other>Article describes Kirk Schneider's method: students discuss chatbot answers, asking "Who's right?" to "sharpen critical thinking" and evaluate solution methods.</other>
+
+<question_number>7</question_number>
+<answer>Strengths shifted from mathematical precision (STEM) to linguistic flexibility (liberal arts)</answer>
+<other>Article states A.I. chatbots are "more liberal arts major than numbers whiz," contrasting with computing's historical math-centric focus.</other>
+
+<question_number>8</question_number>
+<answer>Highlights debate between scaling large language models vs. developing logic-based world modeling</answer>
+<other>Article describes two camps: Silicon Valley's "singular path" of scaling LLMs vs. Yann LeCun's advocacy for "world modeling" systems with common sense reasoning.</other>
+
+<question_number>9</question_number>
+<answer>Shows technology (STEM) can excel in humanities-like language tasks over mathematical rigor</answer>
+<other>Article explicitly states A.I. chatbots represent a break from computing's math focus, being "more liberal arts major than numbers whiz."</other>
+
+<question_number>10</question_number>
+<answer>Language skills alone are insufficient for critical applications requiring "painful precision"</answer>
+<other>Article quotes David Ferrucci using structured software with LLMs for business decision-making, emphasizing that "essential systems" need accuracy beyond chatbots' probabilistic outputs.</other>

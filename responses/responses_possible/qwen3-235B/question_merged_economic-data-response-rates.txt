@@ -1,0 +1,42 @@
+merged_economic-data-response-rates.txt
+
+
+<question_number>1</question_number>
+<answer>funding decline has hindered modernization efforts</answer>
+<other>The article states that funding for the Bureau of Labor Statistics has fallen 18% in inflation-adjusted terms since 2009, and agencies have had "less opportunity to do research and to advance modernization plans."</other>
+
+<question_number>2</question_number>
+<answer>highlighted the need for legal protections beyond existing norms</answer>
+<other>The report notes the Supreme Court blocked the 2020 census citizenship question but emphasized that the episode revealed "few legal provisions ensuring statistical agencies' independence," prompting calls for statutory protections.</other>
+
+<question_number>3</question_number>
+<answer>Bureau of Labor Statistics</answer>
+<other>The article explicitly links the Bureau of Labor Statistics' 18% budget decline since 2009 to falling response rates in the Current Population Survey, which underpins unemployment data.</other>
+
+<question_number>4</question_number>
+<answer>unemployment rate and labor force statistics</answer>
+<other>The article states Federal Reserve officials use government data (including unemployment) to set interest rates, while Congress and investors rely on it for stimulus decisions and market bets.</other>
+
+<question_number>5</question_number>
+<answer>neglect could lead to data gaps for smaller demographic groups</answer>
+<other>The report compares statistical systems to infrastructure, warning that underfunding and declining response rates may result in "less data being reported" for groups like Asian Americans and teenagers.</other>
+
+<question_number>6</question_number>
+<answer>demonstrated that norms alone are insufficient, necessitating statutory safeguards</answer>
+<other>The Supreme Court case highlighted reliance on "norms for autonomy," which the report argues must be replaced with "explicit legislative protections" to prevent political interference.</other>
+
+<question_number>7</question_number>
+<answer>employment and unemployment data</answer>
+<other>The article states this data influences interest rates (Federal Reserve), unemployment benefits (Congress), and investor decisions tied to monthly job growth reports.</other>
+
+<question_number>8</question_number>
+<answer>both involve reliability concerns leading to reduced data collection</answer>
+<other>The British Labour Force Survey was suspended for reliability, while the Bureau of Labor Statistics plans to cut the Current Population Survey size due to similar challenges.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The report does not explicitly state a conflict between data-sharing proposals and other recommendations like political independence or privacy protections.</other>
+
+<question_number>10</question_number>
+<answer>historically based on norms but requires legislative codification</answer>
+<other>The article states that statistical agency autonomy has relied on "norms" but argues Congress must enact laws to make "professional autonomy statutory" to prevent politicization.</other>

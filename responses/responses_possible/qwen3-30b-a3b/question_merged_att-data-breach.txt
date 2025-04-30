@@ -1,0 +1,23 @@
+merged_att-data-breach.txt
+
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>The involvement of a third-party cloud platform (Snowflake) complicates security measures as it introduces shared infrastructure, increasing potential attack vectors and making it trickier to secure data.</answer>
+<question_number>3</question_number>
+<answer>The breach underscores the importance of secure data management for companies with government ties, as exposed data could compromise national security by revealing communication networks of sensitive individuals.</answer>
+<question_number>4</question_number>
+<answer>Exposed phone records can be linked to individuals via online searches, enabling identification of communication patterns, including those of individuals in national security roles.</answer>
+<question_number>5</question_number>
+<answer>The type of data exposed (call records) could allow identification of communication networks, potentially impacting federal agencies by exposing sensitive interactions.</answer>
+<question_number>6</question_number>
+<answer>The compromised data, when linked to names through data brokers, can reveal communication networks of individuals in sensitive positions, such as those in national security roles.</answer>
+<question_number>7</question_number>
+<answer>The data's nature (call records) could benefit foreign nation states by enabling them to map communication networks of individuals in sensitive roles for espionage or targeting.</answer>
+<question_number>8</question_number>
+<answer>The compromised data allows mapping of communication networks, which could expose sensitive interactions of government officials through linked phone numbers and names.</answer>
+<question_number>9</question_number>
+<answer>Outsourcing to cloud networks increases exposure as shared infrastructure creates more opportunities for potential attacks, according to the cybersecurity expert.</answer>
+<question_number>10</question_number>
+<answer>The professor's explanation applies to Snowflake, as it is a third-party cloud platform that stores data, increasing risks through shared infrastructure.</answer>

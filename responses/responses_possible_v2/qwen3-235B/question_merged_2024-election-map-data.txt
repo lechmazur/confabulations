@@ -1,0 +1,24 @@
+merged_2024-election-map-data.txt
+
+
+<question_number>1</question_number>
+<answer>precinct-level results that exclude early or mail-in absentee ballots</answer>
+<other>Other information: The article mentions that precinct-level data often excludes early or mail-in absentee ballots, making it incomplete, and that the choropleth method was chosen despite this limitation. The question's hypothetical scenario implies that a visualization prioritizing popular vote would require complete data, rendering the incomplete precinct-level results unsuitable.</other>
+<question_number>2</question_number>
+<answer>73 percent</answer>
+<question_number>3</question_number>
+<answer>early or mail-in absentee ballots</answer>
+<question_number>4</question_number>
+<answer>matching results to precinct boundaries</answer>
+<question_number>5</question_number>
+<answer>parsing data trapped in PDF files</answer>
+<question_number>6</question_number>
+<answer>does not account for population</answer>
+<question_number>7</question_number>
+<answer>submissions to add missing data or notify inaccuracies</answer>
+<question_number>8</question_number>
+<answer>exclusion of places with incomplete data (e.g., missing early/mail-in ballots)</answer>
+<question_number>9</question_number>
+<answer>submissions from election officials, data enthusiasts, or citizens</answer>
+<question_number>10</question_number>
+<answer>varying formats of data released by different entities</answer>

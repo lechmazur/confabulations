@@ -1,0 +1,42 @@
+merged_alzheimers-treatment-kisunla-donanemab.txt
+
+
+<question_number>1</question_number>
+<answer>significant safety risks including swelling and bleeding in the brain, and skepticism about whether the cognitive decline slowing is noticeable to patients</answer>
+<other>Other details include Dr. Greicius's criticism about lack of correlation between amyloid removal and clinical response.</other>
+
+<question_number>2</question_number>
+<answer>might discourage patients from participating in trials for potentially better treatments</answer>
+<other>Dr. Greicius stated this concern explicitly.</other>
+
+<question_number>3</question_number>
+<answer>no correlation between removal of amyloid plaques and clinical response in individual patients</answer>
+<other>Dr. Greicius emphasized this point as a key skepticism factor.</other>
+
+<question_number>4</question_number>
+<answer>higher rates of swelling and bleeding compared to Leqembi could negatively affect perceptions of Kisunla's safety, though comparisons are difficult due to differing trial factors</answer>
+<other>The article notes Kisunla had higher adverse event rates but cautions against direct comparisons.</other>
+
+<question_number>5</question_number>
+<answer>patients can stop Kisunla after amyloid clearance, reducing overall cost and treatment burden</answer>
+<other>Lilly specifically cited this discontinuation possibility to justify the higher price.</other>
+
+<question_number>6</question_number>
+<answer>emphasis on anti-amyloid drugs might discourage participation in trials for other Alzheimer's treatments</answer>
+<other>Directly quoted in the article regarding potential negative impact on trial enrollment.</other>
+
+<question_number>7</question_number>
+<answer>Kisunla is administered monthly and can be discontinued after amyloid clearance, unlike Leqembi which requires biweekly infusions indefinitely</answer>
+<other>The article contrasts Kisunla's monthly dosing and stoppability against Leqembi's schedule.</other>
+
+<question_number>8</question_number>
+<answer>amyloid</answer>
+<other>The article states Kisunla targets amyloid plaques in Alzheimer's brains.</other>
+
+<question_number>9</question_number>
+<answer>Dr. Michael Greicius</answer>
+<other>He explicitly criticized the lack of correlation between amyloid removal and clinical outcomes.</other>
+
+<question_number>10</question_number>
+<answer>measuring tau levels showed participants with intermediate tau declined more slowly on donanemab than those with high tau</answer>
+<other>The article links earlier treatment (lower tau) to better outcomes in the trial data.</other>

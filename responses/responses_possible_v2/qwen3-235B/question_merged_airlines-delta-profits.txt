@@ -1,0 +1,21 @@
+merged_airlines-delta-profits.txt
+
+
+<question_number>1</question_number>
+<answer>Boeing's production delays</answer>
+<other>The article explicitly states that Boeing's slowed production and delivery delays, combined with Airbus's inability to compensate due to its own backlogs, directly constrained airlines' expansion plans. Spirit's bankruptcy is mentioned but not causally linked as the most critical factor.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The text does not explicitly name Pratt & Whitney or link it to Airbus engine problems, nor does it describe an "irreversible supply chain bottleneck" or specify that older fleets were disproportionately affected by the sequence of events.</other>
+<question_number>3</question_number>
+<answer>Southwest focused on cost-cutting; JetBlue expanded premium seating</answer>
+<other>The article directly contrasts Southwest's cost-reduction efforts post-Elliott Management pressure with JetBlue's strategy to add premium seats for profit growth, reflecting divergent responses to market pressures.</other>
+<question_number>4</question_number>
+<answer>Existing widebody fleets avoid dependency on delayed narrowbody deliveries</answer>
+<other>The text highlights that carriers with existing widebody fleets (Delta, United, American) are advantaged because they can leverage current assets, while others face delays from narrowbody order backlogs at Boeing and Airbus.</other>
+<question_number>5</question_number>
+<answer>Boeing 737 Max safety incident, technology outage cancellations, Spirit Airlines bankruptcy</answer>
+<other>The article attributes reduced capacity (and thus improved pricing power) to these three crises: safety-related Boeing delays, tech-outage disruptions, and Spirit's bankruptcy-driven capacity withdrawal.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article does not explicitly frame a "conflict" between the five-year challenge period and 2025 projections, instead presenting 2025 optimism as a tentative outcome despite lingering vulnerabilities.</other>

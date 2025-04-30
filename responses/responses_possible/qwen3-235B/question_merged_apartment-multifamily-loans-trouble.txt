@@ -1,0 +1,42 @@
+merged_apartment-multifamily-loans-trouble.txt
+
+
+<question_number>1</question_number>
+<answer>multifamily units can be financed by government-backed mortgage giants Fannie Mae and Freddie Mac, which act as a fail-safe other asset classes lack</answer>
+<other>Other factors like continued housing demand are mentioned but not the primary reason.</other>
+
+<question_number>2</question_number>
+<answer>fixed-rate mortgages require refinancing into higher interest rates, whereas floating-rate mortgages already have rising payments tied to current rates</answer>
+<other>Text specifies floating-rate payments increased with rate hikes, while fixed-rate borrowers face refinancing challenges.</other>
+
+<question_number>3</question_number>
+<answer>they finance or take over multifamily loans if regional/investment banks stop making them</answer>
+<other>Article explicitly states Fannie Mae and Freddie Mac provide this safety net.</other>
+
+<question_number>4</question_number>
+<answer>floating interest rate mortgage caused interest payments to surge over 50%, leading to default</answer>
+<other>Reserve property in Brandon, Fla., example directly links floating rates to financial distress.</other>
+
+<question_number>5</question_number>
+<answer>analysts expect many more apartment loans to become distressed despite current low delinquency rates</answer>
+<other>Watch lists reflect anticipated future defaults, not current delinquency levels.</other>
+
+<question_number>6</question_number>
+<answer>developers overbuilt luxury apartments expecting continued migration, but population growth slowed sharply</answer>
+<other>Article attributes oversupply to pandemic-era migration followed by reduced demand.</other>
+
+<question_number>7</question_number>
+<answer>Fannie Mae and Freddie Mac</answer>
+<other>Explicitly named as government-backed entities supporting multifamily loans.</other>
+
+<question_number>8</question_number>
+<answer>Sun Belt</answer>
+<other>Office challenges are in Northeast/West Coast; multifamily issues are concentrated in Sun Belt.</other>
+
+<question_number>9</question_number>
+<answer>floating interest rate mortgages</answer>
+<other>Article states analysts are most worried about floating-rate loans due to rising debt service costs.</other>
+
+<question_number>10</question_number>
+<answer>Tides Equities</answer>
+<other>Firm expanded portfolio to $6.5 billion but now struggles with falling rents and prices.</other>

@@ -1,0 +1,23 @@
+merged_ai-data-restrictions.txt
+
+
+<question_number>1</question_number>
+<answer>can't afford to license data directly from publishers</answer>
+<question_number>2</question_number>
+<answer>restrictions primarily impact smaller companies and researchers, not major tech companies</answer>
+<question_number>3</question_number>
+<answer>insufficient high-quality synthetic data to replace human-created data</answer>
+<question_number>4</question_number>
+<answer>web sources will restrict access to data</answer>
+<question_number>5</question_number>
+<answer>rely on public datasets and can't afford licensing deals, unlike major companies</answer>
+<question_number>6</answer>
+<answer>major companies retain existing data access while new users face restrictions</answer>
+<question_number>7</answer>
+<answer>smaller companies and researchers face barriers to entry</answer>
+<question_number>8</question_number>
+<answer>need for consent and compensation from data creators</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>

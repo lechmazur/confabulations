@@ -1,0 +1,34 @@
+merged_africa-snakebite-treatment-access.txt
+
+
+<question_number>1</question_number>
+<answer>Progression of hemotoxic venom effects from puff adder bite causing irreversible tissue necrosis despite antivenom administration</answer>
+<other>Beatrice's amputation resulted from puff adder venom's hemotoxic properties destroying blood-clotting factors and causing systemic bleeding, leading to tissue death that antivenom couldn't reverse after critical damage occurred.</other>
+
+<question_number>2</question_number>
+<answer>Regional venom variation in toxin composition between Indian kraits and Kenyan puff adders rendering cross-species antivenom ineffective</answer>
+<other>Indian antivenom targets neurotoxic krait venom, while Kenyan puff adders produce hemotoxic venom with distinct pathophysiological effects that local antivenoms must specifically counteract.</other>
+
+<question_number>3</question_number>
+<answer>Neurotoxins from cobras/mambas and hemotoxins from puff adders requiring dual-target monoclonal antibody development</answer>
+<other>Researchers prioritize creating monoclonal antibodies that neutralize both neurotoxins (causing paralysis) and hemotoxins (disrupting blood clotting) to address Kenya's three deadliest snake venoms simultaneously.</other>
+
+<question_number>4</question_number>
+<answer>Misidentification of spitting cobra venom-induced corneal damage as ordinary eye trauma delaying critical antivenom treatment</answer>
+<other>Traditional healers might mistake venom-induced ocular injuries for common eye ailments, leading to inappropriate herbal treatments instead of urgent antivenom administration for neurotoxin exposure.</other>
+
+<question_number>5</question_number>
+<answer>Rainy season flooding forcing snakes into human habitats during crop cultivation periods combined with open-air sleeping practices</answer>
+<other>Seasonal migration patterns drive snakes into agricultural areas during rainy seasons, while dry seasons concentrate snake-human encounters around scarce water sources near poorly constructed housing.</other>
+
+<question_number>6</question_number>
+<answer>Frontal erect fangs delivering neurotoxins directly into tissue, coffin-shaped head morphology enabling deep envenomation, and gravitational defiance in vertical posture</answer>
+<other>Black mambas' anatomical features (front fangs, head shape) and arboreal capabilities allow more efficient neurotoxin delivery compared to puff adders' retractable fangs and ground-based hemotoxic attacks.</other>
+
+<question_number>7</question_number>
+<answer>Refrigeration requirements for antivenom conflicting with rural Kenya's unreliable cold chain infrastructure delaying treatment beyond six-hour window</answer>
+<other>Pregnant women's physiological changes and healthcare access barriers compound thermal instability challenges, increasing maternal-fetal mortality risks from delayed antivenom administration.</other>
+
+<question_number>8</question_number>
+<answer>Tourniquets causing ischemic limb damage requiring amputation while delaying effective antivenom therapy</answer>
+<other>Traditional tourniquet use exacerbates tissue death from restricted blood flow even as venom continues spreading, creating iatrogenic injuries requiring surgical intervention beyond venom effects alone.</other>

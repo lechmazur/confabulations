@@ -1,0 +1,33 @@
+merged_alzheimers-blood-test.txt
+
+
+<question_number>1</question_number>
+<answer>lack of preventative treatments and risk of anxiety</answer>
+<other>Experts caution against using the blood test for cognitively healthy individuals because there are no therapies to offer if pathology is detected and due to the risk of psychological reactions like anxiety.</other>
+<question_number>2</question_number>
+<answer>blood test is more accurate (10% error vs. 41%)</answer>
+<other>The blood test was wrong ~10% of the time, while primary care doctors were incorrect 41% of the time when they believed patients did not have Alzheimer's.</other>
+<question_number>3</question_number>
+<answer>many with subjective cognitive decline do not develop Alzheimer's</answer>
+<other>Dr. Hansson noted lower accuracy in subjective cognitive decline because many individuals in this stage do not turn out to have Alzheimer's.</other>
+<question_number>4</question_number>
+<answer>integration into hospital laboratory systems</answer>
+<other>Dr. Boxer stated the hurdle is integrating blood test analysis into hospital labs rather than requiring external labs.</other>
+<question_number>5</question_number>
+<answer>ptau-217</answer>
+<other>The study found measuring ptau-217 provided the most accurate assessment of Alzheimer's pathology compared to other tests.</other>
+<question_number>6</question_number>
+<answer>research studies</answer>
+<other>Dr. Boxer emphasized blood tests should only be used in research contexts for asymptomatic individuals until preventative treatments exist.</other>
+<question_number>7</question_number>
+<answer>kidney disease</answer>
+<other>The article mentions kidney disease can cause elevated ptau-217 levels unrelated to Alzheimer's.</other>
+<question_number>8</question_number>
+<answer>anxiety and psychological reactions</answer>
+<other>Experts raised concerns about anxiety and other psychological reactions from predicting future Alzheimer's in healthy individuals.</other>
+<question_number>9</question_number>
+<answer>41%</answer>
+<other>Primary care doctors were incorrect 41% of the time when they thought patients did not have Alzheimer's.</other>
+<question_number>10</question_number>
+<answer>increase access to screening</answer>
+<other>Dr. Boxer noted wider use in primary care could increase access for racial/ethnic minorities and low-income/rural communities.</other>

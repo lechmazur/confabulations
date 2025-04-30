@@ -1,0 +1,23 @@
+merged_brazil-plane-crash-investigation.txt
+
+
+<question_number>1</question_number>
+<answer>The article mentions the ATR 72-500's de-icing system was improved after a 1994 crash, potentially misleading investigators to initially dismiss system failure as a cause despite the upgrades.</answer>
+<question_number>2</question_number>
+<answer>The article states the plane's speed dropped sharply but not low enough to stall unless icing was severe, creating a conditional link between speed, altitude, and extreme icing conditions.</answer>
+<question_number>3</question_number>
+<answer>The crash location's temperature (63°F) challenges the icing theory, as warmer air typically reduces ice formation, conflicting with the hypothesis of severe icing causing the stall.</answer>
+<question_number>4</question_number>
+<answer>The plane spun and crashed on its belly, which contradicts the expectation that a stall alone would result in a more straightforward, non-spinning descent.</answer>
+<question_number>5</question_number>
+<answer>The plane's last recorded speed (325 mph) did not drop to typical stall speeds, requiring severe icing to alter wing shape and cause a stall at higher speeds, complicating the primary theory.</answer>
+<question_number>6</question_number>
+<answer>The pilots did not communicate with air traffic controllers before the crash, violating standard protocol to alert controllers when descending to avoid icing conditions.</answer>
+<question_number>7</question_number>
+<answer>The crash occurred in Brazil (63°F), contradicting the assumption that severe icing, typically associated with colder climates like Antarctica, could occur under such conditions.</answer>
+<question_number>8</question_number>
+<answer>The improved de-icing system implemented after the 1994 crash complicates the investigation by suggesting system failure was less likely, shifting focus to other factors like pilot response or undetected ice buildup.</answer>
+<question_number>9</question_number>
+<answer>The plane's sensitivity to ice, as noted by the airline's director, becomes crucial because it implies inherent design vulnerabilities despite de-icing advancements, supporting the icing theory.</answer>
+<question_number>10</question_number>
+<answer>The plane fell from 17,000 feet, challenging assumptions that ice accumulation requires prolonged exposure, as the rapid descent suggests sudden or extreme icing conditions developed quickly.</answer>

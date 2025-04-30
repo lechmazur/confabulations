@@ -1,0 +1,33 @@
+merged_apple-epic-spotify-app-stores.txt
+
+
+<question_number>1</question_number>
+<answer>Apple introduced a 5 percent "acquisition fee" and a 20 percent "store fee" on sales through links for purchases in apps, effectively maintaining a 25 percent commission despite the European Commission's antitrust ruling.</answer>
+<other>Other details: The fees contradict Apple's compliance claims by retaining revenue mechanisms that limit developers' ability to bypass Apple's payment systems, as highlighted by Spotify's inability to include fee-free purchase links.</other>
+<question_number>2</question_number>
+<answer>Apple created a "scare screen" warning users about third-party app stores and made the download process cumbersome, undermining its claim of compliance with the Digital Markets Act while maintaining restrictive user experience practices.</answer>
+<other>Other details: Tim Sweeney criticized Apple's intentional difficulty in downloading third-party stores, contrasting Apple's stated commitment to user privacy and regulatory compliance.</other>
+<question_number>3</question_number>
+<answer>To maintain revenue.</answer>
+<other>Other details: Gene Burrus stated Apple is "determined not to lose a dime of revenue," as evidenced by the new fees introduced despite the antitrust ruling.</other>
+<question_number>4</question_number>
+<answer>Apple's approval, termination, and restoration of Epic Games Sweden's account illustrates a strategy of testing boundaries and delaying compliance to wear down regulators, as suggested by Tim Sweeney.</answer>
+<other>Other details: The process reflects Apple's broader approach of incremental concessions while resisting full compliance with regulatory demands.</other>
+<question_number>5</question_number>
+<answer>It addresses antitrust concerns by opening access to NFC technology for payments, hotel keys, and rewards cards in response to the Justice Department lawsuit alleging a smartphone monopoly.</answer>
+<other>Other details: The move signals a concession to regulatory pressure while maintaining control over terms and fees, which Apple has not disclosed publicly.</other>
+<question_number>6</question_number>
+<answer>Apple allowed Spotify to display summer promotional pricing but prevented inclusion of fee-free purchase links, maintaining a 25 percent commission through new fees, which contradicts the intent of the antitrust ruling.</answer>
+<other>Other details: The European Commission fined Apple nearly $2 billion for blocking promotions, but Apple's new fees effectively limit developers' ability to fully comply with the ruling.</other>
+<question_number>7</question_number>
+<answer>Apple's intentional creation of a cumbersome download process for third-party app stores suggests reluctance to support third-party developers despite regulatory requirements.</answer>
+<other>Other details: Tim Sweeney accused Apple of "malicious intent" in designing a difficult user experience for installing third-party stores, indicating Apple's prioritization of its own ecosystem.</other>
+<question_number>8</question_number>
+<answer>Apple introduced alternative fees and processes to appear compliant while facing intensified scrutiny, including charges from the European Commission for violating the Digital Markets Act.</answer>
+<other>Other details: The conflict is evident in Apple's dual approach of making concessions (e.g., third-party app stores) while maintaining restrictive practices (e.g., fees, warnings) to protect revenue.</other>
+<question_number>9</question_number>
+<answer>Prioritizing revenue retention over full compliance.</answer>
+<other>Other details: The introduction of fees totaling up to 25 percent on linked purchases demonstrates Apple's focus on preserving its commission structure despite regulatory changes.</other>
+<question_number>10</question_number>
+<answer>Apple selectively addresses regulatory challenges by allowing NFC chip access in multiple countries while maintaining control over terms and fees, reflecting a phased strategy to manage global scrutiny.</answer>
+<other>Other details: The decision applies to seven countries, including the U.S. and Australia, but Apple has not disclosed specific terms, indicating a cautious approach to compliance without full ecosystem openness.</other>
