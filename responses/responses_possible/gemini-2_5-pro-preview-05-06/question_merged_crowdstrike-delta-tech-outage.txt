@@ -1,0 +1,42 @@
+merged_crowdstrike-delta-tech-outage.txt
+<other>The user wants me to answer questions based solely on the provided article. I will go through each question and extract the answer from the text, or state N/A if the information is not available. I will use the specified tagging format.</other>
+
+<question_number>1</question_number>
+<answer>It contributed to a misleading narrative that CrowdStrike was solely responsible for Delta's IT decisions and response to the outage, and, according to CrowdStrike, showed Delta was not taking responsibility for its own actions.</answer>
+<other>The article states CrowdStrike's letter mentioned the threat of a lawsuit "has contributed to a misleading narrative that CrowdStrike is responsible for Delta's IT decisions and response to the outage." It also says CrowdStrike's lawyers asked Delta "why it had turned down the offer of help" and the letter stated Delta would have to explain "why CrowdStrike took responsibility for its actions ... while Delta did not."</other>
+
+<question_number>2</question_number>
+<answer>It may reveal details suggesting Delta's own systems and vulnerabilities contributed to its struggles, such as its systems being more dependent on the affected software or its crew scheduling system being overloaded, potentially indicating shared responsibility rather than CrowdStrike's sole responsibility.</answer>
+<other>The article says, "Details of why the airline struggled more than others are likely to emerge from an investigation started by the Department of Transportation" and quotes Pete Buttigieg suggesting Delta "might have been especially vulnerable" due to its systems' dependency and an overloaded crew scheduling system.</other>
+
+<question_number>3</question_number>
+<answer>The estimated financial impact of $500 million is substantially greater than the liability limit of less than $10 million proposed by CrowdStrike.</answer>
+<other>The article states Mr. Bastian estimated the outage cost Delta "$500 million" and CrowdStrike said any liability it faces "should be limited to less than $10 million."</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article states Delta canceled "about 37 percent of its schedule." For peers like American and United, it says they "rebounded faster" but does not provide their percentage of canceled flights for comparison.</other>
+
+<question_number>5</question_number>
+<answer>Delta's recovery took four days, while many other affected carriers recovered within a day or two.</answer>
+<other>The article states, "while many carriers recovered within a day or two, Delta struggled to restore its operations. The airline canceled about 5,000 flights... over four days."</other>
+
+<question_number>6</question_number>
+<answer>The ratio of the proportion of schedule canceled (37%) to the proportion of schedule delayed (47.25%) was 148:189.</answer>
+<other>Delta canceled "about 37 percent of its schedule." "About three in four of the airline's remaining flights were delayed." Remaining flights = 100% - 37% = 63% of schedule. Delayed flights = (3/4) * 63% = 0.75 * 0.63 = 0.4725 (or 47.25%) of schedule. The ratio of canceled proportion to delayed proportion is 0.37 to 0.4725, which simplifies to 3700:4725 or 148:189.</other>
+
+<question_number>7</question_number>
+<answer>Delta's outage affected about 37 percent of its schedule, while Southwest's 2022 disruption affected "more than a third" of its scheduled flights.</answer>
+<other>The article states Delta canceled "about 37 percent of its schedule." For Southwest, it says it "canceled nearly 17,000 flights -- more than a third of those scheduled." "More than a third" is >33.33%.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article provides the financial impact for Delta's outage ($500 million) and its percentage of affected flights (37%), but it does not provide the financial cost of Southwest's 2022 disruption, only the number and proportion of flights canceled ("nearly 17,000 flights -- more than a third").</other>
+
+<question_number>9</question_number>
+<answer>$125 million per day.</answer>
+<other>The total cost estimate was "$500 million" and the flight cancellations occurred "over four days." $500 million / 4 days = $125 million per day. The article also mentions "tens of millions of dollars per day in compensation and hotels" were *included* in the $500 million total.</other>
+
+<question_number>10</question_number>
+<answer>The proposed liability limit of less than $10 million is substantially less than the airline's average daily financial impact of $125 million (or its stated daily costs of "tens of millions of dollars").</answer>
+<other>CrowdStrike's proposed limit is "less than $10 million." The airline's average daily cost was calculated as $125 million (from Q9). The article also explicitly states "tens of millions of dollars per day in compensation and hotels" as part of Delta's costs.</other>

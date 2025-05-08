@@ -1,0 +1,42 @@
+merged_ai-business-startups.txt
+<other>I will go through each question one by one and find the answer in the article. I will ensure that the answer is based solely on the provided text and adheres to the specified format. For question 3, I will infer the percentage from the fraction given, keeping the qualifier.</other>
+
+<question_number>1</question_number>
+<answer>ChatGPT</answer>
+<other>The article states: "So instead, he turned to ChatGPT... eventually asking the tool to handle more complicated tasks including... deciphering legal agreements for trade shows." Steven Bright is the entrepreneur who started Skittenz, a company making colorful coverings for mittens.</other>
+
+<question_number>2</question_number>
+<answer>Stilts to get through an obstacle -- to get through a minefield</answer>
+<other>The article quotes Steven Bright: "The technology 'kind of gives you stilts to get through an obstacle -- to get through a minefield,' said Steven Bright..."</other>
+
+<question_number>3</question_number>
+<answer>Roughly 20%</answer>
+<other>The article states: "And Gusto... found that roughly a fifth of businesses created last year said they were using generative A.I..." "A fifth" is equivalent to 20%. The qualifier "roughly" is maintained.</other>
+
+<question_number>4</question_number>
+<answer>$700,000</answer>
+<other>The article says about Jamie Steven, who developed Orb.net (an app to show internet connection quality): "He has recently hired several people, raised $700,000 from angel investors..."</other>
+
+<question_number>5</question_number>
+<answer>Don't trust and verify</answer>
+<other>The article states: "Although the technology would sometimes produce suspect or nonsensical answers to the point where he adopted a mantra, 'Don't trust and verify,'..." This refers to Jamie Steven's use of ChatGPT.</other>
+
+<question_number>6</question_number>
+<answer>Translating patent documents into understandable terms</answer>
+<other>The article says Steven Bright (founder of Skittenz) used ChatGPT for "translating patent documents into understandable terms".</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article mentions: "The students began sharing their ideas for use cases on a dedicated Slack channel." It describes the channel but does not provide a specific name for it.</other>
+
+<question_number>8</question_number>
+<answer>Because they are "general-purpose technologies" that are not expensive to use</answer>
+<other>The article states: "Applications like generative A.I. may be attractive to young and small firms, the paper's authors wrote, because they are 'general-purpose technologies' that are not expensive to use."</other>
+
+<question_number>9</question_number>
+<answer>Privacy issues involving how the A.I. technology would incorporate user information</answer>
+<other>The article says about E. Darren Liddell's use of A.I. for matching users: "Though there were some privacy issues to iron out involving how the A.I. technology would incorporate user information, the idea was a success..."</other>
+
+<question_number>10</question_number>
+<answer>Patent documents</answer>
+<other>The article states that Steven Bright, the Skittenz founder, used ChatGPT for tasks including "translating patent documents into understandable terms".</other>

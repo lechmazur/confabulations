@@ -1,0 +1,31 @@
+merged_colon-cancer-blood-test-shield.txt
+<question_number>1</question_number>
+<answer>Its poor record of finding precancerous growths.</answer>
+<other>The article states, "Unlike other screening tests for colon and rectal cancers, it has a poor record of finding precancerous growths."</other>
+<question_number>2</question_number>
+<answer>A colonoscopy.</answer>
+<other>The article mentions, "If the test indicates that the person might have colorectal cancer or a large polyp, they will need the procedure [colonoscopy] to find and remove the cancer or polyp."</other>
+<question_number>3</question_number>
+<answer>It is easier to get / simpler for patients.</answer>
+<other>The article says, "For many people, a routine blood test is easier to get than a colonoscopy or a fecal sample test," and "It is simple for patients."</other>
+<question_number>4</question_number>
+<answer>Its poor record of finding precancerous growths, thereby hindering the prevention aspect of the typical screening goal.</answer>
+<other>The article states the test "has a poor record of finding precancerous growths. Removal of those growths can prevent cancer." Prevention is a typical goal of such screening.</other>
+<question_number>5</question_number>
+<answer>The FDA advisory committee's endorsement of the test to increase screening rates among those who avoid current methods, despite acknowledging its serious limitation in cancer prevention due to poor detection of precancerous growths.</answer>
+<other>The article notes the committee "endorsed it because it may prompt people who forget or avoid colorectal cancer screening to be screened" while cautioning "that its inability to prevent cancer is a serious limitation."</other>
+<question_number>6</question_number>
+<answer>The necessity of a follow-up colonoscopy if the test result is positive (a procedural challenge shared with other non-invasive screening tests if they are positive), while introducing the new limitation of poor detection of precancerous growths.</answer>
+<other>The article states, "If the test indicates that the person might have colorectal cancer or a large polyp, they will need the procedure [colonoscopy]," which is a common follow-up step. The "new limitation" is its "poor record of finding precancerous growths."</other>
+<question_number>7</question_number>
+<answer>Its poor record of finding precancerous growths, which contradicts the expectation that a screening tool will have strong preventive capabilities.</answer>
+<other>The article highlights its "poor record of finding precancerous growths," and "Removal of those growths can prevent cancer," implying a lack of preventive capability.</other>
+<question_number>8</question_number>
+<answer>Its simplicity as a blood test (which addresses the challenge of low screening uptake for other methods) potentially creates a new obstacle to cancer prevention if its use leads to fewer people undergoing tests more effective at finding precancerous growths, due to its own poor performance in detecting them.</answer>
+<other>The test is "simple for patients" addressing low screening rates. However, "its inability to prevent cancer is a serious limitation" because it misses precancerous growths. If chosen over better preventative tests, it becomes an obstacle.</other>
+<question_number>9</question_number>
+<answer>Its poor record of finding precancerous growths.</answer>
+<other>This is stated: "Unlike other screening tests for colon and rectal cancers, it has a poor record of finding precancerous growths."</other>
+<question_number>10</question_number>
+<answer>Because it may prompt people who forget or avoid colorectal cancer screening to be screened.</answer>
+<other>The article states the F.D.A. advisory committee "endorsed it because it may prompt people who forget or avoid colorectal cancer screening to be screened."</other>

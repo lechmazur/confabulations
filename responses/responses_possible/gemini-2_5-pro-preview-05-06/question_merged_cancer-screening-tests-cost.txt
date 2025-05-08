@@ -1,0 +1,40 @@
+merged_cancer-screening-tests-cost.txt
+<question_number>1</question_number>
+<answer>Vastly improved treatment for colon cancer and, as he speculated, changing diets and exposures to other factors, like medications that might decrease risk.</answer>
+<other>This is directly stated by Dr. Welch in the article.</other>
+
+<question_number>2</question_number>
+<answer>Studies repeatedly failed to show that people live longer if they are screened, and screening barely lowers the death rate from the cancer being screened.</answer>
+<other>This is Dr. Adamson's reasoning as presented in the article.</other>
+
+<question_number>3</question_number>
+<answer>The increase in screening did not accelerate the decline in colon cancer death rates.</answer>
+<other>This is based on Dr. Welch's reported findings in The New England Journal of Medicine.</other>
+
+<question_number>4</question_number>
+<answer>The effects of cancer screening on mortality are so small.</answer>
+<other>This is a direct implication of Dr. Welch's statement that "it takes huge clinical trials to see them."</other>
+
+<question_number>5</question_number>
+<answer>According to Dr. Welch, its significance is that while it was a 33 percent relative drop in risk of dying from colorectal cancer, this translated to only a one percentage point absolute risk reduction from 3 percent to 2 percent, and there was no change at all in the overall mortality rate with screening.</answer>
+<other>Dr. Welch uses this to illustrate the limited impact of screening.</other>
+
+<question_number>6</question_number>
+<answer>Dr. Welch's suggestion that improved treatments are a more significant factor than screening in reducing colon cancer death rates implies that the perceived value of screening as the primary driver of such reductions may be overstated.</answer>
+<other>This is inferred from Dr. Welch's argument that factors other than screening, like improved treatment, are largely responsible for declining death rates.</other>
+
+<question_number>7</question_number>
+<answer>The article suggests this by reporting Dr. Welch's speculation that changing diets are a factor, along with improved treatments and other exposures like medications, contributing to the decline in colon cancer death rates, independent of screening.</answer>
+<other>The article mentions Dr. Welch "speculated, changing diets..." as a contributing factor.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article describes Dr. Adamson's critical view on the effectiveness of screening but does not state or describe a paradox *within* his view itself. His view challenges the prevailing narrative but is presented as a consistent critique.</other>
+
+<question_number>9</question_number>
+<answer>The article presents conflicting views: some experts and authoritative bodies (like Dr. Knudsen and the U.S. Preventive Services Task Force) assert screening is effective and crucial for reducing cancer deaths ("it works," "value of screening is settled science"), while other experts (like Dr. Adamson and Dr. Welch) argue that its impact on mortality is small, that studies fail to show people live longer, and that other factors are more significant in the decline of cancer death rates.</answer>
+<other>The article juxtaposes these differing perspectives on screening's effectiveness.</other>
+
+<question_number>10</question_number>
+<answer>By reporting Dr. Welch's argument that factors such as vastly improved treatment for colon cancer, changing diets, and exposures to other factors like medications that might decrease risk are likely contributors to the decline in cancer death rates, more so than screening.</answer>
+<other>This is based on Dr. Welch's statements cited in the article.</other>

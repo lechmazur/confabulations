@@ -1,0 +1,30 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>Increases exposure to potential attacks due to shared infrastructure</answer>
+
+<question_number>3</question_number>
+<answer>Highlights risks to national security and public safety</answer>
+
+<question_number>4</question_number>
+<answer>Through data broker records linking phone numbers to individuals</answer>
+
+<question_number>5</question_number>
+<answer>Potential exposure of communication networks for federal agencies</answer>
+
+<question_number>6</question_number>
+<answer>Phone numbers can be traced back to individuals, revealing communication patterns</answer>
+
+<question_number>7</question_number>
+<answer>Foreign nation states could exploit phone records for intelligence</answer>
+
+<question_number>8</question_number>
+<answer>Exposed phone logs could reveal sensitive communication networks</answer>
+
+<question_number>9</question_number>
+<answer>Shared cloud infrastructure creates more attack vectors</answer>
+
+<question_number>10</question_number>
+<answer>Snowflake's centralized data storage increases vulnerability to breaches</answer>

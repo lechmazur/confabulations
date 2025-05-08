@@ -1,0 +1,31 @@
+merged_amazon-clean-energy-climate-change.txt
+<question_number>1</question_number>
+<answer>Highlighting challenges in accurate measurement due to differing accounting methods, such as the use of renewable energy certificates.</answer>
+<other>The discrepancy arises because Amazon's calculation includes things like RECs, which critics (like the employee group) say overstates the actual investment in new clean energy, thus showing the difficulty in having a universally accepted method for measuring environmental impact.</other>
+<question_number>2</question_number>
+<answer>Geothermal power.</answer>
+<other>Google is mentioned as pursuing geothermal power with Berkshire Hathaway's utility. Amazon's portfolio discussed in the article includes solar and wind, but not geothermal.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Amazon's net-zero goal deadline is 2040. Google reported increased emissions in 2023. These are not the same year.</other>
+<question_number>4</question_number>
+<answer>Natural gas.</answer>
+<other>Employee activists mention "Canadian fracked gas." Environmentalists express concern about reliance on "natural gas power plants." Fracked gas is a form of natural gas, making "natural gas" the common type of fossil fuel implicated by both mentions, with the inference allowed by instructions.</other>
+<question_number>5</question_number>
+<answer>U.S.</answer>
+<other>Amazon's clean energy projects are stated to power the equivalent of "7.6 million U.S. homes." The employee activists' criticism mentions data centers fueled by "West Virginian coal," and West Virginia is a state in the U.S.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Amazon's net-zero carbon emissions goal is 2040. The article states Amazon reached its 100% clean energy goal "seven years ahead of schedule" but does not specify the year of that original schedule, so a shared deadline year cannot be identified from the text.</other>
+<question_number>7</question_number>
+<answer>Renewable energy certificates.</answer>
+<other>Leah Stokes criticizes "RECs." The employee group criticizes Amazon's "use of credits," and the article explains that companies often buy "renewable energy certificates, or RECs" to make clean energy claims.</other>
+<question_number>8</question_number>
+<answer>A large data center's consumption is equivalent to energy for approximately 100,000 homes, while the company's clean energy projects' output is equivalent to 7.6 million homes.</answer>
+<other>The article states, "A large data center can use as much energy as the amount produced by a small power plant serving roughly 100,000 homes." It also states, "The clean energy projects Amazon has invested in can produce enough electricity to power the equivalent of 7.6 million U.S. homes."</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>A letter to Amazon's executive chairman is mentioned in relation to 2019. The company's original deadline for achieving 100% clean energy is not specified as a particular year in the article, only that the goal was met "seven years ahead of schedule."</other>
+<question_number>10</question_number>
+<answer>17 years.</answer>
+<other>Amazon's net-zero carbon emissions goal is by 2040. Google reported increased emissions in 2023. The difference is 2040 - 2023 = 17 years.</other>

@@ -1,0 +1,31 @@
+merged_delta-global-tech-outage-pete-buttigieg.txt
+<question_number>1</question_number>
+<answer>Delta Air Lines</answer>
+<other>The article states, "Aviation experts said that Delta's strategy in the wake of the software outages differed from that of other major U.S. airlines. Rather than leaning more heavily on delays, the airline canceled many flights. It now appears to be having trouble getting its operations back to normal..." and "The secretary of transportation, Pete Buttigieg, singled out Delta on Sunday for its slow recovery..."</other>
+<question_number>2</question_number>
+<answer>A flawed update from CrowdStrike</answer>
+<other>The article mentions, "A flawed update from CrowdStrike, whose software is used around the world, forced Delta, Allegiant Air, American Airlines, Spirit Airlines and United Airlines to ground flights." It also states, "The secretary of transportation, Pete Buttigieg, singled out Delta on Sunday for its slow recovery and said that his office had received numerous complaints about Delta's customer service." Delta was disproportionately impacted.</other>
+<question_number>3</question_number>
+<answer>Delta Air Lines</answer>
+<other>The article discusses Delta's decisions ("Rather than leaning more heavily on delays, the airline canceled many flights") in response to the CrowdStrike issue. It then states, "Another thing working against Delta is that its main hub, Hartsfield-Jackson Atlanta International Airport, is the busiest airport in the world... 'Typically, this gives Delta tremendous advantages... However, it also means that the myriad of connections and associated logistics must run smoothly. The loss of automation meant that it all fell apart.'"</other>
+<question_number>4</question_number>
+<answer>Prohibiting unaccompanied minors from flying</answer>
+<other>The article states, "Delta was also seemingly the only airline to prohibit unaccompanied minors from flying on its planes throughout the weekend. The restriction, originally supposed to last until Sunday, was extended through Tuesday." It then gives an example of a child, Annabel, missing summer camp.</other>
+<question_number>5</question_number>
+<answer>Delta Air Lines</answer>
+<other>The article says, "Delta has marketed itself as a premium airline, and it has widely been considered by Wall Street analysts as one of the best run companies in the industry." It then notes, "...its elevated cancellations and delays raises questions about why the airline has struggled so much more than others," implying its reputation is challenged.</other>
+<question_number>6</question_number>
+<answer>A system that ensures all flights have a full crew in the right place at the right time</answer>
+<other>The article states the outage "took a heavy toll on a Delta system that 'ensures all flights have a full crew in the right place at the right time,' the airline said... The company said the system was 'deeply complex and is requiring the most time and manual support to synchronize.'" This echoes the Southwest issue where "a system the company used to match crews to flights could not keep up."</other>
+<question_number>7</question_number>
+<answer>Delta Air Lines</answer>
+<other>The Transportation Department determined "the software outage was considered within airlines' control and that U.S.-based airlines must provide affected customers compensation." Pete Buttigieg specifically stated, "Delta must provide prompt refunds... and timely reimbursements..." Delta's extensive cancellations and customer service issues, highlighted in the article, point to its increased liability.</other>
+<question_number>8</question_number>
+<answer>Difficulty finding open seats on already heavily booked flights to reaccommodate hundreds of thousands of distressed customers whose peak-season flights were canceled</answer>
+<other>The article quotes Robert W. Mann Jr.: "Airlines like Delta now 'will have to find open seats on already heavily booked flights to reaccommodate hundreds of thousands of distressed customers whose peak-season flights were canceled.'" This was a consequence of Delta's strategy to cancel many flights.</other>
+<question_number>9</question_number>
+<answer>Delta Air Lines</answer>
+<other>Delta "has marketed itself as a premium airline" and "one of the best run companies." Its current struggles, "elevated cancellations and delays," and criticism from the Transportation Secretary contradict this positioning and could damage its brand.</other>
+<question_number>10</question_number>
+<answer>Reliance on Microsoft Windows for more than half of its information technology systems</answer>
+<other>The article states, "More than half of Delta's information technology systems rely on Windows, the airline said." It also mentions the outage "disrupted devices that run Microsoft Windows software" and that a key Delta system requiring synchronization was "deeply complex."</other>

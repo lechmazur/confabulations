@@ -1,0 +1,31 @@
+merged_alphabet-google-earnings.txt
+<question_number>1</question_number>
+<answer>Its biggest profit on record</answer>
+<other>The article states, "The division reported an operating profit of $1.2 billion in the second quarter, its biggest profit on record." This refers to Google Cloud.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article mentions that "Regulators and the rest of the digital ad industry were skeptical of the company's approach" to eliminating third-party cookies but does not specify the primary reason for their skepticism.</other>
+<question_number>3</question_number>
+<answer>Google Cloud</answer>
+<other>The article states Google Cloud "reported an operating profit of $1.2 billion in the second quarter, its biggest profit on record." In the same quarter, Alphabet's "capital expenditures ... [surged] 91 percent," which is nearly doubling.</other>
+<question_number>4</question_number>
+<answer>Wiz rejecting Google's $23 billion acquisition offer</answer>
+<other>The article states, "Google faced a setback on Monday when the cybersecurity start-up Wiz rejected its $23 billion acquisition offer... On Tuesday, Google's parent company Alphabet reminded investors that it's doing just fine even without the deal. The tech giant reported strong revenue growth..."</other>
+<question_number>5</question_number>
+<answer>The plan to get rid of third-party cookies on its Chrome web browser</answer>
+<other>The article says, "Google had first announced the plan to kill cookies in 2019... causing it to delay the proposal numerous times. Now, it says it will let Chrome users decide if they want to allow third-party cookies or not." This change was due to skepticism from regulators and the ad industry.</other>
+<question_number>6</question_number>
+<answer>Wiz's rejection of Google's $23 billion acquisition offer</answer>
+<other>The earnings report was on Tuesday. On Monday, "Google faced a setback on Monday when the cybersecurity start-up Wiz rejected its $23 billion acquisition offer, a deal that could have given momentum to its cloud-computing operations." Google Cloud reported "a slower pace of growth than in previous years." The rejection was a decision (by Wiz) announced the day before, and the (failed) deal itself could have boosted performance.</other>
+<question_number>7</question_number>
+<answer>Google Cloud</answer>
+<other>Google Cloud recorded a "29 percent increase in revenue," which is higher than the 14% for search and 13% for YouTube. It also "reported an operating profit of $1.2 billion in the second quarter, its biggest profit on record," a significant profitability milestone.</other>
+<question_number>8</question_number>
+<answer>Google's $23 billion acquisition offer for Wiz</answer>
+<other>The article states that the Wiz acquisition "deal that could have given momentum to its cloud-computing operations." Google Cloud had "a slower pace of growth." The offer itself was a business decision by Google, the rejection of which was announced prior to the earnings report (on Monday).</other>
+<question_number>9</question_number>
+<answer>Google Cloud</answer>
+<other>Google Cloud "reported an operating profit of $1.2 billion in the second quarter, its biggest profit on record." This was in the same quarter that "the cybersecurity start-up Wiz rejected its $23 billion acquisition offer, a deal that could have given momentum to its cloud-computing operations."</other>
+<question_number>10</question_number>
+<answer>Artificial intelligence (A.I.)</answer>
+<other>The article mentions Google's "aggressive rollout of artificial intelligence," that it "has incorporated generative A.I. into all of its products," and "increased its spending on data centers and associated hardware to underpin the technology." Capital expenditures surged "as the company continued to build out its A.I. capabilities."</other>

@@ -1,0 +1,31 @@
+merged_driver-data-sold-for-pennies.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article describes Hyundai's financial arrangement with Verisk (payment for potential future earnings from opted-in customers) and mentions aspects of consent (terms informed customers, Verisk shared with insurance companies with customer consent). However, the article does not explicitly state how the financial arrangement itself reflects on the nature of consumer consent.</other>
+<question_number>2</question_number>
+<answer>Wejo</answer>
+<other>The article states, "Previously, G.M. shared cars' locations with a British data broker, Wejo... Wejo filed for bankruptcy last year. Matt Bialuk, who was an executive at Wejo, said that the company had gotten the precise location of about 10 million G.M. cars up to every one to three seconds..."</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article states G.M.'s previous location data sharing was "up to every one to three seconds," but it does not provide information on the typical interval between traffic light changes, so a comparison cannot be made based solely on the article.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article mentions G.M. had an investment in its past partner, Wejo. G.M.'s present data sharing partner for anonymized location information is a company G.M. declined to identify. The article does not provide information about the corporate structure of the unidentified present partner or any connection in terms of corporate structure between Wejo and this unidentified company.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article states Verisk paid Honda over four years, indicating a duration for that specific data sharing agreement. However, the article does not mention the average new car loan term, so a comparison cannot be made.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article states Hyundai was paid over six years for data sharing. However, the article does not mention the typical new vehicle warranty period, so a comparison cannot be made.</other>
+<question_number>7</question_number>
+<answer>G.M. declined to identify its current data sharing partner.</answer>
+<other>The article states that G.M. still shares anonymized location information "with a company that Mr. Wyden's office said G.M. had declined to identify." Its previous partner, Wejo, is identified in the article.</other>
+<question_number>8</question_number>
+<answer>G.M. and Honda</answer>
+<other>The article states: "G.M. and Honda customers had to opt in to be included, but Mr. Wyden called the enrollment process 'deceptive.'"</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article states Hyundai earned 61 cents per car from data sharing. However, the article does not mention the cost of a typical oil change, so a comparison cannot be made.</other>
+<question_number>10</question_number>
+<answer>Windshield wipers tell a huge story in vehicles.</answer>
+<other>The article quotes Matt Bialuk, a former Wejo executive: "We could see windshield wipers are on. Windshield wipers tell a huge story in vehicles."</other>

@@ -1,0 +1,31 @@
+merged_china-ai-microchips.txt
+<question_number>1</question_number>
+<answer>Nvidia created a slightly downgraded chip (the A800) by disabling some connections on the A100, which U.S. officials believed would allow China to achieve practically the same results, thereby circumventing the spirit of the restrictions.</answer>
+<other>The article states, "Nvidia adapted quickly. It zapped the A100 with electricity to disable some connections, creating a slightly downgraded chip it called the A800. By November, Nvidia was selling the chips in China... U.S. officials believed the A800s would allow China to achieve practically the same results and were irritated..."</other>
+<question_number>2</question_number>
+<answer>The U.S. government implemented A.I. bans to address national security fears, but these bans cost American companies billions in sales and led to arguments that the restrictions could backfire by giving Chinese competitors an edge, illustrating the conflict between security and economic interests.</answer>
+<other>The article mentions, "The A.I. bans have cost American companies billions of dollars in sales, and some executives argue that the restrictions will backfire by giving Chinese competitors an edge. American officials defend the bans as necessary..." and "Tech companies ramped up their lobbying...They argued that excessive export controls would hurt American companies. U.S. officials proceeded anyway..."</other>
+<question_number>3</question_number>
+<answer>Servers with more than 2,000 of the most advanced chips made by Nvidia.</answer>
+<other>The article states: "A third business owner said he recently shipped a big batch of servers with more than 2,000 of the most advanced chips made by Nvidia, the U.S. tech company, from Hong Kong to mainland China. As evidence, he showed photos and a message with his supplier arranging the April delivery for $103 million."</other>
+<question_number>4</question_number>
+<answer>Sun Yat-sen University.</answer>
+<other>The article states: "In southern China, for example, Nvidia's restricted A100 chips began powering a high-performance computing cluster at Sun Yat-sen University in November 2022. Researchers there used advanced computing to model missiles and torpedoes..."</other>
+<question_number>5</question_number>
+<answer>Nettrix.</answer>
+<other>The article states: "In December 2019, six months after the United States put Sugon on the entity list, a group of former executives formed Nettrix. Nvidia, Intel and Microsoft -- which had been partners with Sugon for years... quickly formed ties with the new firm."</other>
+<question_number>6</question_number>
+<answer>China's test of a hypersonic missile that circled the earth.</answer>
+<other>The article states: "Six months into the Biden administration, China tested a weapon that shook U.S. officials: a hypersonic missile that circled the earth... several officials said that U.S. chips helped accelerate China's missile program. White House officials had already been developing broader restrictions on selling chip-making equipment to China."</other>
+<question_number>7</question_number>
+<answer>To label banned chips as tea or toys.</answer>
+<other>The article states: "Wang Qiang, an employee of a logistics company in southern China... advised clients, he said, to label banned chips as tea or toys."</other>
+<question_number>8</question_number>
+<answer>A hypersonic missile that circled the earth.</answer>
+<other>The article states: "Six months into the Biden administration, China tested a weapon that shook U.S. officials: a hypersonic missile that circled the earth. The weapon, which surpassed American technology..." and "...several officials said that U.S. chips helped accelerate China's missile program."</other>
+<question_number>9</question_number>
+<answer>A university affiliated with the Chinese Academy of Sciences.</answer>
+<other>The article states: "And in central China, a university affiliated with the Chinese Academy of Sciences was using Nvidia, A.M.D. and Intel chips to study nuclear weapons, according to university materials. This May, the United States added the university to the entity list."</other>
+<question_number>10</question_number>
+<answer>At least 550.</answer>
+<other>The article states: "Chinese procurement records examined by C4ADS showed that at least 550 restricted Nvidia chips had been sold to state-linked research institutions..."</other>

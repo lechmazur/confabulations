@@ -1,0 +1,31 @@
+merged_bird-flu-cattle-pandemic.txt
+<question_number>1</question_number>
+<answer>The longer the virus circulates in cattle, the more chances it gains to acquire the mutations necessary to set off an influenza pandemic.</answer>
+<other>This is directly stated in the first paragraph.</other>
+<question_number>2</question_number>
+<answer>The dairy industry could sink the poultry industry.</answer>
+<other>This is a quote from Dr. Peacock.</other>
+<question_number>3</question_number>
+<answer>Agriculture Department</answer>
+<other>The article states "oversight is led by a federal department that is tasked with both regulating and promoting the agricultural industry" and later refers to "Eric Deeble, an Agriculture Department official".</other>
+<question_number>4</question_number>
+<answer>Easier: It does not appear to spread efficiently through the respiratory pathway in cattle and is instead transmitted through contaminated milk or viral particles on objects, allowing control efforts to focus on mechanical or anthropogenic transmission. More challenging: Controlling these mechanical and anthropogenic transmission routes requires significant changes in farm practices, biosecurity, and human/equipment movement, which are difficult to implement.</answer>
+<other>The "easier" part is from Dr. Richt's comment. The "more challenging" part is inferred from the difficulties described in implementing control over mechanical/anthropogenic spread (e.g., "Placing similar restrictions on dairy farms is likely to be harder," low uptake of biosecurity measures).</other>
+<question_number>5</question_number>
+<answer>Raccoons</answer>
+<other>The article states the virus is "entrenched in ... a wide range of mammals, including house mice, cats and raccoons." Raccoons are wild animals not typically considered farm animals, and their status as a reservoir complicates elimination.</other>
+<question_number>6</question_number>
+<answer>Americans move animals between farms at a larger scale than other nations.</answer>
+<other>The article states the virus hasn't cropped up in cattle in other nations, "perhaps because they do not move animals between farms at the scale that Americans do."</other>
+<question_number>7</question_number>
+<answer>Poultry industry</answer>
+<other>The article states, "Already the outbreak in cattle is imperiling poultry" and quotes Dr. Peacock saying, "If this continues at this level, the dairy industry is going to sink the poultry industry."</other>
+<question_number>8</question_number>
+<answer>Genetic data suggest that the U.S. outbreak stemmed from a single spillover of the virus from birds into cattle.</answer>
+<other>This directly contradicts the idea of multiple spillovers.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article discusses vaccinating cattle as a workable option and notes animal vaccines can be made more effective, but it does not label this or any other vaccination approach as "counterintuitive."</other>
+<question_number>10</question_number>
+<answer>Scientists have found the cattle version of the virus in blackbirds in Texas, suggesting that the birds could carry the virus to new farms.</answer>
+<other>This finding implies that focusing solely on cattle for containment may not be sufficient.</other>

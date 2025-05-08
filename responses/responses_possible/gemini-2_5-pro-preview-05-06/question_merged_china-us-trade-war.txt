@@ -1,0 +1,31 @@
+merged_china-us-trade-war.txt
+<question_number>1</question_number>
+<answer>The prospect of increased tariffs, intended to reduce dependence on China, leads some companies to stockpile Chinese parts, thereby temporarily increasing their reliance on Chinese imports.</answer>
+<other>The article states companies are "stockpiling parts" due to potential increased tariffs, while the policy's aim is to reduce dependence.</other>
+<question_number>2</question_number>
+<answer>US tariffs aimed at Chinese goods are circumvented by Chinese companies using the North American trade agreement via factories in Mexico to gain duty-free access to the United States.</answer>
+<other>The article mentions "Chinese companies have themselves set up factories in Mexico, using the North American trade agreement to gain duty free access to the United States" to avoid tariffs on Chinese imports.</other>
+<question_number>3</question_number>
+<answer>Tariffs on Chinese solar components led Chinese firms to relocate to Southeast Asia; subsequent tariffs on these new locations make solar energy more expensive and create uncertainty, slowing its emergence.</answer>
+<other>The article states this sequence of events and quotes Mike Hall saying it "makes things more expensive and creates uncertainty and fear," risking slowing solar energy's emergence.</other>
+<question_number>4</question_number>
+<answer>Many importers assume extreme tariffs (like 60 percent) won't be imposed due to potential economic chaos, despite past instances where Mr. Trump implemented tariffs that trade experts had initially dismissed.</answer>
+<other>The article contrasts importers' faith that Mr. Trump would "stop short" with the fact that "Eight years ago, trade experts scoffed at his vows to add across-the-board tariffs to Chinese imports," which he then did.</other>
+<question_number>5</question_number>
+<answer>Companies face difficulty finding alternatives to China that offer an "unbeatable combination of high quality and low prices," while tariff uncertainty creates supply chain instability, forcing them to stockpile, delay expansions, or consider less optimal sourcing.</answer>
+<other>Sam Shackleton's experience and Easy Signs' delayed expansion illustrate this balance. The article also mentions "unrelenting chaos in the supply chain."</other>
+<question_number>6</question_number>
+<answer>Tariffs intended to "spur the return of factory jobs to the United States" have instead typically caused production to shift to other low-wage countries.</answer>
+<other>The article directly states this outcome: "they have typically caused production to shift to other low-wage countries like Mexico, Vietnam and India."</other>
+<question_number>7</question_number>
+<answer>Company actions like stockpiling Chinese goods, shifting production to other low-wage countries instead of the US, or using Chinese-owned factories in Mexico can counteract the intended goals of reducing dependence on China and returning factory jobs to the United States.</answer>
+<other>These actions, described in the article, do not align with the stated goals of the tariffs, such as bringing jobs to the US or fully reducing reliance on Chinese manufacturing capabilities.</other>
+<question_number>8</question_number>
+<answer>Easy Signs</answer>
+<other>The article states, "If not for the trade war... Easy Signs would now be hiring dozens of workers... Still, the company is putting off an expansion. Its cloth signs are displayed on aluminum stands made in China."</other>
+<question_number>9</question_number>
+<answer>More than 4 percent</answer>
+<other>The article cites Project44: "the volume of ocean shipments reaching the United States from China increased more than 4 percent from the previous year."</other>
+<question_number>10</question_number>
+<answer>Chris Taylor</answer>
+<other>The article states, "Chris Taylor, chief executive of GridStor... has been urging his suppliers to move faster to set up factory operations in the United States or nearby." This is in the context of his concern about potential 60% tariffs.</other>

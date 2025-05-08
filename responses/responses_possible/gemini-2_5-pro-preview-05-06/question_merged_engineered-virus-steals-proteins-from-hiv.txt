@@ -1,0 +1,40 @@
+merged_engineered-virus-steals-proteins-from-hiv.txt
+<question_number>1</question_number>
+<answer>TIPs may require only a single shot for a potentially permanent effect, simplifying adherence and management compared to lenacapavir's ongoing twice-yearly shots.</answer>
+<other>The article states lenacapavir may require keeping up with twice-yearly shots, while TIPs might offer a permanent effect with one shot, which would be easier in resource-limited settings.</other>
+
+<question_number>2</question_number>
+<answer>It might make it harder for people to transmit H.I.V. to others.</answer>
+<other>The article explicitly states this as a potential long-term implication.</other>
+
+<question_number>3</question_number>
+<answer>The inability to obtain consent from individuals who might inadvertently be infected by a patient treated with TIPs due to potential spread.</answer>
+<other>Dr. tenOever's concern highlights that consent cannot be obtained from those who might be secondarily infected.</other>
+
+<question_number>4</question_number>
+<answer>TIPs act as molecular mimics that steal essential proteins from H.I.V. and outcompete it for viral components, rather than just blocking a single viral protein like protease inhibitors.</answer>
+<other>The article describes TIPs as stealing proteins and being engineered to outcompete H.I.V. for shells, a more active interference than protease inhibitors blocking an enzyme.</other>
+
+<question_number>5</question_number>
+<answer>The potential for unexpected side effects that may be impossible to reverse because TIPs become a permanent part of the patient's DNA.</answer>
+<other>Dr. tenOever's ethical concern directly points to the irremovability of TIPs if side effects occur, which is a significant challenge for trials.</other>
+
+<question_number>6</question_number>
+<answer>TIPs are engineered to enter viral shells more effectively, resulting in the release of significantly more TIPs than H.I.V. particles from infected cells.</answer>
+<other>The article specifies that TIPs were engineered to better enter shells, leading to a three-to-one release advantage over H.I.V.</other>
+
+<question_number>7</question_number>
+<answer>The inability to remove TIPs if they cause unexpected side effects.</answer>
+<other>Dr. tenOever explicitly states that if TIPs "turn out to have unexpected side effects, it may not be possible to remove them."</other>
+
+<question_number>8</question_number>
+<answer>The strategy of using "cheating viruses" like TIPs might be applicable to other viruses, not just H.I.V.</answer>
+<other>Dr. Leeks is quoted saying, "In principle, it's a universal approach to developing antivirals," because "other viruses might also be vulnerable to the same strategy."</other>
+
+<question_number>9</question_number>
+<answer>People treated with TIPs might spread them to others who have not consented to receiving the treatment.</answer>
+<other>The article states, "If doctors obtain consent from patients to treat them with TIPs, they cannot receive consent from anyone else who is infected with them."</other>
+
+<question_number>10</question_number>
+<answer>TIPs act as molecular mimics that steal essential proteins from H.I.V. and outcompete it for viral components, while traditional drugs like protease inhibitors typically block a specific viral enzyme or protein.</answer>
+<other>The article describes TIPs as stealing proteins and interfering with H.I.V.'s life cycle, contrasting with protease inhibitors that prevent a protease from activating H.I.V.</other>

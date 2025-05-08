@@ -1,0 +1,36 @@
+merged_africa-books-quiz.txt
+<question_number>1</question_number>
+<answer>Nigeria</answer>
+<other>The article's first quiz question lists Chinua Achebe, Chimamanda Ngozi Adichie, Akwaeke Emezi, Chinelo Okparanta, Ben Okri, and Wole Soyinka as prominent writers from "one country in particular" and asks "Which country is it?", offering Nigeria as an option. These authors are predominantly Nigerian. The later mention of Nnedi Okorafor, a Nigerian-American writer, further supports this implicit identification.</other>
+
+<question_number>2</question_number>
+<answer>Libya</answer>
+<other>The article describes Hisham Matar's 2006 debut novel as being about a family living under an oppressive political regime in 1979, "a regime run by a leader who was not ousted until 2011." It then asks, "In which North African country is the book mostly set?" and lists Libya, Morocco, Algeria, and Egypt as options. The historical details point to Libya.</other>
+
+<question_number>3</question_number>
+<answer>Zimbabwe</answer>
+<other>The article describes NoViolet Bulawayo's 2013 debut novel "We Need New Names" and asks, "In which country does the first part of the book take place? (Hint: It shares borders with both South Africa and Botswana.)" The options are Eritrea, Chad, Zambia, Zimbabwe. Zimbabwe fits the geographical hint.</other>
+
+<question_number>4</question_number>
+<answer>Ethiopia</answer>
+<other>The article states that Abraham Verghese's 2009 novel "Cutting for Stone" opens in the city of Addis Ababa and then asks, "the capital of which country?" The options provided are Ethiopia, Central African Republic, Democratic Republic of Congo, Malawi. Addis Ababa is the capital of Ethiopia.</other>
+
+<question_number>5</question_number>
+<answer>Ghana</answer>
+<other>The article describes Yaa Gyasi's 2016 novel "Homegoing," stating, "The African sections of the book take place in a region that was called the Gold Coast by its European colonizers until 1957, when the country became an independent nation. What is the name of that country today?" The options are Liberia, Benin, Senegal, Ghana. The Gold Coast became Ghana.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article describes the setting of Hisham Matar's novel as a North African country (implicitly Libya) with an "oppressive political regime" not ousted until 2011. It also mentions, in a separate section, "A 'Renaissance' in African Publishing." However, the article does not explicitly state or logically imply that this specific nation (Libya) "stands in stark contrast" to these creative rejuvenations. It presents these as two separate pieces of information without drawing that direct comparative conclusion.</other>
+
+<question_number>7</question_number>
+<answer>Ghana</answer>
+<other>The article states that Yaa Gyasi's novel "Homegoing" has African sections set in a region "that was called the Gold Coast by its European colonizers until 1957, when the country became an independent nation." It then asks, "What is the name of that country today?" offering Ghana as an option. This affirms Ghana as the setting.</other>
+
+<question_number>8</question_number>
+<answer>Zimbabwe</answer>
+<other>The article, when describing NoViolet Bulawayo's novel "We Need New Names," asks about the country where the first part takes place, providing a hint: "It shares borders with both South Africa and Botswana." Among the choices, Zimbabwe is the country indicated by this geographical parameter.</other>
+
+<question_number>9</question_number>
+<answer>Libya</answer>
+<other>The article describes Hisham Matar's debut novel as set under "an oppressive political regime in 1979, a regime run by a leader who was not ousted until 2011." It then asks, "In which North African country is the book mostly set?" providing options including Libya. The details unmistakably link the novel's setting to Libya, known for state oppression under a leader not ousted until 2011.</other>

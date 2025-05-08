@@ -1,0 +1,52 @@
+merged_balance-beam-gymnastics.txt
+<question_number>1</question_number>
+<answer>0.2</answer>
+<other>The article states: "if she means to do a switch ring leap but her head position and back leg don't fulfill the criteria, she might get credit for only a switch leap, 0.2 less." This 0.2 is the difference in the difficulty value credited, which contributes to the score.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The D score is 6.0. Composition Requirements (CR) = 4 * 0.5 = 2.0. Connection Bonuses (CB) = 0. So, Skill Values (SV) from 8 skills must be 6.0 - 2.0 - 0 = 4.0. The double-twisting double tuck is an H skill (value 0.8). The remaining 7 skills must contribute 4.0 - 0.8 = 3.2 in value. The question asks for the "minimum difficulty rating" for these 7 skills. "Difficulty rating" in the article refers to letter grades A-H, which apply to individual skills. The article does not define a single A-H "difficulty rating" for a collection of multiple skills.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The D score is 5.5. CR = 2.0. CB = 0. So, SV from 8 skills must be 5.5 - 2.0 - 0 = 3.5. A candle mount is C (0.3) and a double tuck dismount is D (0.4). Their combined value is 0.7. The remaining 6 skills (which would include the skills from the acro series) must contribute 3.5 - 0.7 = 2.8 in value. An "acro series" consists of "two or more acrobatic skills." The question asks for the "minimum difficulty rating for their acro series." "Difficulty rating" (A-H) applies to individual skills. The article does not define a single A-H "difficulty rating" for a series of skills.</other>
+
+<question_number>4</question_number>
+<answer>0.2</answer>
+<other>A switch leap is a D skill (value 0.4). The article states that if a switch ring leap is not credited fully, it might get credit as a switch leap, which is "0.2 less." This implies a perfectly executed switch ring leap is worth 0.2 more in value than a switch leap. The difference in their credited skill values is 0.2.</other>
+
+<question_number>5</question_number>
+<answer>3.5</answer>
+<other>Minimum D score = CR + SV + CB. CR = 4 * 0.5 = 2.0. CB = 0.
+Skills specified: Switch leap mount (D skill, value 0.4, dance). Double pike dismount (E skill, value 0.5, acro).
+These are 2 of the 8 hardest skills. Their value is 0.4 + 0.5 = 0.9.
+To minimize SV, the other 6 skills are A-rated (value 0.1 each). Their total value is 6 * 0.1 = 0.6.
+The 8 skills must include at least 3 acro and 3 dance. We have one D (dance) and one E (acro). We need 2 more acro and 2 more dance. These can be A-rated skills. This is met within the 6 A-skills.
+Minimum total SV = 0.9 + 0.6 = 1.5.
+Minimum D score = 2.0 (CR) + 1.5 (SV) + 0 (CB) = 3.5.</other>
+
+<question_number>6</question_number>
+<answer>The double-twisting double tuck is an H skill, while the full-twisting double tuck is a G skill.</answer>
+<other>The article states: "Only a few gymnasts can do a full-twisting double tuck (G)." And "Simone Biles went and did a double-twisting double tuck (H)". This shows their respective difficulty ratings.</other>
+
+<question_number>7</question_number>
+<answer>8</answer>
+<other>The D score calculation includes a component for Skill Values (SV). The article states: "Gymnasts earn credit for their eight hardest skills". This implies that 8 skills are used to calculate the SV component. Therefore, 8 skills are "needed" for this part of the D-score calculation.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>A wobble is a balance check. Deductions for balance issues range from "0.1 for a slight balance check to 1.0 for a fall." The article does not specify the maximum deduction for a wobble that is not a fall. For failing to achieve a 180-degree split in a leap, the article says there are "deductions for ... splits short of 180 degrees" but does not specify the amount of this deduction. Since the specific deduction amount for the split issue is not provided, the maximum combined deduction cannot be determined.</other>
+
+<question_number>9</question_number>
+<answer>3.4</answer>
+<other>Minimum D score = CR + SV + CB. CR = 2.0. CB = 0.
+Skills specified: Switch leap mount (D skill, value 0.4, dance). Double tuck dismount (D skill, value 0.4, acro).
+These are 2 of the 8 hardest skills. Their value is 0.4 + 0.4 = 0.8.
+To minimize SV, the other 6 skills are A-rated (value 0.1 each). Their total value is 6 * 0.1 = 0.6.
+The 8 skills must include at least 3 acro and 3 dance. We have one D (dance) and one D (acro). We need 2 more acro and 2 more dance. These can be A-rated skills. This is met within the 6 A-skills.
+Minimum total SV = 0.8 + 0.6 = 1.4.
+Minimum D score = 2.0 (CR) + 1.4 (SV) + 0 (CB) = 3.4.</other>
+
+<question_number>10</question_number>
+<answer>G</answer>
+<other>The question states the gymnast's routine includes a "full-twisting double tuck dismount." The article specifies the difficulty rating for this skill: "Only a few gymnasts can do a full-twisting double tuck (G)." Therefore, the difficulty rating for *their dismount* (which is a full-twisting double tuck) is G. The term "highest possible" refers to the rating of this specific dismount, which is fixed at G according to the article.</other>

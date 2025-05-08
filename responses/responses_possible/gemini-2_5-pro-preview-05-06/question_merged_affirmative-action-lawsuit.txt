@@ -1,0 +1,40 @@
+merged_affirmative-action-lawsuit.txt
+<question_number>1</question_number>
+<answer>The lawsuit's filing appears motivated by the conservative group's broader agenda to challenge affirmative action and diversity, equity, and inclusion policies in university faculty hiring, positioning itself as a successor to previous legal challenges, rather than solely by the specific grievances of the named white male scholars, who indicated they were not involved and harbored no ill will.</answer>
+<other>The article states the group is "conservative," its lawyer is an "activist litigator for conservative causes," it "wants to explicitly position itself as a successor to Students for Fair Admissions," and its purpose is "restoring meritocracy in academia." This, contrasted with the named scholars' statements of not being involved and having "no hard feelings," supports the inference about broader motivations.</other>
+
+<question_number>2</question_number>
+<answer>The lawsuit's portrayal of the Federalist Society's involvement suggests that even when a candidate (a gay white man) might have met some diversity criteria and was part of an alleged political deal, his race (white male) was still presented as the ultimate barrier to his hiring. This complicates the narrative by introducing elements of internal political deal-making and quid pro quo alongside the primary claim of race and sex discrimination, suggesting a multifaceted hiring process where race and sex are alleged by the lawsuit to be overriding factors.</answer>
+<other>The article mentions the lawsuit's claim about a deal to hire a "gay white man" who "would pass muster," but was "ultimately not hired after an associate dean and some of her colleagues objected to hiring a white man." This introduces political maneuvering (Federalist Society, deal-making) into the discrimination narrative.</other>
+
+<question_number>3</question_number>
+<answer>Eugene Volokh</answer>
+<other>The article states, "The lawsuit says that candidates with 'stellar credentials' who were denied positions at Northwestern include Eugene Volokh... 'His accomplishments exceed those of nearly every professor currently on the Northwestern Law School faculty,' it adds. 'Professor Volokh, however, is a white man, and he is neither homosexual nor transgender.'" He "was not offered an interview."</other>
+
+<question_number>4</question_number>
+<answer>Faculty, Alumni and Students Opposed to Racial Preferences</answer>
+<other>The article states, "The complaint, filed by a group calling itself Faculty, Alumni and Students Opposed to Racial Preferences... In the complaint, the group describes itself as a nonprofit membership organization 'formed for the purpose of restoring meritocracy in academia.' Its members are not disclosed in the suit."</other>
+
+<question_number>5</question_number>
+<answer>The complaint alleges that Professor Paul Gowder's hiring was part of a quid pro quo deal involving a Federalist Society candidate, whereas Professor Gowder stated he had "no idea of any kind of a deal" and believed he was hired based on his ample credentials.</answer>
+<other>The article says the lawsuit claims the dean struck a deal "to support hiring a Federalist Society member in exchange for supporting the candidacies of a Black professor at the University of Iowa, Paul Gowder, and another professor's wife." Mr. Gowder "said Tuesday that he had 'no idea of any kind of a deal,' but that he had ample credentials for the job."</other>
+
+<question_number>6</question_number>
+<answer>Ernest A. Young</answer>
+<other>The article states Mr. Young "did not detect any hostility" and said, "I've got so many strikes against me... I'm over 50. I'm white. I'm male. I'm right of center politically... And I don't have a Ph.D. in another discipline, which is a big hiring trend." Factors like age, political leaning, and not having a Ph.D. in another discipline are unrelated to the lawsuit's specific claims of race and sex discrimination prohibited by federal law.</other>
+
+<question_number>7</question_number>
+<answer>The lawsuit's accusation that one professor used an exam hypothetical from a publicly available source because she was "too lazy to write her own exam question" exemplifies its critique by aiming to portray a hired professor as lacking diligence or qualification, thereby supporting the broader claim that Northwestern hires less meritorious candidates due to race and sex preferences.</answer>
+<other>The lawsuit's broader critique is that Northwestern hires "women and racial minorities with mediocre and undistinguished records over white men who have better credentials." The specific accusation about laziness in exam creation is used as an example of this alleged mediocrity.</other>
+
+<question_number>8</question_number>
+<answer>The complaint positions the filing group as a successor to Students for Fair Admissions, the organization whose lawsuits led the Supreme Court to ban affirmative action in college admissions.</answer>
+<other>The article states, "...the group's sweeping approach suggests that it wants to explicitly position itself as a successor to Students for Fair Admissions, the organization that sued universities on behalf of Asian American students... A year ago, those complaints led the Supreme Court to ban affirmative action in college admissions."</other>
+
+<question_number>9</question_number>
+<answer>White men</answer>
+<other>The article states, "Of the 21 job offers made by the law school over the last three years, three went to white men, the suit says." The lawsuit's central claim is discrimination against white male candidates.</other>
+
+<question_number>10</question_number>
+<answer>The complaint accuses them of "thumbing their noses at federal anti-discrimination statutes and openly discriminating on account of race and sex when appointing professors."</answer>
+<other>This is a direct quote from the complaint as reported in the article: "'For decades, left-wing faculty and administrators have been thumbing their noses at federal anti-discrimination statutes and openly discriminating on account of race and sex when appointing professors,' the complaint says."</other>

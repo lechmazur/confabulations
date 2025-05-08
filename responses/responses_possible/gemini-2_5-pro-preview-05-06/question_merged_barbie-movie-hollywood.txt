@@ -1,0 +1,40 @@
+merged_barbie-movie-hollywood.txt
+<other>Processing Question 1: The question asks for the primary reason studios are hesitant to produce more films with female leads despite "Barbie's" success. I need to find the main reason cited in the article for this hesitation.</other>
+<question_number>1</question_number>
+<answer>The perception that "Barbie" is a singular, "one-off" success and the difficulty in convincing studios that men will attend female-led films.</answer>
+
+<other>Processing Question 2: This question asks how the article illustrates the discrepancy between "Barbie's" perceived success and the actual changes in Hollywood. I need to identify the specific examples or statements in the article that highlight this contrast.</other>
+<question_number>2</question_number>
+<answer>By stating that despite "Barbie's" success seeming to herald a new paradigm, little has changed in Hollywood in the 12 months since its release, and by citing a report that films released in 2023 featured the same number of girls or women in a leading role as in 2010.</answer>
+
+<other>Processing Question 3: The question asks how the industry's current economic climate influences decision-making regarding films with female protagonists. I need to find information about the economic climate and its impact on film choices, specifically for female-led films.</other>
+<question_number>3</question_number>
+<answer>The current economic climate, characterized by dual labor strikes, retrenchment due to streaming economics, and a 17 percent drop in box office, has caused the industry to retreat to its usual ways of doing business and prioritize "sure bets," making it more challenging to sell projects like female-led films that studios may not perceive as such.</answer>
+
+<other>Processing Question 4: This question asks which executive received a symbolic item. The article mentions a trio received the item. I need to identify these individuals.</other>
+<question_number>4</question_number>
+<answer>Margot Robbie, Tom Ackerley, and Josey McNamara.</answer>
+
+<other>Processing Question 5: The question asks what argument producers used to justify a larger budget for a female-led film when "Wonder Woman" was deemed an unsuitable comparison. I need to find the specific argument made by the producers of "Barbie" in this context. The article mentions the studio's counter-argument but not the producers' subsequent argument for "Barbie's" budget after "Wonder Woman" was dismissed.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<other>Processing Question 6: This question asks for the most common response received by a producer shopping a specific type of comedy project. I need to find this response in the article.</other>
+<question_number>6</question_number>
+<answer>"We just don't know who it's for."</answer>
+
+<other>Processing Question 7: The question asks what tradition was revived for a production company. I need to identify this tradition from the text.</other>
+<question_number>7</question_number>
+<answer>Giving an original key to the studio.</answer>
+
+<other>Processing Question 8: This question asks which actor is set to star in a reimagining of a children's franchise by Mattel. The article mentions two such projects with named actors. The question asks for "Which actor" (singular). I will provide one of the actors mentioned.</other>
+<question_number>8</question_number>
+<answer>Daniel Kaluuya.</answer>
+
+<other>Processing Question 9: The question asks for the specific contractual detail that allowed the director and star of "Barbie" to avoid commitment to a sequel. I need to find this detail in the article.</other>
+<question_number>9</question_number>
+<answer>Their contracts for the original film did not have them on the hook to make a sequel.</answer>
+
+<other>Processing Question 10: The question asks how many female directors, excluding Greta Gerwig, have projects in active development at Warner Bros. I need to count these based on the article's information about Warner Bros.'s slate.</other>
+<question_number>10</question_number>
+<answer>Four.</answer>

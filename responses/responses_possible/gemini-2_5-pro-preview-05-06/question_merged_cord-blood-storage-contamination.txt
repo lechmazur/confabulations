@@ -1,0 +1,32 @@
+merged_cord-blood-storage-contamination.txt
+<other>I will go through each question and find the answer directly from the provided article.</other>
+<question_number>1</question_number>
+<answer>Trumpeting the cells' lifesaving possibilities and peddling cord blood as if it were at the medical vanguard, selling parents the hope of a "healthier tomorrow" despite low odds of use.</answer>
+<other>The article states: "But the leading banks have consistently misled customers and doctors about the technology's promise... Yet private banks trumpet the cells' lifesaving possibilities, and legions of their sales representatives peddle cord blood as if it were at the medical vanguard." and "While private banks disclose in small print that the odds of using the cells are low, or that clinical trials may not pan out, they have nevertheless prospered by selling parents the hope of a 'healthier tomorrow.'"</other>
+<question_number>2</question_number>
+<answer>Insurers do not cover their product.</answer>
+<other>The article states: "But unlike their peers from the pharmaceutical and medical device industries -- who operate under strict laws prohibiting kickbacks to doctors -- cord blood representatives are largely exempt because insurers do not cover their product."</other>
+<question_number>3</question_number>
+<answer>Bacteria in a supposedly sterile processing area.</answer>
+<other>The article states: "In January, inspectors from the Food and Drug Administration found troubling signs of bacterial growth at CBR's sole warehouse, in Tucson, Ariz. Reviewing records going back to 2018, they reported bacteria in a supposedly sterile processing area, as well as leaky bags used to collect cord samples." Other issues mentioned are leaky bags, inappropriate shipping conditions, and a faulty contamination test, but "bacteria in a supposedly sterile processing area" is a specific issue found that could contribute to contamination.</other>
+<question_number>4</question_number>
+<answer>The claim that stem cells can be used to treat over 80 different conditions.</answer>
+<other>The article states: "'Those stem cells can be used to treat over 80 different conditions,' Ms. Teigen said... Frances Verter, the group's founder and the author of the list [cited by CBR], said that most of the conditions were exceedingly rare. What's more, she included diseases that the F.D.A. allowed to be treated with various types of stem cells -- not necessarily from cord blood. 'The marketing is hype,' Dr. Verter said."</other>
+<question_number>5</question_number>
+<answer>Her son's stored cord blood cells were found to be contaminated with E. coli and unusable for an autism clinical trial, despite her having paid thousands for storage.</answer>
+<other>The article states: "After spending thousands of dollars on cord blood storage, Ms. Lazos asked to withdraw a sample to enroll him in an autism clinical trial. The company told her that the cells were contaminated with E. coli." and "That study's researchers told her that the cells were contaminated and unusable. They were growing E. coli."</other>
+<question_number>6</question_number>
+<answer>Chrissy Teigen.</answer>
+<other>The article states: "Last year, CBR started a social media and television campaign with Chrissy Teigen... That campaign brought in more than 5,800 new customers and $6.6 million in revenue..."</other>
+<question_number>7</question_number>
+<answer>CBR (Cord Blood Registry).</answer>
+<other>The article states: "In January, inspectors from the Food and Drug Administration found troubling signs of bacterial growth at CBR's sole warehouse, in Tucson, Ariz." The article also mentions the "biological insurance policy" pitch in the introduction: "Millions of pregnant women get the pitch through their OB-GYN: Put a bit of your newborn's umbilical cord on ice, as a biological insurance policy." While this pitch is general, CBR is the bank specified with FDA scrutiny for bacterial growth.</other>
+<question_number>8</question_number>
+<answer>CBR (Cord Blood Registry).</answer>
+<other>The article states: "CooperSurgical, a major medical device company, purchased CBR's parent company in 2021 for $1.6 billion, attributing two-thirds of its value to umbilical cord storage."</other>
+<question_number>9</question_number>
+<answer>CBR (Cord Blood Registry).</answer>
+<other>The article states: "Kristin Prins banked her new baby's cells at CBR in 2021 because she wanted to enroll her older son in the cerebral palsy clinical trial. (CBR has a program that offers families in these situations free banking.)" It later discusses quality control issues at CBR's Tucson warehouse.</other>
+<question_number>10</question_number>
+<answer>ViaCord.</answer>
+<other>The article states: "Jenna Edwards... spent more than $3,000 storing her son's cord blood at ViaCord's bank... When she tried in 2017 to withdraw the cells... she learned that the company had found bacteria in the sample within weeks of receiving it, but still charged her for the next two years."</other>

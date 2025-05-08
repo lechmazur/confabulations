@@ -1,0 +1,43 @@
+merged_drug-prices-medicare.txt
+<question_number>1</question_number>
+<answer>The $2,000 annual cap on patient costs for drugs taken at home is implemented before the new negotiated prices take effect.</answer>
+<other>The article states the $2,000 limit will go into effect "next year" (which is 2025, as the article refers to 2023 as "last year" and the bill was signed in 2022, with the announcement being current), and the negotiated prices take effect in 2026.</other>
+
+<question_number>2</question_number>
+<answer>The Project 2025 playbook suggests repealing the drug price negotiation program, which would prevent or reverse the planned increase in the number of drugs negotiated by the federal government.</answer>
+<other>The article mentions the number of negotiated drugs is set to increase, but Project 2025 argues the program should be repealed.</other>
+
+<question_number>3</question_number>
+<answer>Vice President Kamala Harris cast the tiebreaking vote for the legislation that created the drug price negotiation program, and her early presidential campaign priorities include "taking on Big Pharma," which aligns with and is exemplified by such drug pricing reforms.</answer>
+<other>The article links her legislative action directly to her campaign focus on drug pricing reforms.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article states, "It is impossible to tell how much the new prices will save Medicare for each individual drug." Therefore, the percentage reduction for each specific drug cannot be determined from the text.</other>
+
+<question_number>5</question_number>
+<answer>$1,716</answer>
+<other>Judy Aiken's current out-of-pocket cost for the first refill is $2,200. Medicare's overall savings on negotiated drugs is 22 percent. If her costs decreased by 22 percent, the decrease would be $2,200 * 0.22 = $484. She would then pay $2,200 - $484 = $1,716. This is based on the hypothetical premise of the question.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article states, "It is impossible to tell how much the new prices will save Medicare for each individual drug. The federal government does not disclose the net prices it pays for medications..." Without knowing the pre-negotiation Medicare spending for each drug, this cannot be calculated.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article does not provide the patient's specific out-of-pocket monthly cost for each of the 10 drugs under the new negotiated prices. The listed prices are the total for Medicare Part D plans and the patient. The patient's share, which counts towards the $2,000 cap, is not specified for each drug, and the example given for Enbrel shows a specific co-payment structure that cannot be generalized.</other>
+
+<question_number>8</question_number>
+<answer>92.49%</answer>
+<other>The three most expensive drugs and their negotiated prices are Imbruvica ($9,319), Stelara ($4,695), and Enbrel ($2,355). Their sum is $16,369.
+The sum of the negotiated prices for all 10 drugs is:
+Eliquis ($231) + Jardiance ($197) + Xarelto ($197) + Januvia ($113) + Farxiga ($178) + Entresto ($295) + Enbrel ($2,355) + Imbruvica ($9,319) + Stelara ($4,695) + Fiasp/NovoLog ($119) = $17,699.
+The percentage is ($16,369 / $17,699) * 100 = 92.48545...%, which is approximately 92.49%.</other>
+
+<question_number>9</question_number>
+<answer>$19</answer>
+<other>Jardiance ($197) is for "diabetes, heart failure and chronic kidney disease." Farxiga ($178) is also listed for "diabetes, heart failure and chronic kidney disease." These are the two drugs on the list that treat this specific combination of conditions. The difference in their negotiated prices is $197 - $178 = $19.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article mentions "drugmakers" in general have filed lawsuits. It mentions Bristol Myers Squibb criticized its drug's new price but does not state that Bristol Myers Squibb was specifically involved in legal challenges. The article does not name any specific companies (that produce the 10 listed drugs) as having filed legal challenges. Therefore, the total negotiated price for drugs produced by such specifically named companies cannot be determined from the text.</other>

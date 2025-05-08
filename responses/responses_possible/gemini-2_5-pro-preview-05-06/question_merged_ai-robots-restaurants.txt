@@ -1,0 +1,40 @@
+merged_ai-robots-restaurants.txt
+<question_number>1</question_number>
+<answer>Developing hardware for kitchen automation takes years, and faces logistical challenges like worker safety and skeptical franchisees.</answer>
+<other>This is based on Gennadiy Goldenshteyn's statement, which is followed by "As a result, even as chain restaurants look outwardly more futuristic, their kitchens work largely as they have for decades," directly linking these challenges to the slow progress.</other>
+
+<question_number>2</question_number>
+<answer>Human emotions play a decisive role in how much and how quickly automation is adopted in restaurants.</answer>
+<other>The article states, "our soft, irrational human emotions -- how we react to these robot assistants -- will play a decisive role in how much and how quickly they start to run our restaurants."</other>
+
+<question_number>3</question_number>
+<answer>Feeling that the robot loves them.</answer>
+<other>Professor Giebelhausen is quoted saying, "The crux is, if you feel the robot loves you... you allow the robot to cook with love."</other>
+
+<question_number>4</question_number>
+<answer>They can become anxious about losing their jobs or entire occupation, especially when the organization isn't clear on why the technology is brought in.</answer>
+<other>Mindy Shoss explained that "automation can make workers anxious about losing their jobs, or even their entire occupation. 'Given popular discussions about tech replacing workers, it is a common concern, especially when the organization isn't clear on why the tech is brought in.'" This follows the observation that unconsulted workers were more likely to feel frustrated.</other>
+
+<question_number>5</question_number>
+<answer>Dining-room robots offered a clear solution, and the kitchen was much more complicated.</answer>
+<other>The article states, "Bear Robotics also chose to focus on dining-room robots because they offered a clear solution. The kitchen was much more complicated."</other>
+
+<question_number>6</question_number>
+<answer>The strong emotional attachment consumers already have to smartphones might lead to smartphones superseding other forms of order-taking automation like kiosks and A.I.</answer>
+<other>Mr. Goldenshteyn "believes that all of the order-taking automation, including kiosks and A.I., will eventually be superseded by a familiar bit of hardware that consumers already have a strong emotional attachment to: the smartphone."</other>
+
+<question_number>7</question_number>
+<answer>Developing the hardware takes years, and it faces logistical challenges like worker safety and skeptical franchisees.</answer>
+<other>Gennadiy Goldenshteyn "said developing hardware for kitchen automation takes years, and faces logistical challenges like worker safety and skeptical franchisees."</other>
+
+<question_number>8</question_number>
+<answer>Their production can be modeled on the automated processes of factories that produce single items, such as frozen pizza factories.</answer>
+<other>The article states that Benson Tsai, CEO of Stellar Pizza (a fully automated pizza truck), "was inspired by frozen pizza factories" where "pizzas being made by the thousands on conveyor belts." This implies that the suitability for factory-like automation is the reason.</other>
+
+<question_number>9</question_number>
+<answer>Human emotions play a decisive role in acceptance; specifically for cooking, consumers' preference for human chefs (believing humans cook with love) can be overcome if they feel the robot loves them.</answer>
+<other>The article states, "our soft, irrational human emotions -- how we react to these robot assistants -- will play a decisive role..." and "consumers prefer human chefs to robot ones, in part because they believe that humans cook with love," which fades if "you feel the robot loves you."</other>
+
+<question_number>10</question_number>
+<answer>Humans are still very good at smiling.</answer>
+<other>Benson Tsai "pointed out: 'Humans still do one thing very well, and that's smiling,'" in the context of the truck employing one human to hand the pizza to the customer.</other>

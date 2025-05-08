@@ -1,0 +1,40 @@
+merged_box-office-projections-tracking.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article attributes the overperformance of films like "Twisters" to tapping into an audience of infrequent moviegoers whom surveys fail to capture, rather than a specific tracking metric (awareness, interest, or choice) being significantly higher than others within the surveyed population.</other>
+
+<question_number>2</question_number>
+<answer>The marketing campaign is effective at creating awareness but not at generating interest, indicating a need to recalibrate the campaign.</answer>
+<other>The article states, "If a movie is tracking poorly, on the other hand, the studio has a chance to recalibrate the campaign, or cut its losses." High awareness with low interest would be a form of tracking poorly in terms of converting interest.</other>
+
+<question_number>3</question_number>
+<answer>When a movie their client is in looks like it is going to bomb.</answer>
+<other>The article states: "If you're an agency and you have an actor in a movie that looks like it's going to bomb, maybe you try and lock down their next few projects before it comes out."</other>
+
+<question_number>4</question_number>
+<answer>Attracting people who infrequently visit the theater, or who only see two to three movies a year.</answer>
+<other>The article suggests "Deadpool & Wolverine" might be a film that, like "Twisters," taps into an audience of infrequent moviegoers, stating, "If you're the type of person who is only going to see two to three movies a year... and this is the movie you choose, surveys aren't going to capture that."</other>
+
+<question_number>5</question_number>
+<answer>The misinterpretation of "Furiosa" data, by overvaluing pedigree and downplaying weak audience demand shown in the numbers, exemplifies the potential pitfalls of the predictive system that Coca-Cola pushed Columbia Pictures to adopt, which sought precise, metric-driven forecasts similar to those for conventional consumer products.</answer>
+<other>Coca-Cola wanted Columbia Pictures run like a conventional maker of consumer products with "certain metrics of units sold." The "Furiosa" situation, where data was allegedly downplayed in favor of subjective interpretations like "pedigree," shows how this "parlor game of predictions" can go awry.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article mentions that "A Quiet Place: Day One" far exceeded estimates and lists demographic groups tracked (women, men, over 30, under 30, ethnic groups, regions). It also mentions surveys can fail to capture "those who infrequently visit the theater." However, it does not specify a particular *demographic group* from its list whose underrepresentation would explain the discrepancy for "A Quiet Place: Day One," nor does it classify "infrequent moviegoers" as a demographic group in that context.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article states "The Fall Guy" came in lower than expected. It provides an example of a strategy for a hit film ("Barbie"): increasing screens. It does not, however, specify what strategy a theater owner might employ for a film tracking to perform like "The Fall Guy" (an underperformer).</other>
+
+<question_number>8</question_number>
+<answer>Bad survey takers introduce unreliable data, which can disproportionately skew results for films with niche appeal by obscuring or misrepresenting the true, smaller level of genuine interest, thereby reducing projection accuracy.</answer>
+<other>The article states bad survey takers provide unreliable responses and that companies "pay to weed out the bad ones." For niche films, where the genuine audience is small, such unreliable data would have a more significant distorting impact if not properly filtered.</other>
+
+<question_number>9</question_number>
+<answer>Its audience included people who do not usually go to the movies, a group that surveys typically do not capture.</answer>
+<other>Kevin Goetz is quoted saying about "Twisters": "People who don't usually go to the movies are coming out for it... surveys aren't going to capture that."</other>
+
+<question_number>10</question_number>
+<answer>The interpretation would likely have focused more on the "clear signs of weak audience demand" (the quantitative data) rather than overvaluing subjective factors like "pedigree," aligning with Coca-Cola's preference for treating films like conventional consumer products with "certain metrics of units sold."</answer>
+<other>Coca-Cola's management approach emphasized metrics. The "Furiosa" misinterpretation involved downplaying data ("weak audience demand") and overvaluing "pedigree." A consumer product approach would likely prioritize the data on demand.</other>

@@ -1,0 +1,40 @@
+merged_coal-solar-power-minnesota.txt
+<question_number>1</question_number>
+<answer>Potatoes</answer>
+<other>The article states that Edling Farms produced "bags of potatoes" and that leasing land for farming became too expensive due to higher offers from solar farm developers, impacting farmers like the Edlings.</other>
+
+<question_number>2</question_number>
+<answer>Coal</answer>
+<other>The article refers to coal as "black gold" and mentions a single burner could "consume as much as 120,000 pounds of coal per hour." The coal plant is being replaced, diminishing coal's role.</other>
+
+<question_number>3</question_number>
+<answer>Edling Farms</answer>
+<other>The article states: "For four generations, the Edling family made a living producing bags of potatoes... their family began more than a century ago." It also mentions they "lost to Xcel Energy's solar project." The battery systems, part of the overall renewable project, use "iron" and can power 2,000 homes. Iron is an element found in cast iron pots and pans (common knowledge inference similar to the Wimbledon example in instructions).</other>
+
+<question_number>4</question_number>
+<answer>'Save Our Sherco' lawn sign</answer>
+<other>The article mentions: "A lonely 'Save Our Sherco' lawn sign continues a silent protest". The change is the replacement of the Sherco coal plant with renewables, and solar energy is projected to provide 40% of national electricity by 2035.</other>
+
+<question_number>5</question_number>
+<answer>Xcel Energy</answer>
+<other>The article states: "Xcel is installing demonstration battery systems from Form Energy". The letter 'X' in Xcel is commonly used in mathematics to symbolize an unknown quantity (common knowledge inference similar to the Wimbledon example). The systems can power 2,000 homes using common elements like water, air, and iron.</other>
+
+<question_number>6</question_number>
+<answer>Iron</answer>
+<other>The new energy storage systems use "readily available materials like water, air and iron." Iron is a common element found in the human body (e.g., in hemoglobin) and is essential for agriculture as a soil nutrient (common knowledge inference for the connection to agricultural past).</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article describes "a giant mound on the plant site, weighing 1.9 million tons," which is a coal stockpile. A man-made stockpile of coal is not a "geological feature" in the usual sense (naturally formed). Therefore, the premise of the question that such a geological feature is described is incorrect according to the text.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>Xcel Energy is the company at the center of the transition and has closed 24 of its 36 coal units. However, the article does not state or imply that its name, Xcel (which sounds like "excel"), is shared with or is a "symbol of precision." This interpretation is not supported by the text and goes beyond common knowledge inference like the Wimbledon example.</other>
+
+<question_number>9</question_number>
+<answer>Black gold</answer>
+<other>The article states: "The transition away from black gold, as coal has been known..." "Black" is a color and "gold" is a precious metal term. This energy source (coal) is being replaced by solar power, which harnesses energy from the sun (a celestial body).</other>
+
+<question_number>10</question_number>
+<answer>Lease</answer>
+<other>The article discusses how "Leasing has become too expensive because landowners can make four times as much from solar farm customers as they can from farmers." It specifies farmers paying "a little more than $200 an acre on a lease, but solar developers began offering north of $900." Solar farms harness energy from the sun, a celestial body.</other>

@@ -1,0 +1,42 @@
+merged_campus-protests-arrests.txt
+<other>I will go through each question and find the answer directly from the provided article. If the information is not present or cannot be directly inferred, I will use "N/A".</other>
+
+<question_number>1</question_number>
+<answer>Benjamin Kern's activism was motivated by opposition to his university's investments in weapons manufacturers.</answer>
+<other>The article states, "Benjamin Kern... said he wanted to show support for the Palestinian people and opposition to his university's investments in weapons manufacturers." This directly links his protest motivation to university investments.</other>
+
+<question_number>2</question_number>
+<answer>Delia Garza</answer>
+<other>The article says, "Ms. Garza, a Democrat, said she also calculated that jurors in her community would very likely determine that students protesting on their own campus were simply exercising First Amendment rights."</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article mentions Benjamin Kern is "a rising senior studying hydrology and water resources" and that he protested "his university's investments in weapons manufacturers" and to "show support for the Palestinian people." However, the article does not explicitly state a connection between his academic focus and his protest motivations.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Indiana University "abruptly changed campus rules" and "called in the police," but the police are not specified as "state-level." The University of Texas at Austin had "state police" deployed, but the article states "university leaders informed protest organizers that their event 'may not proceed as planned,'" which is not explicitly described as a "change in campus rules" in the same way as for Indiana University. Therefore, no single university is explicitly stated to have met both conditions.</other>
+
+<question_number>5</question_number>
+<answer>Such charges were rarely a priority for prosecutors because they are minor and nonviolent offenses, and she calculated that jurors in her community would very likely determine that students protesting on their own campus were simply exercising First Amendment rights.</answer>
+<other>The article states, "Delia Garza... said that such charges were rarely a priority for prosecutors, since they are minor and nonviolent offenses. Ms. Garza... said she also calculated that jurors in her community would very likely determine that students protesting on their own campus were simply exercising First Amendment rights."</other>
+
+<question_number>6</question_number>
+<answer>Robert Cohen</answer>
+<other>The article states, "The pro-Palestinian activism 'is a relatively small movement,' said Robert Cohen, a historian at New York University, 'but the arrests are almost comparable to the height of the Vietnam protests.'" The Vietnam protests were previously linked to 1969.</other>
+
+<question_number>7</question_number>
+<answer>University of Texas at Austin</answer>
+<other>The article states Benjamin Kern protested "his university's investments in weapons manufacturers" at the University of Texas at Austin. It also mentions, "Some of those arrested that day [at UT Austin] are facing campus discipline, including having transcripts and diplomas withheld." and "Mr. Kern and others arrested at the University of Texas are still facing campus disciplinary proceedings".</other>
+
+<question_number>8</question_number>
+<answer>The number of arrests is almost comparable to the height of the Vietnam protests.</answer>
+<other>Robert Cohen is quoted saying, "The pro-Palestinian activism 'is a relatively small movement,' ... 'but the arrests are almost comparable to the height of the Vietnam protests.'"</other>
+
+<question_number>9</question_number>
+<answer>Benjamin Kern</answer>
+<other>The article quotes Benjamin Kern saying, "'I believe as a student, I have a right to go to my university and ask for change,' he said." It later states, "On June 26, Ms. Garza, the Travis County attorney, announced that she had decided to drop all of the trespassing charges against the people arrested on April 29, including Mr. Kern's."</other>
+
+<question_number>10</question_number>
+<answer>June 26</answer>
+<other>The article states, "On June 26, Ms. Garza, the Travis County attorney, announced that she had decided to drop all of the trespassing charges against the people arrested on April 29..."</other>

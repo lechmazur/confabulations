@@ -1,0 +1,40 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>The exposure of phone records from this period, potentially including those related to AT&T's federal contracts, posed a substantial risk to national security and public safety.</answer>
+<other>This is based on the Justice Department's reason for requesting a delay in public disclosure, which was "a substantial risk to national security and public safety" concerning the incident that involved data from May 2022 through October 2022.</other>
+
+<question_number>2</question_number>
+<answer>It places data in a shared environment that is "much trickier" to secure and presents "many more ways in which potential attacks can be done."</answer>
+<other>This is taken from Professor Schaumont's explanation of outsourcing data to the cloud.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article describes the breach's impact (national security risk) and AT&T's federal contracts, but it does not explicitly state *how* this impact underscores the importance of secure data management for companies with government ties. The article provides the elements for the reader to make this inference, but does not state the mechanism of "underscoring" itself.</other>
+
+<question_number>4</question_number>
+<answer>By identifying the telephone numbers an AT&T cellular number interacted with, which can then be traced back to individuals using methods like data broker records, thereby exposing their communication networks.</answer>
+<other>This combines information about the nature of the exposed data ("records identify the telephone numbers an AT&T cellular number interacted with") and Chris Pierson's statement about tracing numbers to individuals to expose communication networks.</other>
+
+<question_number>5</question_number>
+<answer>The communication networks of personnel within federal agencies that AT&T serves could be exposed, posing a national security risk.</answer>
+<other>This is inferred from the type of data exposed (call/text interaction records), AT&T's contracts with federal agencies (State Department, Department of Homeland Security, Department of Defense), and Chris Pierson's statement about exposing communication networks of people in national security roles, leading to a national security concern.</other>
+
+<question_number>6</question_number>
+<answer>The exposed data, which identifies telephone numbers an AT&T number interacted with, directly provides the information that, if linked to individuals in sensitive positions (e.g., through data broker records), can reveal their communication networks.</answer>
+<other>The connection is that the data itself ("records identify the telephone numbers an AT&T cellular number interacted with") is the foundation for identifying communication networks once phone numbers are associated with individuals.</other>
+
+<question_number>7</question_number>
+<answer>The compromised data, by potentially exposing communication networks of people in national security roles, provides valuable intelligence that would benefit foreign nation states or foreign actors.</answer>
+<other>This is inferred from Chris Pierson's statement that "The most likely beneficiary of this specific data are foreign nation states or foreign actors" and his earlier point that the data could "expose communication networks for people in national security roles."</other>
+
+<question_number>8</question_number>
+<answer>The compromised data, consisting of records of telephone number interactions, can be used to map the communication networks of government officials if their phone numbers are identified within the exposed records and linked to them.</answer>
+<other>This is based on the nature of the data (records of interactions between telephone numbers) and the fact that AT&T has contracts with federal agencies, implying government officials could be customers whose interaction records were exposed.</other>
+
+<question_number>9</question_number>
+<answer>It moves IT infrastructure to a shared environment operated by third parties, making security "much trickier" and creating "many more ways in which potential attacks can be done."</answer>
+<other>This is a direct paraphrase of Professor Schaumont's explanation.</other>
+
+<question_number>10</question_number>
+<answer>The professor's explanation of cloud infrastructure as a shared, third-party environment with increased security complexities and attack vectors directly applies to Snowflake, the third-party cloud platform from which AT&T's customer data was downloaded in the breach.</answer>
+<other>This connects Professor Schaumont's general statements about cloud risks to the specific mention of Snowflake as the "third-party cloud platform" involved in the AT&T breach.</other>

@@ -1,0 +1,31 @@
+merged_alzheimers-blood-test.txt
+<question_number>1</question_number>
+<answer>No therapies to offer.</answer>
+<other>The article states, "'If you would detect Alzheimer's disease pathology in the person without cognitive impairment, there's no therapies to offer,' said Dr. Oskar Hansson... Given that, Dr. Hansson said, there is a 'risk of anxiety and other reactions, psychological reactions, to such a test result.' The lack of therapies is presented as the initial problem.</other>
+<question_number>2</question_number>
+<answer>The blood test was wrong about 10 percent of the time, while primary care doctors were wrong 41 percent of the time when they believed a patient did not have Alzheimer's.</answer>
+<other>The article states, "And when they [primary care doctors] thought patients did not have Alzheimer's, they were wrong 41 percent of the time." And, "The blood test was wrong only about 10 percent of the time."</other>
+<question_number>3</question_number>
+<answer>Many people with subjective cognitive decline do not turn out to have Alzheimer's.</answer>
+<other>Dr. Hansson stated that lower accuracy in subjective cognitive decline "probably occurred because many people with subjective cognitive decline do not turn out to have Alzheimer's."</other>
+<question_number>4</question_number>
+<answer>For blood test analysis to be easily integrated into hospital laboratory systems rather than requiring outside labs.</answer>
+<other>The article says, "One remaining hurdle, Dr. Boxer and Dr. Karlawish said, is for blood test analysis to be easily integrated into hospital laboratory systems rather than requiring outside labs."</other>
+<question_number>5</question_number>
+<answer>ptau-217</answer>
+<other>The article states, "Measuring that form, called ptau-217, was found to give the most accurate assessment of Alzheimer's pathology..."</other>
+<question_number>6</question_number>
+<answer>In the context of a research study for people who do not yet have symptoms.</answer>
+<other>Dr. Boxer said, "most of us feel like it would not be ethical to use it in people who don't yet have symptoms, unless it's in the context of a research study." This is in the context of the lack of preventative treatments for asymptomatic individuals.</other>
+<question_number>7</question_number>
+<answer>Kidney disease.</answer>
+<other>The article mentions "patients with kidney disease, which can cause high ptau-217 levels that are not linked to Alzheimer's."</other>
+<question_number>8</question_number>
+<answer>Risk of anxiety and other psychological reactions.</answer>
+<other>Dr. Hansson mentioned a "risk of anxiety and other reactions, psychological reactions, to such a test result" for cognitively healthy individuals if pathology is detected without available therapies.</other>
+<question_number>9</question_number>
+<answer>41 percent.</answer>
+<other>The article states: "And when they [primary care doctors] thought patients did not have Alzheimer's, they were wrong 41 percent of the time."</other>
+<question_number>10</question_number>
+<answer>Increase access to screening.</answer>
+<other>The article states, "The hope, they [Dr. Boxer and Dr. Karlawish] said, is that if primary care doctors can eventually use these tests, it will increase access to screening, especially for people from racial and ethnic minorities and low-income and rural communities."</other>

@@ -1,0 +1,34 @@
+merged_alcohol-cancer-risk.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article provides data from a 2013 study showing esophageal cancer had a 30% higher relative risk for light drinkers compared to non-drinkers, which was higher than for oral cavity/pharynx cancer (17%) and breast cancer (5%). However, the article does not explicitly state that esophageal cancer is "not being the most common type of alcohol-related cancer in terms of absolute lifetime risk," nor does it provide a ranking of commonality for all alcohol-related cancers in absolute terms, making it impossible to verify this part of the condition.</other>
+
+<question_number>2</question_number>
+<answer>39.09%</answer>
+<other>The reference group (less than one drink per week) for women had an 11% lifetime risk of breast cancer ("About 11 in 100 women"). Women consuming two drinks daily had a 15.3% lifetime risk of breast cancer ("The share of those who would develop breast cancer increased to 15.3 percent"). The percentage increase is ((15.3 - 11) / 11) * 100 = (4.3 / 11) * 100 = 39.0909...%. Rounded to two decimal places, this is 39.09%. The Australian study, as per the article, "did not include non-drinkers to avoid what is known as the 'sick quitter' effect," so the premise of the question is met.</other>
+
+<question_number>3</question_number>
+<answer>35 ounces of wine per week</answer>
+<other>Women experience a 19% lifetime risk of developing any alcohol-related cancer when they consume "one alcoholic drink each day (seven drinks a week)." A standard drink is defined as containing "about the amount in a 5-ounce glass of wine." Therefore, seven drinks per week corresponds to 7 * 5 ounces = 35 ounces of wine per week.</other>
+
+<question_number>4</question_number>
+<answer>Two drinks per day</answer>
+<other>
+Calculating the absolute lifetime risk difference (Women - Men) for any alcohol-related cancer:
+1.  Less than one drink per week: Women 17%, Men 10%. Difference = 17% - 10% = 7 percentage points.
+2.  One drink each day: Women 19%, Men 11%. Difference = 19% - 11% = 8 percentage points.
+3.  Two drinks per day: Women "nearly 22 percent", Men 13%. Difference = "nearly 22%" - 13% = "nearly 9 percentage points".
+Since "nearly 9 percentage points" is greater than 8 percentage points, the maximum gap reported occurs at the "Two drinks per day" level.</other>
+
+<question_number>5</question_number>
+<answer>Mouth cancer</answer>
+<other>
+Light drinking (up to one drink per day) increases the risk of cancers of the "mouth, pharynx and breast."
+Heavy drinking (four or more drinks a day) is linked to "cancers of the mouth, oropharynx, larynx, esophagus, breast and colorectal area."
+Mouth cancer appears in both categories.
+The article states, "Drinking and smoking cigarettes, for instance, is known to compound the risk of head and neck cancers." Mouth cancer is a type of head and neck cancer.
+</other>
+
+<question_number>6</question_number>
+<answer>1.5 ounces</answer>
+<other>A 13.1% lifetime risk of breast cancer for women is associated with consuming "one alcoholic drink each day." A standard drink is defined as containing, among other equivalents, "a 1.5-ounce shot of liquor." Therefore, the daily consumption of liquor corresponding to this risk level is 1.5 ounces.</other>

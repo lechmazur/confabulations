@@ -1,0 +1,31 @@
+merged_costco-membership-price-increase.txt
+<question_number>1</question_number>
+<answer>The announcement of the membership fee increase.</answer>
+<other>The article states, "Shareholders may have taken note of the news. Costco's share price dropped..." The "news" refers to the fee increase announcement made on Wednesday.</other>
+<question_number>2</question_number>
+<answer>Costco may use its membership fee to drive profits, which allows it to keep prices on goods low.</answer>
+<other>The article quotes Tim Calkins: "Mr. Calkins thinks Costco will continue to keep its price on goods as low as possible and may look to its membership fee to drive profits."</other>
+<question_number>3</question_number>
+<answer>To close an often-exploited workaround in which nonmembers sometimes avoided identification requirements at self-checkout lanes.</answer>
+<other>The article explicitly states this reason: "...closing an often-exploited workaround in which nonmembers sometimes avoided identification requirements at self-checkout lanes."</other>
+<question_number>4</question_number>
+<answer>The fee increase was announced the day after the stock price reached a record high, and the stock price subsequently dropped.</answer>
+<other>The article states, "Costco's share price dropped by about 5 percent from Wednesday morning to Thursday evening. The stock price had reached a record high on Tuesday." The announcement was on Wednesday.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article mentions the fee increase and separately discusses recent crackdown measures, stating, "Although Costco has avoided raising membership prices, it has recently taken measures to crack down on loopholes..." This phrasing suggests the crackdown occurred during a period of stable fees and does not explicitly link it as a direct, strategic counterpart to the current fee increase.</other>
+<question_number>6</question_number>
+<answer>A single increase is not likely to cause many customers to cancel memberships, but frequent increases could become a bigger issue.</answer>
+<other>This is based on Tim Calkins' quote: "'A single price increase like this is not likely to have a big impact,' he said when asked if he thought customers would cancel their memberships. 'But over time, if Costco does this with a lot of frequency, then it could become a bigger issue.'"</other>
+<question_number>7</question_number>
+<answer>The fee increase may be used to drive profits, especially as high inflation and gas prices threaten the profit margins of grocery stores.</answer>
+<other>The article mentions "high inflation and gas prices threatening the profit margins of grocery stores" and quotes Tim Calkins saying Costco "may look to its membership fee to drive profits."</other>
+<question_number>8</question_number>
+<answer>The article implies it could support long-term growth by helping to drive profits through the membership fee, but frequent increases could become a bigger issue for customer retention.</answer>
+<other>This is inferred from Tim Calkins' statements that Costco "may look to its membership fee to drive profits" (which can fund growth) and that frequent increases "could become a bigger issue" (implying customer loss, which hinders growth).</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Similar to question 5, the article describes the fee increase and the crackdown measures separately. The crackdown was mentioned as occurring "Although Costco has avoided raising membership prices," indicating it wasn't directly tied to this specific new fee increase as part of a single announced strategy in the article.</other>
+<question_number>10</question_number>
+<answer>The announcement of the fee increase was followed by a drop in Costco's share price.</answer>
+<other>The article states, "Shareholders may have taken note of the news. Costco's share price dropped by about 5 percent from Wednesday morning to Thursday evening."</other>

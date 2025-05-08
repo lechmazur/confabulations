@@ -1,0 +1,40 @@
+merged_carlos-watson-ozy-media-guilty.txt
+<question_number>1</question_number>
+<answer>Both were misrepresentations made by Mr. Watson to secure investments, with revenue figures being inflated and misleading claims of commitments from figures like Oprah Winfrey being presented.</answer>
+<other>The article states, "Several of the prosecution's witnesses also testified that Mr. Watson had misrepresented his company's finances to secure investments, inflating revenue figures and presenting misleading claims of commitments from the likes of Oprah Winfrey and Live Nation Entertainment."</other>
+
+<question_number>2</question_number>
+<answer>Both were cited as examples of deception at the company; the impersonated phone call was a specific act during a fund-raising call, and misleading claims about earnings were part of the broader alleged fraud to promote the start-up.</answer>
+<other>The article mentions "deception at the company, including an impersonated phone call, fabricated contracts and misleading claims about Ozy's earnings." The impersonated call was during a "fund-raising call."</other>
+
+<question_number>3</question_number>
+<answer>Mr. Watson allegedly misrepresented Ozy's finances to secure investments, and the start-up had secured commitments from prominent investors.</answer>
+<other>The article states, "Several of the prosecution's witnesses also testified that Mr. Watson had misrepresented his company's finances to secure investments..." and "The start-up secured commitments from prominent investors..."</other>
+
+<question_number>4</question_number>
+<answer>The defense portrayed Mr. Watson's representations as good-faith assessments typical for a "scrappy young company," while the prosecution depicted his actions as intentional fraud, alleging he knew the company was failing and wasn't going to let the truth stand in his way.</answer>
+<other>Defense: "Mr. Watson's representations to investors were based on good-faith assessments of Ozy's finances" and he "presented the types of service-based income typical for a 'scrappy young company'". Prosecution: "Watson knew the company was failing, but he was determined to turn Ozy and himself into the next big thing, and he wasn't going to let the truth stand in his way."</other>
+
+<question_number>5</question_number>
+<answer>It contributed by showing a discrepancy: Mr. Watson had sent emails to investors claiming Ozy made $12 million in 2017, while Ozy's tax return for that year listed less than $7 million in gross sales.</answer>
+<other>The article states, "Prosecutors presented the jury with evidence showing that Mr. Watson had sent emails to investors claiming Ozy made $12 million in 2017 -- while Ozy's tax return for that year listed less than $7 million in gross sales." This evidence demonstrated a factual inconsistency supporting the fraud allegations.</other>
+
+<question_number>6</question_number>
+<answer>Google's chief executive, Sundar Pichai.</answer>
+<other>The article states, "Among the witnesses called to the stand in Mr. Watson's trial was Google's chief executive, Sundar Pichai, who testified that he had never discussed a possible $600 million takeover of Ozy."</other>
+
+<question_number>7</question_number>
+<answer>Prosecutors claimed the defendant's text messages sent during the call, such as "use the right pronouns," amounted to instructions for what to say, supporting their allegation that he helped facilitate the fraudulent call.</answer>
+<other>The article states, "Prosecutors alleged that Mr. Watson had helped facilitate the call. They cited text messages he sent to Mr. Rao during the call -- among them, 'use the right pronouns' -- that, they claimed, amounted to instructions for what to say."</other>
+
+<question_number>8</question_number>
+<answer>His emails to investors claimed specific revenue figures (e.g., Ozy made $12 million in 2017), but in courtroom testimony regarding these emails, he denied drafting them due to their specificity and blamed his co-founder, Samir Rao.</answer>
+<other>Emails: "Mr. Watson had sent emails to investors claiming Ozy made $12 million in 2017". Testimony: "When pressed about the emails... Mr. Watson again pointed a finger at Mr. Rao. 'Samir drafted these,' Mr. Watson testified. 'I would never draft something with that level of specificity.'"</other>
+
+<question_number>9</question_number>
+<answer>The CEO, Sundar Pichai, testified he had never discussed a possible $600 million takeover of Ozy, directly contradicting prosecutors' assertion that the defendant had told a prospective investor Mr. Pichai made such an offer.</answer>
+<other>The article states, "Sundar Pichai, who testified that he had never discussed a possible $600 million takeover of Ozy. Prosecutors said Mr. Watson had told a prospective investor that Mr. Pichai made that offer."</other>
+
+<question_number>10</question_number>
+<answer>The defendant testified he assumed his co-founder, Mr. Rao, was "melting down" during the call, whereas prosecutors interpreted the defendant's text messages during the call as instructions, implying he was directing Mr. Rao's actions.</answer>
+<other>Defendant's characterization: "'I assumed at the time that I was watching someone melting down,' Mr. Watson testified." Prosecutors' interpretation: Text messages "amounted to instructions for what to say."</other>

@@ -1,0 +1,31 @@
+merged_canada-freight-trains.txt
+<question_number>1</question_number>
+<answer>In 2015, a Canadian Pacific strike ended with an agreement to arbitration hours before the government introduced back-to-work legislation; in the recent dispute, the government ordered arbitration to end the shutdown.</answer>
+<other>The article states the 2015 strike "ended with the two sides agreeing to arbitration hours before the then-Conservative government introduced back-to-work legislation." The current situation saw the government "told a labor board to end the shutdown and ordered arbitration." Both involve arbitration as a key resolution mechanism prompted by government action or its prospect.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article links Hunter Harrison's precision-scheduled railroading system (which involved rigid schedules and cutting back on employees) to the current labor contentions of "scheduling, work hours and fatigue management." However, the article does not state that these consequences were "unexpected."</other>
+<question_number>3</question_number>
+<answer>Changing federal regulations.</answer>
+<other>The article states: "But to accommodate changing federal regulations, Canadian National secured a one-year extension of its last agreement," which led to both companies' contracts expiring simultaneously. It does not specify the exact nature of these regulations.</other>
+<question_number>4</question_number>
+<answer>The railway companies' profit-boosting strategies, such as precision-scheduled railroading which involved rigid schedules, running extremely long trains, and cutting back on employees, are linked by the union to increased worker fatigue and a higher risk of derailments and other accidents.</answer>
+<other>The article mentions Hunter Harrison's system "boosted profits" and involved steps like "running extremely long trains." The union stated railways were "trying to squeeze even more availability" from workers, which would mean "train crews would be forced to stay awake even longer, increasing the risk of derailments and other accidents."</other>
+<question_number>5</question_number>
+<answer>The article states that the "overwhelming majority of cars and trucks made in Canada are sent to the United States largely by train," and there would be "very limited, if any, capability to transfer finished vehicle shipments from rail to truck," highlighting a greater dependency on rail for this specific industry compared to the general difficulty of shifting cargo for other shippers.</answer>
+<other>While many shippers cannot simply move cargo to trucks, the article specifically quotes David Adams saying there's "very limited, if any, capability to transfer finished vehicle shipments from rail to truck."</other>
+<question_number>6</question_number>
+<answer>Canada's labor minister, Steve MacKinnon, initially turned down the railway companies' request to impose arbitration before the shutdown deadline, but after the shutdown commenced, he stated "we have an impasse here" and ordered arbitration, indicating a shift from allowing negotiations to continue to decisive intervention once the economic impact began.</answer>
+<other>The article says Mr. MacKinnon "turned them down then [before the deadline], but he said on Thursday [after the shutdown] that the situation had changed" and "we have an impasse here."</other>
+<question_number>7</question_number>
+<answer>Historically, the two companies' labor contracts expired on alternating years, which avoided near-total rail shutdowns. Canadian National's extension of its last agreement to accommodate changing federal regulations led to both contracts expiring simultaneously, making the current near-total rail shutdown possible.</answer>
+<other>The article states, "In recent decades, the two companies' labor contracts had previously expired on alternating years, which avoided a near-total rail shutdown. But to accommodate changing federal regulations, Canadian National secured a one-year extension... The contracts with both companies expired at the end of last year."</other>
+<question_number>8</question_number>
+<answer>The railways' focus on efficiency strategies (like precision-scheduled railroading) to boost profits contributed to labor tensions that resulted in a lockout, which in turn threatened serious economic consequences and supply-chain disruptions, thereby creating widespread economic inefficiency.</answer>
+<other>Hunter Harrison's system "boost[ed] efficiency" and "bolstered profits." The resulting labor dispute and lockout "threatened to ... cause serious economic consequences in Canada." The pursuit of company efficiency led to broader economic inefficiency.</other>
+<question_number>9</question_number>
+<answer>The shutdown occurred just as grain elevators were starting to purchase this year's grain harvest from farmers, meaning farmers had to stockpile their grain and wait to be paid, and grain elevators would not bring in grain they couldn't ship out, impacting the finances of both groups.</answer>
+<other>Wade Sobkowich stated the shutdown "had come just as his members were starting to purchase this year's grain harvest from farmers," meaning "farmers had to stockpile their grain and wait to be paid" and "We tend not to bring in grain unless we know we can load it onto a train and get it out."</other>
+<question_number>10</question_number>
+<answer>Severe economic repercussions across several sectors of Canada's economy, including agriculture, mining, forestry, oil, and manufacturing.</answer>
+<other>The article states, "For Canada's export-dependent economy, a prolonged shutdown could have brought severe economic repercussions" and "The effects of a long shutdown would have most likely stretched across several sectors of Canada's economy, including agriculture, mining, forestry, oil and manufacturing."</other>

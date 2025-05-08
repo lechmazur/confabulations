@@ -1,0 +1,40 @@
+merged_alcohol-surgeon-general-warning.txt
+<question_number>1</question_number>
+<answer>Robert F. Kennedy Jr.</answer>
+<other>The article states: "his choice to head the Health and Human Services Department, Robert F. Kennedy Jr., swore off alcohol and drugs decades ago, and says he regularly attends AA meetings."</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article states the risk for men who consume less than one drink a week is "about 10 percent" and for those who have two drinks a day is "13 percent". The difference would be "about 3 percentage points". Since the question asks for the "exact percentage point difference" and one of the figures is an approximation ("about 10 percent"), an exact difference cannot be derived. This is similar to the instruction example where "early 1980s" is not a valid answer for a "specific year".</other>
+
+<question_number>3</question_number>
+<answer>Acetaldehyde</answer>
+<other>The article states: "alcohol breaks down into acetaldehyde, a metabolite that binds to DNA and damages it".</other>
+
+<question_number>4</question_number>
+<answer>South Korea</answer>
+<other>The article states: "To date, only South Korea has a label warning about liver cancer, though manufacturers can choose alternative labels that don't mention cancer."</other>
+
+<question_number>5</question_number>
+<answer>Fewer than half for alcohol, 89 percent for tobacco</answer>
+<other>The article states: "Fewer than half of Americans identified alcohol use as a risk factor for cancer, compared with 89 percent who recognized tobacco as a carcinogen, according to a 2019 survey". The question asks "What percentage...", and "Fewer than half" is the description of the percentage provided for alcohol.</other>
+
+<question_number>6</question_number>
+<answer>A federally funded Canadian study</answer>
+<other>The article states: "Industry opposition led to the premature termination of a federally funded Canadian study of the impact of warning labels that mentioned cancer."</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article states the absolute risk of breast cancer for women who have less than a drink a week is "about 11.3 percent" and for those who consume one drink a day is "13.1 percent". The increase would be "about 1.8 percentage points". Since the question asks for the "precise increase" and one of the figures is an approximation ("about 11.3 percent"), a precise increase cannot be derived. This is similar to the instruction example where "early 1980s" is not a valid answer for a "specific year".</other>
+
+<question_number>8</question_number>
+<answer>Atrial fibrillation</answer>
+<other>The article states: "More recent studies have also linked moderate alcohol consumption to certain forms of heart disease, including atrial fibrillation, a heart arrhythmia."</other>
+
+<question_number>9</question_number>
+<answer>2000</answer>
+<other>The article states: "It [the link between alcohol and breast cancer] was first mentioned in the 2000 U.S. Dietary Guidelines."</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article states: "Overall, one of every six breast cancer cases is attributable to alcohol consumption, Dr. Murthy said." The question asks for an "exact percentage". While "one of every six" is an exact ratio, the article does not provide this information in the form of an "exact percentage" (e.g., X%). Converting "one of every six" to 16.66...% would be an inference that changes the format of the data beyond what is explicitly stated as a percentage in the article. Given the strictness, if the article doesn't provide the percentage form, the answer is N/A.</other>

@@ -1,0 +1,40 @@
+merged_boeing-airbus.txt
+<question_number>1</question_number>
+<answer>A flight in January during which a panel blew off a Max jet at an altitude of about 16,000 feet.</answer>
+<other>The article states, "And while the January incident resulted in no major injuries, it led to a management shake-up that produced a new chief executive, Mr. Ortberg..." The "January incident" is previously described as "a flight in January during which a panel blew off a Max jet at an altitude of about 16,000 feet."</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article states that "Boeing does not have an answer" to the A321XLR and had "shelved" a similar project. It does not speculate on what Boeing's strategic advantage might have been if the A321XLR had been less successful.</other>
+
+<question_number>3</question_number>
+<answer>A bottleneck in the delivery of parts, including engines, and industrywide difficulty in replacing the years of experience lost after workers retired early or were laid off during the pandemic.</answer>
+<other>The article states, "The problem is a bottleneck in the delivery of parts, including engines, and industrywide difficulty in replacing the years of experience lost after workers retired early -- or were laid off -- during the pandemic." These are presented as the reasons suppliers have struggled to keep up, affecting both companies.</other>
+
+<question_number>4</question_number>
+<answer>Boeing must prove to the Federal Aviation Administration that it has made sufficient quality improvements before it can produce more than the limited number of Max jets per month.</answer>
+<other>The article says, "the Federal Aviation Administration limited the company to producing no more than 38 Max jets per month until the company proved it had made sufficient quality improvements."</other>
+
+<question_number>5</question_number>
+<answer>The acquisition brings production of major components in-house, ending an experiment in outsourcing, which allows Boeing more direct oversight and control over these components as part of its strategy to improve quality by expanding oversight of its own operations.</answer>
+<other>The article states Boeing is working "To improve quality" by, among other things, "expanded oversight of its own operations and of its suppliers". It also mentions "completing the acquisition of Spirit AeroSystems, an important supplier... ending a nearly two-decade experiment in outsourcing production of major components". Bringing a supplier in-house makes it part of "its own operations".</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article states that "Boeing does not have an answer" to the A321XLR. The FAA restriction limits Max jet production. Since Boeing reportedly has no competing product for the A321XLR, the article does not provide information on how the Max production restriction specifically impacts its ability to compete with the A321XLR.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article mentions the acquisition of Spirit AeroSystems in the context of addressing quality control and ending outsourcing of major components. It also mentions that Boeing's next new plane may not arrive for another decade. However, it does not explicitly state the potential impact of the Spirit AeroSystems acquisition on Boeing's future plane development plans.</other>
+
+<question_number>8</question_number>
+<answer>It contributes to an industrywide difficulty in replacing those lost years of experience, which is a factor in why suppliers have struggled to keep up and why both companies have trouble finishing planes fast enough.</answer>
+<other>The article states the problem includes "industrywide difficulty in replacing the years of experience lost after workers retired early -- or were laid off -- during the pandemic," which contributes to suppliers struggling and companies having trouble finishing planes.</other>
+
+<question_number>9</question_number>
+<answer>A321XLR</answer>
+<other>The article states, "Airbus was celebrating having just secured certification from European aviation authorities of its A321XLR, a long-range variant of the A321neo... The A321XLR already has more than 500 orders." It quotes an analyst saying, "Boeing does not have an answer."</other>
+
+<question_number>10</question_number>
+<answer>Struggling to make planes fast enough for their customers.</answer>
+<other>The article says, "Of late, however, both companies are struggling to make planes fast enough for their customers..." and "The two rivals are having trouble finishing planes as fast as customers would like..."</other>

@@ -1,0 +1,42 @@
+merged_apple-movies-theaters-wolfs.txt
+<other>I will go through each question and find the answer directly from the provided article. I will ensure that the answer is concise and directly addresses the question, using "N/A" if the information is not present or cannot be logically inferred from the text.</other>
+
+<question_number>1</question_number>
+<answer>Apple executives were questioning the amount of money being spent on movies and there was a thought within the company to not risk a public disappointment should "Wolfs" not succeed at the box office.</answer>
+<other>The article states: "Apple executives in Cupertino were already questioning the entertainment units over the amount of money being spent on movies, and the people said there was a thought within the company to not risk a public disappointment should the movie not succeed at the box office."</other>
+
+<question_number>2</question_number>
+<answer>Wolfs</answer>
+<other>The article says: "Sony Pictures, which had agreed to distribute the film ["Wolfs"] and split the marketing costs with Apple, was set to begin a national marketing campaign during the Paris Olympics, only for Mr. Van Amburg to cancel it at the last minute..."</other>
+
+<question_number>3</question_number>
+<answer>Wolfs</answer>
+<other>The article states: "When Apple won a bidding war in 2021 for the rights to make the action comedy "Wolfs" with George Clooney and Brad Pitt, it did so in part because it promised the stars it would put the movie into a large number of movie theaters. "Brad and I made the deal to do that movie where we gave money back to make sure that we had a theatrical release," Mr. Clooney said... But this month... Apple announced a significant change in plans. "Wolfs" will now be shown on a limited number of movie screens..."</other>
+
+<question_number>4</question_number>
+<answer>CAA</answer>
+<other>The article mentions: "CAA, the agency that represents Mr. Clooney, Mr. Pitt and Mr. Watts, did not fight the last-minute move, since the lack of promotion could have led to a theatrical underperformance affecting its clients' reputations..."</other>
+
+<question_number>5</question_number>
+<answer>The Paris Olympics</answer>
+<other>The article states: "Sony Pictures, which had agreed to distribute the film ["Wolfs"] and split the marketing costs with Apple, was set to begin a national marketing campaign during the Paris Olympics, only for Mr. Van Amburg to cancel it at the last minute..."</other>
+
+<question_number>6</question_number>
+<answer>Jennifer Salke</answer>
+<other>The article says: "...Amazon Studios endured soon after Jennifer Salke, a veteran NBC executive, took over in 2018. Soon after taking the reins, Ms. Salke spent close to $50 million at the Sundance Film Festival... Once the first film -- "Late Night,"... bombed at the box office, Ms. Salke quickly shifted her strategy."</other>
+
+<question_number>7</question_number>
+<answer>$80 million or less</answer>
+<other>The article states: "The result was a new edict... Apple's studio would make one or two event-size films a year... The rest of its films would have budgets of $80 million or less..."</other>
+
+<question_number>8</question_number>
+<answer>Argylle</answer>
+<other>The article states: "The $200 million spy thriller "Argylle" (Universal) grossed $96 million." The difference is $200M - $96M = $104M, which is over $100 million.</other>
+
+<question_number>9</question_number>
+<answer>Apple</answer>
+<other>The article states: "When Apple won a bidding war in 2021 for the rights to make the action comedy "Wolfs"... it did so in part because it promised the stars it would put the movie into a large number of movie theaters... But this month... Apple announced a significant change in plans."</other>
+
+<question_number>10</question_number>
+<answer>Venice Film Festival</answer>
+<other>The article says about "Wolfs": "(Internationally, it won't appear in theaters at all with the exception of the Venice Film Festival, where it will premiere on Sept. 1.)"</other>

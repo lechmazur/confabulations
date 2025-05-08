@@ -1,0 +1,31 @@
+merged_eu-covid-vaccines.txt
+<question_number>1</question_number>
+<answer>It gives new momentum to her critics and comes just before an expected tight vote where she will need support from lawmakers, including Greens, who were incensed by her handling of the coronavirus crisis.</answer>
+<other>The article states the ruling "gives new momentum to critics of Ursula von der Leyen" and "came just ahead of what is expected to be a tight vote". It also mentions she will "need votes from center-left lawmakers including the Greens, who have been incensed by the way she handled the coronavirus crisis."</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article states that "Concerns about the lack of transparency on the vaccine contracts... have contributed to a sense of distrust among European voters..." and that these concerns "come amid a recent surge in far-right politicians". However, it does not explicitly state or imply that the strategy or the resulting distrust *contributed to the rise* of far-right politicians, only that these events are contemporaneous.</other>
+<question_number>3</question_number>
+<answer>She will most likely need votes from center-left lawmakers, including the Greens, who have been incensed by the way she handled the coronavirus crisis.</answer>
+<other>The article directly states: "Ms. von der Leyen will most likely need votes from center-left lawmakers including the Greens, who have been incensed by the way she handled the coronavirus crisis."</other>
+<question_number>4</question_number>
+<answer>The article implies that concerns about the lack of transparency in the vaccine procurement strategy have contributed to a sense of distrust among European voters, and this is occurring amid a recent surge in far-right politicians.</answer>
+<other>The article states: "Concerns about the lack of transparency on the vaccine contracts, which come amid a recent surge in far-right politicians gaining seats in the European Parliament, have contributed to a sense of distrust among European voters about how officials have spent taxpayer money." This describes a relationship where the handling of the strategy fuels distrust during the period of the far-right's rise.</other>
+<question_number>5</question_number>
+<answer>The ruling, by finding the European Commission wrong to withhold information, validates concerns about lack of transparency in vaccine contracts; the article states these concerns "come amid a recent surge in far-right politicians" and have "contributed to a sense of distrust."</answer>
+<other>The ruling addresses the lack of transparency. The article links "Concerns about the lack of transparency on the vaccine contracts" directly with "which come amid a recent surge in far-right politicians" and states these concerns "have contributed to a sense of distrust."</other>
+<question_number>6</question_number>
+<answer>It came just ahead of what is expected to be a tight vote on Thursday that will determine if she will serve another term.</answer>
+<other>The article states the decision "came just ahead of what is expected to be a tight vote on Thursday that will determine if she will serve another term as the European Union's top official."</other>
+<question_number>7</question_number>
+<answer>The EU's strategy shifted from an initial slow, conservative, budget-conscious approach to later securing a large Pfizer-BioNTech deal, which then led to concerns that the bloc ordered too many vaccines, resulting in waste.</answer>
+<other>The article describes the "initial vaccine campaign was marred by a slow start... taking a more conservative, budget-conscious approach." Then, "the European Union later caught up... after Ms. von der Leyen secured a contract with Pfizer-BioNTech... But in the following years, concern has grown that the bloc... ordered too many vaccines, resulting in some going to waste."</other>
+<question_number>8</question_number>
+<answer>The Commission's statement claimed it had provided the European Parliament "full information" on vaccine contracts, whereas the court ruled it did not give the public sufficient information and was wrong to redact parts of purchasing agreements.</answer>
+<other>The Commission's statement said it "had provided the European Parliament 'full information' on the vaccine contracts." The court, however, found "that the European Commission was wrong to redact parts of the purchasing agreements that it published online" and "did not give the public sufficient information."</other>
+<question_number>9</question_number>
+<answer>Both the court's ruling and The New York Times' pending case concern access to information and transparency regarding the European Commission's Covid-19 vaccine deals; The New York Times welcomed the court's ruling as reinforcing freedom of information.</answer>
+<other>The court's ruling was about the Commission withholding information on vaccine contracts. The New York Times' case "sought access to text messages between Ms. von der Leyen and the chief executive of Pfizer... as they negotiated a deal for Covid-19 vaccines." The article also states, "The New York Times welcomed the ruling on Wednesday. 'We are very pleased to see the court recognize and reinforce the importance of freedom of information in the European Union,' Maria Case, a spokeswoman, said in a statement."</other>
+<question_number>10</question_number>
+<answer>The court's ruling, by highlighting the European Commission's lack of transparency on vaccine contracts, could reinforce the "sense of distrust among European voters about how officials have spent taxpayer money," a sentiment the article notes is occurring "amid a recent surge in far-right politicians."</answer>
+<other>The article states: "Concerns about the lack of transparency on the vaccine contracts, which come amid a recent surge in far-right politicians gaining seats in the European Parliament, have contributed to a sense of distrust among European voters about how officials have spent taxpayer money." The ruling addresses this lack of transparency.</other>

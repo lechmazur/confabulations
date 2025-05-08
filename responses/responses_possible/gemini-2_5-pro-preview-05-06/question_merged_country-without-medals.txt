@@ -1,0 +1,40 @@
+merged_country-without-medals.txt
+<question_number>1</question_number>
+<answer>Population size is not the sole determinant of Olympic success; a large population does not guarantee medals (e.g., Bangladesh), while smaller countries can achieve success, particularly with strategic focus on specific strengths (e.g., Jamaica, Grenada).</answer>
+<other>The article contrasts Bangladesh (most populous country never to win a medal) with Jamaica (2.8 million, 88 medals mostly in track) and Grenada (125,000 residents, won its first medal).</other>
+
+<question_number>2</question_number>
+<answer>Winning an Olympic medal can lead to improvements in sports infrastructure, as seen with more swimming pools in Costa Rica after its first medal, and can create hope or motivation for future infrastructure development, such as the hope for a new track in Dominica.</answer>
+<other>Sylvia Poll's win for Costa Rica led to "more pools and more people swimming." Thea LaFond-Gadson hoped her win for Dominica would motivate officials to get a track built.</other>
+
+<question_number>3</question_number>
+<answer>The article highlights that deliberate government spending on sports can lead to significantly greater Olympic success, as Cuba (11 million population, 235 medals) has achieved far more medals than India (1.4 billion population, 35 medals), despite India's vastly larger population.</answer>
+<other>The article states Cuba and Hungary "punch far above their weight because of deliberate government spending," contrasting their medal counts (Cuba 235, Hungary 521) with India's (35).</other>
+
+<question_number>4</question_number>
+<answer>The article implies that smaller countries can achieve Olympic success by strategically focusing their limited resources and investment on sports where they have a particular strength or higher chance of success, as exemplified by Jamaica's success in track and field and Bolivia's proposed strategy to focus on its best sports.</answer>
+<other>Jamaica wins many medals by "playing to its strength (all but one of its 88 are in track and field)." Bolivia is "studying how to focus its efforts on the sports the country does best."</other>
+
+<question_number>5</question_number>
+<answer>The article suggests that countries with no Olympic medals, like Bolivia, have the potential to achieve success by adopting strategic investment approaches, such as focusing on national strengths, a method that has proven successful for countries like Jamaica.</answer>
+<other>Bolivia, which has never won a medal, is "studying how to focus its efforts on the sports the country does best." Jamaica is cited as an example of a smaller country winning many medals by "playing to its strength."</other>
+
+<question_number>6</question_number>
+<answer>The article portrays economic status as a significant factor, where poverty (like in Nepal) can hinder Olympic success due to low investment in sports, but wealth alone does not guarantee medals, as very rich countries like Monaco have also not won any, possibly due to other factors such as a small talent pool.</answer>
+<other>Nepal is described as "a very poor country" with low sports investment and no medals. Monaco has the "highest in the world" GDP per capita but also no medals, with the article noting "Money isn't everything" and "Smaller countries have less of a talent pool."</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>For Dominica, the article states LaFond-Gadson hoped her medal would "motivate government officials... to get that done [allocate land for a track]," implying a potential impact on sports policy/infrastructure. However, for St. Lucia, while Alfred's medal "means a lot," the article does not provide a similar explicit implication or hope regarding an impact on *future sports policies*. Since the question asks for what is implied "as seen in the cases of Dominica *and* St. Lucia" regarding this specific impact, and it's not clearly shown for both, the answer is N/A.</other>
+
+<question_number>8</question_number>
+<answer>Monaco</answer>
+<other>The article states: "The only countries with more Olympic appearances and equally unsatisfying results [no medals], according to the I.O.C.? Monaco (32 times) and Andorra (25)." It also mentions, "Monaco has a gross domestic product per capita of $241,000, the highest in the world."</other>
+
+<question_number>9</question_number>
+<answer>6.71 times</answer>
+<other>Cuba has won 235 medals and India has won 35 medals. 235 divided by 35 is approximately 6.714. The article provides the numbers for Cuba (235) and India (35).</other>
+
+<question_number>10</question_number>
+<answer>-1140</answer>
+<other>The United States has 2,975 medals. The next four countries are the former Soviet Union (1,204), Germany (1,058), Great Britain (955), and France (898). Their combined total is 1204 + 1058 + 955 + 898 = 4,115 medals. The United States has 2,975 - 4,115 = -1,140 more medals (meaning 1,140 fewer medals) than the combined total of the next four countries.</other>

@@ -1,0 +1,39 @@
+merged_crowdstrike-microsoft-outage-software.txt
+<other>I will go through each question and find the answer directly from the provided article. If the information is not present or cannot be directly inferred, I will answer "N/A".</other>
+
+<question_number>1</question_number>
+<answer>The blue color of the error message background is also known as the Blue Screen of Death.</answer>
+
+<question_number>2</question_number>
+<answer>A routine upgrade that somehow went off the rails / A small Windows software update CrowdStrike sent to its customers.</answer>
+<other>The article states, "Instead, it was a routine upgrade that somehow went off the rails." It also specifies, "The trouble began with a small Windows software update CrowdStrike sent to its customers on Thursday night. For some reason, this crashed every computer it touched." Both are accurate; the latter is more specific about the nature of the upgrade.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article says "Hours later, he said...", but does not specify the exact number of hours.</other>
+
+<question_number>4</question_number>
+<answer>Matt Mitchell</answer>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article states, "In other words, the traditional way to fix a balky computer -- turning it off and then turning it on again -- was still the only solution..." This is presented as a factual observation by the narrator, not a suggestion attributed to a specific person in the text.</other>
+
+<question_number>6</question_number>
+<answer>Heading to $100 billion</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article states CrowdStrike has 8,000 employees, but this information is not attributed to Brody Nisbet's statement on X. His statement on X was about the situation being "a mess" and offering "no further actionable help".</other>
+
+<question_number>8</question_number>
+<answer>Matt Mitchell</answer>
+<other>The article quotes Matt Mitchell, identified as "a hacker and founder of CryptoHarlem, a cybersecurity education and advocacy organization," saying, "But we are creating a situation where there is a single point of failure."</other>
+
+<question_number>9</question_number>
+<answer>With centralized controls</answer>
+<other>Mikko Hypponen is quoted saying, "...normally large enterprises, which is what CrowdStrike customers are, maintain their fleet' with centralized controls."</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article states Brody Nisbet "suggested a possible workaround" on X, but it does not specify what that workaround was that he suggested. It later describes a workaround (walking to each machine) that IT workers faced or that Mikko Hypponen described, but it's not explicitly stated as Nisbet's suggestion from his X post.</other>
