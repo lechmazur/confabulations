@@ -1,0 +1,46 @@
+merged_balance-beam-gymnastics.txt
+<other>I need to carefully extract the difficulty ratings and scoring information from the article to answer these questions.</other>
+
+<question_number>1</question_number>
+<answer>0.2</answer>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<other>The article doesn't provide enough detail about the complete scoring calculation to determine exact skill rating requirements for achieving specific D scores.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<other>The article doesn't specify what difficulty ratings constitute an "acro series" or provide enough information to calculate this.</other>
+
+<question_number>4</question_number>
+<answer>0.2</answer>
+
+<question_number>5</question_number>
+<answer>3.4</answer>
+
+<other>Switch leap (D=0.4) + double pike (E=0.5) + composition requirements (2.0) + 6 minimum A-rated skills (0.6) = 3.4</other>
+
+<question_number>6</question_number>
+<answer>0.1</answer>
+
+<other>Double-twisting double tuck is H rating, full-twisting double tuck is G rating, difference is one letter grade which equals 0.1</other>
+
+<question_number>7</question_number>
+<answer>8</answer>
+
+<other>Gymnasts always receive credit for their 8 hardest skills, regardless of the total difficulty score achieved.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<other>The article mentions deductions for wobbles and insufficient splits separately but doesn't specify the combined deduction amount for both errors on a single skill.</other>
+
+<question_number>9</question_number>
+<answer>3.4</answer>
+
+<other>Switch leap (D=0.4) + double tuck (D=0.4) + composition requirements (2.0) + 6 minimum A-rated skills (0.6) = 3.4</other>
+
+<question_number>10</question_number>
+<answer>G</answer>

@@ -1,0 +1,44 @@
+merged_amtrak-delays-heat-extreme-weather.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<other>The article provides heat delay percentages for fiscal year 2023 but doesn't give ratios for other years to compare and determine when the peak occurred.</other>
+
+<question_number>2</question_number>
+<answer>1,870 hours</answer>
+
+<other>Heat delays increased from 530 hours in FY2018 to nearly 1,200 hours in FY2023, an increase of 670 hours over 5 years. Continuing this trend for another 5 years to FY2028 would result in 1,200 + 670 = 1,870 hours.</other>
+
+<question_number>3</question_number>
+<answer>750,000</answer>
+
+<question_number>4</question_number>
+<answer>670 hours</answer>
+
+<other>1,200 hours in FY2023 minus 530 hours in FY2018 equals 670 additional hours.</other>
+
+<question_number>5</question_number>
+<answer>nearly 60 percent</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<other>The article only states that federal grants "could provide a few billion dollars" which is not specific enough to calculate the years needed to reach $117 billion.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<other>The article doesn't provide the distance of the Northeast Corridor or the specific top speed of Acela trains, making it impossible to calculate travel time increases.</other>
+
+<question_number>8</question_number>
+<answer>7.57</answer>
+
+<other>4,010 hours of total weather delays in FY2023 divided by 530 hours of heat delays in FY2018 equals approximately 7.57 times more.</other>
+
+<question_number>9</question_number>
+<answer>FY2033</answer>
+
+<other>Northeast Corridor heat delays increased from 83 hours in FY2018 to more than 230 hours in FY2023, an increase of 147 hours over 5 years or 29.4 hours per year. Starting from 230 hours in FY2023 and adding 29.4 hours annually, delays would surpass 500 hours in FY2033.</other>
+
+<question_number>10</question_number>
+<answer>The overhead power lines use technology from the 1930s and sag under intense summer heat</answer>

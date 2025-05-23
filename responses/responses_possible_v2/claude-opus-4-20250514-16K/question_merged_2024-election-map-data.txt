@@ -1,0 +1,40 @@
+merged_2024-election-map-data.txt
+<other>Looking at question 1 about visualization methods and rejected data presentation types.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<other>Question 2 asks about the percentage of votes represented on the map.</other>
+<question_number>2</question_number>
+<answer>73 percent</answer>
+
+<other>Question 3 asks about electoral participation data often excluded from precinct-level releases.</other>
+<question_number>3</question_number>
+<answer>early or mail-in absentee ballots</answer>
+
+<other>Question 4 asks about a task described as half the battle in creating the map.</other>
+<question_number>4</question_number>
+<answer>putting the data into precinct boundaries</answer>
+
+<other>Question 5 asks about an initial step in the map-making process.</other>
+<question_number>5</question_number>
+<answer>collecting results data</answer>
+
+<other>Question 6 asks about a drawback of the chosen visualization method.</other>
+<question_number>6</question_number>
+<answer>it does not account for population</answer>
+
+<other>Question 7 asks about submitted information that would become less crucial.</other>
+<question_number>7</question_number>
+<answer>missing data</answer>
+
+<other>Question 8 asks about a limitation that would become irrelevant with a different visualization method.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<other>Question 9 asks about external contributions for identifying discrepancies.</other>
+<question_number>9</question_number>
+<answer>local knowledge</answer>
+
+<other>Question 10 asks about a challenge related to varying data formats.</other>
+<question_number>10</question_number>
+<answer>Each of these entities has its own way of releasing such data</answer>

@@ -1,0 +1,32 @@
+merged_ai-data-restrictions.txt
+<other>I need to analyze the article to answer each question based solely on the information provided.</other>
+
+<question_number>1</question_number>
+<answer>They rely on public data sets and can't afford to license data directly from publishers</answer>
+
+<question_number>2</question_number>
+<answer>Major tech companies already have all of the data, so changing licenses doesn't retroactively revoke that permission, and the primary impact is on later-arriving actors</answer>
+
+<question_number>3</question_number>
+<answer>Many researchers doubt that today's A.I. systems are capable of generating enough high-quality synthetic data to replace the human-created data they're losing</answer>
+
+<question_number>4</question_number>
+<answer>The web will start shutting its doors</answer>
+
+<question_number>5</question_number>
+<answer>Major tech companies already have all of the data and changing licenses doesn't retroactively revoke permission, so the primary impact is on later-arriving actors who are typically smaller start-ups or researchers</answer>
+
+<question_number>6</question_number>
+<answer>Major tech companies that already gathered data retain access while future data gathering becomes more restricted for others</answer>
+
+<question_number>7</question_number>
+<answer>Later-arriving actors are typically either smaller start-ups or researchers, meaning they bear the primary burden of data restrictions</answer>
+
+<question_number>8</question_number>
+<answer>Data creators are responding with blowback after their content is used to develop commercial systems that sometimes directly threaten their livelihoods</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>75 percent</answer>

@@ -1,0 +1,14 @@
+merged_ftc-pharmacy-benefit-managers-drug-prices.txt
+<other>Let me examine the article for information about each question.</other>
+
+<question_number>1</question_number>
+<other>The article states that "The F.T.C. has so far stopped short of bringing a lawsuit or other enforcement action against a benefit manager." This means the FTC did not bring a lawsuit according to the text.</other>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<other>The article mentions that "By the end of 2018, each had become part of the same company as a giant insurer" referring to the three major benefit managers, but it doesn't specify when CVS Health acquired Caremark.</other>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<other>The article mentions that benefit managers paid their own pharmacies much more than wholesale cost for two generic cancer drugs, resulting in "nearly $1.6 billion in revenue over less than three years for the biggest three conglomerates," but this is revenue, not what patients overpaid. The article doesn't provide a specific estimate of what patients overpaid.</other>
+<answer>N/A</answer>

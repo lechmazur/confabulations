@@ -1,0 +1,37 @@
+merged_amtrak-delays-heat-extreme-weather.txt
+<question_number>1</question_number>
+<answer>2023</answer>
+
+<question_number>2</question_number>
+<other>The article states heat delays more than doubled from fiscal year 2018 (530 hours) to fiscal year 2023 (nearly 1,200 hours). That's an increase of about 670 hours over 5 years, or 134 hours per year. From 2023 to 2028 is 5 more years, so 1,200 + (134 × 5) = 1,200 + 670 = 1,870 hours.</other>
+<answer>1,870 hours</answer>
+
+<question_number>3</question_number>
+<answer>750,000 passengers</answer>
+
+<question_number>4</question_number>
+<other>The article states nearly 1,200 hours in fiscal year 2023 and 530 hours in fiscal year 2018. The difference is approximately 670 hours.</other>
+<answer>670 hours</answer>
+
+<question_number>5</question_number>
+<answer>nearly 60 percent</answer>
+
+<question_number>6</question_number>
+<other>The article mentions federal grants could provide "a few billion dollars" for projects in the Northeast. Even if we assume the maximum interpretation of "a few" as maybe 5 billion, it would take many years. But the article doesn't specify an exact amount for grants.</other>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<other>The article doesn't provide the distance of the Northeast Corridor or the normal travel time at top speed.</other>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<other>The article states 4,010 hours of weather-related delays in fiscal year 2023 and 530 hours of heat delays in fiscal year 2018. 4,010 ÷ 530 = approximately 7.6 times.</other>
+<answer>7.6 times</answer>
+
+<question_number>9</question_number>
+<other>Heat delays in the Northeast Corridor went from 83 hours in fiscal year 2018 to more than 230 hours in fiscal year 2023. That's an increase of about 147 hours over 5 years, or 29.4 hours per year. Starting from 230 hours in 2023, to reach 500 hours would require 270 more hours. At 29.4 hours per year, that would take 270 ÷ 29.4 = approximately 9.2 years. So fiscal year 2032 or 2033.</other>
+<answer>2032</answer>
+
+<question_number>10</question_number>
+<other>The article mentions that overhead power lines use technology from the 1930s and they sag under intense summer heat, but doesn't explain why the specific route from south of New York to Washington is particularly susceptible.</other>
+<answer>N/A</answer>

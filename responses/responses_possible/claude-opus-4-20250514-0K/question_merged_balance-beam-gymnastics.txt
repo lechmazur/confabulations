@@ -1,0 +1,41 @@
+merged_balance-beam-gymnastics.txt
+<other>Let me analyze each question based on the article.</other>
+
+<question_number>1</question_number>
+<answer>0.2</answer>
+
+<question_number>2</question_number>
+<other>The article states a double-twisting double tuck is rated H. H = 0.8. Composition requirements = 2.0. So other skills need to contribute 6.0 - 0.8 - 2.0 = 3.2</other>
+<answer>3.2</answer>
+
+<question_number>3</question_number>
+<other>Candle mount = C (0.3), Double tuck dismount = D (0.4), Composition requirements = 2.0. So acro series needs 5.5 - 0.3 - 0.4 - 2.0 = 2.8</other>
+<answer>2.8</answer>
+
+<question_number>4</question_number>
+<other>The article mentions switch leap is D and switch ring leap would be 0.2 more, but doesn't explicitly state switch ring leap's rating</other>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<other>Switch leap mount = D (0.4), Double pike dismount = E (0.5), Composition requirements = 2.0, plus need other skills to meet minimum 8 skills requirement</other>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<other>Double-twisting double tuck = H, Full-twisting double tuck = G. H is one level higher than G</other>
+<answer>H is one rating higher than G</answer>
+
+<question_number>7</question_number>
+<other>The article states gymnasts receive credit for their eight hardest skills, so minimum is 8 skills</other>
+<answer>8</answer>
+
+<question_number>8</question_number>
+<other>The article doesn't specify the maximum deduction for a single skill with multiple errors</other>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<other>Switch leap mount = D (0.4), Double tuck dismount = D (0.4), Composition requirements = 2.0, plus need other skills to meet minimum 8 skills requirement</other>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<other>The full-twisting double tuck is rated G according to the article</other>
+<answer>G</answer>

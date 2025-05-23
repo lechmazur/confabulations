@@ -1,0 +1,54 @@
+merged_car-insurance-rates-inflation.txt
+<other>I need to extract the key numerical facts from the article and analyze each question systematically.</other>
+
+<other>Key facts: Safe driver course saves 10%, one accident means 43% higher premiums, pristine driving record average is just over $2,300, one accident average is about $3,300, fair credit drivers pay 49% more than excellent credit drivers, deductible increase to $1000 saves 40%+ on collision/comprehensive only.</other>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<other>The 40% savings from higher deductible applies only to collision and comprehensive coverage, not the entire premium. Without knowing what portion of the premium this represents, I cannot calculate the total percentage reduction.</other>
+
+<question_number>2</question_number>
+<answer>Improving credit score</answer>
+
+<other>Fair credit drivers pay 49% more than excellent credit drivers, which would represent the largest potential savings among the specific percentages mentioned.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<other>The article provides various percentage savings for different factors, but doesn't provide enough information to calculate cumulative effects, especially since some percentages apply to different portions of the premium.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<other>Without specific information about cumulative effects and what constitutes "average" credit in the context of the given percentages, this cannot be calculated.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<other>The article mentions monitoring programs provide lower rates and reducing liability coverage would reduce premiums, but no specific percentages are provided for either.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<other>While the article provides individual percentages for various factors, it doesn't provide enough information to calculate how these combine with accident surcharges.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<other>The article mentions marriage may help with lower rates and monitoring programs provide savings, but no specific dollar amounts or percentages are provided for these factors.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<other>The article mentions marriage may help with lower rates but doesn't provide specific dollar amounts for the marriage discount.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<other>No specific dollar amounts are provided for marriage discounts or exact dollar savings from deductible increases.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<other>The article suggests regional insurers may offer better prices than big companies with mascots, but provides no specific percentages. Monitoring program savings are also unspecified.</other>

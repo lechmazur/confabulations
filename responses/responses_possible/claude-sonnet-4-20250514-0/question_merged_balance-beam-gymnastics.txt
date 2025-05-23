@@ -1,0 +1,52 @@
+merged_balance-beam-gymnastics.txt
+<other>I need to analyze the article about women's gymnastics balance beam to answer questions about difficulty ratings and scoring. Let me identify the key information about skill ratings and scoring.</other>
+
+<other>From the article: Skills are rated A through H, with A=0.1, B=0.2, etc. Switch leaps are D-rated. If a switch ring leap fails criteria, gymnast gets credit for switch leap only, which is 0.2 less.</other>
+
+<question_number>1</question_number>
+<answer>0.2 less</answer>
+
+<other>For question 2, I need to calculate minimum difficulty for other skills if using double-twisting double tuck (H rating = 0.8). But the article doesn't provide enough specific information about all skill values to calculate a precise D score of 6.0.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<other>For question 3, I don't have enough specific information about all the skill values and requirements to calculate the exact minimum difficulty rating needed for a D score of 5.5.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<other>The article mentions switch leaps are D-rated, but doesn't specify the difficulty rating of switch ring leaps, so I cannot determine the difference.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<other>For question 5, I need specific difficulty values for all mentioned skills, but the article doesn't provide complete information to calculate minimum difficulty score.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<other>The article states double-twisting double tuck is H-rated and full-twisting double tuck is G-rated. H is one level higher than G.</other>
+
+<question_number>6</question_number>
+<answer>H is one rating higher than G</answer>
+
+<other>For question 7, I don't have enough information about all skill requirements and values to determine the minimum number of skills needed for a specific D score.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<other>The article mentions deductions for wobbles and insufficient splits, but doesn't specify the maximum possible deduction for a single skill combining both errors.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<other>This is similar to question 5 - I need specific difficulty values for all skills mentioned to calculate minimum difficulty score.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<other>The article states that full-twisting double tuck is G-rated, so that would be the highest possible difficulty rating mentioned for that specific dismount.</other>
+
+<question_number>10</question_number>
+<answer>G</answer>

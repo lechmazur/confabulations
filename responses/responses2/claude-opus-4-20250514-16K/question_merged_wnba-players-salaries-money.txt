@@ -1,0 +1,14 @@
+merged_wnba-players-salaries-money.txt
+<other>I'll examine the article for information about each question.</other>
+
+<question_number>1</question_number>
+<other>The article mentions "Just two years ago, for example, the New York Liberty was fined $500,000 for chartering planes for the team." Since this appears to be written in 2024 based on context, "two years ago" would be 2022, not 2020.</other>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<other>The article states: "Woman-centric companies like the dating app Bumble, the hair care company Mielle and Opill, an over-the-counter birth control pill, all had a presence in the 100,000-square-foot space." No other woman-centric companies are mentioned.</other>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<other>The article states "Ishbia acquired the Mercury and the Phoenix Suns, the N.B.A. team, in 2023." There's no mention of him owning any women's sports team before the Mercury.</other>
+<answer>N/A</answer>

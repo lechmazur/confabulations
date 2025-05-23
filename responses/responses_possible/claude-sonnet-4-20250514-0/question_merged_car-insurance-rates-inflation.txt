@@ -1,0 +1,54 @@
+merged_car-insurance-rates-inflation.txt
+<other>I need to analyze the article to find specific percentages and calculate potential savings. Let me identify the key information about premium reductions and costs.</other>
+
+<other>From the article: Average annual premium for pristine driving record is just over $2,300. Safe driver course can save 10%. Increasing deductible to $1000 could save 40% or more on collision and comprehensive coverage. One at-fault accident means paying 43% more. Fair credit drivers pay 49% higher premiums than excellent credit drivers.</other>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<other>The article doesn't provide enough information to calculate the combined effect of a safe driver course (10% reduction) and deductible increase (40% reduction on collision/comprehensive only) on the total premium.</other>
+
+<question_number>2</question_number>
+<answer>Improving credit score from fair to excellent</answer>
+
+<other>The article states that people with fair credit pay 49% higher premiums than those with excellent credit, which appears to be the largest single percentage impact mentioned.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<other>The article doesn't provide enough specific information to calculate the combined effects of all possible steps for someone starting with fair credit and one at-fault accident.</other>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<other>The article doesn't provide sufficient information to calculate the maximum combined effect of all strategies versus implementing none.</other>
+
+<question_number>5</question_number>
+<answer>N/A</answer>
+
+<other>The article doesn't provide specific information about how monitoring programs affect premiums or the impact of reducing liability coverage to state minimums.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<other>The article doesn't provide enough specific information to calculate the combined effect of credit improvement and safe driver course for someone with one at-fault accident.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<other>The article doesn't provide specific information about how much married drivers save or how monitoring programs affect premiums, making this calculation impossible.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<other>The article doesn't provide specific information about marriage discounts or the combined effects needed for this calculation.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<other>The article doesn't provide specific information about marriage discounts or how deductible increases affect total premiums for this comparison.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<other>The article mentions that regional insurers may offer better prices than big companies with funny mascots, but doesn't provide specific information about monitoring program discounts to make this comparison.</other>

@@ -1,0 +1,27 @@
+merged_2025-travel-prices-flights-hotels-cruises.txt
+<question_number>1</question_number>
+<answer>cruises</answer>
+
+<question_number>2</question_number>
+<other>The article only provides both volume growth and price increase data for cruises (9% volume growth 2023-2024, 6% price increase summer 2025). No comparable data is given for other sectors.</other>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<answer>cruises</answer>
+
+<question_number>4</question_number>
+<answer>spring and summer</answer>
+
+<question_number>5</question_number>
+<answer>cruises</answer>
+
+<question_number>6</question_number>
+<other>The article mentions hotels are expected to grow below inflation rate, but doesn't specify the inflation rate to calculate the gap.</other>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>cruises</answer>
+
+<question_number>8</question_number>
+<other>Only cruises have both volume increase data (9%) and pricing strategy information provided in the article.</other>
+<answer>N/A</answer>

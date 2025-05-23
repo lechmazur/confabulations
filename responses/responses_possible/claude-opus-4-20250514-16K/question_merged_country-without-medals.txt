@@ -1,0 +1,33 @@
+merged_country-without-medals.txt
+<question_number>1</question_number>
+<answer>The article suggests population size alone doesn't determine Olympic success - Bangladesh with 173 million people has never won a medal, while Jamaica (2.8 million) has won 88 medals and Grenada (125,000) has won medals, showing smaller countries can outperform much larger ones</answer>
+
+<question_number>2</question_number>
+<answer>The article suggests winning an Olympic medal can lead to improved sports infrastructure - in Costa Rica, after Sylvia Poll's 1988 medal, "there are now more pools and more people swimming," while LaFond-Gadson hopes Dominica's gold medal will motivate government officials to build proper tracks to replace grass tracks</answer>
+
+<question_number>3</question_number>
+<answer>The article highlights that Cuba (11 million people) has won 235 Olympic medals while India (1.4 billion people) has won only 35 medals, attributing this disparity to "deliberate government spending"</answer>
+
+<question_number>4</question_number>
+<answer>The article implies smaller countries can achieve Olympic success by focusing on specific sports - Jamaica succeeded by playing to its strength in track and field (88 medals), and Bolivia is studying how to focus its efforts on sports the country does best to improve its odds of winning a medal</answer>
+
+<question_number>5</question_number>
+<answer>The article suggests countries without medals can potentially achieve success through strategic focus on specific sports, as Bolivia is planning to focus on sports it does best, following the example of Jamaica which concentrated on track and field</answer>
+
+<question_number>6</question_number>
+<answer>The article portrays that economic status isn't everything - Nepal with GDP per capita of $1,300 has no medals due to low sports investment, while Monaco with GDP per capita of $241,000 (highest in the world) also has no medals despite 32 Olympic appearances due to its small population</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article only mentions potential policy impact for Dominica (LaFond-Gadson hoping for track construction), but doesn't mention any specific future sports policy implications for St. Lucia after Alfred's gold medal</other>
+
+<question_number>8</question_number>
+<answer>Monaco</answer>
+
+<question_number>9</question_number>
+<answer>6.7</answer>
+<other>Cuba won 235 medals, India won 35 medals. 235÷35 = 6.7</other>
+
+<question_number>10</question_number>
+<answer>-1,140</answer>
+<other>USA has 2,975 medals. The next four countries have: Soviet Union (1,204) + Germany (1,058) + Great Britain (955) + France (898) = 4,115 total. 2,975 - 4,115 = -1,140, meaning the US has 1,140 fewer medals than the combined total of the next four countries</other>

@@ -1,0 +1,46 @@
+merged_drug-prices-medicare.txt
+<other>I need to analyze each question based solely on the information provided in the article.</other>
+
+<question_number>1</question_number>
+<answer>The $2,000 annual cap takes effect next year, while the negotiated prices take effect in 2026 - the cap takes effect one year before the negotiated prices</answer>
+
+<question_number>2</question_number>
+<answer>Project 2025 argues the drug price negotiation program should be repealed, which would eliminate negotiations</answer>
+
+<question_number>3</question_number>
+<answer>Harris cast the tiebreaking vote for the legislation that created the program and has made drug pricing reforms among her first priorities as president</answer>
+
+<question_number>4</question_number>
+<answer>N/A</answer>
+
+<other>The article states "It is impossible to tell how much the new prices will save Medicare for each individual drug."</other>
+
+<question_number>5</question_number>
+<answer>$730</answer>
+
+<other>The article specifically states this amount for her first refill in 2026.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<other>The article doesn't provide information about pre-negotiation Medicare spending for individual drugs.</other>
+
+<question_number>7</question_number>
+<answer>Januvia</answer>
+
+<other>At $113 per month, Januvia would require approximately 17.7 refills to reach $2,000, more than any other drug.</other>
+
+<question_number>8</question_number>
+<answer>92.5%</answer>
+
+<other>The three most expensive drugs (Imbruvica $9,319, Stelara $4,695, Enbrel $2,355) total $16,369, and all 10 drugs total $17,699.</other>
+
+<question_number>9</question_number>
+<answer>$19</answer>
+
+<other>Jardiance ($197) and Farxiga ($178) both treat diabetes, heart failure and chronic kidney disease.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<other>The article mentions lawsuits but doesn't specify which companies filed legal challenges.</other>

@@ -1,0 +1,32 @@
+merged_ai-chatbots-chatgpt-math.txt
+<other>I need to carefully read through the article and answer each question based solely on the information provided.</other>
+
+<question_number>1</question_number>
+<answer>They were never designed to do math and are fine-tuned for determining probabilities, not doing rules-based calculations</answer>
+
+<question_number>2</question_number>
+<answer>They excel when they have consumed vast quantities of relevant training data and seen similar problems before, but still struggle with simple arithmetic and multi-step problems</answer>
+
+<question_number>3</question_number>
+<answer>Traditional computers follow step-by-step rules and are powerful but brittle, while AI learns from data; in education, AI systems now call traditional calculator programs for math problems</answer>
+
+<question_number>4</question_number>
+<answer>A shift from computing being defined as "math on steroids" to AI being more like a "liberal arts major than numbers whiz" - a sharp break with computing's past</answer>
+
+<question_number>5</question_number>
+<answer>AI is better at language tasks like writing poetry and summarizing books than math, contrary to traditional computing strengths in numerical calculations</answer>
+
+<question_number>6</question_number>
+<answer>Using AI errors as focal points for group discussions to teach critical thinking by comparing student and bot answers</answer>
+
+<question_number>7</question_number>
+<answer>A shift from expecting AI to excel at logical/mathematical tasks to recognizing it's actually better at language and creative tasks</answer>
+
+<question_number>8</question_number>
+<answer>It fuels debate between those who believe large language models are the path to AGI versus skeptics who think a broader "world modeling" approach is needed</answer>
+
+<question_number>9</question_number>
+<answer>AI being better at liberal arts tasks than STEM/math tasks challenges traditional assumptions about which fields are more computational or suitable for AI</answer>
+
+<question_number>10</question_number>
+<answer>AI's language skills are impressive but not accurate enough for critical applications that require "painful precision," which is why structured software is still needed</answer>
