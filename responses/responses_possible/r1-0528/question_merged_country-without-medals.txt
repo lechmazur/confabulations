@@ -1,0 +1,24 @@
+merged_country-without-medals.txt
+
+<other>I will answer each question based solely on the provided article text, using direct facts or logical inferences from it. For any question where the exact answer isn't directly stated or inferable, I will answer "N/A".</other>
+<question_number>1</question_number>
+<answer>Bangladesh (173 million people) has no medals; Jamaica (2.8 million) has many medals; Grenada (125,000) won its first medal</answer>
+<question_number>2</question_number>
+<answer>Costa Rica: more pools and swimmers; Dominica: hopes medal prompts track construction</answer>
+<question_number>3</question_number>
+<answer>Cuba (11 million people) has 235 medals; India (1.4 billion) has 35 medals</answer>
+<question_number>4</question_number>
+<answer>Jamaica won many medals by focusing on track; Bolivia plans to focus on best sports</answer>
+<question_number>5</question_number>
+<answer>Jamaica succeeded through specialization; Bolivia hopes to replicate this strategy</answer>
+<question_number>6</question_number>
+<answer>Nepal (low GDP) struggles to fund sports; Monaco (high GDP) has no medals despite 32 appearances</answer>
+<question_number>7</question_number>
+<answer>Dominica: hopes medal prompts track construction; St. Lucia: no policy impact mentioned</answer>
+<question_number>8</question_number>
+<answer>Monaco</answer>
+<question_number>9</question_number>
+<answer>200 more</answer>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>For Q10: US has 2,975 medals. Next four (ex-USSR 1,204 + Germany 1,058 + GB 955 + France 898) sum to 4,115. Since 2,975 is less than 4,115, the premise "most... compared to combined total" is false, so N/A. All other answers are directly from article text.</other>

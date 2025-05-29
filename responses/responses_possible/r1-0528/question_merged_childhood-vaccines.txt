@@ -1,0 +1,31 @@
+merged_childhood-vaccines.txt
+
+<other>Analyzing each question based solely on the provided article text...</other>
+<question_number>1</question_number>
+<answer>Measles outbreaks increased from 4 in 2023 to 13 in 2024, largely tied to unvaccinated children, indicating Covid vaccine skepticism has reduced MMR uptake and increased preventable disease incidence.</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article states infrastructure allows vaccine programs to "pay for themselves right away" but does not specify the relationship between infrastructure and economic savings beyond this assertion.</other>
+<question_number>3</question_number>
+<answer>The healthcare system's failure to build trust and provide accessible providers during the pandemic led people to seek vaccine information from social media, spreading misinformation and increasing hesitancy for all vaccines.</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article provides total savings figures ($540 billion direct, $2.7 trillion including indirect effects) but does not specify the percentage attributed to indirect effects like parental work absences.</other>
+<question_number>5</question_number>
+<answer>$478,299</answer>
+<other>Calculated from $540 billion savings / 1,129,000 prevented deaths. Article specifies this is direct savings only.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Article states savings "dwarfs the cost of developing the shots" but provides no cost figure for vaccine development to calculate a percentage.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Article compares savings magnitude to Clean Air Act but provides no U.S. GDP figure to calculate a percentage.</other>
+<question_number>8</question_number>
+<answer>$16,875</answer>
+<other>Calculated from $540 billion savings / 32 million prevented hospitalizations. Article specifies this is direct savings only.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Article provides current outbreak count (13 in 2024) and kindergarten vaccination rate (93%) but no trend data to project future years.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>Article states savings include "money that would have been spent on treating the initial infection and managing later, related conditions" but provides no percentage breakdown between these components.</other>

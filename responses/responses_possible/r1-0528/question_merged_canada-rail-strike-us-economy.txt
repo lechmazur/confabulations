@@ -1,0 +1,32 @@
+merged_canada-rail-strike-us-economy.txt
+
+<other>Analyzing each question strictly based on the provided article text only.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article states a weeklong shutdown would cause ~$1B losses and a longer one would "hammer" the economy, but no specific impact for "longer than a week" is quantified.</other>
+<question_number>2</question_number>
+<answer>No practical alternatives to railroads exist for transporting fertilizer in huge volumes over enormous distances</answer>
+<other>Article states: "Trucks can't handle these products because they are typically transported in huge volumes over enormous distances." and "Ninety percent of Canadian-produced fertilizer going into the U.S. market is delivered by rail".</other>
+<question_number>3</question_number>
+<answer>Advising customers to shift goods from Canadian ports to U.S. ports (specifically Los Angeles, Long Beach, Seattle, Tacoma)</answer>
+<other>Reflects assessment that the shutdown would significantly disrupt supply chains reliant on Canadian ports/rails.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>No industry group provided an estimate specifically tied to an 8-day duration.</other>
+<question_number>5</question_number>
+<answer>Sawmills and pulp and paper plants would close as they run out of room to store products</answer>
+<question_number>6</question_number>
+<answer>Grain exports</answer>
+<other>Article states grain has "no practical alternatives to railroads" and low Panama Canal levels are a separate disruption affecting global supply chains.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article mentions both disruptions separately but does not specify the primary challenge for fertilizer if they occurred simultaneously.</other>
+<question_number>8</question_number>
+<answer>Severe disruption to the North American automotive supply chain</answer>
+<other>Article states a "prolonged railroad strike would severely disrupt the North American automotive supply chain". Two weeks qualifies as prolonged.</other>
+<question_number>9</question_number>
+<answer>Inability to cycle products through the supply chain limiting producers' ability to deliver harvested crops</answer>
+<other>Article quotes agricultural groups: "inability to cycle products through the supply chain could limit producers' ability to deliver harvested crops." and Red Sea disruptions are another shock mentioned.</other>
+<question_number>10</question_number>
+<answer>Sawmills and pulp and paper plants</answer>
+<other>Article states: "The rail shutdown could also lead sawmills and pulp and paper plants to close as they run out of room to store products". Three weeks exceeds the timeframe mentioned, making closure likely.</other>

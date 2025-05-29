@@ -1,0 +1,18 @@
+merged_airlines-delta-profits.txt
+
+<other>Analyzing each question against the article text only. Strict adherence to explicit facts required.</other>
+<question_number>1</question_number>
+<answer>limited availability of new planes due to Boeing production delays and Airbus order backlog</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Article mentions Boeing production delays, Airbus backlog, and engine problems but doesn't describe a precise sequence involving Pratt & Whitney or irreversible bottlenecks specifically for older fleets.</other>
+<question_number>3</question_number>
+<answer>Southwest focused on cost reduction while JetBlue pursued premium seating for revenue growth</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Article discusses business travel recovery and aircraft delays but doesn't contrast widebody vs narrowbody fleets or specify advantages for existing widebody operators.</other>
+<question_number>5</question_number>
+<answer>Boeing 737 Max safety incident, Spirit Airlines bankruptcy, summer technology outage</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Article contrasts past volatility with 2025 optimism but doesn't analyze cumulative effects across non-adjacent sections or explicitly conflict the temporal framing.</other>

@@ -1,0 +1,33 @@
+merged_carlos-watson-ozy-media-guilty.txt
+
+<other>Analyzing each question against the article text only. Strictly using facts present, answering "N/A" if the exact connection or contrast isn't explicitly stated or directly inferable.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article mentions both inflated revenue figures and misleading claims about commitments from Oprah Winfrey/Live Nation as separate deceptive practices presented by prosecutors, but does not explicitly state a connection between the revenue inflation specifically and the claims about commitments.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article lists the impersonated phone call, fabricated contracts, and misleading claims about earnings as examples of deception at Ozy, but does not state a specific connection between the misleading earnings claims and the impersonated phone call incident.</other>
+<question_number>3</question_number>
+<answer>Misrepresented finances were used to secure investments from prominent investors.</answer>
+<other>The article states: "Mr. Watson had misrepresented his company's finances to secure investments" and mentions Ozy secured commitments from prominent investors.</other>
+<question_number>4</question_number>
+<answer>The defense portrayed it as typical for a young company presenting service-based income, while the prosecution depicted it as intentional deception to turn Ozy into "the next big thing" despite knowing it was failing.</answer>
+<other>Defense: "presented the types of service-based income typical for a 'scrappy young company'". Prosecution: "Watson knew the company was failing, but he was determined to turn Ozy and himself into the next big thing, and he wasn't going to let the truth stand in his way".</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article presents the email discrepancies as evidence shown to the jury and mentions the guilty verdict, but does not state how the email evidence specifically contributed to the jury's decision.</other>
+<question_number>6</question_number>
+<answer>Sundar Pichai</answer>
+<other>"Among the witnesses... was Google's chief executive, Sundar Pichai, who testified that he had never discussed a possible $600 million takeover of Ozy."</other>
+<question_number>7</question_number>
+<answer>Prosecutors alleged the text messages ("use the right pronouns") were instructions for what to say during the impersonated call, showing Watson facilitated it.</answer>
+<other>"Prosecutors alleged that Mr. Watson had helped facilitate the call. They cited text messages he sent to Mr. Rao during the call... that, they claimed, amounted to instructions for what to say."</other>
+<question_number>8</question_number>
+<answer>He testified that Samir Rao drafted the emails with specific inflated figures, claiming "I would never draft something with that level of specificity," contrasting with the emails sent to investors.</answer>
+<other>When pressed about emails claiming $12M revenue (vs actual $7M), Watson testified: "Samir drafted these... I would never draft something with that level of specificity."</other>
+<question_number>9</question_number>
+<answer>Sundar Pichai testified he never discussed the $600M takeover, contradicting Watson's alleged statement to a prospective investor that Pichai made that offer.</answer>
+<other>"Sundar Pichai... testified that he had never discussed a possible $600 million takeover of Ozy. Prosecutors said Mr. Watson had told a prospective investor that Mr. Pichai made that offer."</other>
+<question_number>10</question_number>
+<answer>Watson characterized it as him merely "connecting the dots" during Rao's meltdown, while prosecutors interpreted his text messages as instructions facilitating the impersonation.</answer>
+<other>Watson: "I assumed at the time that I was watching someone melting down" and "began to connect the dots". Prosecutors: Cited his texts ("use the right pronouns") as instructions amounting to facilitating the call.</other>

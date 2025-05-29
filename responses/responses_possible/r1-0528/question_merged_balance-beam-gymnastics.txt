@@ -1,0 +1,33 @@
+merged_balance-beam-gymnastics.txt
+
+<other>I will answer each question based solely on the provided article text. For any question where the exact information isn't provided or cannot be directly inferred from the text, I will answer "N/A".</other>
+<question_number>1</question_number>
+<answer>0.2</answer>
+<other>The article states: "if she means to do a switch ring leap but her head position and back leg don't fulfill the criteria, she might get credit for only a switch leap, 0.2 less." This directly answers the question.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article states the double-twisting double tuck is rated H (0.8) and that gymnasts get credit for their eight hardest skills. However, the question asks for the minimum difficulty rating required for the rest of their skills to achieve a D score of 6.0, assuming no connection bonuses. The article does not provide the base D score value (composition requirements + skill values) without specific skills listed, nor does it state the total possible from composition alone. It only gives component values (0.5 per requirement, skill values A=0.1 to H=0.8). Calculating a specific minimum for the rest of the skills requires knowing the total contribution from the dismount and the composition requirements, which isn't explicitly stated in a way that allows this calculation. Therefore, the answer is N/A.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article provides the candle mount rating (C = 0.3) and double tuck dismount rating (D = 0.4). It states gymnasts must meet four composition requirements (worth 0.5 each, total 2.0) and get credit for their eight hardest skills. However, the question asks for the minimum difficulty rating for the acro series to achieve a D score of 5.5, assuming no connection bonuses. The acro series itself is not given a single difficulty rating; it consists of multiple skills. The article does not specify how many skills are in a typical series or their individual ratings, nor does it provide a way to calculate the minimum rating for the series as a whole to reach 5.5 given the other known elements (candle mount = 0.3, dismount = 0.4, composition = 2.0). Therefore, the answer is N/A.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article states the switch leap is rated D (0.4). It mentions the switch ring leap in the context of execution errors ("if she means to do a switch ring leap... she might get credit for only a switch leap, 0.2 less"). However, it does not provide the difficulty rating for a *successfully executed* switch ring leap. Therefore, the difference in difficulty rating between a successful switch leap and a successful switch ring leap cannot be determined from the article. The answer is N/A.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article provides ratings for the switch leap mount (D = 0.4) and double pike dismount (E = 0.5). It states gymnasts must meet four composition requirements (worth 0.5 each, total 2.0) and get credit for their eight hardest skills. However, the question asks for the minimum difficulty score achievable, assuming no connection bonuses. The article does not specify the minimum possible ratings for the skills in the backward acro series or the other skills needed to make up the eight hardest skills. It also doesn't state if the listed skills (mount, dismount) plus the series fulfill all composition requirements. Therefore, calculating a minimum total D score is not possible based solely on the article. The answer is N/A.</other>
+<question_number>6</question_number>
+<answer>H is higher than G</answer>
+<other>The article states: "full-twisting double tuck (G)" and "double-twisting double tuck (H)". It also states the rating scale is "A (the least difficult) through H (the most)". Therefore, H is higher than G.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article provides ratings for the switch leap (D = 0.4) and double pike dismount (E = 0.5). It states gymnasts must meet four composition requirements (worth 0.5 each, total 2.0) and get credit for their eight hardest skills. However, the question asks for the minimum number of skills needed to achieve a D score of 5.0, assuming no connection bonuses. The article does not specify the ratings of the skills in the backward acro series or the other skills needed. It also doesn't state if the listed skills (switch leap, dismount) plus the series fulfill all composition requirements. Therefore, calculating the minimum number of skills needed is not possible based solely on the article. The answer is N/A.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article states deductions for insufficient height, flexed feet, and splits short of 180 degrees in jumps/leaps, but it does not specify a maximum possible deduction for a *single* skill combining a wobble and a split short of 180 degrees. It lists a wobble ("slight balance check") as 0.1 and splits short of 180 as a deduction but doesn't quantify the split deduction or state if deductions are additive. Therefore, the maximum possible deduction for a single skill under these combined errors cannot be determined from the article. The answer is N/A.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>The article provides ratings for the switch leap mount (D = 0.4) and double tuck dismount (D = 0.4). It states gymnasts must meet four composition requirements (worth 0.5 each, total 2.0) and get credit for their eight hardest skills. However, the question asks for the minimum difficulty score achievable, assuming no connection bonuses. The article does not specify the minimum possible ratings for the skills in the backward acro series or the other skills needed to make up the eight hardest skills. It also doesn't state if the listed skills (mount, dismount) plus the series fulfill all composition requirements. Therefore, calculating a minimum total D score is not possible based solely on the article. The answer is N/A.</other>
+<question_number>10</question_number>
+<answer>G</answer>
+<other>The article explicitly states: "full-twisting double tuck (G)". Therefore, the highest possible difficulty rating mentioned in the article for this dismount is G.</other>

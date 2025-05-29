@@ -1,0 +1,15 @@
+merged_stock-market-election-season.txt
+
+<other>Analyzing the article for direct answers to each specific question.</other>
+<question_number>1</question_number>
+<answer>Nvidia</answer>
+<other>Nvidia is the only specific company mentioned in the context of corporate earnings and market fuel.</other>
+<question_number>2</question_number>
+<answer>the attack on the Capitol of Jan. 6, 2021</answer>
+<other>This is the specific historical event cited as potentially causing drastic problems for investors and markets.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>The article names Robert Shiller as devising the 10-year CAPE ratio, not a 5-year price-to-earnings ratio. No economist is attributed to a 5-year metric.</other>
+<question_number>4</question_number>
+<answer>10 percent</answer>
+<other>The article states: "if you held at least 10 percent of your portfolio in bonds" over five-year periods, losses occurred in fewer than 10% of those stretches.</other>

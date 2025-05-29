@@ -1,0 +1,24 @@
+merged_bird-flu-cows-milk.txt
+
+<other>Analyzing the article to answer each question based solely on its content.</other>
+<question_number>1</question_number>
+<answer>wild birds might be involved in transporting the virus between farms or introducing it to other wildlife</answer>
+<question_number>2</question_number>
+<answer>infection may start in the upper respiratory tract before moving to mammary glands</answer>
+<question_number>3</question_number>
+<answer>surveillance should focus on nasal swabs and urine in addition to milk</answer>
+<question_number>4</question_number>
+<answer>strict controls on cow and equipment movement may not be sufficient</answer>
+<question_number>5</question_number>
+<answer>wild birds might be involved in transporting the virus between farms</answer>
+<question_number>6</question_number>
+<answer>blackbirds</answer>
+<question_number>7</question_number>
+<answer>testing milk samples may not detect asymptomatic spread</answer>
+<question_number>8</question_number>
+<answer>asymptomatic cows more likely to have virus in noses or urine than in milk</answer>
+<question_number>9</question_number>
+<answer>controls may not prevent spread via wildlife like birds</answer>
+<question_number>10</question_number>
+<answer>asymptomatic cows more likely to have virus in noses than sick cows</answer>
+<other>All answers derived strictly from the provided article text.</other>

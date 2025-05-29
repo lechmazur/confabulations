@@ -1,0 +1,22 @@
+merged_alcohol-cancer-risk.txt
+
+<other>Analyzing each question strictly based on the article text only.</other>
+<question_number>1</question_number>
+<answer>esophageal cancer</answer>
+<other>Article states light drinkers have 30% higher chance of esophageal cancer vs non-drinkers (Annals of Oncology study).</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Article provides baseline risk (11%) and two-drink risk (15.3%) but not the precise percentage increase calculation.</other>
+<question_number>3</question_number>
+<answer>35 ounces</answer>
+<other>19% risk at one drink/day. Standard drink = 5oz wine. Weekly: 7 days * 5oz = 35oz.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Article provides gender-specific risks at different consumption levels but doesn't explicitly compare the gaps or identify maximum difference.</other>
+<question_number>5</question_number>
+<answer>oral cavity and pharynx cancer</answer>
+<other>Mentioned in light drinking risks (17% increase) and head/neck cancers compounded by smoking.</other>
+<question_number>6</question_number>
+<answer>1.5 ounces</answer>
+<other>13.1% breast cancer risk at one drink/day. Standard liquor drink = 1.5oz shot.</other>
+<other>All questions answered based solely on article text.</other>

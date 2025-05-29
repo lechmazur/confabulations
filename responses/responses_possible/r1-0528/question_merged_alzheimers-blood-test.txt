@@ -1,0 +1,24 @@
+merged_alzheimers-blood-test.txt
+
+<other>Analyzing each question against the article text only.</other>
+<question_number>1</question_number>
+<answer>no therapies to offer</answer>
+<question_number>2</question_number>
+<answer>blood test wrong 10% of the time; primary care doctors wrong 41% of the time</answer>
+<question_number>3</question_number>
+<answer>many people with subjective cognitive decline do not have Alzheimer's</answer>
+<question_number>4</question_number>
+<answer>easily integrated into hospital laboratory systems</answer>
+<question_number>5</question_number>
+<answer>ptau-217</answer>
+<question_number>6</question_number>
+<answer>only for people with memory loss and other symptoms of cognitive decline</answer>
+<question_number>7</question_number>
+<answer>kidney disease</answer>
+<question_number>8</question_number>
+<answer>risk of anxiety and psychological reactions</answer>
+<question_number>9</question_number>
+<answer>41%</answer>
+<question_number>10</question_number>
+<answer>increase access to screening</answer>
+<other>All answers derived strictly from the provided article text.</other>

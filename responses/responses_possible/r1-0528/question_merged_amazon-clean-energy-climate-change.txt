@@ -1,0 +1,24 @@
+merged_amazon-clean-energy-climate-change.txt
+
+<other>I will answer each question based solely on the provided article text, using direct facts or logical inferences where explicitly supported. I will use "N/A" when the exact information requested isn't provided or directly inferable.</other>
+<question_number>1</question_number>
+<answer>Amazon claims 100% clean energy via investments and RECs, while employees dispute this, concluding real investment is a fraction after deducting RECs, highlighting challenges in measurement methods like REC usage versus actual project impact.</answer>
+<question_number>2</question_number>
+<answer>geothermal power</answer>
+<question_number>3</question_number>
+<answer>2040</answer>
+<question_number>4</question_number>
+<answer>natural gas</answer>
+<question_number>5</question_number>
+<answer>U.S.</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>renewable energy certificates (RECs)</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>17 years</answer>
+<other>All answers derived strictly from the article text. For Q6 & Q9, the years mentioned for the original goal deadline (2030) and the letter (2019) differ from the net-zero goal (2040) and the achieved year (2023), hence N/A. For Q8, the article provides separate figures (7.6M homes equivalent for projects, ~100,000 homes for a data center) but no direct comparison calculation, hence N/A.</other>

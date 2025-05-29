@@ -1,0 +1,30 @@
+merged_biden-administration-electric-vehicles.txt
+
+<other>Analyzing the article to answer each question strictly based on its content.</other>
+<question_number>1</question_number>
+<answer>Biden commits to manufacturing communities left behind by Trump; Trump campaign criticizes Biden as forcing unaffordable EVs and shipping industry to China.</answer>
+<other>Article provides direct statements from both administrations.</other>
+<question_number>2</question_number>
+<answer>Georgia</answer>
+<other>Article mentions Georgia factory for electric school buses and lists Georgia as a state where election outcome will be narrowly decided.</other>
+<question_number>3</question_number>
+<answer>Officials prioritized communities suffering pollution/lack of investment; several funded factories are in swing states.</answer>
+<question_number>4</question_number>
+<answer>Grants fund plug-in hybrids and hydrogen fuel cells, addressing affordability/charging concerns cited for EV buyers.</answer>
+<other>Article states buyer concerns and notes grants cover these alternative technologies.</other>
+<question_number>5</question_number>
+<answer>Union representation and retraining commitments were requirements for funding eligibility.</answer>
+<other>Article explicitly lists these as conditions for receiving grants.</other>
+<question_number>6</question_number>
+<answer>Officials prioritized grant distribution to communities suffering disproportionately from pollution or lack of investment.</answer>
+<question_number>7</question_number>
+<answer>Closed Jeep plant receives funding to reopen specifically for electric vehicle production.</answer>
+<other>Article directly states this sequence for the Belvidere factory.</other>
+<question_number>8</question_number>
+<answer>Grants fund increased EV production capacity despite recent sales growth (11.3%) and buyer concerns about affordability/charging.</answer>
+<question_number>9</question_number>
+<answer>Inflation Reduction Act subsidies fed an EV factory boom, but some automakers slowed investments due to demand growth below expectations.</answer>
+<other>Article links all three elements directly.</other>
+<question_number>10</question_number>
+<answer>Recipients in swing states (PA, MI, GA) were prioritized due to pollution/investment issues in those communities.</answer>
+<other>Article combines these points in describing selection criteria and locations.</other>

@@ -1,0 +1,12 @@
+merged_ftc-pharmacy-benefit-managers-drug-prices.txt
+
+<other>Analyzing the text for answers to each question.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The text states: "The F.T.C. has so far stopped short of bringing a lawsuit". No lawsuit has been brought, so the premise of the question is incorrect.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The text mentions CVS Health's Caremark as one of the three largest PBMs but provides no information about when CVS acquired Caremark.</other>
+<question_number>3</question_number>
+<answer>nearly $1.6 billion</answer>
+<other>The text states: "The practice translated into nearly $1.6 billion in revenue over less than three years for the biggest three conglomerates". This is the FTC's estimate of overpayment revenue generated for the PBMs, which directly answers the question about patient overpayment.</other>

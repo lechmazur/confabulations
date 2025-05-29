@@ -1,0 +1,33 @@
+merged_amtrak-delays-heat-extreme-weather.txt
+
+<other>Analyzing questions based solely on the provided article text.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article states 2023 had the highest weather-related delays and heat caused 30% of delays that year, but it does not provide the ratio (heat delays to total weather delays) for any other fiscal years, so the peak year for this ratio cannot be determined.</other>
+<question_number>2</question_number>
+<answer>1,870 hours</answer>
+<other>Heat delays were 530 hours in FY2018 and 1,200 hours in FY2023. The increase over 5 years is 670 hours, or 134 hours per year. Projecting this rate for the next 5 years (FY2024-FY2028): 1,200 + (134 * 5) = 1,870 hours.</other>
+<question_number>3</question_number>
+<answer>more than 750,000 passengers</answer>
+<other>The article states: "About 2,200 trains carry more than 750,000 passengers daily along the route, which is the busiest in the United States."</other>
+<question_number>4</question_number>
+<answer>670 hours</answer>
+<other>The article states: "Heat delays more than doubled from the 2018 fiscal year, when Amtrak passengers spent 530 additional hours in trains after high temperatures slowed down rail travel." and "About 30 percent of trains that arrived late in the 2023 fiscal year were delayed for heat reasons, accounting for nearly 1,200 hours of overall delays." 1,200 hours (2023) minus 530 hours (2018) equals 670 additional hours.</other>
+<question_number>5</question_number>
+<answer>nearly 60 percent</answer>
+<other>The article states: "Last year, heat was responsible for nearly 60 percent of delays attributable to a specific weather-related cause" in the Northeast Corridor. "Last year" refers to the most recent fiscal year mentioned (FY2023).</other>
+<question_number>6</question_number>
+<answer>39 years</answer>
+<other>The article states modernizing the Northeast Corridor costs "$117 billion" and federal grants "could provide a few billion dollars". Interpreting "a few billion" conservatively as $3 billion per year: $117 billion / $3 billion/year = 39 years.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article provides speed restrictions (100 mph at 128°F track, 80 mph at 135°F) and states Acela's top speed is around 160 mph (since 80 mph is "around half"). However, it does not provide the distance of the Northeast Corridor or a specific trip distance to calculate the time increase. Therefore, the increase in travel time cannot be determined.</other>
+<question_number>8</question_number>
+<answer>7.57 times</answer>
+<other>Total weather delays in FY2023: "more than 4,010 hours" (use 4,010 hours). Heat delays in FY2018: 530 hours. 4,010 / 530 ≈ 7.566 times, rounded to 7.57 times.</other>
+<question_number>9</question_number>
+<answer>FY2032</answer>
+<other>Northeast Corridor heat delays: 83 hours (FY2018), 230 hours (FY2023). Increase over 5 years: 147 hours. Annual increase: ~29.4 hours/year. From 230 hours (FY2023), to reach 500 hours requires 270 more hours. 270 hours / 29.4 hours/year ≈ 9.18 years. Adding 9 years to FY2023 gives FY2032.</other>
+<question_number>10</question_number>
+<answer>overhead power lines sag under intense summer heat</answer>
+<other>The article explicitly states: "Amtrak's overhead power lines use a technology from the 1930s, and they sag under intense summer heat and interrupt electric transmission". This is the reason given for the designation.</other>

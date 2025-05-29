@@ -1,0 +1,33 @@
+merged_chipmakers-promise-investment.txt
+
+<other>Analyzing each question based solely on the provided article text.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article mentions Intel's workforce changes and CHIPS funding separately without establishing a relationship.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article states both facts but doesn't specify correlation as cause-and-effect.</other>
+<question_number>3</question_number>
+<answer>10:1</answer>
+<other>$300 billion private commitments / $30 billion public funding = 10</other>
+<question_number>4</question_number>
+<answer>$8.05 billion</answer>
+<other>Intel $8.5B - SK Hynix $0.45B = $8.05B difference</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Exact allocated amount unspecified ("more than $30 billion")</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Job creation figure is minimum ("more than 100,000") and funding is range ("more than $30 billion")</other>
+<question_number>7</question_number>
+<answer>$10</answer>
+<other>$300B private / $30B public = $10 per dollar</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>Article doesn't specify allocation breakdown by company nationality</other>
+<question_number>9</question_number>
+<answer>18.89 times</answer>
+<other>Intel $8.5B / SK Hynix $0.45B ≈ 18.89</other>
+<question_number>10</question_number>
+<answer>23 percentage points</answer>
+<other>1990 level 37% minus projected 2032 level 14% = 23pp</other>

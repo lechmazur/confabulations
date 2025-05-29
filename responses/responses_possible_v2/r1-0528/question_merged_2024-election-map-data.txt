@@ -1,0 +1,33 @@
+merged_2024-election-map-data.txt
+
+<other>Analyzing questions based solely on the provided article text.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article doesn't specify which visualization method was explicitly rejected.</other>
+<question_number>2</question_number>
+<answer>73 percent</answer>
+<other>Article states: "It currently includes results for more than 110,000 precincts, or 73 percent of all votes"</other>
+<question_number>3</question_number>
+<answer>early or mail-in absentee ballots</answer>
+<other>Article states: "Many places do not include early or mail-in absentee ballots in the precinct data they release"</other>
+<question_number>4</question_number>
+<answer>putting the data into precinct boundaries</answer>
+<other>Article identifies this as "half the battle" in map creation</other>
+<question_number>5</question_number>
+<answer>getting the results into a data table</answer>
+<other>Article describes this as "only half the battle"</other>
+<question_number>6</question_number>
+<answer>it does not account for population</answer>
+<other>Article states: "A drawback is that it does not account for population"</other>
+<question_number>7</question_number>
+<answer>notifications about missing early/mail-in ballot data</answer>
+<other>Article welcomes submissions about "missing data" and "inaccuracies"</other>
+<question_number>8</question_number>
+<answer>incompleteness due to exclusion of early/mail-in ballots</answer>
+<other>Article states places excluding these ballots make data "incomplete"</other>
+<question_number>9</question_number>
+<answer>submissions about boundary discrepancies</answer>
+<other>Article welcomes "local knowledge" to identify inaccuracies</other>
+<question_number>10</question_number>
+<answer>no nationwide source of this information</answer>
+<other>Article states: "there is no nationwide source of this information" regardless of year</other>

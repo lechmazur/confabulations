@@ -1,0 +1,34 @@
+merged_alcohol-cancer-heart-stroke.txt
+
+<other>I will answer each question based solely on the provided article text, using direct quotes or clear inferences where possible.</other>
+<question_number>1</question_number>
+<answer>liver cancer</answer>
+<other>Article states: "Women face a higher risk of developing liver cancer even at this modest level of drinking."</other>
+<question_number>2</question_number>
+<answer>strokes caused by blood clots</answer>
+<other>Article states: "a reduction in strokes caused by blood clots seen with consumption of a single drink daily disappeared when people had two or more drinks daily."</other>
+<question_number>3</question_number>
+<answer>two</answer>
+<other>Article states: "Drinking two drinks a day... increases the odds of a death caused by alcohol for both men and women."</other>
+<question_number>4</question_number>
+<answer>teenagers</answer>
+<other>Article states: "For girls and boys who start drinking at 15..." and emphasizes risk for those starting as teenagers.</other>
+<question_number>5</question_number>
+<answer>diabetes</answer>
+<other>Article states: "Women who have one drink a day may have a lower risk of diabetes."</other>
+<question_number>6</question_number>
+<answer>pharynx and larynx</answer>
+<other>Article lists "cancers of the oral cavity, the pharynx and larynx" as areas where food/air passages cross.</other>
+<question_number>7</question_number>
+<answer>liver cirrhosis</answer>
+<other>Article states: "drinking just one alcoholic beverage a day increases the risk of liver cirrhosis... for both men and women."</other>
+<question_number>8</question_number>
+<answer>breast cancer</answer>
+<other>National Academies noted breast cancer risk increase; new report lists breast cancer among seven types.</other>
+<question_number>9</question_number>
+<answer>two</answer>
+<other>Article states: "the final guidelines made no change in the recommendation of two drinks for men."</other>
+<question_number>10</question_number>
+<answer>colorectal cancer</answer>
+<other>Article lists "colorectal cancer" among the seven types with higher risk.</other>
+<other>All answers directly sourced from article text without external knowledge.</other>

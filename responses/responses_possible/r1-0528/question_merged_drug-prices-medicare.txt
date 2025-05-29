@@ -1,0 +1,30 @@
+merged_drug-prices-medicare.txt
+
+<other>Analyzing each question based solely on the provided article text.</other>
+<question_number>1</question_number>
+<answer>The $2,000 annual cap takes effect next year (2025), while the new negotiated prices take effect in 2026.</answer>
+<question_number>2</question_number>
+<answer>Project 2025 argues that the drug price negotiation program should be repealed, suggesting it could be weakened or reversed under a future Republican administration.</answer>
+<question_number>3</question_number>
+<answer>Her role in casting the tiebreaking vote for the legislation and the drug pricing reforms are highlighted as priorities in her early presidential campaign.</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>The article provides only an aggregate 22% savings estimate for all drugs combined, not individual drug savings percentages.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article states her specific cost reduction ($2,200 to $730) but does not provide the percentage reduction for Enbrel specifically or confirm it matches the overall 22% average.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article does not provide pre-negotiation Medicare spending figures for individual drugs to calculate proportional distribution.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>The article provides negotiated monthly prices but does not specify dosage frequency or refill intervals for any drug.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article lists individual drug prices but does not provide total spending or revenue figures for all 10 drugs combined.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Jardiance treats diabetes, heart failure, and chronic kidney disease. Farxiga treats the same conditions, but Xarelto (the other $197 drug) treats strokes and blood clots, not the same conditions. Only one comparable drug is listed.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>
+<other>The article mentions legal challenges by drugmakers generally and PhRMA specifically but does not list which specific drugs or companies are involved in lawsuits, nor provide prices for all drugs from legally mentioned companies.</other>
