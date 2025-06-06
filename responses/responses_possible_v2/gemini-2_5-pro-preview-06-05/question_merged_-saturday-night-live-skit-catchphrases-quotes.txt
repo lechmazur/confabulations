@@ -1,0 +1,34 @@
+merged_-saturday-night-live-skit-catchphrases-quotes.txt
+<other>I will analyze each question and find the answer solely within the provided article.
+
+For question 1, I am looking for a character that meets several specific criteria: originated in a San Francisco stand-up set, was used for birthday greetings, and had a catchphrase that reoriented a comedian's career. The article mentions the Church Lady originated in a San Francisco stand-up set and her catchphrase reoriented Dana Carvey's career. However, it states that Sally O'Malley is the character used for birthday greetings. Since no single character in the article meets all these criteria, the answer is N/A.
+
+For question 2, I am looking for a Dana Carvey character whose catchphrase was shortened on a cue card to "Na ga da it". The article explicitly states this was done for the George Bush Sr. impression.
+
+For question 3, I am looking for a character known for a pursed expression of judgment and linked to religious satire and televangelists. The article describes the Church Lady in exactly these terms.
+
+For question 4, I am looking for a character from a 1992 call-in show, associated with "like buttah" and a Ben & Jerry's flavor. The article identifies Linda Richman with the 1992 show and the phrase "like buttah". However, it links the Ben & Jerry's flavor to "The Delicious Dish" sketch, not Linda Richman. Therefore, no single character fits all parts of the question.
+
+For question 5, I am looking for a character from Season 12, a British singer-songwriter who wanted to "bloody score" and improvised a song about a vegetable. The article identifies Derek Stevens as this character.
+
+For question 6, I am looking for the cast member whose sketch about the Olympia diner was inspired by a Chicago establishment or his father's diner. The article states the diner was operated by John Belushi in the sketch and inspired by a tavern or a restaurant owned by Belushi's father.
+
+For question 7, I am looking for the character Chris Rock played who hosted "The Dark Side With Nat X". The title of the segment contains the character's name.
+
+For question 8, I am looking for the sketch about a recording session featuring a percussion instrument and the demand for "more cowbell". The article describes the premise of this sketch as "the supposed making of '(Don't Fear) the Reaper' by Blue Oyster Cult".</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>George H.W. Bush</answer>
+<question_number>3</question_number>
+<answer>The Church Lady</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>Derek Stevens</answer>
+<question_number>6</question_number>
+<answer>John Belushi</answer>
+<question_number>7</question_number>
+<answer>Nat X</answer>
+<question_number>8</question_number>
+<answer>The making of '(Don't Fear) the Reaper' by Blue Oyster Cult</answer>

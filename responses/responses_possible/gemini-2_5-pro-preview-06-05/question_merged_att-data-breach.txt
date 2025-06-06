@@ -1,0 +1,21 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>It moves IT infrastructure to a shared environment that is "much trickier" to secure and presents "many more ways in which potential attacks can be done."</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>The exposed records identify which telephone numbers an AT&T number interacted with, and these phone numbers can be traced back to individuals through data broker records, which could expose their communication networks.</answer>
+<question_number>5</question_number>
+<answer>The communication networks of people in national security roles at federal agencies could be exposed, posing a national security concern and a substantial risk to national security and public safety.</answer>
+<question_number>6</question_number>
+<answer>The exposed data identifies which phone numbers interacted, and these numbers can be traced back to individuals, which could expose the communication networks of people in sensitive positions.</answer>
+<question_number>7</question_number>
+<answer>The compromised data could expose the communication networks of people in national security roles, and this type of information is what would most likely benefit foreign nation states or foreign actors.</answer>
+<question_number>8</question_number>
+<answer>The compromised data contains records of which phone numbers interacted, and since phone numbers can be traced to individuals, this could expose the communication networks of government officials.</answer>
+<question_number>9</question_number>
+<answer>According to Professor Schaumont, it moves IT infrastructure to a shared environment that is "much trickier" to secure and has "many more ways in which potential attacks can be done."</answer>
+<question_number>10</question_number>
+<answer>The professor's general explanation of the risks of cloud infrastructure provides context for the breach that occurred on Snowflake, which is a specific example of such a third-party cloud platform.</answer>

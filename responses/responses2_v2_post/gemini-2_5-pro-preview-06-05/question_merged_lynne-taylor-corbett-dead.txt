@@ -1,0 +1,4 @@
+merged_lynne-taylor-corbett-dead.txt
+<other>The user wants me to answer a question based on the provided article. The question asks for the title of a ballet that was described as a "whopping success" by a *New York Post* critic. I will search the article for these keywords. The article mentions a ballet called "Great Galloping Gottschalk" and states that Anna Kisselgoff in *The New York Times* acknowledged it was a "whopping success with the public." The question specifies the critic was from the *New York Post*, but the article states the critic was from *The New York Times*. This is a direct contradiction of a premise in the question. According to the instructions, if the question contains an incorrect premise, I must answer "N/A".</other>
+<question_number>1</question_number>
+<answer>N/A</answer>

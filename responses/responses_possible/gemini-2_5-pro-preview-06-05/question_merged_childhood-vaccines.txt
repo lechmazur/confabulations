@@ -1,0 +1,29 @@
+merged_childhood-vaccines.txt
+<other>I will analyze each question and find the answer solely from the provided article, adhering to the strict output format. For questions requiring calculations, I will perform them only if all necessary data points are present in the text. If a question is ambiguous or the data is incomplete, I will answer N/A.</other>
+<question_number>1</question_number>
+<answer>Covid vaccine skepticism has led to lower MMR vaccination rates, which in turn are tied to an increase in measles outbreaks, demonstrating a tangible negative public health outcome.</answer>
+<question_number>2</question_number>
+<answer>When the right infrastructure is created to implement vaccine programs, they pay for themselves right away.</answer>
+<question_number>3</question_number>
+<answer>The decline in trust and accessibility of healthcare providers during the pandemic led people to seek information on social media, which spread misinformation about all vaccines and increased hesitancy toward childhood immunizations.</answer>
+<question_number>4</question_number>
+<other>The article states total savings are $2.7 trillion when including indirect costs, and direct health care cost savings are $540 billion ($0.54 trillion). The indirect savings are the difference: $2.7T - $0.54T = $2.16T. The percentage of the total savings attributed to indirect effects is ($2.16T / $2.7T) * 100.</other>
+<answer>80%</answer>
+<question_number>5</question_number>
+<other>The article provides two cost savings figures ($540 billion and $2.7 trillion) but does not specify which one should be used to calculate the average cost savings per prevented death. Therefore, a single, direct answer cannot be determined.</other>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<other>The article states that the savings "dwarfs the cost of developing the shots" but does not provide a figure for the development cost, making a percentage calculation impossible.</other>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<other>The article does not provide the U.S. GDP, which is necessary to calculate the requested percentage.</other>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<other>The article provides two cost savings figures ($540 billion and $2.7 trillion) but does not specify which one should be used to calculate the average cost savings per prevented hospitalization. Therefore, a single, direct answer cannot be determined.</other>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<other>The article states there have been 13 measles outbreaks in 2024. It also states that 93% of kindergartners were immunized in the 2022-23 school year, meaning 7% were not. The number of outbreaks (13) already exceeds the percentage value of non-vaccinated kindergartners (7) in the year 2024.</other>
+<answer>2024</answer>
+<question_number>10</question_number>
+<other>The article groups the savings from "treating the initial infection and managing later, related conditions" into a single estimate and does not provide a breakdown for each category.</other>
+<answer>N/A</answer>

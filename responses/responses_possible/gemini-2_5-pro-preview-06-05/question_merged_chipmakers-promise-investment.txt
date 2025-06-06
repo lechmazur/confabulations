@@ -1,0 +1,31 @@
+merged_chipmakers-promise-investment.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>The article mentions Intel was awarded up to $8.5 billion and that it would slash more than 15,000 jobs. However, it does not state a relationship or correlation between these two facts.</other>
+<question_number>2</question_number>
+<answer>The new investments are estimated to help the United States triple its domestic chip manufacturing capacity by 2032.</answer>
+<other>The article states, "The Semiconductor Industry Association, a trade group, has estimated that the new investments will help the United States triple its domestic chip manufacturing capacity by 2032".</other>
+<question_number>3</question_number>
+<answer>More than 10 to 1</answer>
+<other>The article states that "roughly $30 billion in total public investment has been accompanied by commitments from private companies to invest more than $300 billion". The ratio of private investment to public funding is therefore more than $300 billion to roughly $30 billion, which is more than 10 to 1.</other>
+<question_number>4</question_number>
+<answer>$8.05 billion</answer>
+<other>The largest grant mentioned is "up to $8.5 billion" for Intel. The smallest grant mentioned is "up to $450 million" for SK Hynix. $450 million is $0.45 billion. The difference is $8.5 billion - $0.45 billion = $8.05 billion.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article states that "more than $30 billion" of a "$39 billion pot" has been allocated. Because "more than $30 billion" is not a precise figure, the exact percentage remaining cannot be calculated.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article states that "roughly $30 billion" in public investment is helping to create "more than 100,000 jobs". Since both the funding amount and the number of jobs are imprecise ("roughly" and "more than"), an average amount per job cannot be calculated.</other>
+<question_number>7</question_number>
+<answer>More than $10</answer>
+<other>The article states that "roughly $30 billion in total public investment has been accompanied by commitments from private companies to invest more than $300 billion". This means each dollar of public funding generates more than $10 in private investment ($300 billion / $30 billion = 10).</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>The article mentions grants to non-U.S. based companies SK Hynix ($450 million) and TSMC ($6.6 billion). It also mentions an agreement with Samsung, another non-U.S. company, but does not provide the grant amount. Therefore, the total amount cannot be determined.</other>
+<question_number>9</question_number>
+<answer>Approximately 18.9</answer>
+<other>The largest grant mentioned is "up to $8.5 billion" for Intel. The grant for SK Hynix is "up to $450 million". The ratio is $8,500,000,000 divided by $450,000,000, which equals 18.88..., or approximately 18.9.</other>
+<question_number>10</question_number>
+<answer>27 percentage points</answer>
+<other>The article states the U.S. share of global semiconductor manufacturing was "about 37 percent in 1990" and is now "about 10 percent". The difference is 37 minus 10, which is 27 percentage points.</other>

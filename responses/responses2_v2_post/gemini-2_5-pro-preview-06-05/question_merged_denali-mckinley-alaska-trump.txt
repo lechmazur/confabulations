@@ -1,0 +1,4 @@
+merged_denali-mckinley-alaska-trump.txt
+<other>The user wants me to answer a question based on the provided article. The question is: "How many migrants accused of gang affiliations are currently held in the Guantanamo Bay tent city mentioned in the article's final section?" I will look at the "Immigration" section of the article. The text says, "The Trump administration is holding 10 migrants with suspected gang affiliations in the same prison in Guantanamo Bay, Cuba that has housed men accused of being members of Al Qaeda... U.S Forces are also preparing a tent city to house as many as 30,000 migrants." The article states the 10 migrants are being held in a "prison," not the "tent city." The tent city is being "prepared." Therefore, the article does not state that any migrants with gang affiliations are being held in the tent city. The answer is N/A.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>

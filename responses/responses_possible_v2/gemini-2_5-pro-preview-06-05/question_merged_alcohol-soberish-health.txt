@@ -1,0 +1,14 @@
+merged_alcohol-soberish-health.txt
+<other>I will answer each question based only on the provided article. For each question, I will locate the relevant text to formulate a direct answer. If the text does not contain the information or if a premise in the question is not supported by the text, I will answer "N/A".</other>
+<question_number>1</question_number>
+<answer>Dawn Murray</answer>
+<question_number>2</question_number>
+<answer>Kayla Lyons</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>Blood pressure</answer>
+<question_number>5</question_number>
+<answer>Christine Mosley</answer>
+<question_number>6</question_number>
+<answer>More than doubled</answer>

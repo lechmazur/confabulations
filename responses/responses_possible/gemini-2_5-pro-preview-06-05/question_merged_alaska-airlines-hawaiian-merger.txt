@@ -1,0 +1,32 @@
+merged_alaska-airlines-hawaiian-merger.txt
+<other>I will analyze each question and extract the answer solely from the provided article. For each question, I will identify the relevant sentences or phrases in the text to formulate a direct answer. If no information is available to answer the question precisely as asked, I will respond with "N/A".</other>
+<question_number>1</question_number>
+<answer>The merger would reduce competition in Hawaii, as the combined airline would operate approximately 43 percent of all flights into the state.</answer>
+<other>The article states Hawaiian operated 35% and Alaska operated 8% of flights into Hawaii. 35 + 8 = 43. The article also explicitly says the combination would "reduce competition in Hawaii."</other>
+<question_number>2</question_number>
+<answer>It would reduce competition on the dozen routes connecting Honolulu or Maui with airports on the West Coast where the two airlines currently compete directly.</answer>
+<other>The article specifies that the airlines compete directly on a dozen routes and that these routes connect Honolulu or Maui with the West Coast.</other>
+<question_number>3</question_number>
+<answer>The combined airline would operate a majority of flights on a few routes where neither airline previously held more than 50 percent market share on its own.</answer>
+<other>This answer is taken almost verbatim from the article.</other>
+<question_number>4</question_number>
+<answer>It would reduce competition on the dozen routes where they currently compete directly.</answer>
+<other>The article states they compete on "only a dozen" routes, and a merger would eliminate that direct competition.</other>
+<question_number>5</question_number>
+<answer>It would reduce competition on a dozen routes connecting Honolulu or Maui with airports on the West Coast.</answer>
+<other>The article's most specific information about the competitive landscape between Hawaii and the continental U.S. is the mention of the dozen routes to the West Coast where the two airlines compete.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>The article discusses routes where the combined airline would gain a majority share, but not what happens on routes where their combined share remains under 50 percent.</other>
+<question_number>7</question_number>
+<answer>Access to more pilots and other skilled workers.</answer>
+<other>The article lists several advantages. Access to skilled workers is an advantage that is not directly about expanding market share or fleet size, but rather about operational resources.</other>
+<question_number>8</question_number>
+<answer>Finding and training pilots.</answer>
+<other>The article explicitly names "Finding and training pilots" as a challenge for midsize airlines and notes the acquisition gives Alaska access to more pilots.</other>
+<question_number>9</question_number>
+<answer>The combined market share is roughly half the market share of United Airlines, the fourth-largest U.S. airline.</answer>
+<other>This is stated directly in the article.</other>
+<question_number>10</question_number>
+<answer>The proposed Alaska-Hawaiian combination has nearly 8 percent of the U.S. market, while Spirit Airlines has 5.1 percent.</answer>
+<other>The article provides these specific market share percentages for both entities.</other>

@@ -21,55 +21,56 @@ Combining confabulation and non-response rates enables a comprehensive ranking. 
 |3|Gemini 2.5 Pro Exp 03-25|4.0|17.6|10.80|
 |4|o1 (medium reasoning)|10.9|12.6|11.74|
 |5|Qwen 3 30B A3B|12.9|11.7|12.28|
-|6|Gemini 2.0 Flash Think Exp 01-21|14.9|10.0|12.43|
-|7|DeepSeek R1|17.3|8.0|12.65|
-|8|o1-preview|18.3|7.8|13.04|
-|9|Claude Sonnet 4 Thinking 16K|2.5|23.9|13.20|
-|10|Gemini 1.5 Pro (Sept)|16.8|10.2|13.54|
-|11|GPT-4.5 Preview|11.9|15.4|13.64|
-|12|Grok 3 Mini Beta (low)|10.9|17.2|14.04|
-|13|Grok 3 Beta (no reasoning)|17.8|10.6|14.19|
-|14|o3 (high reasoning)|24.8|4.0|14.38|
-|15|DeepSeek R1 05/28|12.9|16.2|14.56|
-|16|Claude 3.7 Sonnet Thinking 16K|7.9|21.5|14.71|
-|17|Claude Sonnet 4 (no reasoning)|5.4|24.2|14.85|
-|18|GPT-4o 2024-08-06|22.3|8.4|15.34|
-|19|Qwen QwQ-32B 16K|25.2|5.9|15.57|
-|20|Qwen 3 235B A22B|23.3|8.0|15.61|
-|21|o4-mini (high reasoning)|26.7|4.8|15.79|
-|22|Claude Opus 4 Thinking 16K|2.5|29.4|15.92|
-|23|GPT-4o Feb 2025|26.7|6.5|16.63|
-|24|Gemini 2.5 Flash Preview 24K|4.5|29.2|16.81|
-|25|Claude Opus 4 (no reasoning)|3.0|31.2|17.06|
-|26|GPT-4o 2024-11-20|26.2|8.2|17.21|
-|27|Llama 3.1 405B|14.4|20.9|17.62|
-|28|o3-mini (medium reasoning)|27.2|8.6|17.91|
-|29|Gemini 2.0 Pro Exp 02-05|15.8|21.0|18.43|
-|30|o3-mini (high reasoning)|30.7|6.2|18.43|
-|31|o1-mini|26.2|10.9|18.55|
-|32|Qwen 2.5 72B|32.2|6.0|19.09|
-|33|Claude 3.7 Sonnet|25.2|14.3|19.76|
-|34|Claude 3.5 Sonnet 2024-10-22|12.9|27.0|19.94|
-|35|Grok 2 12-12|25.7|14.5|20.14|
-|36|GPT-4o Mar 2025|38.1|3.5|20.81|
-|37|Mistral Large 2|32.2|10.6|21.40|
-|38|Qwen 2.5 Max|31.2|12.4|21.78|
-|39|Mistral Medium 3|38.1|5.7|21.90|
-|40|Llama 4 Maverick|28.2|16.9|22.58|
-|41|Claude 3 Opus|28.2|17.2|22.70|
-|42|Llama 3.3 70B|17.8|27.8|22.81|
-|43|MiniMax-Text-01|44.6|3.3|23.92|
-|44|Mistral Small 3|38.6|11.8|25.21|
-|45|DeepSeek V3-0324|39.1|13.2|26.15|
-|46|Gemini 2.0 Flash|24.3|29.4|26.85|
-|47|Gemma 2 27B|47.3|7.2|27.24|
-|48|GPT-4 Turbo|26.7|30.1|28.42|
-|49|Microsoft Phi-4|52.5|6.4|29.43|
-|50|Amazon Nova Pro|54.5|5.6|30.05|
-|51|Claude 3 Haiku|56.9|11.5|34.21|
-|52|Claude 3.5 Haiku|65.8|7.6|36.74|
-|53|GPT-4o mini|60.9|13.5|37.21|
-|54|Gemma 3 27B|66.3|14.2|40.26|
+|6|Gemini 2.5 Pro Preview 06-05|4.0|20.8|12.38|
+|7|Gemini 2.0 Flash Think Exp 01-21|14.9|10.0|12.43|
+|8|DeepSeek R1|17.3|8.0|12.65|
+|9|o1-preview|18.3|7.8|13.04|
+|10|Claude Sonnet 4 Thinking 16K|2.5|23.9|13.20|
+|11|Gemini 1.5 Pro (Sept)|16.8|10.2|13.54|
+|12|GPT-4.5 Preview|11.9|15.4|13.64|
+|13|Grok 3 Mini Beta (low)|10.9|17.2|14.04|
+|14|Grok 3 Beta (no reasoning)|17.8|10.6|14.19|
+|15|o3 (high reasoning)|24.8|4.0|14.38|
+|16|DeepSeek R1 05/28|12.9|16.2|14.56|
+|17|Claude 3.7 Sonnet Thinking 16K|7.9|21.5|14.71|
+|18|Claude Sonnet 4 (no reasoning)|5.4|24.2|14.85|
+|19|GPT-4o 2024-08-06|22.3|8.4|15.34|
+|20|Qwen QwQ-32B 16K|25.2|5.9|15.57|
+|21|Qwen 3 235B A22B|23.3|8.0|15.61|
+|22|o4-mini (high reasoning)|26.7|4.8|15.79|
+|23|Claude Opus 4 Thinking 16K|2.5|29.4|15.92|
+|24|GPT-4o Feb 2025|26.7|6.5|16.63|
+|25|Gemini 2.5 Flash Preview 24K|4.5|29.2|16.81|
+|26|Claude Opus 4 (no reasoning)|3.0|31.2|17.06|
+|27|GPT-4o 2024-11-20|26.2|8.2|17.21|
+|28|Llama 3.1 405B|14.4|20.9|17.62|
+|29|o3-mini (medium reasoning)|27.2|8.6|17.91|
+|30|Gemini 2.0 Pro Exp 02-05|15.8|21.0|18.43|
+|31|o3-mini (high reasoning)|30.7|6.2|18.43|
+|32|o1-mini|26.2|10.9|18.55|
+|33|Qwen 2.5 72B|32.2|6.0|19.09|
+|34|Claude 3.7 Sonnet|25.2|14.3|19.76|
+|35|Claude 3.5 Sonnet 2024-10-22|12.9|27.0|19.94|
+|36|Grok 2 12-12|25.7|14.5|20.14|
+|37|GPT-4o Mar 2025|38.1|3.5|20.81|
+|38|Mistral Large 2|32.2|10.6|21.40|
+|39|Qwen 2.5 Max|31.2|12.4|21.78|
+|40|Mistral Medium 3|38.1|5.7|21.90|
+|41|Llama 4 Maverick|28.2|16.9|22.58|
+|42|Claude 3 Opus|28.2|17.2|22.70|
+|43|Llama 3.3 70B|17.8|27.8|22.81|
+|44|MiniMax-Text-01|44.6|3.3|23.92|
+|45|Mistral Small 3|38.6|11.8|25.21|
+|46|DeepSeek V3-0324|39.1|13.2|26.15|
+|47|Gemini 2.0 Flash|24.3|29.4|26.85|
+|48|Gemma 2 27B|47.3|7.2|27.24|
+|49|GPT-4 Turbo|26.7|30.1|28.42|
+|50|Microsoft Phi-4|52.5|6.4|29.43|
+|51|Amazon Nova Pro|54.5|5.6|30.05|
+|52|Claude 3 Haiku|56.9|11.5|34.21|
+|53|Claude 3.5 Haiku|65.8|7.6|36.74|
+|54|GPT-4o mini|60.9|13.5|37.21|
+|55|Gemma 3 27B|66.3|14.2|40.26|
 
 
 ---
@@ -121,6 +122,7 @@ Accuracy benchmarks can also be considered for a more comprehensive assessment. 
 
 ---
 ## Updates 
+- June 6, 2025: Gemini 2.5 Pro Preview 06-06 added.
 - May 29, 2025: DeepSeek R1 05/28 added.
 - May 23, 2025: Claude 4 added.
 - May 8, 2025: Gemini 2.5 Pro Preview 05-06, Mistral Medium 3 added.

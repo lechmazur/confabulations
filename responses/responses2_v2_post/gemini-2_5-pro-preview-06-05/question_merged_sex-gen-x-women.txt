@@ -1,0 +1,10 @@
+merged_sex-gen-x-women.txt
+<other>The user wants me to answer a question based on the provided article. The question asks for the number of living members of the author's vogueing house at a specific point in time: when her newspaper editor was sitting on her lap.
+
+First, I will locate the information about the vogueing house. The article says: "In 1991, when I was 18 and starting college, I was in a vogueing house that won Montreal's first vogue ball. By 1992, two out of the five members of the house were dead from AIDS, and one was H.I.V. positive." This tells me that in 1992, there were three living members out of the original five.
+
+Next, I will locate the information about the newspaper editor. The article says: "By the time I finished college, I had integrated my own rather saw-toothed sexual history into a tough-as-nails, big-as-the-boys form of Camille Paglia-esque feminism. This wisecracking persona was nearly necessary at the Montreal newspaper where I worked, and where I endured more than one editorial meeting sitting on the lap of my editor."
+
+The question asks for the number of living members *at the time* of the newspaper incident. The newspaper job happened "By the time I finished college," which is after 1992. The article provides the status of the members in 1992 but gives no further updates on their health or survival after that year. Therefore, it is impossible to know how many of the three members who were alive in 1992 were still alive when the author was working at the newspaper after college. The information is not in the text.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>

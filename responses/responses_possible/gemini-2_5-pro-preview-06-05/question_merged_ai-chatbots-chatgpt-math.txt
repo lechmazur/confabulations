@@ -1,0 +1,21 @@
+merged_ai-chatbots-chatgpt-math.txt
+<question_number>1</question_number>
+<answer>They were not designed to do math; they are fine-tuned for determining probabilities, not for performing rules-based calculations.</answer>
+<question_number>2</question_number>
+<answer>Despite being trained on vast quantities of math data like textbooks and standardized tests, which allows them to excel on some tests, they still struggle with mathematical accuracy because their underlying probabilistic nature is not suited for the precise, rules-based logic of math.</answer>
+<question_number>3</question_number>
+<answer>The article illustrates the difference through Khan Academy's chatbot, Khanmigo, which is a probabilistic system but must send numerical problems to a separate, rules-based calculator program to ensure accuracy.</answer>
+<question_number>4</question_number>
+<answer>The evolution reflects a shift from computing being defined as "math on steroids" (fast, accurate, rule-based calculation) to a new form of AI that is modeled on the human brain, learns from data, and excels at probabilistic language tasks while struggling with math.</answer>
+<question_number>5</question_number>
+<answer>It challenges the definition by presenting a new form of computing that is described as a "liberal arts major than numbers whiz" because it often struggles with math and can be inaccurate, which is the opposite of being "math on steroids."</answer>
+<question_number>6</question_number>
+<answer>The errors provide an opportunity to teach students critical thinking by having them compare their answers to the chatbot's, determine who is correct, and analyze how each arrived at their solution.</answer>
+<question_number>7</question_number>
+<answer>It reflects a shift from perceiving AI's strength in logical, rule-based tasks to recognizing its new strengths in human-like, probabilistic tasks like generating language with fluency.</answer>
+<question_number>8</question_number>
+<answer>The AI's erratic math performance supports the argument of skeptics who believe that simply adding more data to large language models is not enough and that a broader approach incorporating logic and common sense reasoning is needed.</answer>
+<question_number>9</question_number>
+<answer>It challenges the distinction by creating a technology that is described as being "more liberal arts major than numbers whiz," excelling at language-based tasks while struggling with math, a core STEM skill that was traditionally a computer's strength.</answer>
+<question_number>10</question_number>
+<answer>His perspective provides the insight that while AI's language skills are impressive, they are not a substitute for accuracy, and for critical applications requiring "painful precision," AI must be combined with more traditional, rules-based software.</answer>
