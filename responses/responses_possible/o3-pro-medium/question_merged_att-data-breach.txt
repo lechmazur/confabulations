@@ -1,0 +1,21 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>phone logs of federal agency users served by AT&T during that period could have been exposed, raising national security concerns</answer>
+<question_number>2</question_number>
+<answer>storing data on Snowflake placed it outside AT&T’s direct control in a shared cloud, adding extra attack vectors and complicating defense</answer>
+<question_number>3</question_number>
+<answer>it shows that weak data security can leak government communication metadata, underscoring the need for strict protections at contractors</answer>
+<question_number>4</question_number>
+<answer>link numbers to names then analyze who contacts whom and when to map national-security personnel’s communication patterns</answer>
+<question_number>5</question_number>
+<answer>federal agencies’ call and text logs may be compromised, posing national security and public safety risks</answer>
+<question_number>6</question_number>
+<answer>because the logs list interacting phone numbers, they enable reconstruction of sensitive individuals’ communication networks</answer>
+<question_number>7</question_number>
+<answer>call-and-text metadata gives foreign states insight into who communicates within U.S. networks, aiding intelligence gathering</answer>
+<question_number>8</question_number>
+<answer>interaction records can reveal which government officials communicate with each other, exposing their networks</answer>
+<question_number>9</question_number>
+<answer>moving data to shared cloud servers increases attack surfaces, making customers more vulnerable to breaches</answer>
+<question_number>10</question_number>
+<answer>Snowflake exemplifies the shared cloud setup the professor says offers many more ways attackers can strike</answer>
