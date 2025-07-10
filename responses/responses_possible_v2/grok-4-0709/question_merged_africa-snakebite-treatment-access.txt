@@ -1,0 +1,25 @@
+merged_africa-snakebite-treatment-access.txt
+<other>Analyzing question 1: The article describes symptoms like blistering, swelling, and blackening, likely necrosis from venom, but doesn't specify the exact physiological mechanism tied to regional snake venoms and symptom progression; the tying of the arm might contribute, but not stated as the mechanism.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>For question 2: Article states antivenoms are species-specific, Indian ones target kraits (elapids), ineffective against Kenyan puff adders (vipers), due to venom variation by region and species.</other>
+<question_number>2</question_number>
+<answer>Antivenoms are tailored to specific snake venoms, which vary geographically and by species, making Indian antivenoms designed for kraits useless against Kenyan puff adders' distinct toxin blends.</answer>
+<other>Question 3: Article mentions targeting toxin families for universal antivenom, with neurotoxins in cobras/mambas and hemotoxins in puff adders, necessitating antibodies for both.</other>
+<question_number>3</question_number>
+<answer>Neurotoxins from elapids like mambas and cobras, combined with hemotoxins from vipers like puff adders, and antivenoms' species-specific limitations, drive development of monoclonal antibodies targeting these families for universal efficacy.</answer>
+<other>Question 4: Spitting cobras shoot venom into eyes, which could mimic non-bite injuries, and rural victims seek traditional healers first, leading to misdiagnosis.</other>
+<question_number>4</question_number>
+<answer>Spitting cobras' ability to project venom into eyes from distance mimics chemical or traumatic ocular injuries without visible bites, confusing diagnosis where traditional healers apply non-medical treatments before professional care.</answer>
+<other>Question 5: Rainy season floods displace snakes, dry season drives them to farms for food/water; farmers in rural areas with poor housing face higher risks during these periods.</other>
+<question_number>5</question_number>
+<answer>Rainy season flooding forces snakes into human areas, increasing bites among farmers and rural dwellers; dry season searches for food and water heighten risks during agricultural activities in dilapidated homes and barefoot walking.</answer>
+<other>Question 6: Premise of puff adders having higher venom yield not in article, so N/A.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Question 7: Antivenom needs cold storage, rural Kenya has delays beyond 6 hours, worsening catastrophic outcomes in pregnant women like fetal death.</other>
+<question_number>7</question_number>
+<answer>Antivenom's need for refrigeration strains rural transport and storage, compounding admission delays past the six-hour window, exacerbating severe fetal and maternal complications in pregnant victims.</answer>
+<other>Question 8: Tourniquets cause tissue damage leading to amputations, traditional treatments delay proper care, paradoxically worsening outcomes despite intent to help.</other>
+<question_number>8</question_number>
+<answer>Tourniquets restrict blood flow causing necrosis and amputations, while traditional remedies delay antivenom, paradoxically increasing harm and complications from venom spread during prolonged hospital admission times.</answer>

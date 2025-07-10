@@ -1,0 +1,31 @@
+merged_crowdstrike-microsoft-outage-software.txt
+<other>Analyzing question 1: The article connects the blue background to the "Blue Screen of Death," implying severe failure.</other>
+<question_number>1</question_number>
+<answer>The blue background is known as the Blue Screen of Death, indicating a fatal system crash.</answer>
+<other>Question 2: Directly stated as a routine upgrade that went off the rails, specifically a flawed software update.</other>
+<question_number>2</question_number>
+<answer>A flawed software update from CrowdStrike.</answer>
+<other>Question 3: Article says "hours later" but no specific number, so N/A.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Question 4: Directly named as Matt Mitchell.</other>
+<question_number>4</question_number>
+<answer>Matt Mitchell</answer>
+<other>Question 5: The article presents it as a fact, but it's tied to Mikko Hypponen's quote about manual rebooting.</other>
+<question_number>5</question_number>
+<answer>Mikko Hypponen</answer>
+<other>Question 6: Stated as heading to $100 billion.</other>
+<question_number>6</question_number>
+<answer>Heading to $100 billion</answer>
+<other>Question 7: Employee number is given in article, but not according to Brody Nisbet's statement, which was about a workaround, so N/A.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Question 8: The quote is from Matt Mitchell, but he's called a hacker, not security expert; Mikko is security expert but didn't say that, so N/A.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>Question 9: Directly from his quote: with centralized controls.</other>
+<question_number>9</question_number>
+<answer>With centralized controls</answer>
+<other>Question 10: Article mentions he suggested a workaround but doesn't specify what it was, so N/A.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>

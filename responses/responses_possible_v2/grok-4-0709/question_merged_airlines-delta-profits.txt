@@ -1,0 +1,19 @@
+merged_airlines-delta-profits.txt
+<other>Analyzing question 1: The article discusses multiple challenges but does not specify a single most critical operational constraint based on explicit causal relationships across three non-consecutive paragraphs.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 2: The article does not mention Pratt & Whitney by name, nor does it describe an irreversible bottleneck disproportionately affecting older fleets or a precise sequence as asked.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 3: The article describes similar aims for Southwest and JetBlue, not a juxtaposition revealing fundamental divergence in the specified paragraphs.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 4: The article does not discuss critical path dependency or specifically advantage widebody over narrowbody fleets.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 5: The article mentions Boeing panel blow-off (safety), technology outage (technology), and Spirit bankruptcy (financial), which can be inferred to have impacted capacity leading to pricing power.</other>
+<question_number>5</question_number>
+<answer>Boeing 737 Max panel incident, brief technology outage, Spirit Airlines bankruptcy</answer>
+<other>Analyzing question 6: The article does not describe a conflict in the temporal framing; it contrasts past challenges with future stability.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>

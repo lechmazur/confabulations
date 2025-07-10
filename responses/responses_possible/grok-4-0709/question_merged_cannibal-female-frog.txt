@@ -1,0 +1,31 @@
+merged_cannibal-female-frog.txt
+<other>Analyzing question 1: The article notes the risk but doesn't specify how it influences mating strategies beyond the existence of risk, so N/A.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 2: The article mentions fighting back as a cost but doesn't explain influence on mating dynamics, so N/A.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 3: Hellbender fathers eat young under suboptimal conditions, implying paternal care with conditional cannibalism.</other>
+<question_number>3</question_number>
+<answer>hellbenders</answer>
+<other>Analyzing question 4: Article implies cannibalism risk as the reason for rare proximity.</other>
+<question_number>4</question_number>
+<answer>risk of cannibalism</answer>
+<other>Analyzing question 5: No explicit common thread stated linking all three behaviors directly, so N/A.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 6: Both exploit mating signals for predatory advantage, inferable from females tuned to calls and spider manipulating flashes.</other>
+<question_number>6</question_number>
+<answer>exploiting mating signals for predation</answer>
+<other>Analyzing question 7: Both provide nutritional benefits, inferable from clear benefit for frogs and conditional eating in hellbenders.</other>
+<question_number>7</question_number>
+<answer>nutritional benefit</answer>
+<other>Analyzing question 8: Inferable difference is deception by different species vs. assessment by same species female.</other>
+<question_number>8</question_number>
+<answer>deception by spider vs. cannibalism by female frog</answer>
+<other>Analyzing question 9: Spider manipulates signals actively, frog responds passively to calls.</other>
+<question_number>9</question_number>
+<answer>active signal manipulation vs. passive response to calls</answer>
+<other>Analyzing question 10: Crocodiles adapt by avoiding toxic toads via conditioning, frogs persist in risky calling without avoidance.</other>
+<question_number>10</question_number>
+<answer>learning to avoid danger vs. persisting in risky mating behavior</answer>

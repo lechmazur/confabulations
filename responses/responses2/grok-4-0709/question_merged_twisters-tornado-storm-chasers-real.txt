@@ -1,0 +1,7 @@
+merged_twisters-tornado-storm-chasers-real.txt
+<other>Analyzing question 1: The article mentions Dr. Waugh is employed by the National Severe Storms Laboratory, and the research is associated with it, but it does not explicitly state that this agency funded a specific research project that the movie "Twisters" is based on. The movie is inspired by real research, but no funding details are given for a project the movie is based on. Thus, N/A.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Analyzing question 2: The article discusses hoping to deploy portable phased radar close to tornadoes in the future for 3-D representation, distinct from mobile radars and lidar which they already have but can't deploy that way. So, the type is portable phased radar.</other>
+<question_number>2</question_number>
+<answer>portable phased radar</answer>

@@ -1,0 +1,31 @@
+merged_amtrak-delays-heat-extreme-weather.txt
+<other>Analyzing question 1: The article provides heat delays and total delays for 2023, but not ratios or peaks across years from the data described.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>For question 2: Heat delays from 530 in 2018 to 1200 in 2023, increase of 670 over 5 years, so project another 670 to 1870 in 2028.</other>
+<question_number>2</question_number>
+<answer>1870</answer>
+<other>Question 3: Directly stated as more than 750,000 passengers daily.</other>
+<question_number>3</question_number>
+<answer>750,000</answer>
+<other>Question 4: 1200 - 530 = 670.</other>
+<question_number>4</question_number>
+<answer>670</answer>
+<other>Question 5: Nearly 60 percent.</other>
+<question_number>5</question_number>
+<answer>60%</answer>
+<other>Question 6: "A few billion dollars" is vague, no annual rate specified.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Question 7: No distance or normal travel time given to calculate increase.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Question 8: 4010 / 530 ≈ 7.57, so approximately 7.6 times.</other>
+<question_number>8</question_number>
+<answer>7.6</answer>
+<other>Question 9: Northeast from 83 to 230 in 5 years, +147, annual +29.4. 230 + 29.4*y >500, y>9.18, so 2033.</other>
+<question_number>9</question_number>
+<answer>2033</answer>
+<other>Question 10: Due to 1930s technology causing sagging in heat.</other>
+<question_number>10</question_number>
+<answer>Outdated 1930s technology causing lines to sag</answer>

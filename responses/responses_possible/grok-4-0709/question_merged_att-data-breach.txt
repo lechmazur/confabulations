@@ -1,0 +1,21 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>By moving to a shared cloud environment, making security trickier with more potential attack vectors</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>By tracing phone numbers to individuals via data brokers, exposing their communication networks</answer>
+<question_number>5</question_number>
+<answer>Potential exposure of communication networks for personnel in national security roles within those agencies</answer>
+<question_number>6</question_number>
+<answer>The data identifies interacted telephone numbers, which can be linked to names and expose communication networks</answer>
+<question_number>7</question_number>
+<answer>The data can expose communication networks for national security roles, benefiting foreign actors</answer>
+<question_number>8</question_number>
+<answer>The interacted numbers can be traced to individuals, potentially revealing sensitive networks</answer>
+<question_number>9</question_number>
+<answer>Places data in shared environments, making it trickier with more attack possibilities</answer>
+<question_number>10</question_number>
+<answer>It describes the shared and trickier nature of cloud platforms like Snowflake used in the breach</answer>
