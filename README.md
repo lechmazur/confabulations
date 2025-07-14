@@ -41,38 +41,40 @@ Combining confabulation and non-response rates enables a comprehensive ranking. 
 |23|Qwen 3 235B A22B|23.3|8.0|15.61|
 |24|o4-mini (high reasoning)|26.7|4.8|15.79|
 |25|Claude Opus 4 Thinking 16K|2.5|29.4|15.92|
-|26|GPT-4o Feb 2025|26.7|6.5|16.63|
-|27|Gemini 2.5 Flash Preview 24K|4.5|29.2|16.81|
-|28|Claude Opus 4 (no reasoning)|3.0|31.2|17.06|
-|29|GPT-4o 2024-11-20|26.2|8.2|17.21|
-|30|Llama 3.1 405B|14.4|20.9|17.62|
-|31|o3-mini (medium reasoning)|27.2|8.6|17.91|
-|32|Gemini 2.0 Pro Exp 02-05|15.8|21.0|18.43|
-|33|o3-mini (high reasoning)|30.7|6.2|18.43|
-|34|o1-mini|26.2|10.9|18.55|
-|35|Qwen 2.5 72B|32.2|6.0|19.09|
-|36|Claude 3.7 Sonnet|25.2|14.3|19.76|
-|37|Claude 3.5 Sonnet 2024-10-22|12.9|27.0|19.94|
-|38|Grok 2 12-12|25.7|14.5|20.14|
-|39|GPT-4o Mar 2025|38.1|3.5|20.81|
-|40|Mistral Large 2|32.2|10.6|21.40|
-|41|Qwen 2.5 Max|31.2|12.4|21.78|
-|42|Mistral Medium 3|38.1|5.7|21.90|
-|43|Llama 4 Maverick|28.2|16.9|22.58|
-|44|Claude 3 Opus|28.2|17.2|22.70|
-|45|Llama 3.3 70B|17.8|27.8|22.81|
-|46|MiniMax-Text-01|44.6|3.3|23.92|
-|47|Mistral Small 3|38.6|11.8|25.21|
-|48|DeepSeek V3-0324|39.1|13.2|26.15|
-|49|Gemini 2.0 Flash|24.3|29.4|26.85|
-|50|Gemma 2 27B|47.3|7.2|27.24|
-|51|GPT-4 Turbo|26.7|30.1|28.42|
-|52|Microsoft Phi-4|52.5|6.4|29.43|
-|53|Amazon Nova Pro|54.5|5.6|30.05|
-|54|Claude 3 Haiku|56.9|11.5|34.21|
-|55|Claude 3.5 Haiku|65.8|7.6|36.74|
-|56|GPT-4o mini|60.9|13.5|37.21|
-|57|Gemma 3 27B|66.3|14.2|40.26|
+|26|Baidu Ernie 4.5 300B A47B|25.2|6.7|15.97|
+|27|GPT-4o Feb 2025|26.7|6.5|16.63|
+|28|Gemini 2.5 Flash Preview 24K|4.5|29.2|16.81|
+|29|Claude Opus 4 (no reasoning)|3.0|31.2|17.06|
+|30|GPT-4o 2024-11-20|26.2|8.2|17.21|
+|31|Llama 3.1 405B|14.4|20.9|17.62|
+|32|o3-mini (medium reasoning)|27.2|8.6|17.91|
+|33|Gemini 2.0 Pro Exp 02-05|15.8|21.0|18.43|
+|34|o3-mini (high reasoning)|30.7|6.2|18.43|
+|35|o1-mini|26.2|10.9|18.55|
+|36|Qwen 2.5 72B|32.2|6.0|19.09|
+|37|Claude 3.7 Sonnet|25.2|14.3|19.76|
+|38|Claude 3.5 Sonnet 2024-10-22|12.9|27.0|19.94|
+|39|Grok 2 12-12|25.7|14.5|20.14|
+|40|Kimi K2|30.2|10.6|20.38|
+|41|GPT-4o Mar 2025|38.1|3.5|20.81|
+|42|Mistral Large 2|32.2|10.6|21.40|
+|43|Qwen 2.5 Max|31.2|12.4|21.78|
+|44|Mistral Medium 3|38.1|5.7|21.90|
+|45|Llama 4 Maverick|28.2|16.9|22.58|
+|46|Claude 3 Opus|28.2|17.2|22.70|
+|47|Llama 3.3 70B|17.8|27.8|22.81|
+|48|MiniMax-Text-01|44.6|3.3|23.92|
+|49|Mistral Small 3|38.6|11.8|25.21|
+|50|DeepSeek V3-0324|39.1|13.2|26.15|
+|51|Gemini 2.0 Flash|24.3|29.4|26.85|
+|52|Gemma 2 27B|47.3|7.2|27.24|
+|53|GPT-4 Turbo|26.7|30.1|28.42|
+|54|Microsoft Phi-4|52.5|6.4|29.43|
+|55|Amazon Nova Pro|54.5|5.6|30.05|
+|56|Claude 3 Haiku|56.9|11.5|34.21|
+|57|Claude 3.5 Haiku|65.8|7.6|36.74|
+|58|GPT-4o mini|60.9|13.5|37.21|
+|59|Gemma 3 27B|66.3|14.2|40.26|
 
 
 ---
@@ -124,6 +126,7 @@ Accuracy benchmarks can also be considered for a more comprehensive assessment. 
 
 ---
 ## Updates 
+- July 14, 2025: Kimi K2, Baidu Ernie 4.5 300B A47B added.
 - July 10, 2025: Grok 4 added.
 - June 11, 2025: o3-pro added.
 - June 6, 2025: Gemini 2.5 Pro Preview 06-06 added.

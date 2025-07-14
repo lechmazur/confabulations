@@ -1,0 +1,22 @@
+merged_ants-amputation-legs.txt
+<other>First, I will extract key details from the article related to the questions. The article explains that Florida carpenter ants perform amputations on thigh injuries because of the relationship between hemolymph flow, muscle distribution, and bacterial infection risk. The ants seem to target thigh injuries specifically due to the higher concentration of muscles in that area, which helps reduce hemolymph flow and thus bacterial movement. Lower leg injuries have a narrower time window for successful amputation. The behavioral sequence and colony-level benefits are also described.</other>
+<question_number>1</question_number>
+<answer>Thigh injuries reduce hemolymph flow, making it harder for bacteria to move into the body, so amputations are more effective at preventing infection.</answer>
+<question_number>2</question_number>
+<answer>Many muscles in the thighs that keep hemolymph flowing.</answer>
+<question_number>3</question_number>
+<answer>Amputations work better when the wound is closer to the body (thigh) but not when it is further away (lower leg).</answer>
+<question_number>4</question_number>
+<answer>It saves lives and reduces the need to produce 10 to 20 percent more ants to compensate for losses.</answer>
+<question_number>5</question_number>
+<answer>The time window for successful amputation is narrower for lower leg injuries than for thigh injuries.</answer>
+<question_number>6</question_number>
+<answer>The muscles reduce hemolymph flow, making it harder for bacteria to move into the body after a thigh injury.</answer>
+<question_number>7</question_number>
+<answer>Bacteria can penetrate the body quickly from lower leg injuries, but amputation is more effective for thigh injuries because bacterial movement is slower.</answer>
+<question_number>8</question_number>
+<answer>The injured ant presents its leg calmly, the other ant gnaws it off, and then cleans the wound.</answer>
+<question_number>9</question_number>
+<answer>Amputations are more successful where hemolymph-pumping muscles are concentrated (thighs).</answer>
+<question_number>10</question_number>
+<answer>By rescuing injured ants, the colony saves an enormous amount of energy.</answer>

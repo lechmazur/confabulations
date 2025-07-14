@@ -1,0 +1,22 @@
+merged_att-data-breach.txt
+<other>First, I will extract relevant information from the article to answer each question directly. The article mentions the breach timeline, involvement of a third-party cloud platform, AT&T's federal contracts, and potential impacts on national security and government agencies. I will use only the provided facts to answer each question without any external information.</other>
+<question_number>1</question_number>
+<answer>The breach occurred during a period when AT&T had active contracts with federal agencies, potentially exposing communication logs of government-related customers.</answer>
+<question_number>2</question_number>
+<answer>The use of a third-party cloud platform introduces shared infrastructure risks, making it harder to secure data exclusively and increasing potential attack vectors.</answer>
+<question_number>3</question_number>
+<answer>The breach highlights the need for robust data security practices to protect sensitive government communications and maintain trust in government-contracted services.</answer>
+<question_number>4</question_number>
+<answer>Phone records showing numbers interacted with can be linked to individuals via online searches, revealing communication patterns of those in national security roles.</answer>
+<question_number>5</question_number>
+<answer>The exposed call records of federal customers could compromise communication networks of government agencies, posing national security risks.</answer>
+<question_number>6</question_number>
+<answer>The exposed data, showing interacted phone numbers, can be traced to individuals, potentially exposing their communication networks.</answer>
+<question_number>7</question_number>
+<answer>Foreign nation states could benefit by mapping communication networks of sensitive individuals through the exposed phone records.</answer>
+<question_number>8</question_number>
+<answer>The compromised data, showing interacted numbers, could reveal government officials' communication networks when linked to identities.</answer>
+<question_number>9</question_number>
+<answer>Outsourcing data to the cloud places it in shared environments with more potential attack points, increasing exposure to breaches.</answer>
+<question_number>10</question_number>
+<answer>The professor's explanation about cloud infrastructure risks applies to Snowflake, the third-party platform used by AT&T, which was the breach source.</answer>

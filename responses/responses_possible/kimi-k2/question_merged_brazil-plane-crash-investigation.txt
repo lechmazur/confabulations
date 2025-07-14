@@ -1,0 +1,30 @@
+merged_brazil-plane-crash-investigation.txt
+<question_number>1</question_number>
+<answer>The article mentions that icing was a main cause of a 1994 American Eagle crash of the same ATR plane model, but the manufacturer has since improved the de-icing system, which could mislead readers into thinking icing couldn't be the cause despite the current crash theory suggesting severe icing.</answer>
+
+<question_number>2</question_number>
+<answer>The article states that the plane was traveling roughly 325 miles per hour when its speed dropped sharply, but the speed did not drop far enough to cause a stall unless icing was extremely severe, creating a conditional where icing severity determines if the speed drop could cause a stall.</answer>
+
+<question_number>3</question_number>
+<answer>The plane's anti-icing system consisted of rubber tubes on the wings that inflate and deflate to break up ice, but the ground temperature where the plane crashed was around 63 degrees, which challenges the icing theory since warmer air at lower altitudes could have melted any ice.</answer>
+
+<question_number>4</question_number>
+<answer>The plane was described as spinning slowly as it plummeted before crashing almost directly on its belly, which contradicts standard expectations as stalls typically result in a nose-down attitude rather than a flat belly-first impact.</answer>
+
+<question_number>5</question_number>
+<answer>The plane's last recorded speed was roughly 325 mph, which did not drop far enough to cause a stall under normal conditions, challenging the icing theory unless the icing was extremely severe enough to cause stall at much higher speeds.</answer>
+
+<question_number>6</question_number>
+<answer>The pilots did not communicate with controllers just before the crash and there was no declaration of any type of emergency, which conflicts with standard protocol for addressing severe icing conditions where pilots would typically alert air traffic controllers.</answer>
+
+<question_number>7</question_number>
+<answer>The crash location had a ground temperature of around 63 degrees, contradicting the assumption that icing conditions would persist as pilots could have descended to warmer air to melt ice.</answer>
+
+<question_number>8</question_number>
+<answer>The manufacturer improved the de-icing system after the 1994 American Eagle crash of the same ATR plane model, which paradoxically complicates the current investigation as it raises questions about why the improved system might have failed.</answer>
+
+<question_number>9</question_number>
+<answer>The plane's 89-foot length becomes crucial when considering the icing theory as the size affects how ice accumulation would impact aerodynamic performance and control.</answer>
+
+<question_number>10</question_number>
+<answer>The plane fell from 17,000 feet, which challenges assumptions about gradual ice accumulation as this altitude suggests the icing would have had to occur rapidly and severely to cause a stall at that height.</answer>

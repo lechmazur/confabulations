@@ -1,0 +1,30 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>When you move your IT infrastructure to the cloud, suddenly you're in a place that is shared with a bunch of other people, and it becomes much trickier. There are many more ways in which potential attacks can be done.</answer>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<answer>Through data broker records, phone numbers can be traced back to individuals, which could expose communication networks for people in national security roles.</answer>
+
+<question_number>5</question_number>
+<answer>AT&T has contracts to provide communications services for several federal agencies, including the State Department, Department of Homeland Security and the Department of Defense.</answer>
+
+<question_number>6</question_number>
+<answer>The records identify the telephone numbers an AT&T cellular number interacted with during those periods, but do not contain the content of calls or texts or information such as Social Security numbers and passwords.</answer>
+
+<question_number>7</question_number>
+<answer>The most likely beneficiary of this specific data are foreign nation states or foreign actors.</answer>
+
+<question_number>8</question_number>
+<answer>Through data broker records, phone numbers can be traced back to individuals, which could expose communication networks for people in national security roles.</answer>
+
+<question_number>9</question_number>
+<answer>As major companies outsource data to the so-called cloud, a network of servers typically operated by third parties for storage and processing, customers are increasingly exposed to potential data breaches.</answer>
+
+<question_number>10</question_number>
+<answer>Customer data was downloaded from a third-party cloud platform called Snowflake, which the company relies on to work with large amounts of data in a centralized place.</answer>

@@ -1,0 +1,23 @@
+merged_country-without-medals.txt
+<other>First, I will extract the relevant information from the article to answer each question directly. I will focus on the examples and data provided in the text without making assumptions beyond what is stated.</other>
+<question_number>1</question_number>
+<answer>A large population alone does not guarantee Olympic success, as seen in Bangladesh (173 million, no medals), while smaller countries like Jamaica (2.8 million, 88 medals) and Grenada (125,000, 3 medals) have achieved success by focusing on specific sports.</answer>
+<question_number>2</question_number>
+<answer>Winning an Olympic medal can lead to improved sports infrastructure and increased national pride, as seen in Costa Rica (more pools and swimming participation after Sylvia Poll's silver medal) and Dominica (hope for better facilities after Thea LaFond-Gadson's gold).</answer>
+<question_number>3</question_number>
+<answer>Cuba (11 million) has won 235 medals due to deliberate government spending, while India (1.4 billion) has only won 35 medals, showing that population size alone does not determine Olympic success.</answer>
+<question_number>4</question_number>
+<answer>Smaller countries can achieve Olympic success by focusing on sports where they have a competitive advantage, as Jamaica has done with track and field, and Bolivia is attempting by studying its best sports.</answer>
+<question_number>5</question_number>
+<answer>Countries without Olympic medals can achieve success through strategic investment in specific sports, as seen in Jamaica's focus on track and field and Bolivia's plan to focus on its strongest sports.</answer>
+<question_number>6</question_number>
+<answer>Economic status does not guarantee Olympic success, as Nepal (very poor, $1,300 GDP per capita) has not won a medal, while Monaco (wealthiest, $241,000 GDP per capita) also lacks medals due to its small population.</answer>
+<question_number>7</question_number>
+<answer>Winning an Olympic medal can inspire government action to improve sports infrastructure, as seen in Dominica (hope for a track) and St. Lucia (motivation for future athletes).</answer>
+<question_number>8</question_number>
+<answer>Monaco</answer>
+<question_number>9</question_number>
+<answer>200 more medals (Cuba has 235, India has 35)</answer>
+<question_number>10</question_number>
+<answer>564 more medals (United States has 2,975; former Soviet Union, Germany, Great Britain, and France combined have 2,975 - 2,975 = 0, but the next four are 1,204 + 1,058 + 955 + 898 = 4,115; 2,975 - 4,115 is incorrect logic. Correct calculation: 2,975 - (1,204 + 1,058 + 955 + 898) = 2,975 - 4,115 = -1,140 is wrong. The question asks how many more the US has than the next four combined. The next four combined have 4,115, which is more than the US. The correct answer is the US has 1,140 fewer medals than the next four combined, but since the question asks "how many more," the answer is N/A because the US does not have more.</answer>
+<other>For question 10, the article states the US has 2,975 medals, and the next four countries (former Soviet Union, Germany, Great Britain, France) have 1,204 + 1,058 + 955 + 898 = 4,115 combined. The US has 2,975 - 4,115 = -1,140 fewer medals than the next four combined. Since the question asks "how many more," the answer is N/A because the US does not have more medals than the next four combined.</other>

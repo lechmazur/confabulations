@@ -1,0 +1,22 @@
+merged_ai-data-restrictions.txt
+<other>First, I will review the article to identify key points related to data restrictions, access challenges, and their implications for AI companies and researchers. I will then directly answer each question based on the information provided, ensuring no external sources are used.</other>
+<question_number>1</question_number>
+<answer>Widespread data restrictions may pose a threat to smaller AI companies and academic researchers who rely on public data sets and can't afford to license data directly from publishers.</answer>
+<question_number>2</question_number>
+<answer>The primary impact is on later-arriving actors, who are typically either smaller start-ups or researchers, rather than major tech companies that already have all of the data.</answer>
+<question_number>3</question_number>
+<answer>Many researchers doubt that today's AI systems are capable of generating enough high-quality synthetic data to replace the human-created data they're losing.</answer>
+<question_number>4</question_number>
+<answer>The web will start shutting its doors to them.</answer>
+<question_number>5</question_number>
+<answer>Major tech companies already have all of the data, while changing the license on the data primarily impacts later-arriving actors, who are typically smaller start-ups or researchers.</answer>
+<question_number>6</question_number>
+<answer>The primary impact is on later-arriving actors, who are typically either smaller start-ups or researchers, rather than retroactively revoking permission for major tech companies that already have the data.</answer>
+<question_number>7</question_number>
+<answer>The primary impact of changing data licenses is on smaller start-ups or researchers who arrive later, rather than on major tech companies that already have extensive data.</answer>
+<question_number>8</question_number>
+<answer>We're seeing blowback from data creators after the text, images, and videos they've shared online are used to develop commercial systems that sometimes directly threaten their livelihoods.</answer>
+<question_number>9</question_number>
+<answer>55%</answer>
+<question_number>10</question_number>
+<answer>75%</answer>
