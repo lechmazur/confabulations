@@ -1,0 +1,10 @@
+merged_zucchini-dinner.txt
+<other>The article states: "a classic Caribbean fish tea... which are simmered with corn and green beans in a fragrant broth". Corn is explicitly mentioned as a seasonal vegetable used in August dishes alongside zucchini.</other>
+<other>For question 2, the article says: "You can make Ashley Lonsdale's buoyant summery version with either whole fish or fillets". No specific fish type (e.g., salmon, cod) is named, only the form (whole or fillets).</other>
+<other>For question 3, the article states: "Melissa Clark offers two takes on the peach cobbler". Both variations are specified as peach cobbler, with no other fruit fillings mentioned for the cobbler recipes. The later "summer fruit crumble" is a separate dessert.</other>
+<question_number>1</question_number>
+<answer>corn</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>

@@ -1,0 +1,21 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>Metadata from May‑Oct 2022 could include communications handled for federal agencies under AT&T contracts.</answer>
+<question_number>2</question_number>
+<answer>Use of a third‑party cloud adds a shared‑infrastructure attack surface, complicating security.</answer>
+<question_number>3</question_number>
+<answer>It highlights that insecure data can jeopardize national‑security communications of government customers.</answer>
+<question_number>4</question_number>
+<answer>By linking phone numbers to identities, analysts can map who contacts whom and how often.</answer>
+<question_number>5</question_number>
+<answer>Federal agencies’ communication metadata may have been exposed, potentially revealing their contact networks.</answer>
+<question_number>6</question_number>
+<answer>Call‑and‑text logs (metadata) enable identification of communication networks of sensitive individuals.</answer>
+<question_number>7</question_number>
+<answer>Metadata provides foreign nation‑states insight into who communicates with whom, aiding intelligence.</answer>
+<question_number>8</question_number>
+<answer>Exposed phone‑record metadata can expose the communication patterns of government officials.</answer>
+<question_number>9</question_number>
+<answer>Outsourcing to shared cloud environments creates additional attack vectors, increasing breach risk.</answer>
+<question_number>10</question_number>
+<answer>The professor’s warning about shared cloud risk aligns with Snowflake’s role as the third‑party platform where the data was stored.</answer>

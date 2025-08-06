@@ -1,0 +1,25 @@
+merged_abortion-pill-ella.txt
+<other>Processing question 1: The article states the Mexico City study used "a 60 milligram dose of ulipristal acetate (double the 30 milligrams in Ella)". The hypothetical lawsuit would center on this specific dosage used in the study.</other>
+<question_number>1</question_number>
+<answer>60 milligram dose</answer>
+<other>Processing question 2: Kristi Hamrick represents Students for Life. The Texas attorney general's lawsuit targeted mailing abortion pills. Both the standard regimen and experimental regimen include misoprostol, which the article states "has not been targeted as much by abortion opponents" but is part of mailed abortion pill regimens.</other>
+<question_number>2</question_number>
+<answer>misoprostol</answer>
+<other>Processing question 3: Dr. Rebecca Gomperts is mentioned as studying mifepristone alternatives. The article states both mifepristone and ulipristal acetate "block the activity of progesterone", described as "a hormone that prepares the uterus to receive and hold an embryo".</other>
+<question_number>3</question_number>
+<answer>progesterone</answer>
+<other>Processing question 4: The FDA clarified Plan B "acts only before fertilization" and "will not affect an existing pregnancy". Project 2025 targets Ella as "a potential abortifacient" based on implantation theory. Recent studies suggest Ella doesn't block implantation, but plaintiffs would likely claim it affects implantation.</other>
+<question_number>4</question_number>
+<answer>implantation</answer>
+<other>Processing question 5: Dr. Blumenthal advised the study. The article states mifepristone is "typically used through 12 weeks' gestation" and is "the only drug specifically approved for abortion". Restrictions on ulipristal acetate would indirectly impact mifepristone availability as the primary alternative.</other>
+<question_number>5</question_number>
+<answer>mifepristone</answer>
+<other>Processing question 6: Project 2025 states Ella should be removed from "required insurance coverage of contraception under the Affordable Care Act". A lawsuit citing this would target ACA-mandated coverage provisions.</other>
+<question_number>6</question_number>
+<answer>Affordable Care Act insurance coverage</answer>
+<other>Processing question 7: The American Society for Emergency Contraception is mentioned. Plan B is described as "does not require a prescription", "intended to be taken within three days", and unaffected by restrictions on Ella despite similar disputed mechanisms.</other>
+<question_number>7</question_number>
+<answer>Plan B One-Step</answer>
+<other>Processing question 8: Misoprostol is part of both regimens and "can also facilitate an abortion on its own". The article states it "has not been targeted as much by abortion opponents", so a lawsuit would likely not directly target this component.</other>
+<question_number>8</question_number>
+<answer>misoprostol</answer>

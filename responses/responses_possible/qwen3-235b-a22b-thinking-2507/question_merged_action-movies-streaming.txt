@@ -1,0 +1,31 @@
+merged_action-movies-streaming.txt
+<other>Processing question 1: The article states for "Perfect Addiction" that Sienna catches Jax with her sister, leading to relationship collapse, and she then trains Kayden (another fighter) for revenge. This matches the infidelity and training a new partner in the same field.</other>
+<question_number>1</question_number>
+<answer>Perfect Addiction</answer>
+<other>Processing question 2: The article states for "Heart of the Hunter" that Klein's attempt to reconnect with Zuko puts Malime (Zuko's girlfriend) in the crosshairs and leads to her being taken hostage. This matches the attempt to reconnect endangering loved ones.</other>
+<question_number>2</question_number>
+<answer>Heart of the Hunter</answer>
+<other>Processing question 3: The article states "House of Ga'a" is set in the 18th century Oyo Empire, features back-stabbing and political intrigue, and includes supernatural evils/witchcraft. This matches all elements.</other>
+<question_number>3</question_number>
+<answer>House of Ga'a</answer>
+<other>Processing question 4: The article states for "Non Negotiable" that Vincente is disgraced because Alan didn't back him after a hostage situation went awry, leading Vincente to kidnap the president and Victoria (Alan's wife). This matches the past decision causing the hostage situation.</other>
+<question_number>4</question_number>
+<answer>Non Negotiable</answer>
+<other>Processing question 5: The article states for "Non Negotiable" that Alan is considered the best crisis negotiator but can't mend his marriage. This directly matches crisis management expertise failing in personal relationships.</other>
+<question_number>5</question_number>
+<answer>Non Negotiable</answer>
+<other>Processing question 6: The article states for "Heart of the Hunter" that Khoza is an exceptional fighter and the cinematography captures "glimmers of hurt, anger and love" on his face during combat. This matches physical prowess and non-verbal emotional conveyance.</other>
+<question_number>6</question_number>
+<answer>Heart of the Hunter</answer>
+<other>Processing question 7: The article describes relationship breakdowns (e.g., Sienna/Jax in "Perfect Addiction" due to infidelity, Alan/Victoria in "Non Negotiable"), but no instance where professional skills directly cause the breakdown. In "Perfect Addiction", the breakup is due to infidelity, not Sienna's training skills. In "Non Negotiable", the marriage issue isn't linked to Alan's negotiation skills causing the breakdown. No match found.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Processing question 8: The article states for "House of Ga'a" that Ga'a murders the Alaafin, triggering supernatural evils, while he is a prime minister involved in political power struggles. This matches navigating both supernatural and political threats to maintain power.</other>
+<question_number>8</question_number>
+<answer>House of Ga'a</answer>
+<other>Processing question 9: The article states for "Non Negotiable" that Alan's past decision not to support Vincente (professional) leads Vincente to kidnap Victoria (personal). This matches past actions haunting both professional and personal life.</other>
+<question_number>9</question_number>
+<answer>Non Negotiable</answer>
+<other>Processing question 10: The article states for "Heart of the Hunter" that Klein wants to end the corrupt president's reign (pursuing justice), and his attempt to reconnect with Zuko endangers Malime (loved one). This matches a character's decision to pursue justice leading to unintended consequences for loved ones.</other>
+<question_number>10</question_number>
+<answer>Heart of the Hunter</answer>

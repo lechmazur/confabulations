@@ -1,0 +1,42 @@
+merged_drug-prices-medicare.txt
+<other>Let me analyze each question based on the article.</other>
+
+<question_number>1</question_number>
+<other>The article states the $2,000 annual cap goes into effect "next year" (2025) and the negotiated prices take effect in 2026.</other>
+<answer>The $2,000 annual cap takes effect one year before the negotiated prices</answer>
+
+<question_number>2</question_number>
+<other>The article mentions Biden calling for Medicare to negotiate 500 drugs over the next decade, and Project 2025 argues the program should be repealed.</other>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<other>The article states Harris cast the tiebreaking vote for the legislation and that "take on Big Pharma" would be among her first priorities as president.</other>
+<answer>Harris cast the tiebreaking vote for the legislation that delivered the drug price negotiation program and efforts to "take on Big Pharma" would be among her first priorities as president</answer>
+
+<question_number>4</question_number>
+<other>The article doesn't provide information about individual drug savings or spending amounts to calculate percentage reductions.</other>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<other>The article states Medicare savings would be 22 percent. Judy Aiken's current first refill cost is $2,200. If reduced by 22%, it would be $2,200 - (0.22 × $2,200) = $1,716. But the article states it would cost $730 in 2026.</other>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<other>The article doesn't provide pre-negotiation Medicare spending for individual drugs.</other>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<other>Looking at negotiated prices: Januvia at $113 would require about 18 refills to reach $2,000.</other>
+<answer>Januvia</answer>
+
+<question_number>8</question_number>
+<other>Three most expensive: Imbruvica ($9,319), Stelara ($4,695), Enbrel ($2,355) = $16,369. Total of all 10: $17,474. Percentage: 93.7%</other>
+<answer>93.7%</answer>
+
+<question_number>9</question_number>
+<other>Jardiance treats diabetes, heart failure and chronic kidney disease. Farxiga also treats these same conditions at $178. The difference is $197 - $178 = $19.</other>
+<answer>$19</answer>
+
+<question_number>10</question_number>
+<other>Bristol Myers Squibb (Eliquis maker) is specifically mentioned as criticizing the prices. The article mentions lawsuits from drugmakers but doesn't specify which companies filed them.</other>
+<answer>N/A</answer>

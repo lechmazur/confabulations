@@ -1,0 +1,31 @@
+merged_driver-data-sold-for-pennies.txt
+<other>Question 1 asks about how the financial arrangement reflects on the nature of consumer consent. The article states Verisk paid Hyundai for "potential future earnings from customers who affirmatively opted into the insurance feature" and that Hyundai claimed sharing only occurred with consent. However, the article does not provide any analysis or description of how the payment structure reflects on the nature of consent itself; it only states the payment was tied to opt-in. The question requires interpretation beyond the factual reporting in the article, so the answer is N/A.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Question 2 asks for the name of a bankrupt data broker that received precise location data multiple times per second. The article states: "Previously, G.M. shared cars' locations with a British data broker, Wejo, in which G.M. had an investment. Wejo filed for bankruptcy last year." It also states: "Matt Bialuk, who was an executive at Wejo, said that the company had gotten the precise location of about 10 million G.M. cars up to every one to three seconds". This directly answers the question.</other>
+<question_number>2</question_number>
+<answer>Wejo</answer>
+<other>Question 3 asks how the frequency of G.M.'s previous location data sharing compares to typical traffic light intervals. The article states the data was collected "up to every one to three seconds" but provides no information about the typical interval between traffic light changes. No comparison can be made from the article alone, so the answer is N/A.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Question 4 asks about a connection between G.M.'s past and present data sharing partners in terms of corporate structure. The article names Wejo as the past partner (and mentions G.M. had an investment in it) but states the current partner is "a company that Mr. Wyden's office said G.M. had declined to identify." No information is given about any corporate structure connection between the unnamed current partner and Wejo, so the answer is N/A.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Question 5 asks how the duration of Honda's data sharing agreement compares to the average new car loan term. The article states Honda's agreement was "over four years" but provides no information about the average new car loan term. No comparison can be made from the article, so the answer is N/A.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Question 6 asks how the timeframe of Hyundai's data sharing agreement compares to the typical new vehicle warranty period. The article states Hyundai's agreement was "over six years" but provides no information about the typical new vehicle warranty period. No comparison can be made from the article, so the answer is N/A.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Question 7 asks what unique characteristic of G.M.'s current data sharing practices sets it apart from its previous arrangement with Wejo. The article states G.M. previously shared with Wejo (which got anonymized location data) and now shares "anonymized location information" with an unnamed partner. Both arrangements involve sharing anonymized location data. The only difference mentioned is that the current partner is unnamed, but the question asks about the "practices" themselves, not partner identification. The article does not state any difference in the data sharing practices (e.g., type of data, frequency, consent process), so the answer is N/A.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Question 8 asks which company's data sharing practices were described as "deceptive" by a privacy-advocating senator despite requiring opt-in. The article states: "Mr. Wyden called the enrollment process 'deceptive.'" for G.M., and clarifies "G.M. and Honda customers had to opt in to be included." Wyden is identified as a privacy-advocating senator. This directly answers the question.</other>
+<question_number>8</question_number>
+<answer>G.M.</answer>
+<other>Question 9 asks how the amount Hyundai earned per car compares to the cost of a typical oil change. The article states Hyundai earned "61 cents per car" but provides no information about the cost of a typical oil change. No comparison can be made from the article, so the answer is N/A.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Question 10 asks what unexpected insight about windshield wipers a former Wejo executive revealed. The article quotes Matt Bialuk, a former Wejo executive: "Windshield wipers tell a huge story in vehicles." This is the direct insight stated in the text.</other>
+<question_number>10</question_number>
+<answer>Windshield wipers tell a huge story in vehicles</answer>

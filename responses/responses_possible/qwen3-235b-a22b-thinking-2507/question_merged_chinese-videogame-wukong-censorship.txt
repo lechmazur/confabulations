@@ -1,0 +1,31 @@
+merged_chinese-videogame-wukong-censorship.txt
+<other>Question 1 asks about how the company's attempt reflects broader societal tensions regarding gender issues. The article mentions backlash against Game Science for past misogynistic comments and the restriction on "feminist propaganda," but does not discuss broader societal tensions in China regarding gender issues. It only states facts about the restriction and the backlash, without analysis of societal tensions. Therefore, the answer is N/A as the article does not provide this information.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Question 2 asks how the restriction on "feminist propaganda" highlights tension between cultural export ambitions and domestic social policies. The article states the restriction exists and mentions China's push for soft power/cultural exports, but does not analyze or describe any tension between these elements. It only reports the restriction and the cultural context separately. Therefore, the answer is N/A as the article does not provide this analysis.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Question 3 asks what streamers' reactions reveal about challenges of balancing creative freedom with compliance. The article quotes Reinier calling the document "shameful" and stating it requires self-censorship, but does not state what this reveals about broader challenges in the global gaming industry. It only reports his specific reaction, not any broader industry implications. Therefore, the answer is N/A as the article does not provide this information.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Question 4 asks which entity illustrates intersection of government influence and commercial interests. The article states: "the game's publisher is Zhejiang Publishing & Media, a company majority owned by the Zhejiang provincial government." It also mentions Hero Games has "financial ties to several state-owned enterprises." Both entities show direct government ties, but Zhejiang Publishing & Media is explicitly stated as majority owned by the provincial government, making it the clearest answer.</other>
+<question_number>4</question_number>
+<answer>Zhejiang Publishing & Media</answer>
+<other>Question 5 asks how the Covid-19 discussion prohibition reflects the government's approach to controlling public discourse, considering historical context. The article states: "Beijing has sought to rewrite its handling of the pandemic" and "China's censors erased mentions of many of the hardships." It directly links the prohibition to this approach, so the answer can be inferred from the text.</other>
+<question_number>5</question_number>
+<answer>Beijing has sought to rewrite its handling of the pandemic and censors erased mentions of hardships</answer>
+<other>Question 6 asks how the restriction on video game industry policies highlights tension between global ambitions and domestic regulatory challenges. The article mentions government restrictions on the gaming industry (e.g., time limits for youth) and the game's global release, but does not connect the streamer restriction on discussing industry policies to any tension between global ambitions and domestic regulations. It only lists the restriction as a forbidden topic without analysis. Therefore, the answer is N/A.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Question 7 asks which entity has direct ties to a provincial government. The article explicitly states: "the game's publisher is Zhejiang Publishing & Media, a company majority owned by the Zhejiang provincial government." This is a direct factual statement.</other>
+<question_number>7</question_number>
+<answer>Zhejiang Publishing & Media</answer>
+<other>Question 8 asks how the protagonist relates to both the 16th-century novel and concerns about feminist propaganda. The article states the protagonist is "inspired by Sun Wukong" from "Journey to the West," and mentions a Weibo hashtag "Black Myth: Wukong insults women" with 9 million views, but does not connect the protagonist itself to feminist propaganda concerns. It attributes the backlash to "lewd and sexist comments" by founders and old job postings, not the protagonist. Therefore, no direct link is provided, so answer is N/A.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>Question 9 asks about a link between marketing strategy and Covid-19 narrative control. The article mentions the restriction on discussing Covid-19 in the streamer guidelines sent by Hero Games (the marketing entity), but does not state this is part of the marketing strategy or describe any link beyond the restriction itself. It only reports the restriction as a guideline. Therefore, the answer is N/A as no specific link to marketing strategy is provided.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Question 10 asks which seemingly unrelated topics are grouped together in the streamer guidelines. The article lists the forbidden topics under "Don'ts" as: "politics, 'feminist propaganda,' Covid-19, China's video game industry policies and other content that 'instigates negative discourse'." These topics (politics, feminist propaganda, Covid-19, video game policies) are presented together as unrelated subjects to avoid.</other>
+<question_number>10</question_number>
+<answer>politics, feminist propaganda, Covid-19, China's video game industry policies</answer>

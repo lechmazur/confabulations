@@ -1,0 +1,31 @@
+merged_afternoon-fatigue.txt
+<other>Processing question 1: The article states Sai Krupa Das is a senior scientist at Tufts University specializing in energy metabolism. She discusses how sugary foods and refined carbohydrates cause blood sugar spikes and insulin secretion leading to sluggishness, specifically recommending replacing doughnuts and sugary coffee with eggs or whole-grain oatmeal. White bread toast with jam falls under refined carbohydrates/sugary foods she warns about.</other>
+<question_number>1</question_number>
+<answer>Sai Krupa Das</answer>
+<other>Processing question 2: Ravi Allada is identified as executive director of the Michigan Neuroscience Institute at the University of Michigan. He explains the afternoon slump as sleep pressure and circadian rhythms "fighting each other," describing it as competing physiological forces rather than nutritional factors.</other>
+<question_number>2</question_number>
+<answer>Ravi Allada</answer>
+<other>Processing question 3: The article states sleep pressure is lowest when waking up (fully charged battery) and people "tend to feel quite awake in the late morning" due to circadian rhythms. The combined effect (lowest drowsiness) would be when both factors favor alertness, which occurs in the late morning before the afternoon dip.</other>
+<question_number>3</question_number>
+<answer>late morning</answer>
+<other>Processing question 4: Stephen Justin Thomas states "everybody has this dip" and clarifies it's "normal physiology," directly contradicting the idea that afternoon sleepiness requires medical attention. He is a neurologist mentioned in the text.</other>
+<question_number>4</question_number>
+<answer>Stephen Justin Thomas</answer>
+<other>Processing question 5: Ron Goetzel from Johns Hopkins recommends doing "something that requires less focus" like "sorting through your email inbox or filling out a routine spreadsheet" when feeling tired in the afternoon when neurotransmitters become less active.</other>
+<question_number>5</question_number>
+<answer>tasks requiring less focus</answer>
+<other>Processing question 6: Stephen Justin Thomas is president of the Society of Behavioral Sleep Medicine. He mentions places embracing "natural inclination to rest in the afternoon by temporarily closing businesses," supporting siesta culture.</other>
+<question_number>6</question_number>
+<answer>Stephen Justin Thomas</answer>
+<other>Processing question 7: Sai Krupa Das recommends complex carbs like whole-grain oatmeal because they "take longer to digest, and are less likely to cause an insulin spike," making them least likely to contribute to the afternoon slump compared to sugary/refined options.</other>
+<question_number>7</question_number>
+<answer>whole-grain oatmeal</answer>
+<other>Processing question 8: Alon Avidan (UCLA neurology professor) states people tend to get a "second wind" in the early evening after the afternoon slump.</other>
+<question_number>8</question_number>
+<answer>early evening</answer>
+<other>Processing question 9: David Earnest from Texas A&M University states the dip "may feel worse... if you're sleep-deprived or have an irregular bedtime schedule," explaining worse fatigue for night shift workers with irregular sleep.</other>
+<question_number>9</question_number>
+<answer>David Earnest</answer>
+<other>Processing question 10: Stephen Justin Thomas states to keep naps "to 20 minutes or less" to avoid waking up groggy or struggling to sleep later.</other>
+<question_number>10</question_number>
+<answer>20 minutes</answer>

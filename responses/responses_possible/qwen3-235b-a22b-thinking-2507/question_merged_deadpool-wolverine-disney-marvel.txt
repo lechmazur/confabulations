@@ -1,0 +1,31 @@
+merged_deadpool-wolverine-disney-marvel.txt
+<other>Processing question 1: The article states "Only Chris Evans's appearance -- not as Captain America but as Johnny Storm from the generally ignored 'Fantastic Four' (2005) -- hints that the movie is in on the joke." This directly answers which character's appearance suggests a self-aware nod.</other>
+<question_number>1</question_number>
+<answer>Chris Evans as Johnny Storm</answer>
+<other>Processing question 2: The article says Deadpool's character development has "sweetened with dollops of sentimentality that feel more Disney than Deadpool," contrasting with earlier where he was "struggling to figure out what his version of heroism looked like, a vision that was often at odds with moralistic, PG-13 heroism." This shows the contradiction in genre subversion approach.</other>
+<question_number>2</question_number>
+<answer>sweetened with dollops of sentimentality that feel more Disney than Deadpool</answer>
+<other>Processing question 3: The article describes the new film using "a blatant deus ex machina" (time-travel device) that "casually undercuts its own emotional arc," which mirrors the franchise's previous mockery of "cheap plot devices." This directly matches the criticism.</other>
+<question_number>3</question_number>
+<answer>use of a blatant deus ex machina</answer>
+<other>Processing question 4: The article states the jokes now "lean heavily into the rules and standards of the superhero genre as orchestrated by Marvel" and that Deadpool is "just another product on the Marvel assembly line" after Disney's acquisition, compromising the satirical edge.</other>
+<question_number>4</question_number>
+<answer>jokes lean heavily into Marvel's rules and standards making Deadpool just another Marvel product</answer>
+<other>Processing question 5: The article mentions "Dolly Parton's '9 to 5' plays in the background" during Deadpool 2's violent family film parody, contrasting with the new film's lack of such genre subversion and tonal shift.</other>
+<question_number>5</question_number>
+<answer>Dolly Parton</answer>
+<other>Processing question 6: The article notes earlier Deadpool films had a "recurring joke was that the studio couldn't afford (or didn't have the rights to) characters beyond two or three X-Men," but the new film has "many more superhero cameos," reversing that joke.</other>
+<question_number>6</question_number>
+<answer>many more superhero cameos replacing the joke about studio limitations</answer>
+<other>Processing question 7: The article identifies the time-travel device as "a blatant deus ex machina" that the film "casually undercuts its own emotional arc" with, which Deadpool previously mocked as "cheap plot devices."</other>
+<question_number>7</question_number>
+<answer>time-travel device as a deus ex machina</answer>
+<other>Processing question 8: The article explicitly calls the premise "a business merger cosplaying as entertainment" regarding merging Fox-owned characters into the MCU, representing business interests.</other>
+<question_number>8</question_number>
+<answer>merging Fox-owned characters into the MCU as a business merger</answer>
+<other>Processing question 9: The article states the film "feels less like Deadpool" and is "more of an extended episode of the Disney+ series 'Loki,' with spicy Deadpool flavor," showing integration into MCU.</other>
+<question_number>9</question_number>
+<answer>feels like an extended episode of 'Loki' rather than standalone Deadpool</answer>
+<other>Processing question 10: The article describes Wolverine's return "from the dead... thanks to the multiverse" as using typical Marvel plot devices like the multiverse, exemplifying the critique.</other>
+<question_number>10</question_number>
+<answer>Wolverine</answer>

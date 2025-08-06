@@ -1,0 +1,31 @@
+merged_apple-epic-spotify-app-stores.txt
+<other>Reviewing article for question 1: The article states Apple introduced a 5% "acquisition fee" and 20% "store fee" for apps providing links to external purchases in Europe, totaling up to 25% commission. Spotify said Apple still prevented it from including purchase links without fees despite the European Commission's antitrust ruling and fine. This action contradicts Apple's claim of complying with the Digital Markets Act.</other>
+<question_number>1</question_number>
+<answer>Introduced 5% "acquisition fee" and 20% "store fee" for apps providing links to external purchases, totaling up to 25% commission</answer>
+<other>Reviewing article for question 2: The article describes Apple creating a "scare screen" with a 15-step download process for Epic's third-party store, which Tim Sweeney called intentional and showing "malicious intent," while Apple claims compliance with the law. This reveals a contradiction between regulatory compliance (allowing third-party stores) and user experience (making download difficult).</other>
+<question_number>2</question_number>
+<answer>Created "scare screen" with 15-step download process for third-party stores while claiming compliance</answer>
+<other>Reviewing article for question 3: The article quotes Gene Burrus stating "They're determined not to lose a dime of revenue" regarding Apple's new fees for linking out purchases in Europe. This directly states the underlying reason.</other>
+<question_number>3</question_number>
+<answer>Determined not to lose revenue</answer>
+<other>Reviewing article for question 4: The article states Apple "approved, terminated and then restored an account for Epic Games Sweden" to gain software tools, illustrating Apple's broader strategy of "testing the boundaries of how far it must go to satisfy the demands of government authorities."</other>
+<question_number>4</question_number>
+<answer>Approved, terminated, and restored Epic's account to test regulatory boundaries</answer>
+<other>Reviewing article for question 5: The article states Apple allowed NFC chip access "where a Justice Department lawsuit accuses Apple of creating a smartphone monopoly," indicating this decision is a concession in response to that specific legal challenge.</other>
+<question_number>5</question_number>
+<answer>Concession in response to Justice Department lawsuit accusing Apple of smartphone monopoly</answer>
+<other>Reviewing article for question 6: The article states Spotify could display summer pricing after the European Commission's ruling but "Apple still prevented it from including a link to make purchases in the app without being charged a fee," highlighting partial compliance.</other>
+<question_number>6</question_number>
+<answer>Allowed promotional pricing display but still prevented links for fee-free purchases</answer>
+<other>Reviewing article for question 7: The sequence of Apple approving, terminating, and restoring Epic's account, plus creating a "scare screen" and cumbersome download process, suggests Apple's intention to make third-party store adoption difficult despite regulatory requirements.</other>
+<question_number>7</question_number>
+<answer>Making third-party store adoption difficult through approval delays and cumbersome processes</answer>
+<other>Reviewing article for question 8: Apple's spokesman stated they are "trying to protect their privacy and security" while introducing fees that maintain near-original commission rates (up to 25%), showing conflict between business revenue interests and regulatory demands for openness.</other>
+<question_number>8</question_number>
+<answer>Introducing fees maintaining near-original commission rates while claiming privacy/security protection</answer>
+<other>Reviewing article for question 9: The article states the new fees (5% + 20%) "would equal up to a 25 percent commission," and Gene Burrus said "They're determined not to lose a dime of revenue," revealing revenue protection as the priority over full regulatory compliance.</other>
+<question_number>9</question_number>
+<answer>Maintaining near-original commission rates to protect revenue</answer>
+<other>Reviewing article for question 10: Apple is rolling out NFC access in "United States, Australia, Brazil, Canada, Japan, New Zealand and Britain," showing a strategy of making targeted concessions in multiple countries facing similar regulatory pressures rather than global changes.</other>
+<question_number>10</question_number>
+<answer>Making targeted concessions in specific countries facing regulatory pressures</answer>

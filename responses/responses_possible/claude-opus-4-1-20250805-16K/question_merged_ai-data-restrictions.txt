@@ -1,0 +1,33 @@
+merged_ai-data-restrictions.txt
+<question_number>1</question_number>
+<answer>They can't afford to license data directly from publishers</answer>
+
+<question_number>2</question_number>
+<answer>Major tech companies already have all the data and changing licenses doesn't retroactively revoke permission, so the primary impact is on later-arriving actors like smaller start-ups or researchers</answer>
+
+<question_number>3</question_number>
+<answer>Today's A.I. systems may not be capable of generating enough high-quality synthetic data to replace the human-created data they're losing</answer>
+
+<question_number>4</question_number>
+<answer>The web will start shutting its doors</answer>
+
+<question_number>5</question_number>
+<answer>Major tech companies already have all of the data while changing the license doesn't retroactively revoke that permission, and the primary impact is on later-arriving actors who are typically smaller start-ups or researchers</answer>
+
+<question_number>6</question_number>
+<answer>Major tech companies who already collected data can continue using it while new actors cannot access it</answer>
+
+<question_number>7</question_number>
+<answer>Data restrictions primarily affect smaller start-ups and researchers rather than major tech companies who already have the data</answer>
+
+<question_number>8</question_number>
+<other>The article mentions A.I. companies treated the internet as an all-you-can-eat data buffet without giving data owners much value in return, leading to the web shutting its doors</other>
+<answer>A.I. companies have taken from the web without giving data owners much of value in return, eventually causing the web to start shutting its doors</answer>
+
+<question_number>9</question_number>
+<other>The article states 45% of C4 data is restricted by terms of service and 5% of all data by Robots Exclusion Protocol, but doesn't clarify if these overlap or how they combine</other>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<other>The article states 25% of high-quality data has been restricted, meaning 75% remains unrestricted</other>
+<answer>75%</answer>

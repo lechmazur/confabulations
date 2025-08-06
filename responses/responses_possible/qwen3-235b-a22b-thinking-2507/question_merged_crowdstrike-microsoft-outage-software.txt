@@ -1,0 +1,31 @@
+merged_crowdstrike-microsoft-outage-software.txt
+<other>Processing question 1: The article states "The backdrop was the color of a perfect sky, also known as the Blue Screen of Death." This directly connects the blue color to the Blue Screen of Death, indicating a critical system failure.</other>
+<question_number>1</question_number>
+<answer>the color represents the Blue Screen of Death</answer>
+<other>Processing question 2: The article explicitly states "it was a routine upgrade that somehow went off the rails" and "The trouble began with a small Windows software update CrowdStrike sent to its customers."</other>
+<question_number>2</question_number>
+<answer>a routine software update from CrowdStrike</answer>
+<other>Processing question 3: The article mentions "People complained that Mr. Kurtz was slow to offer an apology. (Hours later, he said...)" but does not specify the exact number of hours, so it cannot be answered directly.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Processing question 4: The article attributes the quote about test machines to "Matt Mitchell, a hacker and founder of CryptoHarlem."</other>
+<question_number>4</question_number>
+<answer>Matt Mitchell</answer>
+<other>Processing question 5: Mikko Hypponen is quoted describing the manual reboot process: "The workaround works if you can walk to every laptop, type on the keyboard, and reboot it manually," which corresponds to turning off and on again.</other>
+<question_number>5</question_number>
+<answer>Mikko Hypponen</answer>
+<other>Processing question 6: The article states CrowdStrike had "a stock market valuation that was heading to $100 billion, at least before the outage."</other>
+<question_number>6</question_number>
+<answer>$100 billion</answer>
+<other>Processing question 7: The article states CrowdStrike "has 8,000 employees" but attributes this fact to the general description, not to Brody Nisbet's X statement which only discussed a workaround without mentioning employee count.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Processing question 8: Matt Mitchell is quoted saying "we are creating a situation where there is a single point of failure" regarding CrowdStrike's failure.</other>
+<question_number>8</question_number>
+<answer>Matt Mitchell</answer>
+<other>Processing question 9: Mikko Hypponen states CrowdStrike customers "maintain their fleet with centralized controls."</other>
+<question_number>9</question_number>
+<answer>with centralized controls</answer>
+<other>Processing question 10: The article mentions Brody Nisbet "suggested a possible workaround" on X but does not specify what it was, only that he later deleted the message. No details of the workaround are provided in his statement.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>

@@ -1,0 +1,31 @@
+merged_boho-knotless-braids-nyc-cost.txt
+<other>Processing question 1: The article states "Ms. Charles said she might have to reassess her price point if electricity and other costs keep rising." Electricity costs are explicitly mentioned as a factor.</other>
+<question_number>1</question_number>
+<answer>electricity costs</answer>
+<other>Processing question 2: Synthetic hair costs $6/pack. Human hair starts at $50/pack. Minimum additional cost is $50 - $6 = $44.</other>
+<question_number>2</question_number>
+<answer>$44</answer>
+<other>Processing question 3: The article states "the price for braids in general has risen as women offering the service do the work full-time instead of as a side gig" and contrasts this with "Previous generations of braiders mostly came from African countries... It was a way for them to make money fast." Xia Charles runs a full-time professional salon.</other>
+<question_number>3</question_number>
+<answer>women offering the service do the work full-time instead of as a side gig</answer>
+<other>Processing question 4: The article states "She decided to use velvet and wood in the salon to nod to and celebrate the different textures of Black hair."</other>
+<question_number>4</question_number>
+<answer>velvet and wood nod to and celebrate the different textures of Black hair</answer>
+<other>Processing question 5: Braided New York charges $450 for boho knotless braids. The article states knotless braids in NYC "can vary from $200 to over $650" depending on factors like braid size/length and hair type.</other>
+<question_number>5</question_number>
+<answer>$450 compared to $200 to over $650 range</answer>
+<other>Processing question 6: The article states Xia Charles noticed clients brought laptops and wanted "a quiet, comfortable and tidy space," which "seeded her goals for her own place" including a calm environment and on-time appointments.</other>
+<question_number>6</question_number>
+<answer>shaped her salon's design and service standards</answer>
+<other>Processing question 7: The article states "Ms. Charles said she might have to reassess her price point if electricity and other costs keep rising" and "I feel like it's only fair to increase when everything else is going up."</other>
+<question_number>7</question_number>
+<answer>price increase</answer>
+<other>Processing question 8: The article states Xia Charles had "cluttered and dirty" salon experiences that made her "dread going," so she created "an atmosphere of ease" with luxury elements like velvet/wood decor, snacks/alcohol, and hand-shaped holders.</other>
+<question_number>8</question_number>
+<answer>replacing cluttered/dirty environments with luxury elements like velvet/wood decor and snacks</answer>
+<other>Processing question 9: Comb price difference is $2 - $1 = $1 discount per service. Cleaning cost is $500/month. $500 / $1 = 500 services.</other>
+<question_number>9</question_number>
+<answer>500</answer>
+<other>Processing question 10: Gel price increase since 2018 is $25 - $16 = $9 per jar. One dryer costs $600. At one jar/month, annual increase is $9 * 12 = $108. $600 / $108 = 5.555... years.</other>
+<question_number>10</question_number>
+<answer>5.56</answer>

@@ -1,0 +1,31 @@
+merged_chinese-swimming-doping-paris.txt
+<other>Processing question 1: The article states the I.O.C. demanded a late change to the Salt Lake City bid agreement "giving them leverage to pull the event if the United States' criticism of WADA continues." This directly answers how the criticism impacts the future Games.</other>
+<question_number>1</question_number>
+<answer>IOC can pull the event if criticism continues</answer>
+<other>Processing question 2: The article mentions the F.B.I. and Justice Department opened a criminal investigation but does not specify any significance for international sports governance. No implications or significance are stated.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Processing question 3: The article reports facts about criticism and investigations but does not explicitly connect WADA criticism to broader geopolitical tensions. Panja's bio mentions geopolitics, but no link is drawn in the context of the criticism.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Processing question 4: The article states U.S. officials expressed openness to withholding funding from WADA but does not imply any consequences of this action. No outcomes are suggested.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Processing question 5: The article describes the I.O.C. demanding a bid change for Salt Lake City but does not discuss or imply the I.O.C.'s role in managing international criticism of WADA beyond this specific action.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Processing question 6: The article notes the I.O.C. demand happened "days after" swimming races begin but does not state or imply why the timing is significant. No significance is provided.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Processing question 7: The article mentions the F.B.I. investigation but does not state or imply any impact on future Olympic Games. No consequences for future Games are discussed.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Processing question 8: The article shows Chinese swimmers were tested more (21 times) than others (6 for U.S.), yet athletes like Stubblety-Cook consider protests and Dressel expresses distrust, illustrating complexity through persistent distrust despite extra measures.</other>
+<question_number>8</question_number>
+<answer>athletes distrust system despite extra testing</answer>
+<other>Processing question 9: Ledecky states "we want to see some change for the future," directly suggesting potential policy changes as a result of current controversies.</other>
+<question_number>9</question_number>
+<answer>athletes want changes</answer>
+<other>Processing question 10: U.S. swimmers' average testing frequency is six times (numerical value 6). Dressel expressed skepticism with "No" (1 word). No swimmer is quoted using exactly 6 words for skepticism. Ledecky's and Stubblety-Cook's quotes exceed 6 words. No match exists.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>

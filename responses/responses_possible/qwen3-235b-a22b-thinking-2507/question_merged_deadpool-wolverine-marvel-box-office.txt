@@ -1,0 +1,31 @@
+merged_deadpool-wolverine-marvel-box-office.txt
+<other>Processing question 1: The article states Marvel's weakness contributed to proxy battles involving activist investors, but does not discuss hypothetical impacts of "Deadpool & Wolverine" failing. No counterfactual analysis is provided.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Processing question 2: The article describes the plot as "convoluted" for casual viewers but notes strong audience reception (A CinemaScore, 97% positive fan reviews). It does not compare this complexity's effect on box office performance to previous Marvel releases.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Processing question 3: The article states "Deadpool & Wolverine" had a global start "on par with Marvel's 'Doctor Strange in the Multiverse of Madness' (2022)". However, it does not mention any 2023 sequel disappointment for Doctor Strange; the disappointing 2023 releases were "The Marvels" and "Ant-Man and the Wasp: Quantumania", which are unrelated to Doctor Strange.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Processing question 4: The article names Ike Perlmutter as "the former chairman of Marvel Entertainment" involved in Disney's proxy battles, indicating his pre-Disney corporate role at Marvel.</other>
+<question_number>4</question_number>
+<answer>Ike Perlmutter</answer>
+<other>Processing question 5: The article describes the "Void" as a "metaphysical graveyard" and quotes a critic saying "Good luck if you're coming in with no prior knowledge" regarding accessibility for new viewers, sharing the name "Void".</other>
+<question_number>5</question_number>
+<answer>Void</answer>
+<other>Processing question 6: The article states stars used expletives "to telegraph that this is not a movie for children" during publicity, while Disney's CEO posted a restrained comment acknowledging the R-rated nature; both sets of comments relate to indicating the film's unsuitability for children.</other>
+<question_number>6</question_number>
+<answer>indicating the film is not for children</answer>
+<other>Processing question 7: Budget is $320 million, global opening weekend earnings are $438 million. Ratio of budget to earnings is 320:438, simplified by dividing both by 2 to 160:219.</other>
+<question_number>7</question_number>
+<answer>160:219</answer>
+<other>Processing question 8: Overseas earnings are $233 million, global total is $438 million. Percentage = (233 / 438) * 100 = 53.196...%, rounded to 53.2% based on given figures.</other>
+<question_number>8</question_number>
+<answer>53.2%</answer>
+<other>Processing question 9: The article states "Deadpool & Wolverine" received an "A grade" in CinemaScore, but does not provide CinemaScore grades for "The Marvels" or "Ant-Man and the Wasp: Quantumania", making the difference impossible to calculate.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Processing question 10: "Deadpool & Wolverine" opened to $205 million in North America. The inflation-adjusted record was "Deadpool" (2016) at $175 million. Difference = 205 - 175 = $30 million.</other>
+<question_number>10</question_number>
+<answer>$30 million</answer>

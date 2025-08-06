@@ -1,0 +1,31 @@
+merged_ai-chatbots-chatgpt-math.txt
+<other>For question 1, the article states: "The A.I. chatbots have difficulty with math because they were never designed to do it," and explains they are "fine-tuned for determining probabilities, not doing rules-based calculations." This is the primary reason given.</other>
+<question_number>1</question_number>
+<answer>they were never designed to do math / fine-tuned for determining probabilities, not rules-based calculations</answer>
+<other>For question 2, the article notes chatbots excel when they've consumed vast math data (textbooks, tests) making them recognize similar problems, but their probabilistic nature still causes errors, creating a paradox where more data doesn't guarantee accuracy.</other>
+<question_number>2</question_number>
+<answer>they excel with vast training data but remain probabilistic and error-prone in math</answer>
+<other>For question 3, the article contrasts traditional computing (programmed with step-by-step rules) with AI chatbots (predicting likely word sequences). Khan Academy's workaround—sending math problems to a calculator—illustrates this difference in educational use.</other>
+<question_number>3</question_number>
+<answer>traditional systems follow step-by-step rules; chatbots predict likely word sequences, leading to workarounds like using calculators</answer>
+<other>For question 4, the article states computing was historically "math on steroids," but AI represents a break where language flexibility replaces numerical precision as the focus.</other>
+<question_number>4</question_number>
+<answer>shift from computing as "math on steroids" to AI prioritizing language flexibility over numerical precision</answer>
+<other>For question 5, the article explains AI chatbots prioritize likelihood over accuracy, making them unsuitable for math's rigid requirements, thus challenging computing's traditional math-centric definition.</other>
+<question_number>5</question_number>
+<answer>AI prioritizes likelihood over accuracy, unlike traditional computing's focus on precise calculation</answer>
+<other>For question 6, the article describes teachers using AI's math errors for group discussions: students compare answers, identify errors, and develop critical thinking.</other>
+<question_number>6</question_number>
+<answer>using errors for group discussions to compare solutions and sharpen critical thinking</answer>
+<other>For question 7, the article calls AI "more liberal arts major than numbers whiz," showing a shift from computing's historical math strength to language proficiency as AI's perceived strength.</other>
+<question_number>7</question_number>
+<answer>AI is "more liberal arts major than numbers whiz," reversing computing's historical math focus</answer>
+<other>For question 8, the article states AI's math struggles fuel debate: LLM proponents see it as the path to AGI, while skeptics (like LeCun) argue it lacks logic and needs "world modeling."</other>
+<question_number>8</question_number>
+<answer>it fuels debate between LLM proponents and skeptics who demand broader approaches like "world modeling"</answer>
+<other>For question 9, the article explicitly states AI is "more liberal arts major than numbers whiz," challenging the STEM/liberal arts divide by showing AI excels in language (liberal arts) but not math (STEM).</other>
+<question_number>9</question_number>
+<answer>AI is "more liberal arts major than numbers whiz," blurring the STEM/liberal arts distinction</answer>
+<other>For question 10, Ferrucci notes AI is impressive for language but lacks "painful precision" required for critical systems like banking or air traffic control.</other>
+<question_number>10</question_number>
+<answer>AI excels in language but lacks "painful precision" needed for critical applications</answer>

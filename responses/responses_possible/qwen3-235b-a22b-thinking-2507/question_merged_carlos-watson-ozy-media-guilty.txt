@@ -1,0 +1,31 @@
+merged_carlos-watson-ozy-media-guilty.txt
+<other>For question 1, the article states prosecutors presented evidence of both revenue inflation and misleading claims about commitments from Oprah Winfrey and Live Nation as separate fraudulent acts, but does not specify any connection between them. The text lists them as distinct examples without linking them causally or contextually.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>For question 2, the article mentions misleading claims about earnings and the impersonated phone call as examples of deception revealed by witnesses, but does not describe any relationship or connection between these two specific incidents. They are presented as separate fraudulent activities.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>For question 3, the article states Ozy secured commitments from prominent investors while making misrepresentations about finances, but does not specify any direct connection between particular misrepresentations and specific high-profile investors. It only notes investors existed during the fraud period.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>For question 4, the article directly contrasts Watson's testimony that he presented "types of service-based income typical for a 'scrappy young company'" with the prosecution's statement that "Watson knew the company was failing, but he was determined to turn Ozy and himself into the next big thing, and he wasn't going to let the truth stand in his way."</other>
+<question_number>4</question_number>
+<answer>Defense portrayed Ozy as a "scrappy young company" with typical early revenue estimates; prosecution depicted Watson as knowingly hiding failure to become "the next big thing"</answer>
+<other>For question 5, the article states prosecutors presented email evidence showing Watson claimed $12 million revenue while tax returns showed under $7 million, and the jury found him guilty after this evidence was presented during the trial. The guilty verdict followed the presentation of this discrepancy evidence.</other>
+<question_number>5</question_number>
+<answer>Prosecutors presented evidence of email discrepancies (e.g., claiming $12M revenue vs. tax return under $7M) which contributed to the guilty verdict</answer>
+<other>For question 6, the article explicitly states Sundar Pichai testified he "had never discussed a possible $600 million takeover of Ozy" after prosecutors said Watson told a prospective investor Pichai made that offer.</other>
+<question_number>6</question_number>
+<answer>Sundar Pichai</answer>
+<other>For question 7, the article states prosecutors cited Watson's text messages during the call (e.g., "use the right pronouns") as evidence he facilitated the impersonation fraud, directly linking the messages to his alleged role in the scheme.</other>
+<question_number>7</question_number>
+<answer>Prosecutors claimed the text messages amounted to instructions for what to say during the impersonated call</answer>
+<other>For question 8, the article states Watson testified he "would never draft something with that level of specificity" about financial claims, yet prosecutors showed he sent emails to investors with inflated revenue figures (e.g., claiming $12M vs. actual under $7M).</other>
+<question_number>8</question_number>
+<answer>Watson testified he wouldn't draft specific financial claims, but had sent emails with inflated revenue figures</answer>
+<other>For question 9, the article states prosecutors said Watson told a prospective investor Sundar Pichai offered a $600 million takeover, and Pichai testified he "had never discussed a possible $600 million takeover," directly relating the CEO's testimony to Watson's alleged statement.</other>
+<question_number>9</question_number>
+<answer>Sundar Pichai testified he never discussed the $600 million acquisition offer that Watson claimed to a prospective investor</answer>
+<other>For question 10, the article states Watson testified he "walked into Mr. Rao's office when the call was already underway," while prosecutors cited his text messages during the call as evidence he facilitated the fraud, showing a direct contrast between his testimony and the prosecution's interpretation.</other>
+<question_number>10</question_number>
+<answer>Watson testified he walked in late on the call, but prosecutors interpreted his text messages during the call as active involvement in facilitating the fraud</answer>

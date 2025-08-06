@@ -1,0 +1,31 @@
+merged_easy-dips-dinner.txt
+<other>Question 1: The article states Tanya conducted a "very scientific survey of experts (I asked the four New York Times Cooking colleagues sitting near me) says no" regarding whether toasting bread is cooking, supporting the no-cook classification.</other>
+<question_number>1</question_number>
+<answer>toasting bread is not considered cooking by her colleagues' survey</answer>
+<other>Question 2: The recipe description lists "canned pinto beans, chopped poblanos, salsa verde and cilantro and showered with Monterey Jack cheese" which combines enchiladas verdes elements (poblanos, salsa verde) with chile con queso elements (cheese).</other>
+<question_number>2</question_number>
+<answer>canned pinto beans, chopped poblanos, salsa verde, cilantro, and Monterey Jack cheese</answer>
+<other>Question 3: The article directly states Hetty Lui McKinnon's tzatziki chickpea salad raises the question: "If dip behaves as dressing, where does dip end and salad begin?" showing the challenge to traditional categories.</other>
+<question_number>3</question_number>
+<answer>it questions where dip ends and salad begins when dip acts as dressing</answer>
+<other>Question 4: The article explicitly says "Icelandic news reports are blaming a TikTok trend where users share their cucumber salad recipes for a national shortage of cucumbers," indicating direct causation.</other>
+<question_number>4</question_number>
+<answer>TikTok trend caused the cucumber shortage</answer>
+<other>Question 5: The article states automation "promises cost savings" but notes "even in a world of ghost kitchens... restaurants are still in many ways about feelings," implying conflict with the emotional/human aspect of dining.</other>
+<question_number>5</question_number>
+<answer>automation conflicts with the emotional/human aspect of dining</answer>
+<other>Question 6: The article states "If I'm scooping up shakshuka or eggs in purgatory with toast? That's dip" and specifically calls Melissa Clark's recipe "dip for breakfast," blurring breakfast/dip categories.</other>
+<question_number>6</question_number>
+<answer>it is called "dip for breakfast" despite being a breakfast dish</answer>
+<other>Question 7: The cherry tomato labneh dip requires "simmer the tomatoes... for a minute on the stove before popping the pot into the oven for 30 minutes," which involves minimal active cooking time compared to other heated recipes like the bean bake (implied longer baking).</other>
+<question_number>7</question_number>
+<answer>cherry tomato labneh dip</answer>
+<other>Question 8: Cucumbers are central to Hetty Lui McKinnon's tzatziki chickpea salad (dip recipe) and the TikTok trend causing Iceland's shortage.</other>
+<question_number>8</question_number>
+<answer>cucumbers</answer>
+<other>Question 9: The cherry tomato labneh dip recipe mentions "simmer... on the stove" and "popping the pot into the oven," but the oven is directly stated; no common appliance is implied but not mentioned (stove and oven are both explicit).</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Question 10: Ali's cheesy green chile bean bake is described as "sitting pretty at the vegetarian intersection of enchiladas verdes and chile con queso," using terminology from two Mexican dish categories.</other>
+<question_number>10</question_number>
+<answer>cheesy green chile bean bake</answer>

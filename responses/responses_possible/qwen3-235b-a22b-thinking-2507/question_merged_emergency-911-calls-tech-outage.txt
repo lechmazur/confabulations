@@ -1,0 +1,31 @@
+merged_emergency-911-calls-tech-outage.txt
+<other>Processing question 1: The article states Erin Zysett, a spokeswoman for the Oregon Department of Emergency Management, said "Our I.T. teams are working very fast to apply the fixes that CrowdStrike has provided, and those impacts are being mitigated quickly," she said, adding that statewide alert systems and public safety incident tracking systems were mostly unaffected. This matches both I.T. teams and statewide alert systems.</other>
+<question_number>1</question_number>
+<answer>Oregon</answer>
+<other>Processing question 2: The article states "In Hudson, a suburb about 40 minutes south of Cleveland, utility billing and phone systems were down. Hudson closed its City Hall for the day." It also states the CrowdStrike outage caused the broader technology outage affecting government operations. The connection is the outage caused the systems failure that led to closure.</other>
+<question_number>2</question_number>
+<answer>The CrowdStrike outage disrupted utility billing and phone systems</answer>
+<other>Processing question 3: The article states "The alarms were all false and apparently caused by the CrowdStrike outage, said Lt. Jonathan Baxter, a department spokesman." This directly attributes the cause.</other>
+<question_number>3</question_number>
+<answer>CrowdStrike outage</answer>
+<other>Processing question 4: The article states "Emergency dispatchers in Portland, Ore., were forced to work without the help of crucial computer systems for several hours and had to work 'manually,'" due to the CrowdStrike technology outage described in the context.</other>
+<question_number>4</question_number>
+<answer>CrowdStrike technology outage</answer>
+<other>Processing question 5: The article states "emergency agencies in Massachusetts scrambled to communicate with the public and directed them to alternative numbers after a firewall unintentionally prevented calls from getting through." The result was directing the public to alternative numbers.</other>
+<question_number>5</question_number>
+<answer>Directed the public to alternative numbers</answer>
+<other>Processing question 6: The article states "In Hudson, a suburb about 40 minutes south of Cleveland, utility billing and phone systems were down. Hudson closed its City Hall for the day." The reason for closure was the systems being down due to the outage.</other>
+<question_number>6</question_number>
+<answer>Utility billing and phone systems were down</answer>
+<other>Processing question 7: The article states "In Alaska, problems began to emerge on Thursday night. Call centers across the state for many 911 emergency lines stopped working correctly..." This directly answers the state and timing.</other>
+<question_number>7</question_number>
+<answer>Alaska</answer>
+<other>Processing question 8: The article states "Call centers across the state for many 911 emergency lines stopped working correctly because of 'a nationwide technology-related outage,'" and "Some dispatch centers lost use of their digital call systems and had to switch to analog phones..." The reason is the nationwide technology-related outage (CrowdStrike).</other>
+<question_number>8</question_number>
+<answer>Nationwide technology-related outage (CrowdStrike outage)</answer>
+<other>Processing question 9: The article states "In April, residents had problems calling 911 in parts of Nebraska and Texas, the entire state of South Dakota and Las Vegas." South Dakota is the only state specified as "entire state" affected.</other>
+<question_number>9</question_number>
+<answer>South Dakota</answer>
+<other>Processing question 10: The article states "The outage on Friday led to a very busy 16 minutes for the San Francisco Fire Department. Between 2:34 a.m. and 2:50 a.m, 20 fire alarms in buildings around the city blared, prompting firefighters to respond to each one." This directly identifies the city.</other>
+<question_number>10</question_number>
+<answer>San Francisco</answer>

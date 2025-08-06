@@ -1,0 +1,31 @@
+merged_boeing-justice-department-plea-deal.txt
+<other>Processing question 1: The article states Boeing broke the 2021 agreement because it failed to "design, implement and enforce" an ethics and compliance program. This is the specific condition violated.</other>
+<question_number>1</question_number>
+<answer>failed to "design, implement and enforce" an ethics and compliance program</answer>
+<other>Processing question 2: The families' statement says the deal makes "concessions to Boeing that other criminal defendants would never receive". This is the inconsistent aspect they argue.</other>
+<question_number>2</question_number>
+<answer>concessions that other criminal defendants would never receive</answer>
+<other>Processing question 3: The article explicitly states "All told, Boeing has spent about $20 billion because of the crashes". This includes all specified components.</other>
+<question_number>3</question_number>
+<answer>about $20 billion</answer>
+<other>Processing question 4: The article states Boeing agreed to "invest at least $455 million over the next three years to strengthen its compliance and safety programs". This is the exact amount.</other>
+<question_number>4</question_number>
+<answer>$455 million</answer>
+<other>Processing question 5: The article states "In 2023, nearly 40 percent of the company's revenue came from contracts with the U.S. government". This is the exact percentage.</other>
+<question_number>5</question_number>
+<answer>nearly 40 percent</answer>
+<other>Processing question 6: The article attributes the quote "clearly not in the public interest" directly to Paul G. Cassell.</other>
+<question_number>6</question_number>
+<answer>Paul G. Cassell</answer>
+<other>Processing question 7: Danielle Kaye's bio states she is "a 2024 David Carr Fellow, a program for journalists early in their careers". This is the program name.</other>
+<question_number>7</question_number>
+<answer>David Carr Fellow</answer>
+<other>Processing question 8: The article mentions "a 20-month global ban on the jet". This is the exact duration in months.</other>
+<question_number>8</question_number>
+<answer>20</answer>
+<other>Processing question 9: The article states "the Justice Department will appoint an independent compliance monitor". This specifies who appoints the monitor.</other>
+<question_number>9</question_number>
+<answer>the Justice Department</answer>
+<other>Processing question 10: The article states Boeing agreed to "buy Spirit AeroSystems, ending a nearly two-decade experiment in outsourcing". Spirit AeroSystems is the company involved.</other>
+<question_number>10</question_number>
+<answer>Spirit AeroSystems</answer>

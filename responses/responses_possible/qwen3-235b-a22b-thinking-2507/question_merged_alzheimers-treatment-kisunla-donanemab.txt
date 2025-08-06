@@ -1,0 +1,31 @@
+merged_alzheimers-treatment-kisunla-donanemab.txt
+<other>For question 1, the article states Dr. Greicius raised skepticism because "There's no correlation in any of their studies between the removal of amyloid plaques and the clinical response in individual subjects," questioning how the drug works. This is the primary reason for skepticism mentioned.</other>
+<question_number>1</question_number>
+<answer>lack of correlation between amyloid plaque removal and clinical response in individual patients</answer>
+<other>For question 2, the article quotes Dr. Greicius saying "this is moving sideways, and it's slowing progress" and states experts worry it "might discourage patients from participating in trials for treatments that could be better."</other>
+<question_number>2</question_number>
+<answer>it might discourage patients from participating in trials for better treatments</answer>
+<other>For question 3, Dr. Greicius explicitly states "There's no correlation in any of their studies between the removal of amyloid plaques and the clinical response in individual subjects."</other>
+<question_number>3</question_number>
+<answer>no correlation</answer>
+<other>For question 4, the article states "comparisons are difficult because of differences in patients and other factors" regarding the higher rates of swelling and bleeding in the donanemab trial. It does not describe any impact on perception of Kisunla's safety, so N/A is required.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>For question 5, Anne White of Lilly states the higher price "reflects the expectation that the patients can stop Kisunla after their plaques are cleared."</other>
+<question_number>5</question_number>
+<answer>patients can stop Kisunla after amyloid plaques are cleared</answer>
+<other>For question 6, the article states "Some experts worry that emphasis on anti-amyloid drugs might discourage patients from participating in trials for treatments that could be better."</other>
+<question_number>6</question_number>
+<answer>it might discourage patients from participating in trials for better treatments</answer>
+<other>For question 7, Anne White says stopping the drug after amyloid clearance "could reduce the overall cost and inconvenience of the treatment."</other>
+<question_number>7</question_number>
+<answer>patients can stop the drug after amyloid is cleared</answer>
+<other>For question 8, the article states Kisunla targets "amyloid, which clumps into plaques in the brains of people with Alzheimer's" and patients stop "after it clears the protein, amyloid."</other>
+<question_number>8</question_number>
+<answer>amyloid</answer>
+<other>For question 9, Dr. Michael Greicius is quoted criticizing the lack of correlation between amyloid removal and clinical response.</other>
+<question_number>9</question_number>
+<answer>Dr. Michael Greicius</answer>
+<other>For question 10, the article states trial participants with "intermediate tau levels declined more slowly on donanemab than those with high levels, suggesting that treating patients earlier was more effective."</other>
+<question_number>10</question_number>
+<answer>participants with intermediate tau levels declined more slowly than those with high levels</answer>

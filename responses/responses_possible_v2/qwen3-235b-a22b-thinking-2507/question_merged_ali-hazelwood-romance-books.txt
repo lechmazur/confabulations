@@ -1,0 +1,31 @@
+merged_ali-hazelwood-romance-books.txt
+<other>Processing question 1: The article describes a STEM fake-dating book (Eva and Bennett) and a lottery-influenced fake-dating book (Sybil and Kieran). However, the Sybil book is marked "(available March 25)", meaning it is not already-published per the article's context (since "Deep End" releases Feb 4 and other books lack future dates). No other lottery book is mentioned. Thus, no already-published match exists.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Processing question 2: Ali blurbed the dystopian romance about Wren (psychic rebel fighter), which releases in May. The article states she is "impatiently waiting" for it, indicating she finds it appealing despite the delay. The question assumes she would find it "least appealing due to delayed publication," which contradicts the text. No novel fits this description.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Processing question 3: Excluding blurbed books (Miri's archaeology book, Jo's cardiologist book, Wren's dystopian book), Eva is a material scientist in STEM. The only other non-blurbed STEM protagonist is the biologist in Kimberly Lemming's rom-com (crash-lands on planet). Biology is a scientific research field similar to material science.</other>
+<question_number>3</question_number>
+<answer>the Kimberly Lemming rom-com</answer>
+<other>Processing question 4: The "Twelfth Night" retelling (Veera/Deepak) features slow-burn fake marriage. Non-STEM fake-relationship books include Sybil/Kieran (fake dating due to viral video), but it is marked "(available March 25)", so not published before February 2024. Eva/Bennett is STEM (excluded). No other non-STEM fake-relationship book published early is described.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Processing question 5: Pre-"Deep End" (Feb 4 release) werewolf book is Devin's, but it explicitly includes "quite a bit of negotiated kink". No other werewolf or transformation book is mentioned. The Omegaverse novella is different and lacks transformation.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Processing question 6: The Sapphic farm cohabitation book is Opal/Pepper. The bartender's workplace is from Aaliyah/Ahmad's book (local bar). No Sapphic romance set in a bar is described; Melina's Sapphic book is in a mountain lodge, not a bar.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Processing question 7: The blurbed dystopian romance (Wren/Cross) has a prisoner/commanding officer power dynamic. The historical rival kingdoms book (Prince Damen/Prince Laurent) features Damen as prisoner of Laurent, matching the power dynamic. It lacks a future date, so it is published.</other>
+<question_number>7</question_number>
+<answer>the novel featuring Prince Damen and Prince Laurent</answer>
+<other>Processing question 8: Gigi's book combines journalism and suspense; Miri's has archaeology but specifies "Brazilian rainforest". No other book merges journalism/suspense with archaeology without rainforest expeditions. The biologist book has science but no journalism or archaeology.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>Processing question 9: The biologist alien book involves planetary crash and aliens. The hurricane book (Meena/Nikhil) has no alien elements or similar premise—only rekindled marriage. No book combines alien-like scenarios with a hurricane setting.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Processing question 10: Jo's book explores relationship dynamics (cardiologist, unrequited crush); Gigi's has celebrity romance (actor/journalist). The viral video book (Sybil/Kieran) lacks celebrity elements (Kieran is a baker) and Jo-like relationship dynamics. No book combines all three elements.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>

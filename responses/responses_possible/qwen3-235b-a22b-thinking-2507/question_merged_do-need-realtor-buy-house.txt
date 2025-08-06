@@ -1,0 +1,31 @@
+merged_do-need-realtor-buy-house.txt
+<other>Processing question 1: The article states Brenda Cea discovered a damp spot on the ceiling during inspection, her agent insisted on a roofer who found a cracked roof, and the agent helped recover $500 for stolen curtain rods. This shows risks like undetected structural issues and seller disputes.</other>
+<question_number>1</question_number>
+<answer>discovering a cracked roof and recovering $500 for stolen curtain rods</answer>
+<other>Processing question 2: The article mentions Cleaver felt sadness at the sandbox after her daughter moved overseas with grandchildren, prompting her to sell items online.</other>
+<question_number>2</question_number>
+<answer>sadness at the sandbox and play area after her daughter moved overseas</answer>
+<other>Processing question 3: The article identifies Cleaver as "the former real estate editor of the Milwaukee Journal Sentinel and the author of a book on real estate".</other>
+<question_number>3</question_number>
+<answer>former real estate editor of the Milwaukee Journal Sentinel and author of a real estate book</answer>
+<other>Processing question 4: The article states "unlike closing costs, which can be built into the loan, there is currently no system in place for lenders to also wrap the commission into the loan".</other>
+<question_number>4</question_number>
+<answer>loan</answer>
+<other>Processing question 5: The article specifically refers to "the sandbox and play area she had set up in her backyard for her grandchildren" as the catalyst.</other>
+<question_number>5</question_number>
+<answer>sandbox</answer>
+<other>Processing question 6: The article states "some people are touting the 'death of the real estate agent'" and mentions proposals for buyers to pay flat fees to lawyers instead, indicating the role is being questioned or potentially eliminated.</other>
+<question_number>6</question_number>
+<answer>questioned or potentially eliminated</answer>
+<other>Processing question 7: The article explicitly lists "title and wire fraud" as a growing problem in real estate transactions.</other>
+<question_number>7</question_number>
+<answer>title and wire fraud</answer>
+<other>Processing question 8: The article states Cleaver "used the same closing lawyer... who made sure that the buyer's money was moved into an escrow account".</other>
+<question_number>8</question_number>
+<answer>escrow account</answer>
+<other>Processing question 9: The article states the lawsuit was brought "against the National Association of Realtors".</other>
+<question_number>9</question_number>
+<answer>National Association of Realtors</answer>
+<other>Processing question 10: The article states Cleaver "vetted each potential buyer through reverse address searches and by checking their LinkedIn profiles". The question asks for "method" (singular), so the primary verification method is specified.</other>
+<question_number>10</question_number>
+<answer>reverse address searches</answer>

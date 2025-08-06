@@ -1,0 +1,31 @@
+merged_china-ai-microchips.txt
+<other>For question 1, the article states Nvidia created the A800 chip by disabling some connections on the A100 to comply with restrictions while still allowing similar performance, which U.S. officials saw as a loophole.</other>
+<question_number>1</question_number>
+<answer>creating the A800 chip by disabling some connections on the A100</answer>
+<other>For question 2, the article mentions the bans cost American companies billions in sales and executives argued restrictions would backfire by aiding Chinese competitors, while officials defended them as necessary for security.</other>
+<question_number>2</question_number>
+<answer>costing American companies billions in sales while executives argued restrictions would backfire by giving Chinese competitors an edge</answer>
+<other>For question 3, the $103 million transaction involved shipping servers with Nvidia chips from Hong Kong to mainland China, as described by the business owner showing photos.</other>
+<question_number>3</question_number>
+<answer>Nvidia chips</answer>
+<other>For question 4, Sun Yat-sen University in southern China used A100 chips for missile and torpedo modeling after the ban.</other>
+<question_number>4</question_number>
+<answer>Sun Yat-sen University</answer>
+<other>For question 5, Nettrix was formed by former Sugon executives and quickly partnered with Nvidia, Intel, and Microsoft.</other>
+<question_number>5</question_number>
+<answer>Nettrix</answer>
+<other>For question 6, China's hypersonic missile test that circled the earth and surpassed U.S. technology prompted broader restrictions, with officials stating U.S. chips helped accelerate the program.</other>
+<question_number>6</question_number>
+<answer>hypersonic missile</answer>
+<other>For question 7, Wang Qiang from a logistics company advised clients to label banned chips as tea or toys to avoid detection.</other>
+<question_number>7</question_number>
+<answer>label banned chips as tea or toys</answer>
+<other>For question 8, China tested a hypersonic missile that circled the earth and surpassed American capabilities, utilizing U.S. chip technology.</other>
+<question_number>8</question_number>
+<answer>hypersonic missile</answer>
+<other>For question 9, the article states a university affiliated with the Chinese Academy of Sciences in central China was added to the entity list for nuclear weapons research but does not specify the university's name.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>For question 10, C4ADS procurement records showed at least 550 restricted Nvidia chips sold to state-linked research institutions.</other>
+<question_number>10</question_number>
+<answer>550</answer>

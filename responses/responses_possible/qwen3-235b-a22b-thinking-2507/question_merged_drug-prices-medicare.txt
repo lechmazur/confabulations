@@ -1,0 +1,31 @@
+merged_drug-prices-medicare.txt
+<other>Processing question 1: The article states "The $2,000 limit will go into effect next year" and the negotiated prices "take effect in 2026". Since the article context implies "next year" is before 2026, the cap is implemented first.</other>
+<question_number>1</question_number>
+<answer>The $2,000 annual cap takes effect before the negotiated prices</answer>
+<other>Processing question 2: The article mentions Project 2025 advocates repealing the program if Trump wins, but does not link the number of drugs negotiated to this political landscape. No relationship is specified.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Processing question 3: The article states Harris "cast the tiebreaking vote for the legislation" and "has focused some of her early presidential campaign on the Biden administration's drug pricing reforms... saying that efforts to 'take on Big Pharma' would be among her first priorities".</other>
+<question_number>3</question_number>
+<answer>She cast the tiebreaking vote for the legislation and made drug pricing reforms a campaign priority</answer>
+<other>Processing question 4: The article states the $6 billion savings represents a 22% reduction overall but says "some drugs more discounted than others" without specifying which drug had the highest percentage reduction.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Processing question 5: Medicare's overall savings is 22% ($6 billion is 22% of spending). Judy Aiken's current first refill cost is $2,200. 22% of $2,200 is $484, so $2,200 - $484 = $1,716.</other>
+<question_number>5</question_number>
+<answer>$1,716</answer>
+<other>Processing question 6: The $6 billion savings total is given, but the article does not provide pre-negotiation spending per drug or company, making proportional distribution impossible to calculate.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Processing question 7: The cheapest drug is Januvia at $113. $2,000 annual cap / $113 = 17.7, so 17 full monthly refills before reaching the cap (18 would exceed $2,000). All other drugs have higher prices requiring fewer refills.</other>
+<question_number>7</question_number>
+<answer>Januvia</answer>
+<other>Processing question 8: Three most expensive drugs: Imbruvica ($9,319), Stelara ($4,695), Enbrel ($2,355). Sum = $16,369. Total of all 10 drugs = $17,699. Percentage = (16,369 / 17,699) * 100 = 92.48% ≈ 92.5%.</other>
+<question_number>8</question_number>
+<answer>92.5%</answer>
+<other>Processing question 9: Jardiance treats diabetes, heart failure, chronic kidney disease. Farxiga also treats these conditions. Jardiance price = $197, Farxiga price = $178. Difference = $19.</other>
+<question_number>9</question_number>
+<answer>$19</answer>
+<other>Processing question 10: Companies mentioned in legal challenges: Bristol Myers Squibb (explicitly quoted criticizing prices and part of lawsuits). Its drug is Eliquis at $231. No other specific companies are tied to legal challenges in the text.</other>
+<question_number>10</question_number>
+<answer>$231</answer>

@@ -1,0 +1,33 @@
+merged_bird-flu-cattle-pandemic.txt
+<other>Let me analyze the article to answer each question based solely on the information provided.</other>
+
+<question_number>1</question_number>
+<answer>The longer the virus circulates in cattle, the more chances it gains to acquire the mutations necessary to set off an influenza pandemic</answer>
+
+<question_number>2</question_number>
+<answer>The dairy industry is going to sink the poultry industry</answer>
+
+<question_number>3</question_number>
+<answer>Agriculture Department</answer>
+
+<question_number>4</question_number>
+<other>The article mentions that H5N1 doesn't spread efficiently through respiratory pathway in cattle but through contaminated milk or viral particles on equipment, which is described as "good news" for control, but the article doesn't explicitly explain how this makes containment both easier AND more challenging simultaneously.</other>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<answer>House mice</answer>
+
+<question_number>6</question_number>
+<answer>Americans move animals between farms at a larger scale than other nations</answer>
+
+<question_number>7</question_number>
+<answer>Poultry industry</answer>
+
+<question_number>8</question_number>
+<answer>Genetic data suggest the U.S. outbreak stemmed from a single spillover of the virus from birds into cattle</answer>
+
+<question_number>9</question_number>
+<answer>Vaccinating cattle</answer>
+
+<question_number>10</question_number>
+<answer>Scientists found the cattle version of the virus in blackbirds in Texas, suggesting the birds could carry the virus to new farms</answer>

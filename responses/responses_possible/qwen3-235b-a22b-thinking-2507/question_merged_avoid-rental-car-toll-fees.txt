@@ -1,0 +1,31 @@
+merged_avoid-rental-car-toll-fees.txt
+<other>Processing question 1: The article states "if you do so while you're also using your own E-ZPass, you'll be charged twice" when referring to using personal E-ZPass while rental transponder is active. Direct financial consequence is double charges.</other>
+<question_number>1</question_number>
+<answer>charged twice</answer>
+<other>Processing question 2: The article instructs "don't activate the transponder that's already provided in your rental car" to avoid double charges when using personal E-ZPass. The required action is not activating it.</other>
+<question_number>2</question_number>
+<answer>do not activate it</answer>
+<other>Processing question 3: The QR code toll pass is for Orlando (Orlando International Airport). The "52 Places" section mentions Denver's refreshed Union Station. No city is mentioned as having both the QR pass program and a refreshed transportation hub. Orlando isn't listed in the travel destinations. N/A.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Processing question 4: Provincetown is described with "overlapping -- and sometimes competing -- identities". The article discusses practical toll payment methods (apps, transponders, mail) with no connection to identity concepts. No toll method aligns with this description. N/A.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Processing question 5: Empire Builder Route is a "4,000-mile journey" with no duration specified. New York's "Pay Toll Now" allows payment "for up to 30 days". Without knowing the route's duration, comparison is impossible. N/A.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Processing question 6: Camargue is in South of France. The article only discusses US toll payment systems (GoToll, Ecotoll, E-ZPass, state programs). No information about French toll systems or Camargue-specific options. N/A.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Processing question 7: Empire Builder Route involves "hopped off to explore six places you might otherwise miss". The article's main topic is avoiding toll surcharges on rental cars. No parallel is drawn between overlooked places and toll payment methods in the text. N/A.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Processing question 8: Temporary toll accounts (e.g., NY's short-term account) are mentioned. The "52 Places" section describes travel experiences but doesn't discuss transient nature or connect it to temporary accounts. No relationship is stated. N/A.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>Processing question 9: The "push and pull" description refers to Camargue in South of France. The article only covers US toll payment methods. No information about toll systems in France or for experiencing landscapes. N/A.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Processing question 10: Identical to question 1. The article states "if you do so while you're also using your own E-ZPass, you'll be charged twice" when activating rental transponder while using personal E-ZPass.</other>
+<question_number>10</question_number>
+<answer>charged twice</answer>

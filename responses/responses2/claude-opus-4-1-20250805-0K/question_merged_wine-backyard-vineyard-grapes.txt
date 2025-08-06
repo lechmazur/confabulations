@@ -1,0 +1,14 @@
+merged_wine-backyard-vineyard-grapes.txt
+<other>Let me examine the article for information about each question.</other>
+
+<question_number>1</question_number>
+<other>The article states that the vineyard was first planted in 2018 by Erica Ritchie's father, and that "Since 2022, Haven has produced 500 bottles of red, white, and rose wines a year." This means production started in 2022, not immediately after planting in 2018.</other>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<other>The article states that Vines of the Valley "began in 2021 after they began planting vines the previous year and has 12 clients throughout Southern California." It mentions they currently have 12 clients but doesn't specify how many they had when they first started.</other>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<other>The article mentions that Jeremy Winkie "had battled mildew and fungus all year" and that he "lost half of my grape clusters because it's been really rainy." The text doesn't mention him struggling with any type of insect.</other>
+<answer>N/A</answer>

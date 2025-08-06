@@ -1,0 +1,31 @@
+merged_china-swimming-investigation-doping.txt
+<other>Processing question 1: The article states the investigation "will cast a shadow over the Paris Olympics" and "the shadow of an F.B.I. investigation will hang over the Summer Games." It also notes 11 swimmers who tested positive are on the Chinese Olympic team for Paris and "several are favorites to win medals." This directly addresses the timing impact.</other>
+<question_number>1</question_number>
+<answer>casts a shadow over the Paris Olympics; shadow of an F.B.I. investigation will hang over the Summer Games</answer>
+<other>Processing question 2: The article includes WADA's statement questioning "United States involvement in investigating a matter that occurred beyond its borders" and references "extraterritorial criminal jurisdiction," showing the challenge to traditional jurisdiction.</other>
+<question_number>2</question_number>
+<answer>WADA questions United States involvement in investigating a matter beyond its borders; concerns about extraterritorial criminal jurisdiction</answer>
+<other>Processing question 3: WADA's statement explicitly says the investigation "validate[s] the concerns expressed broadly by the international community about the passage of the Rodchenkov Act," directly linking the Act's provisions to international concerns.</other>
+<question_number>3</question_number>
+<answer>validates the concerns expressed broadly by the international community about the Rodchenkov Act</answer>
+<other>Processing question 4: The article identifies the Rodchenkov Act as the enabling legislation, stating it is "the first time U.S. authorities have focused on an international sports body under the act" and that it "criminalizing doping in elite-level international sporting events wherever they take place."</other>
+<question_number>4</question_number>
+<answer>Rodchenkov Act</answer>
+<other>Processing question 5: World Aquatics' statement specifies that Brent Nowicki "is working to schedule a meeting with the government, which, in all likelihood will obviate the need for testimony before a grand jury."</other>
+<question_number>5</question_number>
+<answer>Brent Nowicki</answer>
+<other>Processing question 6: The article states Nowicki "moved into his post in June 2021, a few days before Chinese authorities informed the World Anti-Doping Agency and World Aquatics that it had decided not treat the positive tests as doping violations," implying timing could affect credibility.</other>
+<question_number>6</question_number>
+<answer>appointed a few days before Chinese authorities informed WADA and World Aquatics about the decision not to treat positive tests as doping violations</answer>
+<other>Processing question 7: The article states WADA canceled the meeting because leaders "did not want to travel to the United States because of an ongoing federal law enforcement investigation." While Tygart is noted as a critic and his deputy was on the call, the text does not state his criticism caused the cancellation; the reason given is solely the investigation.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Processing question 8: WADA's statement directly links the Rodchenkov Act to extraterritorial jurisdiction: "under which the United States purports to exercise extraterritorial criminal jurisdiction over participants in the global antidoping system."</other>
+<question_number>8</question_number>
+<answer>WADA states the United States purports to exercise extraterritorial criminal jurisdiction under the Rodchenkov Act</answer>
+<other>Processing question 9: The article explicitly states Nowicki "moved into his post in June 2021, a few days before Chinese authorities informed the World Anti-Doping Agency and World Aquatics that it had decided not treat the positive tests as doping violations."</other>
+<question_number>9</question_number>
+<answer>Nowicki moved into his post a few days before Chinese authorities informed WADA and World Aquatics about the decision</answer>
+<other>Processing question 10: The article states WADA argued the Rodchenkov Act would "compromise WADA's efforts to maintain one set of rules for sports everywhere," directly connecting the concept to their criticism.</other>
+<question_number>10</question_number>
+<answer>WADA argued the Rodchenkov Act would compromise efforts to maintain one set of rules for sports everywhere</answer>

@@ -1,0 +1,31 @@
+merged_ai-robots-restaurants.txt
+<other>Processing question 1: The article states Bear Robotics chose dining-room robots because "The kitchen was much more complicated" with "four different languages being spoken" and described as "a battleground." Goldenshteyn also mentions "logistical challenges like worker safety and skeptical franchisees" for kitchen automation. The primary reason is the complex, crowded kitchen environment.</other>
+<question_number>1</question_number>
+<answer>the complex, crowded environment with multiple languages and logistical challenges like worker safety</answer>
+<other>Processing question 2: The article explicitly says "our soft, irrational human emotions -- how we react to these robot assistants -- will play a decisive role in how much and how quickly they start to run our restaurants." This directly links emotional responses to adoption speed.</other>
+<question_number>2</question_number>
+<answer>they play a decisive role in how quickly robots start to run restaurants</answer>
+<other>Processing question 3: Giebelhausen states "if you feel the robot loves you, you allow the robot to cook with love" after mentioning that a friendly text chat with the robot makes the preference for human chefs fade. The crucial factor is feeling the robot's love.</other>
+<question_number>3</question_number>
+<answer>feeling that the robot loves you</answer>
+<other>Processing question 4: The study found workers felt frustrated when robots appeared without consultation because "automation can make workers anxious about losing their jobs" when "the organization isn't clear on why the tech is brought in." The specific factor is lack of clarity about the technology's purpose.</other>
+<question_number>4</question_number>
+<answer>anxiety about job loss when the organization isn't clear on why the tech is brought in</answer>
+<other>Processing question 5: Bear Robotics' Higueros directly states they "chose to focus on dining-room robots because they offered a clear solution. The kitchen was much more complicated." The main reason is the kitchen's complexity.</other>
+<question_number>5</question_number>
+<answer>the kitchen was much more complicated</answer>
+<other>Processing question 6: Goldenshteyn believes order-taking automation "will eventually be superseded by a familiar bit of hardware that consumers already have a strong emotional attachment to: the smartphone." The emotional attachment makes smartphones the future solution.</other>
+<question_number>6</question_number>
+<answer>consumers already have a strong emotional attachment to smartphones</answer>
+<other>Processing question 7: Goldenshteyn highlights "logistical challenges like worker safety and skeptical franchisees" for kitchen automation hardware development. These differentiate it from dining-room automation.</other>
+<question_number>7</question_number>
+<answer>worker safety and skeptical franchisees</answer>
+<other>Processing question 8: The article states "the fully automated restaurant, especially one focused on making a single type of dish, is closer to science fact" citing frozen pizza factories where "everything there is made by robots." The primary reason is the simplicity of single-dish production.</other>
+<question_number>8</question_number>
+<answer>simplicity of single-dish production like frozen pizza factories</answer>
+<other>Processing question 9: The article explains consumers "prefer human chefs to robot ones, in part because they believe that humans cook with love" but this preference fades "if you feel the robot loves you." Human emotions determine acceptance based on perceived love.</other>
+<question_number>9</question_number>
+<answer>emotions determine whether consumers believe robots can cook with love</answer>
+<other>Processing question 10: Tsai states "Humans still do one thing very well, and that's smiling" regarding why Stellar Pizza employed a human to hand pizzas. The reason is the human ability to smile.</other>
+<question_number>10</question_number>
+<answer>humans still do one thing very well, and that's smiling</answer>

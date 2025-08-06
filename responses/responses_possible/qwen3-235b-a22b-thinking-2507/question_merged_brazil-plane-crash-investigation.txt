@@ -1,0 +1,31 @@
+merged_brazil-plane-crash-investigation.txt
+<other>Processing question 1: The article states icing caused a 1994 crash of the same ATR model but notes the manufacturer "has since improved the de-icing system." This creates a red herring by suggesting the improved system should prevent icing-related crashes, potentially misleading investigators away from considering icing as a cause despite the improvements.</other>
+<question_number>1</question_number>
+<answer>Improved de-icing system since 1994 might mislead investigators into dismissing icing as a cause</answer>
+<other>Processing question 2: The article states the plane's speed dropped sharply from 325 mph but "did not drop far enough to cause a stall, he said, unless icing was extremely severe." It adds that severe icing "changes the shape of the wing, and that could cause it to stall at a much higher speed." This forms a conditional: stall occurred only if icing was severe enough to alter wing shape and raise stall speed.</other>
+<question_number>2</question_number>
+<answer>Speed drop insufficient for stall unless severe icing altered wing shape to increase stall speed</answer>
+<other>Processing question 3: The article notes the anti-icing system involves rubber tubes to break ice, but ground temperature at crash site was "around 63 degrees." Experts state pilots could "lower the plane's altitude, where warmer air would have melted the ice" and "we're talking about Brazil here, not Antarctica." The warm temperature challenges why pilots didn't descend to melt ice if icing occurred.</other>
+<question_number>3</question_number>
+<answer>Ground temperature of 63 degrees making descent to warmer air feasible</answer>
+<other>Processing question 4: The article describes the plane "spinning slowly as it plummeted before crashing almost directly on its belly." Expert John Cox states "you can't get into a spin without stalling," but standard stall expectations typically involve a nose-down pitch, not spinning. The spinning trajectory contradicts typical stall behavior.</other>
+<question_number>4</question_number>
+<answer>Plane spinning while plummeting instead of standard nose-down pitch</answer>
+<other>Processing question 5: The article states flight data showed speed dropped sharply but "did not drop far enough to cause a stall, he said, unless icing was extremely severe." The recorded speed (above normal stall speed) challenges the stall theory unless severe icing was present to raise the stall threshold.</other>
+<question_number>5</question_number>
+<answer>Recorded speed above normal stall speed unless severe icing altered wing shape</answer>
+<other>Processing question 6: The article states pilots "did not communicate with controllers just before the crash" and "there was at no time a declaration of any type of emergency." Standard protocol for severe icing includes alerting air traffic controllers before descending, which they failed to do.</other>
+<question_number>6</question_number>
+<answer>No communication with air traffic controllers to declare emergency or request descent</answer>
+<other>Processing question 7: Expert Cox states "we're talking about Brazil here, not Antarctica," implying severe icing is unlikely in warm conditions. The article specifies the ground temperature where the plane crashed was "around 63 degrees," contradicting assumptions that such temperatures could support severe icing.</other>
+<question_number>7</question_number>
+<answer>Ground temperature of 63 degrees at crash location</answer>
+<other>Processing question 8: The article notes that after the 1994 American Eagle crash of the same ATR model, "the manufacturer has since improved the de-icing system." This advancement complicates the investigation by making it harder to determine if icing caused the crash despite the system upgrade.</other>
+<question_number>8</question_number>
+<answer>Improved de-icing system implemented after 1994 crash</answer>
+<other>Processing question 9: The article specifies the anti-icing system consists of "rubber tubes on the wings that are supposed to inflate and deflate to break up any ice." This detail is crucial for the icing theory, as investigators must determine if the crew activated it or if it failed.</other>
+<question_number>9</question_number>
+<answer>Rubber tubes on wings inflating/deflating to break ice</answer>
+<other>Processing question 10: The article states the plane fell from "17,000 feet" but provides no information linking this altitude to assumptions about gradual ice accumulation. It discusses icing severity and descent options but does not address how 17,000 feet specifically challenges gradual accumulation theories. No logical inference is possible from the text.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>

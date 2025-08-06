@@ -1,0 +1,31 @@
+merged_british-peanut-butter.txt
+<other>Starting analysis of each question based solely on the article text. For question 1, the article states peanut butter has "well and truly landed across the Atlantic" and Britain is the "growth engine" with sales skyrocketing, indicating acceptance of American food culture after initial rejection.</other>
+<question_number>1</question_number>
+<answer>acceptance of American food culture</answer>
+<other>For question 2, the article describes British brands as "more salty than sweet" with "small-batch products rather than mega-brands," directly challenging Krampner's "gastronomic imperialism" by showing local adaptation.</other>
+<question_number>2</question_number>
+<answer>British peanut butter is locally adapted (more salty, small-batch) rather than purely American</answer>
+<other>For question 3, the article details de Pindakaaswinkel's success in the Netherlands with 11 stores but provides no information about potential for such stores in Britain. No inference possible.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>For question 4, the article explicitly states the PB&J sandwich "has yet to take off" in Britain, with Everett saying she "never, ever eaten it with jam," showing cultural differences in food pairings.</other>
+<question_number>4</question_number>
+<answer>cultural differences in food pairings</answer>
+<other>For question 5, the article states the Netherlands "outpaces even the United States in peanut butter consumption," suggesting British peers today might react differently than in the 1930s due to high European consumption.</other>
+<question_number>5</question_number>
+<answer>Netherlands</answer>
+<other>For question 6, Rick Steves packed PB because it "couldn't be found" in Europe in 1973. Now PB is popular but not paired with jam (unlike American PB&J), and PB outpaced jam sales in 2020, contradicting traditional British jam pairings.</other>
+<question_number>6</question_number>
+<answer>peanut butter outpacing jam in sales</answer>
+<other>For question 7, Marmite introduced a PB-Marmite hybrid in 2019, but in 2020 "peanut butter outpaced jam... for the first time." The displaced product is jam, not Marmite, so no foreshadowing of Marmite's displacement.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>For question 8, Vos created multiple flavors to find "one that's acceptable," mirroring Britain's shift from limited Sun-Pat options to 35 varieties at Waitrose, showing changing perceptions through diversification.</other>
+<question_number>8</question_number>
+<answer>diversification strategy (multiple flavors) mirrors Britain's market expansion</answer>
+<other>For question 9, the article mentions Ryan Lepicier's comment about Americans' "emotional connection" starting with PB&J, and that "as a new generation... increases consumption... younger Britons may develop nostalgia." No specific metric is provided.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>For question 10, Krampner points to "gastronomic imperialism" but the article notes British PB is "different from its forebears," showing a shift from pure American influence to localized adaptation in supermarkets.</other>
+<question_number>10</question_number>
+<answer>shift from American cultural imposition to localized adaptation</answer>

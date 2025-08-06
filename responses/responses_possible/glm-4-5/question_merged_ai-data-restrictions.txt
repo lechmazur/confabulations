@@ -1,0 +1,31 @@
+merged_ai-data-restrictions.txt
+
+<question_number>1</question_number>
+<answer>can't afford to license data directly from publishers</answer>
+
+<question_number>2</question_number>
+<answer>changing data licenses doesn't retroactively revoke permission for major tech companies who already have the data, but primarily affects smaller companies and researchers</answer>
+
+<question_number>3</question_number>
+<answer>today's A.I. systems may not be capable of generating enough high-quality synthetic data to replace the human-created data they're losing</answer>
+
+<question_number>4</question_number>
+<answer>the web will start shutting its doors</answer>
+
+<question_number>5</question_number>
+<answer>major tech companies already have the data, and changing licenses doesn't retroactively revoke that permission, so the primary impact is on later-arriving actors</answer>
+
+<question_number>6</question_number>
+<answer>major tech companies who have already gathered data can continue to use it even if licenses change, but new entrants will be affected by new restrictions</answer>
+
+<question_number>7</question_number>
+<answer>data restrictions primarily affect smaller start-ups and researchers who are entering the field later, while major tech companies who already have the data are less affected</answer>
+
+<question_number>8</question_number>
+<answer>data restrictions are a response to aggressive data-gathering practices, and data creators are pushing back because their content is being used to develop commercial systems that threaten their livelihoods</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>75%</answer>

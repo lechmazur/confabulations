@@ -1,0 +1,31 @@
+merged_drug-testing-track.txt
+<other>Processing question 1: The article states Mageean is from Ireland but lives and trains in Manchester, England. Hoare is Australian and lives in Boulder, Colorado. Mackay is American and trains in Flagstaff/Boston. No athlete shares nationality with another's training location (e.g., Mageean's Irish nationality doesn't match Hoare's Australian training location in Colorado). The question asks for shared nationality with location where another athlete lives/trains, but no such match exists in the text.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Processing question 2: Mageean explicitly mentions testers arriving "on the day of a family funeral," directly showing testing coincided with a significant personal event.</other>
+<question_number>2</question_number>
+<answer>family funeral</answer>
+<other>Processing question 3: Mageean states she "used to think that testers showed up on purpose when she was visiting her parents in Northern Ireland because her mother would cook them breakfast," implying hospitality might have influenced visit frequency.</other>
+<question_number>3</question_number>
+<answer>Ciara Mageean</answer>
+<other>Processing question 4: Mackay (newer to testing pool) was "freaking out" and "crying" over a potential missed test with no penalty, while Mageean (veteran) calls testers "nice people" and the process a "necessary nuisance," showing higher anxiety in newer athletes.</other>
+<question_number>4</question_number>
+<answer>Emily Mackay freaking out versus Ciara Mageean's acceptance</answer>
+<other>Processing question 5: Hoare describes "girlfriends... woken up by drug testers, and they're freaking out," indicating relationship strain from unexpected testing visits.</other>
+<question_number>5</question_number>
+<answer>girlfriends freaking out when woken by testers</answer>
+<other>Processing question 6: Mageean calls testing a "necessary nuisance" to "keep our sport clean," implying the alternative (unclean sport/suspension) is worse than the inconvenience.</other>
+<question_number>6</question_number>
+<answer>calling it a necessary nuisance to keep sport clean</answer>
+<other>Processing question 7: Mackay states she now answers "all the spam calls" fearing it's USADA, showing altered phone habits due to testing anxiety.</other>
+<question_number>7</question_number>
+<answer>answering all spam calls fearing USADA</answer>
+<other>Processing question 8: Mackay "crying in her hotel room" and feeling "guilty and horrible" over a non-penalty situation shows disproportionate emotional impact.</other>
+<question_number>8</question_number>
+<answer>Emily Mackay crying over non-penalty situation</answer>
+<other>Processing question 9: Mackay received the distressing call about USADA "a few weeks before the U.S. Olympic trials," linking competitive timing to testing stress.</other>
+<question_number>9</question_number>
+<answer>distressing call before U.S. Olympic trials</answer>
+<other>Processing question 10: Hoare describes testers "sitting at the table waiting for me to pee" during video games with friends, violating normal social expectations.</other>
+<question_number>10</question_number>
+<answer>Olli Hoare</answer>

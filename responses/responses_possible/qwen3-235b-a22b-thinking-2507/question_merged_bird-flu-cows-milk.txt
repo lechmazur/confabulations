@@ -1,0 +1,22 @@
+merged_bird-flu-cows-milk.txt
+<other>Reviewing the article to answer each question precisely based solely on provided facts. For question 1, the article states genomic sequencing showed infected cows passed virus to other species and mentions wild birds possibly transporting virus between farms. For question 2, the article notes asymptomatic cows had more virus in noses than sick cows, suggesting infection starts in respiratory tract before mammary glands. For question 3, the article explicitly says testing milk alone may not capture asymptomatic spread, requiring nasal/urine focus. For question 4, Dr. Cardona states strict cow/equipment controls may not suffice because wildlife spreads it. For question 5, the article says genomic match raises possibility wild birds transport virus between farms. For question 6, the text specifies "infected wild blackbirds" found miles away. For question 7, the finding that asymptomatic cows shed more virus in nose/urine than milk challenges milk-based surveillance. For question 8, asymptomatic cows having virus more in nose/urine than milk contradicts milk-primary transmission. For question 9, genomic evidence of cross-species spread implies farm-focused measures alone won't end outbreak. For question 10, the correlation is asymptomatic cows more likely to have virus in noses than sick cows.</other>
+<question_number>1</question_number>
+<answer>wildlife may transport the virus to new locations or between farms</answer>
+<question_number>2</question_number>
+<answer>infection may start in upper respiratory tract before moving to mammary glands</answer>
+<question_number>3</question_number>
+<answer>testing milk samples may not be enough to detect asymptomatic spread</answer>
+<question_number>4</question_number>
+<answer>wildlife can spread the virus, making cow/equipment movement controls insufficient</answer>
+<question_number>5</question_number>
+<answer>wild birds might be involved in transporting the virus between farms</answer>
+<question_number>6</question_number>
+<answer>wild blackbirds</answer>
+<question_number>7</question_number>
+<answer>asymptomatic cows shed virus more in nose/urine than milk</answer>
+<question_number>8</question_number>
+<answer>asymptomatic cows were more likely to have virus in noses or urine than in milk</answer>
+<question_number>9</question_number>
+<answer>farm-focused control measures may not be enough because wildlife spreads the virus</answer>
+<question_number>10</question_number>
+<answer>asymptomatic cows were more likely to have the virus in their noses than obviously sick ones</answer>

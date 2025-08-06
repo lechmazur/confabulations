@@ -1,0 +1,22 @@
+merged_att-data-breach.txt
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>It creates a shared environment with more potential attack vectors.</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>Through data broker records, phone numbers can be traced back to individuals, exposing communication networks.</answer>
+<question_number>5</question_number>
+<answer>Foreign nation states or foreign actors could gain insights into communication patterns of individuals in national security roles.</answer>
+<question_number>6</question_number>
+<answer>Phone records can be traced back to individuals through data broker records, exposing communication networks.</answer>
+<question_number>7</question_number>
+<answer>The phone records are most likely to benefit foreign nation states or foreign actors.</answer>
+<question_number>8</question_number>
+<answer>Phone records can be traced back to individuals through data broker records, exposing communication networks of people in national security roles.</answer>
+<question_number>9</question_number>
+<answer>It creates a shared environment with more potential attack vectors.</answer>
+<question_number>10</question_number>
+<answer>The professor's explanation of shared cloud environments with more potential attack vectors directly applies to the Snowflake platform involved in the breach.</answer>

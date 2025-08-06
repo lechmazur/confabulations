@@ -1,0 +1,31 @@
+merged_att-data-breach.txt
+<other>Question 1 asks about significance of breach timing (May-Oct 2022) regarding federal contracts. Article states breach occurred during this period and AT&T has federal contracts, but provides no specific connection between the timing and the contracts. No significance is described.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Question 2 asks how third-party cloud platform complicates AT&T's security. Article states customer data was downloaded from Snowflake (third-party cloud platform) and Professor Schaumont explains moving IT infrastructure to cloud creates shared environments with more potential attack vectors.</other>
+<question_number>2</question_number>
+<answer>creates shared environments with more potential attack vectors</answer>
+<other>Question 3 asks how breach's impact on federal contracts underscores importance of secure data management. Article states AT&T has federal contracts but does not describe any actual impact on those contracts from the breach.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Question 4 asks how exposed records might identify communication patterns of national security individuals. Article states phone numbers can be traced back to individuals using online searches, exposing communication networks for people in national security roles.</other>
+<question_number>4</question_number>
+<answer>phone numbers can be traced back to individuals using online searches</answer>
+<other>Question 5 asks for inference about impact on federal agencies based on data type and contracts. Article mentions AT&T has federal contracts and the data could expose national security communication networks, but does not specify any actual impact on federal agencies.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Question 6 asks connection between exposed data nature and identifying sensitive communication networks. Article states phone numbers can be traced back to individuals, which could expose communication networks for people in national security roles.</other>
+<question_number>6</question_number>
+<answer>phone numbers can be traced back to individuals</answer>
+<other>Question 7 asks relationship between compromised data type and benefits to foreign states. Article quotes Chris Pierson stating "The most likely beneficiary of this specific data are foreign nation states or foreign actors".</other>
+<question_number>7</question_number>
+<answer>foreign nation states or foreign actors are the most likely beneficiary</answer>
+<other>Question 8 asks connection between compromised data and exposing government officials' networks. Article states phone numbers can be traced back to individuals, which could expose communication networks for people in national security roles (which includes government officials).</other>
+<question_number>8</question_number>
+<answer>phone numbers can be traced back to individuals</answer>
+<other>Question 9 asks how cloud outsourcing increases breach exposure per cybersecurity expert. Article quotes Professor Schaumont stating moving IT infrastructure to cloud creates shared environments with many more ways potential attacks can be done.</other>
+<question_number>9</question_number>
+<answer>creates shared environments with many more ways potential attacks can be done</answer>
+<other>Question 10 asks how professor's cloud explanation relates to specific platform (Snowflake). Article states customer data was downloaded from Snowflake and Professor Schaumont's explanation about cloud infrastructure (shared environments, more attack vectors) applies to this third-party cloud platform.</other>
+<question_number>10</question_number>
+<answer>applies to Snowflake as the third-party cloud platform involved</answer>

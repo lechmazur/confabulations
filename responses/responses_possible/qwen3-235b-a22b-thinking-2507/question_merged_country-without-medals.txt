@@ -1,0 +1,31 @@
+merged_country-without-medals.txt
+<other>Processing question 1: The article states Bangladesh (173M people) has no medals while smaller Jamaica (2.8M) and Grenada (125k) have many medals, showing population size alone doesn't guarantee success.</other>
+<question_number>1</question_number>
+<answer>Population size alone does not guarantee Olympic success; Bangladesh (173 million people) has never won a medal while smaller countries like Jamaica (2.8 million) and Grenada (125,000) have won multiple medals.</answer>
+<other>Processing question 2: Costa Rica built more pools after Sylvia Poll's medal, and Dominica's LaFond-Gadson hopes her medal will spur track construction.</other>
+<question_number>2</question_number>
+<answer>Winning a medal can lead to improved sports infrastructure, as Costa Rica built more pools after Sylvia Poll's medal, and Dominica may build a track following LaFond-Gadson's victory.</answer>
+<other>Processing question 3: Cuba (11 million population) won 235 medals due to government investment, while India (1.4 billion) won only 35 medals.</other>
+<question_number>3</question_number>
+<answer>Cuba won 235 medals through deliberate government spending despite its smaller population, while India won only 35 medals with its much larger population and presumably less targeted investment.</answer>
+<other>Processing question 4: Jamaica focused on track and field (87 of 88 medals there), and Bolivia is studying how to focus efforts on sports it does best.</other>
+<question_number>4</question_number>
+<answer>Smaller countries can achieve success by targeting specific sports, as Jamaica won nearly all medals in track and field, and Bolivia is analyzing how to concentrate efforts on its strongest sports.</answer>
+<other>Processing question 5: Jamaica succeeded through specialization, and Bolivia is attempting similar strategic investment but has not yet won a medal.</other>
+<question_number>5</question_number>
+<answer>Strategic investment in specific strengths can lead to success, as demonstrated by Jamaica's medal count in track and field, and Bolivia's planned focus on its best sports to improve medal odds.</answer>
+<other>Processing question 6: Nepal (low GDP per capita) lacks sports funding, while Monaco (highest GDP per capita) has no medals due to small population.</other>
+<question_number>6</question_number>
+<answer>Economic status alone doesn't ensure success; Nepal struggles with low sports investment due to poverty, while Monaco has high GDP but no medals due to its tiny talent pool.</answer>
+<other>Processing question 7: Only Dominica's case mentions policy impact (LaFond-Gadson hoping for track construction); St. Lucia's Alfred discusses pride but not policy changes. Question requires both countries' policy impacts, but St. Lucia isn't covered.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Processing question 8: Monaco has 32 Olympic appearances without a medal and $241,000 GDP per capita (highest in world).</other>
+<question_number>8</question_number>
+<answer>Monaco</answer>
+<other>Processing question 9: Cuba won 235 medals, India won 35. 235 divided by 35 equals 6.714..., so 6.71 times.</other>
+<question_number>9</question_number>
+<answer>6.71 times</answer>
+<other>Processing question 10: US has 2,975 medals. Next four: Soviet Union 1,204 + Germany 1,058 + Great Britain 955 + France 898 = 4,115. 2,975 is less than 4,115, so US has fewer medals than the combined total. Question premise (US has more) is incorrect.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>

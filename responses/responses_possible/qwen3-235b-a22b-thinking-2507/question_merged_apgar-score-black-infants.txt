@@ -1,0 +1,32 @@
+merged_apgar-score-black-infants.txt
+<other>Reading the article to find answers for each question based solely on the text.</other>
+<other>For question 1, the article states Dr. Edwards' study found Black newborns had lower Apgar scores but no difference in umbilical cord gas values, indicating the lower scores did not reflect actual health issues.</other>
+<question_number>1</question_number>
+<answer>Black newborns had lower Apgar scores but did not have more abnormal cord gas values</answer>
+<other>For question 2, the article identifies skin color as the metric causing racial discrepancies in Apgar scores leading to unnecessary NICU admissions.</other>
+<question_number>2</question_number>
+<answer>skin color</answer>
+<other>For question 3, the article explicitly states the study found Black newborns had lower Apgar scores but no difference in umbilical cord gas values compared to non-Black babies.</other>
+<question_number>3</question_number>
+<answer>no difference in the umbilical cord gases</answer>
+<other>For question 4, the article provides specific multipliers: Asian infants with low scores were 100 times more likely to die, while Black babies were only 23 times more likely to die.</other>
+<question_number>4</question_number>
+<answer>Asian infants with low scores were 100 times more likely to die; Black babies were only 23 times more likely to die</answer>
+<other>For question 5, the article gives exact percentages: 3.3 percent of white babies scored a perfect 10, compared with 1.2 percent of Chinese-American infants.</other>
+<question_number>5</question_number>
+<answer>3.3 percent of white babies scored a perfect 10, compared with 1.2 percent of Chinese-American infants</answer>
+<other>For question 6, the article states low-scoring Black babies were only 23 times more likely to die than those with normal scores, while low-scoring white babies were 54 times more likely to die.</other>
+<question_number>6</question_number>
+<answer>low-scoring Black babies were only 23 times more likely to die; low-scoring white babies were 54 times more likely to die</answer>
+<other>For question 7, the article explains that reliance on skin color may result in healthy babies of color being sent to intensive care unnecessarily, causing separation from mothers and other harms.</other>
+<question_number>7</question_number>
+<answer>may send healthy babies of color to intensive care unnecessarily</answer>
+<other>For question 8, the article attributes this finding to Dr. Sara E. Edwards' study, with Dr. Quetzal Class as senior author, which found the skin color portion drove racial discrepancies in first Apgar tests.</other>
+<question_number>8</question_number>
+<answer>Dr. Sara E. Edwards' study</answer>
+<other>For question 9, the article states pulse oximetry is less accurate for Black patients because light absorption by darker skin pigment causes inaccurate readings.</other>
+<question_number>9</question_number>
+<answer>pulse oximetry is less accurate for Black patients due to how light is absorbed by darker skin pigment</answer>
+<other>For question 10, the article quotes Dr. Kapadia saying the American Academy of Pediatrics stresses "a quick assessment of breathing and heart rate to guide resuscitation decisions, not color".</other>
+<question_number>10</question_number>
+<answer>stresses a quick assessment of breathing and heart rate to guide resuscitation decisions, not color</answer>

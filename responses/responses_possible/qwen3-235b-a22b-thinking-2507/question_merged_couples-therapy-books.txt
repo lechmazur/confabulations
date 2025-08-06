@@ -1,0 +1,31 @@
+merged_couples-therapy-books.txt
+<other>Processing question 1: The article states Otto and Sophie are "childless couple in their early 40s living in a rapidly gentrifying Brooklyn (they're the gentrifiers)" and mentions "kitchen renovation" but does not suggest any parallel between their relationship dynamics and gentrification. No thematic connection is drawn beyond setting description. Answer must be N/A.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Processing question 2: The article quotes "Madame Bovary, c'est moi" and states "its appeal lies in the eternal human pastime of judging others while recognizing that..." but does not explain how the phrase conveys deeper understanding of the novel's themes beyond this single sentence. No elaboration on the phrase's role is provided. Answer must be N/A.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Processing question 3: The article states Edward and Florence's wedding night involves "the realities of their pasts, expectations and feelings about intimacy collide painfully" and notes "decades later, both characters reflect on the experience." However, it does not state the book uses the wedding night to explore broader themes—only describes the event and reflection. No explicit exploration claim is made. Answer must be N/A.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Processing question 4: The article describes Otto and Sophie as "gentrifiers" in "rapidly gentrifying Brooklyn" and says their "carefully ordered existence begins to crumble" after the cat bite, with a "kitchen renovation" mentioned. It does not suggest gentrification is used to explore marriage/stability themes—only sets the location. No thematic connection is stated. Answer must be N/A.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Processing question 5: The article states "Sophie is bitten by a feral cat and their carefully ordered existence begins to crumble" but does not indicate the cat bite is used to explore broader themes of marriage/stability. It presents the bite as a catalyst for crumbling, not a thematic device. No exploration claim is made. Answer must be N/A.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Processing question 6: The article explicitly lists "Dr. Guralnik's glossy mane and teeny tiny braids (a major discussion point on message boards)" as one of "many reasons 'Couples Therapy' has broken through." It directly states her appearance was a focal online discussion point contributing to the show's success.</other>
+<question_number>6</question_number>
+<answer>major discussion point on message boards</answer>
+<other>Processing question 7: The article states Shane and Eva are "prey to the speculation and gossip of their shared milieu" (Brooklyn's Black literary scene) and notes their professional identities ("he's a 'serious' novelist, she's a popular writer of erotica"). It directly links their relationship challenges to professional identities and literary scene pressures.</other>
+<question_number>7</question_number>
+<answer>prey to the speculation and gossip of their shared milieu</answer>
+<other>Processing question 8: The article explicitly states "Sophie is bitten by a feral cat and their carefully ordered existence begins to crumble." This is the only event described as catalyzing the unraveling.</other>
+<question_number>8</question_number>
+<answer>feral cat bite</answer>
+<other>Processing question 9: The article describes the Bangalore protagonist's uncle starting "a successful spice company" leading to "allegiances tested" and "generational bonds... fray," but makes no comparison to gentrification in any other novel. No parallel is drawn between the business success and gentrification. Answer must be N/A.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Processing question 10: The article states Dr. Guralnik's "glossy mane and teeny tiny braids" were "a major discussion point on message boards," and separately mentions a "kitchen renovation" in the Otto/Sophie book as part of its description. It directly parallels the online discussion of her hairstyle to the attention given to the kitchen renovation.</other>
+<question_number>10</question_number>
+<answer>Dr. Orna Guralnik</answer>

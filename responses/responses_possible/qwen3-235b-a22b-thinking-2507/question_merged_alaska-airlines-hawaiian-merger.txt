@@ -1,0 +1,31 @@
+merged_alaska-airlines-hawaiian-merger.txt
+<other>Processing question 1: The article states "Hawaiian alone operated about 35 percent of all flights into the state in the year that ended in July, while Alaska operated 8 percent" and "The combined airline would also operate a majority of flights on a few routes where neither Alaska nor Hawaiian had more than 50 percent market share on their own." It also explicitly says "The combination would nevertheless reduce competition in Hawaii." The combined market share into Hawaii would be 35% + 8% = 43%, which reduces competition.</other>
+<question_number>1</question_number>
+<answer>reduces competition as combined market share into Hawaii becomes 43% (35% + 8%)</answer>
+<other>Processing question 2: The article states "Alaska and Hawaiian compete directly on only a dozen of their combined 350 routes... The dozen routes connect Honolulu or Maui with airports on the West Coast." Merging would eliminate this direct competition on those specific routes.</other>
+<question_number>2</question_number>
+<answer>eliminates direct competition on the 12 routes connecting Honolulu or Maui with West Coast airports</answer>
+<other>Processing question 3: The article states "The combined airline would also operate a majority of flights on a few routes where neither Alaska nor Hawaiian had more than 50 percent market share on their own." This implies increased availability or dominance on those specific routes.</other>
+<question_number>3</question_number>
+<answer>increases availability as the combined airline operates a majority of flights on those routes</answer>
+<other>Processing question 4: The article states they "compete directly on only a dozen of their combined 350 routes" and merging would combine operations. This directly ends competition on those specific routes.</other>
+<question_number>4</question_number>
+<answer>eliminates competition on the 12 routes where they currently compete directly</answer>
+<other>Processing question 5: The article states "Hawaiian flies between Hawaii and major airports in the continental United States" and the merger "would reduce competition in Hawaii." It also notes the combined network allows "selling flights connecting more destinations." However, it does not specify changes to the competitive landscape specifically for Hawaii-continental US routes beyond the general reduction in Hawaii competition.</other>
+<question_number>5</question_number>
+<answer>reduces competition in Hawaii (where Hawaiian operates 35% and Alaska 8% of flights into the state)</answer>
+<other>Processing question 6: The article discusses routes "where neither Alaska nor Hawaiian had more than 50 percent market share on their own" but does not specify any routes where their *combined* market share is less than 50%. It states the combined airline would operate a majority (implying >50%) on those routes. No information is provided about routes with combined share under 50%.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Processing question 7: The article states the merger "would help his airline grow by expanding its presence in tourist destinations and to Asia, where it currently does not fly." This is a strategic advantage (Asia expansion) not related to market share or fleet size.</other>
+<question_number>7</question_number>
+<answer>expansion to Asia (where Alaska currently does not fly)</answer>
+<other>Processing question 8: The article lists challenges for midsize airlines: "many airports do not have enough gates available," "manufacturers... have not been able to produce planes fast enough," and "Finding and training pilots has also been a challenge." The merger addresses pilot shortages by combining workforces ("give Alaska access to more... pilots").</other>
+<question_number>8</question_number>
+<answer>pilot shortages (finding and training pilots)</answer>
+<other>Processing question 9: The article states "Together, Alaska and Hawaiian have nearly 8 percent of the U.S. market. United, the fourth-largest U.S. airline, has 16 percent." The comparison is explicit.</other>
+<question_number>9</question_number>
+<answer>about half (8% vs 16%)</answer>
+<other>Processing question 10: The article states "Together, Alaska and Hawaiian have nearly 8 percent of the U.S. market... Spirit, the sixth-largest, has 5.1 percent." The comparison is explicit.</other>
+<question_number>10</question_number>
+<answer>larger (nearly 8% vs 5.1%)</answer>

@@ -1,0 +1,30 @@
+merged_alcohol-cancer-risk.txt
+<other>Looking through the article for information about cancer types and relative risk increases for light drinkers.</other>
+
+<question_number>1</question_number>
+<answer>esophageal cancer</answer>
+
+<other>Checking the data about breast cancer risk at two drinks per day compared to the reference group.</other>
+
+<question_number>2</question_number>
+<answer>4.3 percentage points</answer>
+
+<other>Finding the wine volume that corresponds to 19% lifetime risk for women.</other>
+
+<question_number>3</question_number>
+<answer>35 ounces</answer>
+
+<other>Calculating the risk differences between men and women at different consumption levels.</other>
+
+<question_number>4</question_number>
+<answer>two drinks per day</answer>
+
+<other>Identifying cancers that appear in both light and heavy drinking categories and show compound risk with smoking.</other>
+
+<question_number>5</question_number>
+<answer>mouth cancer</answer>
+
+<other>Finding the liquor volume associated with 13.1% breast cancer risk.</other>
+
+<question_number>6</question_number>
+<answer>1.5 ounces</answer>

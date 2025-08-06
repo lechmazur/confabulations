@@ -1,0 +1,19 @@
+merged_airlines-delta-profits.txt
+<other>Question 1: The text states that Boeing's production slowdown due to the panel incident forced delays, and Airbus couldn't compensate because "both it and Boeing have long order backlogs." This is explicitly described as disrupting airline expansion plans in non-consecutive paragraphs (Boeing incident paragraph and Airbus backlog paragraph). The critical constraint is the inability to obtain replacement aircraft due to manufacturer backlogs.</other>
+<question_number>1</question_number>
+<answer>long order backlogs at Boeing and Airbus preventing fleet expansion</answer>
+<other>Question 2: The text describes Boeing's production slowdown after the panel incident, then notes Airbus couldn't pick up slack due to its own backlogs, and later mentions Airbus engine problems requiring inspections. However, it does not describe this sequence as "irreversible," specify it disproportionately affected airlines with older fleets, or provide a chronological account meeting all criteria. The question's specific requirements aren't met.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Question 3: The text states Southwest made "changes aimed at lowering costs" and JetBlue unveiled a "strategy with similar aims" (cost reduction/profit increase), while also noting JetBlue is "adding more premium seats." It does not explicitly juxtapose these as a "fundamental divergence" in strategic responses to the same market pressures. The question assumes a contrast not directly stated.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Question 4: The text mentions business travel recovery, international route profitability, and aircraft delivery delays, and states large airlines are "well positioned" due to "buoyant trends including steadily rebounding business travel." However, it does not explicitly connect these to a critical path dependency that advantages widebody fleet operators over narrowbody-dependent carriers. The specific advantage described isn't present.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Question 5: The text states that after "other tumult" including the Boeing safety incident ("doors falling off planes"), a "brief technology outage," and Spirit Airlines' bankruptcy, airlines improved their position by "reducing the number of flights and seats," creating a "demand-over-supply imbalance" that gave "pricing power." These three crises (safety, technology, financial) are explicitly linked to the capacity management outcome.</other>
+<question_number>5</question_number>
+<answer>Boeing safety incident, technology outage, Spirit Airlines bankruptcy</answer>
+<other>Question 6: The text states "for the last five years, it's felt like every bird in the sky was a black swan" but now "this industry does have its ducks in a row," projecting 2025 stability. It attributes this to pandemic recovery, activist interventions (Elliott at Southwest, Icahn at JetBlue), and stabilized costs. The text presents this as resolution, not conflict; it does not frame the "last five years" as conflicting with the 2025 projection.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>

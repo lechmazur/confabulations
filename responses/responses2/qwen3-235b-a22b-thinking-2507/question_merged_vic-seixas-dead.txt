@@ -1,0 +1,13 @@
+merged_vic-seixas-dead.txt
+<other>For question 1, the article states: "he teamed with Trabert to defeat Ken Rosewall and Lew Hoad to end Australia's four-year Davis Cup reign in 1954." This describes one specific Davis Cup match victory against that pair. The article does not mention any other Davis Cup matches where Seixas defeated both Rosewall and Hoad together. Therefore, the answer is 1.</other>
+<question_number>1</question_number>
+<answer>1</answer>
+<other>For question 2, the article states: "Seixas, who remained an amateur throughout his career, played in 28 U.S. championship tournaments at Forest Hills between 1940 and 1969. He missed the event only when he was serving in the military during World War II." The question asks for the number of *consecutive* tournaments played. The article does not specify the sequence of years he played or missed (beyond missing due to WWII service), so it is impossible to determine how many were consecutive. The answer must be N/A.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>For question 3, the article states: "In addition to his two Grand Slam singles triumphs, Seixas captured eight mixed doubles titles, seven with Doris Hart and one with Shirley Fry." The article lists the partners but does not specify the order of these titles or which one was the last. Therefore, it is impossible to determine who his partner was for the last mixed doubles title. The answer must be N/A.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>For question 4, the article states Seixas "won five men's doubles championships" and specifies "He won a men's doubles championship with Mervyn Rose and four more with Tony Trabert." It also states he "captured his first men's singles title when he bested Kurt Nielsen of Denmark at Wimbledon in 1953." However, the article does not state who his partner was for the *men's doubles* championship at Wimbledon in 1953 (or any specific year for the doubles titles). The doubles partners are listed without year attribution. Therefore, the answer must be N/A.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>

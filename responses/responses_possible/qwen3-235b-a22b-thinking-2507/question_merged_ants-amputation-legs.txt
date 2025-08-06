@@ -1,0 +1,31 @@
+merged_ants-amputation-legs.txt
+<other>Processing question 1: The article states that when ants sustain thigh injuries, reduced hemolymph flow makes it harder for bacteria to move from the wound into the body, so amputation prevents infection. This explains why they only perform amputations on thigh injuries.</other>
+<question_number>1</question_number>
+<answer>reduced hemolymph flow limits bacterial spread from thigh injuries</answer>
+<other>Processing question 2: The article identifies muscles throughout the body that keep hemolymph flowing, specifically noting many such muscles in the thighs.</other>
+<question_number>2</question_number>
+<answer>muscles in the thighs that control hemolymph flow</answer>
+<other>Processing question 3: The article explicitly states it was counterintuitive that amputations work when the wound is closer to the body (thigh) but not when further away (lower leg), with survival rates of 90% vs 20%.</other>
+<question_number>3</question_number>
+<answer>wounds closer to the body have higher amputation success rates</answer>
+<other>Processing question 4: The article directly states that rescuing injured ants saves colonies from producing 10-20% more ants to compensate for losses, saving enormous energy.</other>
+<question_number>4</question_number>
+<answer>saving 10-20 percent of energy otherwise needed to replace lost ants</answer>
+<other>Processing question 5: The article states that for lower leg injuries, bacteria penetrate the body very quickly, making the time window narrow and success slim, while thigh injuries allow effective amputation due to reduced hemolymph flow.</other>
+<question_number>5</question_number>
+<answer>narrow for lower leg injuries but sufficient for thigh injuries</answer>
+<other>Processing question 6: The article explains that thigh muscles reduce hemolymph flow after injury, making bacterial movement difficult and allowing successful amputation to prevent infection.</other>
+<question_number>6</question_number>
+<answer>they reduce hemolymph flow, limiting bacterial movement into the body</answer>
+<other>Processing question 7: The article states bacteria penetrate the body very quickly from lower leg wounds but move slowly from thigh wounds due to reduced hemolymph flow, determining amputation effectiveness.</other>
+<question_number>7</question_number>
+<answer>slower movement from thigh wounds allows effective amputation; faster movement from lower leg wounds makes it ineffective</answer>
+<other>Processing question 8: The article describes the injured ant presenting its leg calmly during amputation, then presenting the wound for cleaning immediately after the leg drops off.</other>
+<question_number>8</question_number>
+<answer>injured ant presents leg calmly during amputation and then presents wound for cleaning</answer>
+<other>Processing question 9: The article states Florida carpenter ants have many hemolymph-pumping muscles in the thighs, correlating with the 90% survival rate for thigh amputations versus 20% for lower leg amputations.</other>
+<question_number>9</question_number>
+<answer>muscles concentrated in thighs correlate with 90 percent survival rate</answer>
+<other>Processing question 10: The article directly links the 90% survival rate of amputees to saving enormous energy by avoiding the need to produce 10-20% more ants.</other>
+<question_number>10</question_number>
+<answer>90 percent survival rate saves enormous energy by avoiding replacement of lost ants</answer>

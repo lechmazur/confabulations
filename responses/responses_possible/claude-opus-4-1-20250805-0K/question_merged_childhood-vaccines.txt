@@ -1,0 +1,50 @@
+merged_childhood-vaccines.txt
+<other>Looking at question 1, this asks me to explain how the correlation illustrates impact - this requires analysis beyond what's directly stated in the article.</other>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<other>Question 2 asks about the relationship between infrastructure and economic savings based on the health economist's statement. The economist said "when you create the right infrastructure to implement them, they pay for themselves right away" but doesn't explain the specific relationship.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<other>Question 3 asks how the decline in trust relates to increase in vaccine hesitancy - this requires connecting dots that aren't explicitly connected in the article.</other>
+
+<question_number>3</question_number>
+<answer>N/A</answer>
+
+<other>Question 4 asks for a percentage calculation. The article states direct savings are $540 billion and total savings including indirect effects are $2.7 trillion. So indirect effects = $2.7 trillion - $540 billion = $2.16 trillion. Percentage = ($2.16 trillion / $2.7 trillion) × 100 = 80%</other>
+
+<question_number>4</question_number>
+<answer>80%</answer>
+
+<other>Question 5 asks for average cost savings per prevented death. $540 billion / 1,129,000 deaths = approximately $478,300</other>
+
+<question_number>5</question_number>
+<answer>approximately $478,300</answer>
+
+<other>Question 6 asks what percentage of total economic savings is equivalent to cost of developing vaccines. The article doesn't provide the cost of developing vaccines.</other>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<other>Question 7 asks about Clean Air Act's impact as percentage of GDP. The article doesn't provide GDP figures or specific Clean Air Act savings amounts.</other>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<other>Question 8 asks for average cost savings per prevented hospitalization. $540 billion / 32 million hospitalizations = $16,875</other>
+
+<question_number>8</question_number>
+<answer>$16,875</answer>
+
+<other>Question 9 asks for a prediction about when outbreaks will exceed a certain percentage. The article doesn't provide information to make this prediction.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<other>Question 10 asks for the percentage breakdown between preventing initial infections versus managing later conditions. The article states the $540 billion includes both but doesn't break down the percentages.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>

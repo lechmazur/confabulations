@@ -1,0 +1,25 @@
+merged_2025-travel-prices-flights-hotels-cruises.txt
+<other>For question 1, the article states cruise ships prefer incentives like prepaid gratuities over fare cuts, indicating lowest probability of direct price reductions in cruise lines.</other>
+<question_number>1</question_number>
+<answer>cruise lines</answer>
+<other>For question 2, only cruise sector provides both customer volume growth (9% from 2023 to 2024) and price increase (6% for summer 2025), with disparity of 3 percentage points; no other sectors have comparable data.</other>
+<question_number>2</question_number>
+<answer>cruise lines</answer>
+<other>For question 3, article indicates cruise ships have high capacity utilization (nearly full) and low pricing flexibility (incentives over fare cuts), showing inverse relationship; no other categories mention both factors.</other>
+<question_number>3</question_number>
+<answer>cruise lines</answer>
+<other>For question 4, article specifies domestic airfares were lowest on record in 2024 and projected up double digits for spring and summer 2025, indicating greatest contrast during that period.</other>
+<question_number>4</question_number>
+<answer>spring and summer 2025</answer>
+<other>For question 5, cruise lines maintain nearly full capacity and show resistance to traditional discounting by preferring incentives over fare cuts; no other segments describe both conditions.</other>
+<question_number>5</question_number>
+<answer>cruise lines</answer>
+<other>For question 6, economy hotels have rate of change at 0.2%, explicitly stated as below inflation rate; no other options provide rate of change relative to inflation.</other>
+<question_number>6</question_number>
+<answer>economy hotels</answer>
+<other>For question 7, article describes no contradiction between booking levels and willingness for direct price reductions; high cruise bookings align with no fare cuts, and no sectors show inconsistent behavior.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>For question 8, cruise lines show 9% year-over-year passenger volume increase and low pricing flexibility (incentives over fare cuts); no other forms provide passenger volume statistics.</other>
+<question_number>8</question_number>
+<answer>cruise lines</answer>

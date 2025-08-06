@@ -1,0 +1,31 @@
+merged_book-banning-south-carolina-tennesse-idaho-utah.txt
+<other>Processing question 1: The article states for Utah that if material is removed by "three school districts -- or two school districts and five charter schools -- the Utah State Board of Education will order it to be removed statewide." This matches the question's description.</other>
+<question_number>1</question_number>
+<answer>Utah</answer>
+<other>Processing question 2: The article mentions Idaho's definition of "obscene materials" comes from "an existing statute from the 1970s" but does not specify the exact year. Therefore, the year cannot be determined from the text.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Processing question 3: The article states South Carolina's regulations "make no distinction between what's appropriate for an elementary student versus a high school student" and Joshua Malkin worries they could affect classics like "The Bluest Eye," "1984," and "The Catcher in the Rye."</other>
+<question_number>3</question_number>
+<answer>South Carolina</answer>
+<other>Processing question 4: Utah's law includes removal for "descriptions of sex or masturbation." Tennessee's law prohibits material with "any descriptions or depictions of sexual conduct," and the article specifies that in Idaho's statute (which Tennessee's regulation aligns with in scope), "sexual conduct including 'masturbation, homosexuality, sexual intercourse'" is included. Masturbation is explicitly named in both contexts.</other>
+<question_number>4</question_number>
+<answer>masturbation</answer>
+<other>Processing question 5: The article describes the Donnelly Public Library in Idaho (1,024 square feet) which "will now require permission from a parent or guardian for a child to enter the library alone" due to space constraints under the new rule.</other>
+<question_number>5</question_number>
+<answer>Idaho</answer>
+<other>Processing question 6: The article states South Carolina's new regulations are "an effort to create a uniform process to replace a patchwork approach" and require districts to "keep a list of all books and materials available to students."</other>
+<question_number>6</question_number>
+<answer>South Carolina</answer>
+<other>Processing question 7: The article details Saba Baig's concerns in Idaho about costs for lawyer reviews of complaints and potential "ruinously expensive" litigation for small-budget libraries.</other>
+<question_number>7</question_number>
+<answer>Idaho</answer>
+<other>Processing question 8: The article explicitly uses "Beloved," by Toni Morrison, as an example of a frequently challenged book that is "widely considered to be a masterpiece," illustrating the conflict with new laws that prioritize removing material over artistic merit.</other>
+<question_number>8</question_number>
+<answer>Beloved</answer>
+<other>Processing question 9: The article identifies "Idaho State Representative Jaron Crane" as the bill's sponsor for the Idaho law regarding "obscene materials."</other>
+<question_number>9</question_number>
+<answer>Jaron Crane</answer>
+<other>Processing question 10: The article states Utah's new law says local education agencies "should prioritize 'protecting children from the harmful effects of illicit pornography over other considerations.'" This is a direct quote from the Utah section.</other>
+<question_number>10</question_number>
+<answer>Utah</answer>

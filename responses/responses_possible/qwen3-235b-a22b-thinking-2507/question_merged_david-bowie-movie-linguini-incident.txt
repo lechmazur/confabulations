@@ -1,0 +1,31 @@
+merged_david-bowie-movie-linguini-incident.txt
+<other>Processing question 1: The article states Bowie rejected the small supporting role for flamboyant restaurateurs and demanded the lead role instead, altering the casting plan.</other>
+<question_number>1</question_number>
+<answer>Bowie rejected the small supporting role and demanded to play the lead instead</answer>
+<other>Processing question 2: The article explicitly mentions the film's release coincided with LA curfews due to Rodney King protests, causing no one to show up.</other>
+<question_number>2</question_number>
+<answer>the city was under curfew due to violent protests over Rodney King acquittal</answer>
+<other>Processing question 3: The article specifies Shepard had only five weeks for editing, was overruled as a rookie filmmaker, resulting in jump cuts and poor pacing.</other>
+<question_number>3</question_number>
+<answer>only five weeks to edit, overruled as a rookie filmmaker, resulting in jump cuts and no pace</answer>
+<other>Processing question 4: The article directly names "The Linguini Incident" as financed with "mysterious money" and having its copyright claimed by SAG for nonpayment of residuals.</other>
+<question_number>4</question_number>
+<answer>The Linguini Incident</answer>
+<other>Processing question 5: The article identifies Rosanna Arquette by her film credits, working with Bowie (rock legend), during LA release amid Rodney King protests.</other>
+<question_number>5</question_number>
+<answer>Rosanna Arquette</answer>
+<other>Processing question 6: The article describes both original financing (multiple bankrupt sources) and reacquisition (tracking bankrupt companies), but does not explicitly state how the acquisition process relates to the financing method. No direct connection is provided.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Processing question 7: The article states Zurich had an art theater that screened a print, leading Shepard to the British distributor holding the European rights.</other>
+<question_number>7</question_number>
+<answer>Zurich</answer>
+<other>Processing question 8: The "mysterious money" financing led to scattered rights from bankrupt companies, which ironically required the SAG copyright claim (due to nonpayment from that same financing) to reacquire control.</other>
+<question_number>8</question_number>
+<answer>mysterious money financing caused scattered rights, requiring SAG copyright claim (from nonpayment) to reacquire</answer>
+<other>Processing question 9: Both original release and restoration faced challenges from production companies folding/bankrupting, causing rights issues and material loss.</other>
+<question_number>9</question_number>
+<answer>both involved production companies folding or going bankrupt, causing rights and material issues</answer>
+<other>Processing question 10: The article states the theatrical failure led to original companies folding, which caused rights to be claimed by SAG, enabling the reacquisition deal with SAG.</other>
+<question_number>10</question_number>
+<answer>theatrical failure caused original companies to fold, leading to SAG claiming copyright for reacquisition</answer>

@@ -1,0 +1,31 @@
+merged_alzheimers-blood-test.txt
+<other>Processing question 1: The article states experts caution against using blood tests on cognitively healthy individuals because "there's no therapies to offer" for those without symptoms. This is the primary reason given.</other>
+<question_number>1</question_number>
+<answer>no therapies to offer</answer>
+<other>Processing question 2: The article states primary care doctors were wrong 41% of the time when they thought patients did not have Alzheimer's, while the blood test was wrong only about 10% of the time. Thus the blood test is more accurate.</other>
+<question_number>2</question_number>
+<answer>blood test is more accurate (10% wrong vs 41% wrong)</answer>
+<other>Processing question 3: The article states the lower accuracy in subjective cognitive decline occurred because "many people with subjective cognitive decline do not turn out to have Alzheimer's."</other>
+<question_number>3</question_number>
+<answer>many people with subjective cognitive decline do not have Alzheimer's</answer>
+<other>Processing question 4: Dr. Boxer states the remaining hurdle is for "blood test analysis to be easily integrated into hospital laboratory systems rather than requiring outside labs."</other>
+<question_number>4</question_number>
+<answer>integration into hospital laboratory systems rather than requiring outside labs</answer>
+<other>Processing question 5: The article states "Measuring that form, called ptau-217, was found to give the most accurate assessment of Alzheimer's pathology."</other>
+<question_number>5</question_number>
+<answer>ptau-217</answer>
+<other>Processing question 6: Dr. Boxer states it "would not be ethical to use it in people who don't yet have symptoms, unless it's in the context of a research study."</other>
+<question_number>6</question_number>
+<answer>only in research studies</answer>
+<other>Processing question 7: The article states "patients with kidney disease, which can cause high ptau-217 levels that are not linked to Alzheimer's."</other>
+<question_number>7</question_number>
+<answer>kidney disease</answer>
+<other>Processing question 8: Dr. Hansson states there is a "risk of anxiety and other reactions, psychological reactions, to such a test result" for cognitively healthy individuals.</other>
+<question_number>8</question_number>
+<answer>risk of anxiety and psychological reactions</answer>
+<other>Processing question 9: The article states primary care doctors were "wrong 41 percent of the time when they thought patients did not have Alzheimer's."</other>
+<question_number>9</question_number>
+<answer>41 percent</answer>
+<other>Processing question 10: Dr. Boxer states the hope is that if primary care doctors can use these tests, "it will increase access to screening, especially for people from racial and ethnic minorities and low-income and rural communities."</other>
+<question_number>10</question_number>
+<answer>increase access to screening</answer>

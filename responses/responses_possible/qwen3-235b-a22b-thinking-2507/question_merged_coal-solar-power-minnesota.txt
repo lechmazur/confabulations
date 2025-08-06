@@ -1,0 +1,31 @@
+merged_coal-solar-power-minnesota.txt
+<other>Processing question 1: The article states Edling Farms produced potatoes and faced leasing issues where solar developers offered more per acre than farmers. Potatoes are the agricultural product mentioned.</other>
+<question_number>1</question_number>
+<answer>potatoes</answer>
+<other>Processing question 2: The article refers to coal as "black gold" and notes Sherco consumed 120,000 pounds of coal per hour. Coal matches the description.</other>
+<question_number>2</question_number>
+<answer>coal</answer>
+<other>Processing question 3: Edling Farms operated for over a century, lost 280 acres to Xcel's solar project. The battery system uses iron (found in pots/pans) to power 2,000 homes. The family business is Edling Farms.</other>
+<question_number>3</question_number>
+<answer>Edling Farms</answer>
+<other>Processing question 4: The article describes a "Save Our Sherco" lawn sign as a silent protest. Lawn signs are everyday objects on residents' lawns.</other>
+<question_number>4</question_number>
+<answer>lawn sign</answer>
+<other>Processing question 5: Xcel Energy (named after "X", the unknown in math) is installing Form Energy's battery system. The system uses iron, water, and air to power 2,000 homes.</other>
+<question_number>5</question_number>
+<answer>Xcel Energy</answer>
+<other>Processing question 6: Iron is used in the battery system (water, air, iron) and is a common element in the human body (e.g., hemoglobin). It connects agriculture (soil/iron) and technology.</other>
+<question_number>6</question_number>
+<answer>iron</answer>
+<other>Processing question 7: The coal stockpile is described as a giant mound weighing 1.9 million tons, visible in town, representing industrial heritage and transition scale.</other>
+<question_number>7</question_number>
+<answer>coal stockpile</answer>
+<other>Processing question 8: Xcel Energy (X symbolizes precision/targets) closed 24 of 36 coal units nationwide, which is 24/36 or 2/3 fraction.</other>
+<question_number>8</question_number>
+<answer>Xcel Energy, 2/3</answer>
+<other>Processing question 9: Coal is called "black gold" in the article and is being replaced by solar power (from the sun, a celestial body).</other>
+<question_number>9</question_number>
+<answer>black gold</answer>
+<other>Processing question 10: Leases were previously used by farmers ($200/acre) but are now more lucrative with solar developers ($900/acre).</other>
+<question_number>10</question_number>
+<answer>lease</answer>

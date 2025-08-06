@@ -1,0 +1,31 @@
+merged_a23a-iceberg-antarctica-spinning.txt
+<other>Processing question 1: The article states the Taylor column creates "a stagnant cylinder of fluids above the seamount, slowly rotating the water counterclockwise around the bump" which traps the iceberg. This stagnant cylinder prevents drifting into warmer waters.</other>
+<question_number>1</question_number>
+<answer>a stagnant cylinder of fluids</answer>
+<other>Processing question 2: The article states the iceberg rotates "15 degree rotation per day" completing a full rotation in "about 24 days". Earth's orbit around the Sun takes 365 days. The premise of matching Earth's orbital period is incorrect.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Processing question 3: The article states "Melting icebergs that originate from floating ice shelves like A23a do not themselves significantly contribute to global sea level rise" while "the deterioration of large portions of ice shelves will make the continent's glaciers more vulnerable to warming" (which would impact sea levels).</other>
+<question_number>3</question_number>
+<answer>no significant contribution to global sea level rise</answer>
+<other>Processing question 4: The article states "A23, which was even bigger than A23a, was one of three icebergs that broke off, or calved, from the Filchner Ice Shelf in 1986" and "A23a broke off later that year". The calving event in 1986 created A23a.</other>
+<question_number>4</question_number>
+<answer>calving of A23 from the Filchner Ice Shelf</answer>
+<other>Processing question 5: The article states the robotic float was "trapped in a Taylor column for four years" and if A23a "spends an extended time in the vortex, the iceberg could melt significantly". Both involve extended trapping in a Taylor column.</other>
+<question_number>5</question_number>
+<answer>trapped in a Taylor column for an extended time</answer>
+<other>Processing question 6: The article explicitly states "the gigantic iceberg got caught in what's known as a Taylor column".</other>
+<question_number>6</question_number>
+<answer>Taylor column</answer>
+<other>Processing question 7: The article states the robotic float was "trapped in a Taylor column for four years".</other>
+<question_number>7</question_number>
+<answer>four</answer>
+<other>Processing question 8: The article states the seamount is "about 100 kilometers across".</other>
+<question_number>8</question_number>
+<answer>100 kilometers</answer>
+<other>Processing question 9: The article states "Christopher A. Shuman... surmised that A23a would eventually go the way of other large icebergs".</other>
+<question_number>9</question_number>
+<answer>Christopher A. Shuman</answer>
+<other>Processing question 10: The article states large icebergs "get sucked into the Antarctic Circumpolar Current".</other>
+<question_number>10</question_number>
+<answer>Antarctic Circumpolar Current</answer>

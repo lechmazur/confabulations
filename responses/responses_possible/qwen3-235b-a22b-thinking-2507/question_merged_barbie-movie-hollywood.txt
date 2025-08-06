@@ -1,0 +1,31 @@
+merged_barbie-movie-hollywood.txt
+<other>Processing question 1: The article quotes Margot Robbie stating the primary hurdle is convincing studios that "men will show up for a female-lead film." This directly addresses studios' hesitation despite "Barbie's" success.</other>
+<question_number>1</question_number>
+<answer>men will not show up for female-lead films</answer>
+<other>Processing question 2: The USC Annenberg report shows films in 2023 had the same number of female leads as in 2010, illustrating no actual change despite "Barbie's" perceived success.</other>
+<question_number>2</question_number>
+<answer>same number of female leads in 2023 as in 2010</answer>
+<other>Processing question 3: The article states studios are "spooked by a fickle audience" and want "sure bets" during economic hardship, causing retreat to traditional practices instead of innovating with female-led projects.</other>
+<question_number>3</question_number>
+<answer>studios want sure bets and retreat to traditional practices</answer>
+<other>Processing question 4: The article mentions Warner Bros. executives gave an original key to Margot Robbie's production company, but no executive received the key. The question asks which executive received it, so no match exists.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Processing question 5: Producers argued for a larger budget but were told "Wonder Woman" wasn't comparable because it was in the superhero genre.</other>
+<question_number>5</question_number>
+<answer>not comparable due to superhero genre</answer>
+<other>Processing question 6: Amy Baer shopped a comedy project and studios responded "We just don't know who it's for."</other>
+<question_number>6</question_number>
+<answer>We just don't know who it's for</answer>
+<other>Processing question 7: The tradition of giving an original key to the studio was resurrected for Margot Robbie's production company after "Barbie's" success.</other>
+<question_number>7</question_number>
+<answer>giving an original key to the studio</answer>
+<other>Processing question 8: Daniel Kaluuya is set to star in Mattel's "Barney" reimagining, and Mattel gave Greta Gerwig creative freedom for "Barbie."</other>
+<question_number>8</question_number>
+<answer>Daniel Kaluuya</answer>
+<other>Processing question 9: The contracts for Greta Gerwig and Margot Robbie "did not have them on the hook to make a sequel."</other>
+<question_number>9</question_number>
+<answer>contracts did not include sequel commitment</answer>
+<other>Processing question 10: Warner Bros. has "three more live-action films starring women from female directors, including Olivia Wilde" in development, excluding Greta Gerwig.</other>
+<question_number>10</question_number>
+<answer>three</answer>

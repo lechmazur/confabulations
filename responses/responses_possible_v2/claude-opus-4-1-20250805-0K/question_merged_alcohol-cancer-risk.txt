@@ -1,0 +1,26 @@
+merged_alcohol-cancer-risk.txt
+<other>Let me analyze each question based on the article.</other>
+
+<question_number>1</question_number>
+<other>The article mentions that light drinkers (up to one drink per day) had a 30% higher chance of developing esophageal cancer, 17% higher for oral cavity and pharynx cancer, and 5% higher for breast cancer compared to non-drinkers. The highest percentage increase is 30% for esophageal cancer.</other>
+<answer>esophageal cancer</answer>
+
+<question_number>2</question_number>
+<other>The article states that at two drinks per day, the share of women who would develop breast cancer increased to 15.3%. The reference group (less than one drink per week) had about 11% lifetime risk of breast cancer. So the increase would be 15.3% - 11% = 4.3 percentage points.</other>
+<answer>4.3 percentage points</answer>
+
+<question_number>3</question_number>
+<other>The article states that women who consumed one alcoholic drink each day (seven drinks a week) had a 19% lifetime risk of developing any alcohol-related cancer. A standard drink contains 14 grams of alcohol, which is about the amount in a 5-ounce glass of wine. So seven drinks per week would be 7 × 5 = 35 ounces of wine per week.</other>
+<answer>35 ounces</answer>
+
+<question_number>4</question_number>
+<other>Looking at the data: At less than one drink per week: women 17%, men 10% (gap of 7%). At one drink per day: women 19%, men 11% (gap of 8%). At two drinks per day: women 22%, men 13% (gap of 9%). The article doesn't provide data for four or more drinks a day broken down by gender percentages.</other>
+<answer>two drinks per day</answer>
+
+<question_number>5</question_number>
+<other>The article mentions cancers of the mouth, throat/pharynx, esophagus appear in light drinking risks. Heavy drinking is linked to cancers of the mouth, oropharynx, larynx, esophagus, breast, colorectal, liver, stomach, gall bladder and pancreas. The article specifically mentions that "Drinking and smoking cigarettes, for instance, is known to compound the risk of head and neck cancers." Head and neck cancers would include mouth/oral cavity cancers.</other>
+<answer>cancers of the mouth</answer>
+
+<question_number>6</question_number>
+<other>The article states that at one drink each day, the lifetime risk of breast cancer increased to 13.1%. A standard drink is defined as a 1.5-ounce shot of liquor. So the daily volume would be 1.5 ounces.</other>
+<answer>1.5 ounces</answer>

@@ -1,0 +1,28 @@
+merged_africa-world-bank-solar-electricity.txt
+<other>Question 1: The energy minister justified intervention by stating minigrid operators charged artificially high prices. Husk Power Systems exited Tanzania due to pricing regulations, causing Mwajuma Mohamed's TV to stop working. If the minister had been in charge when Husk initially entered, Husk likely wouldn't have operated profitably or at all, so Mwajuma would not have had functional electricity for her TV. Answer is no.</other>
+<question_number>1</question_number>
+<answer>no</answer>
+<other>Question 2: The company that left Tanzania due to pricing regulations is Husk Power Systems, which built 70 minigrids in Nigeria. Tanzania had the "Bulldozer" president (John Magufuli) during initial electrification. If rebels targeted Nigeria (where Husk has 70 operational minigrids), Tanzania would not be affected; Nigeria is the country with the minigrids.</other>
+<question_number>2</question_number>
+<answer>Nigeria</answer>
+<other>Question 3: Gesenda Mwise Gesenda states that with Tanesco, it "costs me three times as much for the same amount of power" compared to Husk. Even if Tanesco's cost tripled but remained less than Husk's original price, Gesenda directly attributes the higher cost to Tanesco.</other>
+<question_number>3</question_number>
+<answer>Tanesco</answer>
+<other>Question 4: The main enabling factor is solar power's plummeting cost due to China's production. Without it, solar minigrids would be less viable, forcing reliance on Tanesco (state utility). Gesenda pays three times more with Tanesco than he did with Husk's solar minigrid. If solar is unavailable, Tanesco remains the only option, so he would pay more.</other>
+<question_number>4</question_number>
+<answer>more</answer>
+<other>Question 5: Mashavu Ali has eight children, but only one daughter's academic performance (studying late) is mentioned. The question asks for "how many daughters" would study late in Nigeria (where Husk is active), but the article provides no information about multiple daughters studying late or the number affected. Only one daughter is referenced.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Question 6: In Nigeria (receptive regulatory environment), Husk operates successfully. Gesenda paid less with Husk than with Tanesco. If Tanzania adopted Nigeria's regulatory environment, Husk might return, and Gesenda would pay less for refrigeration as before.</other>
+<question_number>6</question_number>
+<answer>less</answer>
+<other>Question 7: Solar power's cost drop (due to China) is the main enabling factor. If the US administration becomes hostile to solar, it could reduce World Bank funding (as US is largest contributor), slowing solar minigrid deployment. Without solar competition, Tanesco (state utility) would remain the sole provider with high costs, so Gesenda would likely see no decrease; costs might increase due to lack of alternatives.</other>
+<question_number>7</question_number>
+<answer>increase</answer>
+<other>Question 8: Mwajuma's TV stopped working when Husk left. If Rockefeller prioritized grid extension, Matipwili would rely on Tanesco, which has "frequent and lengthy power cuts" and "inferior" service. Her TV would not be consistently functional, as stated in the article: it is "back in the box" with Tanesco's unreliable power.</other>
+<question_number>8</question_number>
+<answer>no</answer>
+<other>Question 9: If Magufuli ("Bulldozer") prioritized regulatory reform, Husk might have stayed, providing reliable power. Mashavu's children "go to bed soon after the sun sets" without electricity. With functional power, they could study late, so they would go to bed later.</other>
+<question_number>9</question_number>
+<answer>later</answer>

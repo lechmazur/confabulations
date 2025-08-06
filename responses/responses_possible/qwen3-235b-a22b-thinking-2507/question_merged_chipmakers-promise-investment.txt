@@ -1,0 +1,31 @@
+merged_chipmakers-promise-investment.txt
+<other>Processing question 1: The article states Intel received up to $8.5 billion in CHIPS Act funding and later cut 15,000 jobs, but does not specify any relationship between the funding amount and the workforce changes. No causal or correlational link is provided in the text.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Processing question 2: The article mentions the CHIPS Act funding is part of efforts to triple domestic chip manufacturing capacity by 2032, but does not provide any numerical correlation (e.g., statistical measure) between the funding and the projected increase.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Processing question 3: The article states $30 billion in public investment has been accompanied by private commitments of more than $300 billion. The ratio is $300 billion / $30 billion = 10:1.</other>
+<question_number>3</question_number>
+<answer>10:1</answer>
+<other>Processing question 4: Largest grant mentioned is Intel's $8.5 billion. Smallest grant mentioned is SK Hynix's $450 million ($0.45 billion). Difference is $8.5 billion - $0.45 billion = $8.05 billion.</other>
+<question_number>4</question_number>
+<answer>$8.05 billion</answer>
+<other>Processing question 5: Total CHIPS Act funding is $39 billion. Allocated amount is more than $30 billion, but the article specifies "$30 billion" as the allocated figure for calculation purposes. Unallocated = $39 billion - $30 billion = $9 billion. Percentage = ($9 billion / $39 billion) * 100 = 23.08%.</other>
+<question_number>5</question_number>
+<answer>23.08%</answer>
+<other>Processing question 6: Total allocated funds are $30 billion. Projected job creation is more than 100,000 jobs, but the article specifies "more than 100,000" with 100,000 used as the base figure. Average = $30 billion / 100,000 = $300,000 per job.</other>
+<question_number>6</question_number>
+<answer>$300,000</answer>
+<other>Processing question 7: Private investment commitments are more than $300 billion. Public funding allocated is $30 billion. Ratio = $300 billion / $30 billion = $10 private investment per $1 public funding.</other>
+<question_number>7</question_number>
+<answer>$10</answer>
+<other>Processing question 8: The article mentions grants to non-U.S. companies (SK Hynix, TSMC, Samsung) but only specifies SK Hynix's amount ($450 million). TSMC's grant is stated as up to $6.6 billion, but Samsung's grant amount is not provided in the text. Therefore, the total funding to non-U.S. companies cannot be determined from the given information.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>Processing question 9: Largest grant is Intel's $8.5 billion. SK Hynix grant is $450 million ($0.45 billion). Ratio = $8.5 billion / $0.45 billion ≈ 18.89.</other>
+<question_number>9</question_number>
+<answer>18.89</answer>
+<other>Processing question 10: U.S. semiconductor manufacturing share was 37% in 1990 and is currently about 10%. Difference = 37% - 10% = 27 percentage points needed to return to 1990 level.</other>
+<question_number>10</question_number>
+<answer>27</answer>

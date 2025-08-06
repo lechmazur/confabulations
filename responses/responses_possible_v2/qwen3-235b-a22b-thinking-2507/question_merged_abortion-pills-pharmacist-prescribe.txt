@@ -1,0 +1,31 @@
+merged_abortion-pills-pharmacist-prescribe.txt
+<other>Processing question 1: The article states "10 pharmacists across Washington State had prescribed abortion pills to 43 patients" during the pilot timeframe. 43 divided by 10 equals 4.3, which rounds to 4.</other>
+<question_number>1</question_number>
+<answer>4</answer>
+<other>Processing question 2: The article states the Trump administration could "try to reinstate Food and Drug Administration regulations that required that only doctors prescribe mifepristone".</other>
+<question_number>2</question_number>
+<answer>regulations that required that only doctors prescribe mifepristone</answer>
+<other>Processing question 3: The article attributes the statement "medically unsupervised" to Dr. Ingrid Skop, identified as "vice president and director of medical affairs at the Charlotte Lozier Institute".</other>
+<question_number>3</question_number>
+<answer>Dr. Ingrid Skop, vice president and director of medical affairs at the Charlotte Lozier Institute</answer>
+<other>Processing question 4: The article describes telehealth follow-ups where pharmacists asked "Have you had excessive bleeding or no bleeding? Do you have fever, pain, whatever?" as the specific safety-monitoring process.</other>
+<question_number>4</question_number>
+<answer>asking about excessive bleeding, no bleeding, fever, or pain</answer>
+<other>Processing question 5: The article explicitly names the "Comstock Act" as the "151-year-old federal anti-vice law" that could be invoked.</other>
+<question_number>5</question_number>
+<answer>Comstock Act</answer>
+<other>Processing question 6: The article states "in many states, pharmacists can prescribe birth control and morning-after pills" as the precedent medication category.</other>
+<question_number>6</question_number>
+<answer>birth control and morning-after pills</answer>
+<other>Processing question 7: The article specifies patients "could be up to 10 weeks pregnant" for eligibility.</other>
+<question_number>7</question_number>
+<answer>10</answer>
+<other>Processing question 8: The article states patients "paid $40" in the pilot program.</other>
+<question_number>8</question_number>
+<answer>$40</answer>
+<other>Processing question 9: Don Downing is identified as "co-director of the project and a professor emeritus of pharmacy at the University of Washington" and described as having "pioneered other prescribing programs that have spread nationally".</other>
+<question_number>9</question_number>
+<answer>professor emeritus of pharmacy at the University of Washington</answer>
+<other>Processing question 10: Michael Hogue, identified as "chief executive of the American Pharmacists Association", made the statement about "someone so accessible in a local community".</other>
+<question_number>10</question_number>
+<answer>American Pharmacists Association</answer>

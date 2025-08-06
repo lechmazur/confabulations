@@ -1,0 +1,31 @@
+merged_china-seniors-dating-shanghai.txt
+<other>Processing question 1: The article states older men "always seem to want younger women" and that Ma Guoying and Zhang Xiaolan "haven't had much luck finding a man," but it does not explicitly state how this preference affects their success rate. The text only presents correlation without causal analysis or quantification of success rate. Per instructions, answer N/A for unproven causal relationships.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Processing question 2: The article mentions Xu Xiaoduo shares his pension amount and Li Zhiming lists assets (apartment, pension), but it does not describe how their economic background influences their approach to finding partners. No analysis of influence is provided, only factual disclosures.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Processing question 3: The article describes Liu Qiyu coming to find a partner but failing, then stating he isn't looking himself. However, it does not identify or label any "common misconception" about motivations. The text reports his actions without commentary on misconceptions.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Processing question 4: The article explicitly states People's Park hosts a "marriage market" for parents seeking partners for unmarried children, then notes "Gradually, someone thought if the children could find a partner, so can the parents," directly drawing a parallel between the two generations' use of the same location.</other>
+<question_number>4</question_number>
+<answer>by describing it as a natural extension of the existing marriage market for younger generations</answer>
+<other>Processing question 5: The article states Zheng Yue specifies ideal partner traits and notes "It takes a lot for women to come to these gatherings... They tend to be more shy... We are brave enough to come by ourselves," directly challenging the stereotype of older women's shyness in seeking companionship.</other>
+<question_number>5</question_number>
+<answer>by openly seeking companionship despite societal expectations of shyness</answer>
+<other>Processing question 6: The article mentions Li Zhiming's wife left in 1996 and he has been alone since, but it does not describe how this past decision impacts his current social interactions. Only the factual timeline is given, not any effect on interactions.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Processing question 7: Xu Xiaoduo is identified as a "twice-divorced former primary-school teacher who volunteers details about his pension (around $1,250 a month) and his dancing abilities."</other>
+<question_number>7</question_number>
+<answer>Xu Xiaoduo</answer>
+<other>Processing question 8: Li Zhiming states "I have smartphones, or at least I have the means to buy one, but most say they don't want to search for a partner online. 'I don't think online dating is reliable.'" He expresses skepticism despite smartphone access.</other>
+<question_number>8</question_number>
+<answer>Li Zhiming</answer>
+<other>Processing question 9: Ma Guoying is described as having "a warm smile and likes to wear bright colors and large, round glasses" and explains her motivation: "If we stay at home 24 hours a day, our brains would deteriorate."</other>
+<question_number>9</question_number>
+<answer>Ma Guoying</answer>
+<other>Processing question 10: Zheng Yue specifies wanting a woman who is "young and beautiful" (physical) and "knowledgeable, sensible, mature, stable, amiable and kind" (personality traits).</other>
+<question_number>10</question_number>
+<answer>Zheng Yue</answer>

@@ -1,0 +1,31 @@
+merged_alcohol-surgeon-general-warning.txt
+<other>Processing question 1: The article states "President-elect Donald J. Trump does not drink, and his choice to head the Health and Human Services Department, Robert F. Kennedy Jr., swore off alcohol and drugs decades ago, and says he regularly attends AA meetings." Robert F. Kennedy Jr. is the non-drinking federal health official who regularly participates in addiction recovery meetings (AA meetings).</other>
+<question_number>1</question_number>
+<answer>Robert F. Kennedy Jr.</answer>
+<other>Processing question 2: The article states "For men, the absolute risk of developing an alcohol-related cancer increases from about 10 percent (10 of every 100 individuals) for those who consume less than one drink a week to 13 percent (13 of 100 individuals) for those who have two drinks a day on average." The difference is 13% - 10% = 3 percentage points.</other>
+<question_number>2</question_number>
+<answer>3</answer>
+<other>Processing question 3: The article states "The most widely accepted theory is that inside the body, alcohol breaks down into acetaldehyde, a metabolite that binds to DNA and damages it."</other>
+<question_number>3</question_number>
+<answer>acetaldehyde</answer>
+<other>Processing question 4: The article states "To date, only South Korea has a label warning about liver cancer, though manufacturers can choose alternative labels that don't mention cancer."</other>
+<question_number>4</question_number>
+<answer>South Korea</answer>
+<other>Processing question 5: The article states "Fewer than half of Americans identified alcohol use as a risk factor for cancer, compared with 89 percent who recognized tobacco as a carcinogen." The percentage for alcohol is "fewer than half" meaning less than 50%, while tobacco is 89%.</other>
+<question_number>5</question_number>
+<answer>less than 50%</answer>
+<other>Processing question 6: The article states "Industry opposition led to the premature termination of a federally funded Canadian study of the impact of warning labels that mentioned cancer."</other>
+<question_number>6</question_number>
+<answer>federally funded Canadian study</answer>
+<other>Processing question 7: The article states "the absolute risk of breast cancer over a woman's life span is about 11.3 percent (11 out of 100) for those who have less than a drink a week. The risk increases to 13.1 percent (13 of 100 individuals) at one drink a day." The difference is 13.1% - 11.3% = 1.8 percentage points.</other>
+<question_number>7</question_number>
+<answer>1.8</answer>
+<other>Processing question 8: The article states "More recent studies have also linked moderate alcohol consumption to certain forms of heart disease, including atrial fibrillation, a heart arrhythmia."</other>
+<question_number>8</question_number>
+<answer>atrial fibrillation</answer>
+<other>Processing question 9: The article states "the link between alcohol and breast cancer has been known for decades. It was first mentioned in the 2000 U.S. Dietary Guidelines."</other>
+<question_number>9</question_number>
+<answer>2000</answer>
+<other>Processing question 10: The article states "Overall, one of every six breast cancer cases is attributable to alcohol consumption, Dr. Murthy said." One-sixth is equivalent to 16.7%.</other>
+<question_number>10</question_number>
+<answer>16.7%</answer>

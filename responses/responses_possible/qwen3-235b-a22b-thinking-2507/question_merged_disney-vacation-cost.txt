@@ -1,0 +1,31 @@
+merged_disney-vacation-cost.txt
+<other>Processing question 1: The article states Disney discontinued the free Magical Express bus service from Orlando International Airport, replacing it with paid shuttles costing $23-$30 per adult. This is explicitly cited as reflecting the broader trend of rising costs and diminishing perks.</other>
+<question_number>1</question_number>
+<answer>discontinuation of the free Magical Express bus service</answer>
+<other>Processing question 2: Disney's leaders acknowledged a slowdown at parks because lower-income visitors are financially stressed while higher-income guests are traveling internationally, directly linking cost increases to the shift toward international travel.</other>
+<question_number>2</question_number>
+<answer>higher costs are causing lower-income visitors to be financially stressed while higher-income guests choose international travel</answer>
+<other>Processing question 3: Len Testa states people are choosing "Let's go see Europe" over Disney vacations, with the specific example of choosing Italy over Epcot's Italy pavilion due to comparable costs.</other>
+<question_number>3</question_number>
+<answer>visitors are substituting Disney vacations with international travel like Europe due to comparable pricing</answer>
+<other>Processing question 4: Jake Williams states "you could even do a Disney cruise for less than" the $886.34 cost of a day in Orlando parks plus one-night stay at Port Orleans Riverside Resort.</other>
+<question_number>4</question_number>
+<answer>Disney cruise costs less</answer>
+<other>Processing question 5: The article mentions Williams was "stunned" by the 2023 cost ($886.34) compared to 2017 ($567.90) "even accounting for inflation," but provides no specific inflation-adjusted figure or calculation method.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Processing question 6: Len Testa's data shows the cost of a Disney World trip increased almost 25% since 2019, with "70 percent of that increase" attributed to services that used to be free.</other>
+<question_number>6</question_number>
+<answer>70 percent</answer>
+<other>Processing question 7: The article states base ticket prices increased 32% from 2014-2025 while highest-priced tickets increased 90% over the same period.</other>
+<question_number>7</question_number>
+<answer>highest-priced tickets increased more (90% vs 32%)</answer>
+<other>Processing question 8: Lightning Lane Multi Pass starts at $30 a day, while the cheapest Disney World hotels cost an average of $187 per night.</other>
+<question_number>8</question_number>
+<answer>$30 vs $187</answer>
+<other>Processing question 9: The correction states "An earlier version of this article misstated the starting month of the Lightning Lane Multi Pass at Disney World. It started in July, not June."</other>
+<question_number>9</question_number>
+<answer>it corrected the start month from June to July</answer>
+<other>Processing question 10: The article states the cost of a Disney World trip increased almost 25% since 2019, with 70% of that increase attributed to formerly free services.</other>
+<question_number>10</question_number>
+<answer>70% of the 25% increase is from formerly free services</answer>

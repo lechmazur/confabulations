@@ -1,0 +1,30 @@
+merged_ants-amputation-legs.txt
+<question_number>1</question_number>
+<answer>Thigh injuries reduce hemolymph flow which slows bacterial movement into the body, allowing time for successful amputation, while lower leg injuries allow bacteria to penetrate quickly</answer>
+
+<question_number>2</question_number>
+<answer>Many muscles in the thighs</answer>
+
+<question_number>3</question_number>
+<answer>Wounds closer to the body work for amputation but wounds further away don't work, which is counterintuitive</answer>
+
+<question_number>4</question_number>
+<answer>Colonies save enormous energy by not needing to produce 10-20% more ants to compensate for injured ones</answer>
+
+<question_number>5</question_number>
+<answer>Lower leg injuries have a narrow time window while thigh injuries allow more time for successful amputation</answer>
+
+<question_number>6</question_number>
+<answer>When injured, the many thigh muscles reduce hemolymph flow, making it more difficult for bacteria to move from the wound into the body</answer>
+
+<question_number>7</question_number>
+<answer>Slower bacterial movement in thigh injuries allows successful amputation while quick bacterial penetration in lower leg injuries makes amputation ineffective</answer>
+
+<question_number>8</question_number>
+<answer>The injured ant presents its leg, calmly sits during amputation, then presents the wound for cleaning</answer>
+
+<question_number>9</question_number>
+<answer>Areas with many hemolymph-pumping muscles (thighs) have high amputation success rates (90%) while areas with fewer such muscles (lower legs) have low success rates (20%)</answer>
+
+<question_number>10</question_number>
+<answer>High survival rates of amputees (90%) save colonies enormous energy by avoiding the need to produce replacement ants</answer>

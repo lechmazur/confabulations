@@ -1,0 +1,13 @@
+merged_2025-cruise-vacations.txt
+<other>For question 1, the sister ship of the world's largest cruise vessel (Icon of the Seas) is Star of the Seas, which is a Royal Caribbean ship. The article states that Royal Caribbean is developing a private beach club in Nassau, Bahamas, and Nassau is described as "one of its most visited port stops" for Royal Caribbean, meaning it hosts Star of the Seas. Thus, Royal Caribbean is developing the private beach at the same port (Nassau) that hosts the sister ship.</other>
+<question_number>1</question_number>
+<answer>Royal Caribbean</answer>
+<other>For question 2, the article mentions the Life at Sea cruise with 1,095 days and 382 port calls, but it does not specify any locations for these port calls. The land-based amenities (Royal Caribbean's Nassau beach club and Carnival's Grand Bahama beach) are in the Bahamas, but there is no information linking them to the Life at Sea cruise's intended port calls. Therefore, the location cannot be determined, and the answer is N/A.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>For question 3, the article is explicitly about 2025 cruise developments, as indicated by the headline "Advertisement 2025 Travel" and references to ships launching "this year" (2025). The MSC World America, which has water-based attractions, ground-based entertainment, and European influence, is scheduled for April 2025. The question specifies "launching in 2024," but no vessels for 2024 are mentioned in the article, so the answer is N/A.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>For question 4, the vessel sharing characteristics with Icon of the Seas is Star of the Seas (its sister ship). It is scheduled to operate from Port Canaveral, Florida. The 17-acre private beach development (Royal Caribbean's in Nassau, Bahamas) is in the Bahamas, which is not a U.S. state. Since the beach development is not located in any state, it cannot be in the same state as the vessel's operating location (Florida), so the answer is N/A.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>

@@ -1,0 +1,31 @@
+merged_celebrities-national-anthem.txt
+<other>Processing question 1: The article states "By World War II, the spread of electronic public-address systems meant it could be performed -- and eventually sung -- at every professional baseball game, not just those where someone hired a band." This directly answers how the technology influenced frequency (every game) and context (no longer requiring hired bands).</other>
+<question_number>1</question_number>
+<answer>allowed performances at every professional baseball game, not just those with hired bands</answer>
+<other>Processing question 2: The author proposes "institute a temporary moratorium... on hiring performers to sing the anthem at big-ticket sports games" and "play the music through speakers, and let the audience do what it will" to address the disconnect.</other>
+<question_number>2</question_number>
+<answer>institute a temporary moratorium on hiring performers to sing the anthem</answer>
+<other>Processing question 3: The article specifies "The country had entered World War I the previous year, so the baseball season leading up to this series had been cut short -- men of draft age had been given a deadline to join the war effort" as the context for the 1918 World Series adoption.</other>
+<question_number>3</question_number>
+<answer>America's entry into World War I and shortened baseball season due to draft deadlines</answer>
+<other>Processing question 4: The article states "We ask them to apply their talents to stir us into special contact with our own love of country. But we ask them to do so as part of big-budget, for-profit spectacles, in a media culture that valorizes novelty over tradition" illustrating the tension.</other>
+<question_number>4</question_number>
+<answer>performers are asked to stir patriotic sentiment within big-budget spectacles that valorize novelty over tradition</answer>
+<other>Processing question 5: The Whitney Houston example shows "part of what vaults it into the stratosphere is the stadium's palpable hunger... for unity: The United States had entered the Persian Gulf war just 11 days earlier" indicating national mood enhances reception.</other>
+<question_number>5</question_number>
+<answer>positive reception is enhanced during times of national unity like wartime</answer>
+<other>Processing question 6: The proposed solution to anthem-as-spectacle is identical to question 2's answer: instituting a moratorium on hired performers to refocus on participation.</other>
+<question_number>6</question_number>
+<answer>institute a temporary moratorium on hiring performers to sing the anthem</answer>
+<other>Processing question 7: The proposal specifically states "Make us participate. Make us sing, and sing together, or go without singing at all" regarding audience participation shift.</other>
+<question_number>7</question_number>
+<answer>play the music through speakers and let the audience sing together or not at all</answer>
+<other>Processing question 8: The article notes WWII public-address systems enabled performances "at every professional baseball game" and "in the internet age, anthem fails constitute a subgenre" showing tech impact on frequency and dissemination.</other>
+<question_number>8</question_number>
+<answer>enabled performances at every professional baseball game and created subgenres like anthem fails online</answer>
+<other>Processing question 9: The article links anthem performances to "big-budget, for-profit spectacles" and notes "the Department of Defense spent millions of dollars to subsidize spectacles" showing commercialization relationship.</other>
+<question_number>9</question_number>
+<answer>anthem performances occur within big-budget for-profit spectacles and receive government subsidies</answer>
+<other>Processing question 10: The solution for anthem-as-entertainment is the same moratorium proposal as in questions 2 and 6, aiming to "coax us back into making and remaking the ritual" through participation.</other>
+<question_number>10</question_number>
+<answer>institute a temporary moratorium on hiring performers to sing the anthem</answer>

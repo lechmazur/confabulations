@@ -1,0 +1,31 @@
+merged_ai-start-ups-google-microsoft-amazon.txt
+<other>Starting with Question 1: The article states that big tech companies' transactions are "driven by the big tech companies' desire to sidestep regulatory scrutiny while trying to get ahead in A.I." Justin Johnson also confirms they are "trying to avoid regulatory scrutiny." This directly answers the primary reason.</other>
+<question_number>1</question_number>
+<answer>sidestep regulatory scrutiny</answer>
+<other>For Question 2: The Google-Character.AI deal involved licensing technology for $3 billion without buying the company, specifically to avoid ownership that would attract antitrust scrutiny. The article contrasts this with traditional acquisitions where companies are bought outright, which regulators scrutinize more heavily.</other>
+<question_number>2</question_number>
+<answer>Google licensed technology without buying the company</answer>
+<other>Question 3: Character.AI investors achieved a "two-and-a-half-times return... after just two years." Typical venture capital investments in Silicon Valley usually take 5-10 years for returns, so this was faster.</other>
+<question_number>3</question_number>
+<answer>faster than typical</answer>
+<other>Question 4: Inflection had "roughly 70 people" join Microsoft while "just two employees stayed on." The ratio is 70:2, simplifying to 35:1.</other>
+<question_number>4</question_number>
+<answer>35:1</answer>
+<other>Question 5: Character.AI was "privately valued at $1 billion" but Google paid $3 billion for the license. Inflection and Adept had licensing deals below their funding amounts ($650M vs $1.5B poured in; $330M vs $414M raised), but only Character.AI's valuation is explicitly stated, making its discrepancy the highest and only verifiable.</other>
+<question_number>5</question_number>
+<answer>Character.AI</answer>
+<other>Question 6: Total spent is $3B (Google) + $650M (Microsoft) + $330M (Amazon) = $3.98B. Combined valuations: Character.AI was $1B, but Inflection and Adept's valuations aren't provided—only funding amounts ($1.5B and $414M) are mentioned, which aren't valuations. Thus, comparison is impossible.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Question 7: Noam Shazeer owns "30 percent to 40 percent" of Character.AI, while Google took "roughly 20 percent of Character.AI's employees." The ownership percentage range (30-40%) is higher than the employee percentage (20%).</other>
+<question_number>7</question_number>
+<answer>higher</answer>
+<other>Question 8: Inflection's $650M deal for ~70 employees gives ~$9.29M/employee. Character.AI's $3B deal covered 20% of employees, but total employee count is unknown, so per-employee ratio can't be calculated. Adept's employee count joining Amazon isn't specified. Inflection has the only calculable and highest ratio.</other>
+<question_number>8</question_number>
+<answer>Inflection</answer>
+<other>Question 9: Character.AI investors got a "two-and-a-half-times return." Inflection and Adept investors "got their money back" (1x return). Average is (2.5 + 1 + 1)/3 = 1.5 times.</other>
+<question_number>9</question_number>
+<answer>1.5 times</answer>
+<other>Question 10: After Google's deal, "What remains of Character.AI will continue operating without its founders and investors," confirming it was left behind.</other>
+<question_number>10</question_number>
+<answer>Character.AI</answer>

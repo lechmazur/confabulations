@@ -1,0 +1,31 @@
+merged_archegos-closing-arguments-bill-hwang.txt
+<other>Processing question 1: The article states Scott Becker was "the firm's former chief risk officer" and "it was his job to lie to the banks about the size of Archegos's stock holdings and borrowings so that the banks would keep lending to the firm." This directly answers the role and contribution despite no explicit instructions from Hwang.</other>
+<question_number>1</question_number>
+<answer>chief risk officer</answer>
+<other>Processing question 2: The article states about Scott Becker: "But on cross-examination, he said Mr. Hwang never specifically told him to lie." This matches the witness who testified about lying but denied explicit instructions.</other>
+<question_number>2</question_number>
+<answer>Scott Becker</answer>
+<other>Processing question 3: William Tomita testified that "Mr. Hwang had put in big buy orders at the end of the day to drive up stock prices." This specifies the strategy (big buy orders) and timing (end of day).</other>
+<question_number>3</question_number>
+<answer>big buy orders at the end of the day</answer>
+<other>Processing question 4: Barry Berke argued "a weakness with the prosecution's case was that Mr. Hwang and Archegos never 'cashed out' after building up big positions in stocks." This is the aspect presented as evidence against fraud allegations.</other>
+<question_number>4</question_number>
+<answer>never cashed out after building big positions</answer>
+<other>Processing question 5: William Tomita testified "Mr. Hwang had put in big buy orders at the end of the day to drive up stock prices. He said Wall Street banks had used the closing price of those stocks to determine how much money the firm could borrow." The manipulated metric is the closing price.</other>
+<question_number>5</question_number>
+<answer>closing price</answer>
+<other>Processing question 6: The article states Archegos "amassed such large stock positions by using sophisticated derivatives and borrowed money provided by Wall Street banks." This explains how it operated despite small size.</other>
+<question_number>6</question_number>
+<answer>sophisticated derivatives and borrowed money</answer>
+<other>Processing question 7: Timothy Haggerty (Halligan's lawyer) said "without Mr. Becker's testimony, prosecutors had no case against his client." Becker's testimony is identified as crucial.</other>
+<question_number>7</question_number>
+<answer>Scott Becker</answer>
+<other>Processing question 8: Prosecutors introduced "numerous internal email communications and text messages" and "recorded conversations" as evidence beyond testimony.</other>
+<question_number>8</question_number>
+<answer>internal email communications and text messages</answer>
+<other>Processing question 9: Andrew Thomas told the jury that Mr. Hwang had "artificially tried to rig prices" of the portfolio of stocks. The alleged inflation was of stock prices.</other>
+<question_number>9</question_number>
+<answer>stock prices</answer>
+<other>Processing question 10: The article states "Two former Archegos employees who had pleaded guilty and cooperated with the authorities were key witnesses." Their guilty pleas and cooperation were crucial.</other>
+<question_number>10</question_number>
+<answer>pleaded guilty and cooperated with authorities</answer>

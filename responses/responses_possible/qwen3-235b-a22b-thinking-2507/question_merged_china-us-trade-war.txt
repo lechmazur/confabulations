@@ -1,0 +1,31 @@
+merged_china-us-trade-war.txt
+<other>Processing question 1: The article states that tariffs pressure manufacturers to reduce dependence on China but cause production to shift to other low-wage countries where Chinese companies have also set up factories (e.g., Mexico, Vietnam, India), meaning dependence on Chinese manufacturing continues despite the shift.</other>
+<question_number>1</question_number>
+<answer>Companies shift production to other low-wage countries where Chinese companies have also set up factories, maintaining dependence on Chinese manufacturing</answer>
+<other>Processing question 2: The article states Chinese companies set up factories in Mexico to use the USMCA for duty-free access to the US, but some American importers assume a second Trump term would halt that arrangement, making the duty-free access temporary and vulnerable.</other>
+<question_number>2</question_number>
+<answer>They exploit the USMCA for duty-free access while importers expect Trump would end this arrangement, undermining the intended tariff avoidance</answer>
+<other>Processing question 3: The article states Chinese solar companies moved production to Southeast Asia to avoid US tariffs, prompting fresh tariffs on those countries, making solar more expensive and slowing its emergence.</other>
+<question_number>3</question_number>
+<answer>Chinese companies moved solar production to Southeast Asia to avoid tariffs, leading to new tariffs there that increase costs and create uncertainty for solar energy</answer>
+<other>Processing question 4: The article states many importers assume Trump would not impose 60% tariffs due to economic chaos, but he has "breached traditional norms" before by implementing tariffs experts thought he wouldn't.</other>
+<question_number>4</question_number>
+<answer>Importers assume Trump would avoid 60% tariffs due to economic chaos, but he implemented tariffs in 2018 that trade experts previously scoffed at</answer>
+<other>Processing question 5: The article uses Sam Shackleton's case, who sticks with Chinese suppliers despite tariffs because they offer "unbeatable combination of high quality and low prices," prioritizing cost and quality over supply chain stability.</other>
+<question_number>5</question_number>
+<answer>Sam Shackleton sticks with Chinese suppliers for high quality and low prices despite tariffs, deprioritizing supply chain stability due to cost and operational constraints</answer>
+<other>Processing question 6: The article states that when companies reduce dependence on China, production shifts to other low-wage countries like Mexico, Vietnam, and India, but Chinese companies have also set up factories there, so dependence on Chinese manufacturing continues.</other>
+<question_number>6</question_number>
+<answer>Production shifts to other low-wage countries where Chinese companies have also set up factories, maintaining Chinese manufacturing influence</answer>
+<other>Processing question 7: The article states tariffs were intended to "spur the return of factory jobs to the United States" but instead caused production to shift to other low-wage countries, not back to the US.</other>
+<question_number>7</question_number>
+<answer>Tariffs cause production to shift to other low-wage countries like Mexico and Vietnam instead of returning factory jobs to the United States</answer>
+<other>Processing question 8: The article explicitly states Easy Signs is delaying expansion and a second plant due to tariffs on Chinese-made aluminum stands used for their banners.</other>
+<question_number>8</question_number>
+<answer>Easy Signs</answer>
+<other>Processing question 9: The Project44 analysis is cited for June and July, stating ocean shipments from China to the US "increased more than 4 percent" from the previous year.</other>
+<question_number>9</question_number>
+<answer>more than 4 percent</answer>
+<other>Processing question 10: Chris Taylor, CEO of GridStor, is quoted urging suppliers to "move faster to set up factory operations in the United States" due to concerns about a 60% tariff.</other>
+<question_number>10</question_number>
+<answer>Chris Taylor</answer>

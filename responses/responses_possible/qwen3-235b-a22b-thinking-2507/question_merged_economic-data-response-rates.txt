@@ -1,0 +1,31 @@
+merged_economic-data-response-rates.txt
+<other>Processing question 1: The article states funding for the Bureau of Labor Statistics has fallen 18% since 2009 and that underfunding has reduced opportunities for research and modernization. Direct relationship is decreased funding hinders modernization.</other>
+<question_number>1</question_number>
+<answer>decreased funding hinders modernization</answer>
+<other>Processing question 2: The Supreme Court blocked the citizenship question addition, which highlighted the lack of legal provisions for agency independence, directly supporting the report's call for statutory protections.</other>
+<question_number>2</question_number>
+<answer>exposed lack of legal safeguards for agency independence</answer>
+<other>Processing question 3: The article states BLS funding fell 18% since 2009, but survey response rates for the Current Population Survey dropped from nearly 90% to 70% (a 20-point absolute decline, not a percentage drop matching 18%). No agency's budget decline percentage mirrors a survey response rate percentage drop.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Processing question 4: The article specifies government data on inflation is used by the Federal Reserve for interest rate decisions and by Congress/White House for stimulus payments, directly impacting both monetary and fiscal policy.</other>
+<question_number>4</question_number>
+<answer>inflation data</answer>
+<other>Processing question 5: The infrastructure analogy describes systems being ignored until failure; the report links this to potential future inability to report demographic data like employment for smaller groups, as deterioration occurs unnoticed.</other>
+<question_number>5</question_number>
+<answer>like infrastructure, data systems deteriorate unnoticed until failure occurs</answer>
+<other>Processing question 6: The Supreme Court census decision highlighted the absence of legal protections, which directly prompted the report's recommendation for Congress to enact statutory autonomy protections.</other>
+<question_number>6</question_number>
+<answer>incident demonstrated need for statutory protections</answer>
+<other>Processing question 7: Job growth data (specifically the unemployment rate from the Current Population Survey) is used by the Federal Reserve for interest rates, Congress for unemployment benefits, and investors for stock market decisions.</other>
+<question_number>7</question_number>
+<answer>job growth data</answer>
+<other>Processing question 8: The British Office of National Statistics suspended its Labour Force Survey due to reliability concerns, paralleling the Bureau of Labor Statistics' announcement to cut the Current Population Survey size for similar reasons.</other>
+<question_number>8</question_number>
+<answer>both took action due to reliability concerns from low survey response rates</answer>
+<other>Processing question 9: The report recommends increased data sharing between agencies and explicit political interference protections, but the article states data sharing requires resource-intensive processes that could increase vulnerability to political influence during implementation, creating an implicit conflict not directly addressed.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Processing question 10: The article states professional autonomy has historically relied on norms (which can be overturned), and the report calls for legislation to make it statutory, directly linking past norms to future legal proposals.</other>
+<question_number>10</question_number>
+<answer>previously based on norms, now proposed to be codified in law</answer>

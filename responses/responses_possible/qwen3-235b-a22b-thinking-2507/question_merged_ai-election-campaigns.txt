@@ -1,0 +1,31 @@
+merged_ai-election-campaigns.txt
+<other>Processing question 1: The article states "Much of the hesitation stems from internal campaign polls that found voters were nervous about A.I. and distrusted the technology." This directly answers the primary reason for hesitation.</other>
+<question_number>1</question_number>
+<answer>voters were nervous about A.I. and distrusted the technology</answer>
+<other>Processing question 2: The article describes Civox's A.I. voice technology used by Matthew Diemer's campaign where "nearly all of them hung up in the first few seconds when they heard a voice that described itself as an A.I. volunteer."</other>
+<question_number>2</question_number>
+<answer>Civox</answer>
+<other>Processing question 3: The article specifies "When campaigns turned to A.I. to generate photos or videos of candidates, the numbers were even worse" beyond general skepticism.</other>
+<question_number>3</question_number>
+<answer>A.I.-generated photos or videos of candidates</answer>
+<other>Processing question 4: The article states "Some campaigns have been more willing to buy tech from A.I. companies for behind-the-scenes tasks, such as helping to organize email lists and voter databases."</other>
+<question_number>4</question_number>
+<answer>organizing email lists and voter databases</answer>
+<other>Processing question 5: The article says "Three of the companies said campaigns agreed to buy their tech only if they could ensure that the public would never find out they had used A.I."</other>
+<question_number>5</question_number>
+<answer>public would never find out they had used A.I.</answer>
+<other>Processing question 6: The article states "Donald J. Trump posted A.I.-generated images of Taylor Swift endorsing him to his social media site, Truth Social."</other>
+<question_number>6</question_number>
+<answer>Truth Social</answer>
+<other>Processing question 7: Civox reported "The pickup rate of robocalls, whether done by A.I. or by human voice, was in the single digits."</other>
+<question_number>7</question_number>
+<answer>single-digit pickup rate</answer>
+<other>Processing question 8: BHuman's technology allowed "The opening lines could be tweaked to greet a specific voter" creating personalized connection.</other>
+<question_number>8</question_number>
+<answer>greet a specific voter by name</answer>
+<other>Processing question 9: The article states Civox's calls resulted in "nearly all of them hung up in the first few seconds" and "the technology has fallen flat" for Diemer's campaign.</other>
+<question_number>9</question_number>
+<answer>high hang-up rates / fell flat</answer>
+<other>Processing question 10: Phillip Walzak said "Political campaigns have trust issues to begin with" explaining why candidates avoid deceptive A.I. use.</other>
+<question_number>10</question_number>
+<answer>Political campaigns have trust issues to begin with</answer>

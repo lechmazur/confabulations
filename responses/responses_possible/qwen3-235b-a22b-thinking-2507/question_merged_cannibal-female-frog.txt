@@ -1,0 +1,31 @@
+merged_cannibal-female-frog.txt
+<other>Processing question 1: The article states males take "huge risk" when attracting mates and "put their lives on the line to reproduce" due to potential cannibalism by females based on call strength. Directly answers how cannibalism influences male mating strategies.</other>
+<question_number>1</question_number>
+<answer>males risk death when calling to attract mates</answer>
+<other>Processing question 2: The article mentions males might fight back as a "cost" for females but does not describe how this influences mating dynamics. No information on resulting behavioral changes in interactions.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Processing question 3: The article states "hellbender fathers may eat their young when faced with suboptimal water conditions," showing both cannibalism and paternal care linked to environmental conditions.</other>
+<question_number>3</question_number>
+<answer>hellbender</answer>
+<other>Processing question 4: Dr. Gould directly states "maybe there's a reason why, males and females, you don't often find them next to each other in ponds" due to cannibalism risk from females.</other>
+<question_number>4</question_number>
+<answer>cannibalism risk from females</answer>
+<other>Processing question 5: The cannibalistic frog (predation during mating), spider tricking fireflies (predation using light mimicry), and dolphin attacks (predatory behavior on beachgoers) all involve predatory actions.</other>
+<question_number>5</question_number>
+<answer>predation</answer>
+<other>Processing question 6: Female frogs use mating calls to lure males (potential food), while the spider manipulates light to mimic female firefly signals. Both use mating signals to attract prey.</other>
+<question_number>6</question_number>
+<answer>using mating signals to attract prey</answer>
+<other>Processing question 7: Hellbender fathers eat young in "suboptimal water conditions," suggesting resource acquisition during stress. Female frogs gain "clear benefit" from cannibalizing males, implying nutritional advantage in challenging conditions.</other>
+<question_number>7</question_number>
+<answer>acquiring resources during environmental stress</answer>
+<other>Processing question 8: Male fireflies are tricked by visual signals (spider mimicking female light), while male frogs risk death from auditory signals (females using mating calls to lure them).</other>
+<question_number>8</question_number>
+<answer>fireflies tricked by visual signals, frogs by auditory signals</answer>
+<other>Processing question 9: The spider "manipulate[s] the flashing" (visual signal) to mimic females, while female frogs use mating calls (auditory signal) to lure males.</other>
+<question_number>9</question_number>
+<answer>spider uses visual signals, female frog uses auditory signals</answer>
+<other>Processing question 10: Crocodiles were given "nonlethal food poisoning to adjust their behavior" (adaptive learned avoidance), while male frogs inherently risk death by calling for mates (maladaptive if eaten).</other>
+<question_number>10</question_number>
+<answer>crocodiles learn to avoid toxic prey, male frogs innately risk death calling for mates</answer>

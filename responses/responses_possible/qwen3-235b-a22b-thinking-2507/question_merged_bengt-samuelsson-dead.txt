@@ -1,0 +1,31 @@
+merged_bengt-samuelsson-dead.txt
+<other>Question 1 asks about hypothetical impact if discoveries weren't made. Article states discoveries led to drugs but does not speculate on absence of impact. No counterfactual information provided. Must answer N/A per instructions.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Question 2 asks which Nobel laureate laid groundwork despite misidentifying prostaglandin source. Article states Dr. Ulf von Euler discovered biologically active molecules in semen, named them prostaglandins based on assumption they were unique to prostate gland, and won 1970 Nobel Prize. Directly matches question.</other>
+<question_number>2</question_number>
+<answer>Dr. Ulf von Euler</answer>
+<other>Question 3 asks how Samuelsson's arachidonic acid work explains OTC medication mechanism. Article states Samuelsson analyzed arachidonic acid for prostaglandin production, but mechanism explanation for aspirin (OTC drug) is attributed to Dr. Vane's discovery that aspirin blocks prostaglandin activity. No link made between Samuelsson's acid work and aspirin mechanism. Must answer N/A.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Question 4 asks for seemingly unrelated bodily processes linked by prostaglandin discoveries. Article explicitly lists: uterine contractions, regulate blood pressure and body temperature, trigger inflammation, blood clotting, asthma, allergies, kidney stones, gallstones. These are distinct processes connected through prostaglandin roles.</other>
+<question_number>4</question_number>
+<answer>uterine contractions, blood pressure regulation, body temperature regulation, inflammation, blood clotting, asthma, allergies, kidney stones, gallstones</answer>
+<other>Question 5 asks how article indirectly connects work to menstrual cramp treatment. Article states some prostaglandins "cause uterine contractions". Menstrual cramps are caused by uterine contractions, so this is a direct logical inference per instructions (similar to example about day after Friday being Saturday).</other>
+<question_number>5</question_number>
+<answer>prostaglandins cause uterine contractions</answer>
+<other>Question 6 asks link between Nobel work and final remarks. Article states his discoveries "led to drugs" and in final remarks he said "without basic research there is no translational research and no clinical development", emphasizing basic research importance. Nobel work was foundational basic research enabling drug development, so link is explicit.</other>
+<question_number>6</question_number>
+<answer>his basic research enabled drug development mentioned in remarks</answer>
+<other>Question 7 asks subtle connection to asthma treatment. Article states prostaglandins are "important in... asthma" and his discoveries "led to drugs that treat... allergies" (asthma is listed alongside allergies as a condition involving prostaglandins). Since asthma is explicitly named as prostaglandin-related condition and drugs were developed for such conditions, inference is valid per instructions.</other>
+<question_number>7</question_number>
+<answer>prostaglandins are important in asthma</answer>
+<other>Question 8 asks contribution to understanding painful conditions. Article states prostaglandins are "important in... kidney stones and gallstones", which are painful medical conditions. Directly stated.</other>
+<question_number>8</question_number>
+<answer>kidney stones and gallstones</answer>
+<other>Question 9 asks implicit link to allergy treatment. Article explicitly states his discoveries "led to drugs that treat... allergies". Direct match.</other>
+<question_number>9</question_number>
+<answer>led to drugs that treat allergies</answer>
+<other>Question 10 asks contribution to understanding blood clotting mechanism. Article states prostaglandins are "important in blood clotting" and Samuelsson defined biological activities/roles of prostaglandins. Directly stated connection.</other>
+<question_number>10</question_number>
+<answer>prostaglandins are important in blood clotting</answer>

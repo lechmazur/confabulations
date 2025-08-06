@@ -1,0 +1,21 @@
+merged_ai-weather-forecast-hurricane.txt
+<question_number>1</question_number>
+<answer>AI uses learned patterns from historical data instead of real‑time observations and runs forecasts in seconds rather than the hour‑plus required by supercomputers.</answer>
+<question_number>2</question_number>
+<answer>It was trained on four decades of global weather observations, enabling it to recognize patterns that led to a more accurate Texas landfall prediction.</answer>
+<question_number>3</question_number>
+<answer>Dr. Bretherton, now a team leader at the Allen Institute for AI (founded by Paul G. Allen), links Allen’s AI efforts to the European agency’s interest in adopting GraphCast.</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>By leveraging decades‑long historical data to learn cause‑and‑effect patterns, GraphCast can identify stable signals within the inherently chaotic atmosphere.</answer>
+<question_number>9</question_number>
+<answer>The model’s four‑decade training set suggests AI could push predictive horizons beyond the current 10‑day limit achieved by traditional models.</answer>
+<question_number>10</question_number>
+<answer>Both involve integrating heterogeneous inputs—weather observations or campaign data—where errors or biases in the source material can affect the final AI output.</answer>

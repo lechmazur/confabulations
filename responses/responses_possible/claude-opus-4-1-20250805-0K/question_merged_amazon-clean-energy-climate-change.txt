@@ -1,0 +1,41 @@
+merged_amazon-clean-energy-climate-change.txt
+<other>Let me analyze each question based solely on the article provided.</other>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<other>The article mentions Google's agreement with Berkshire Hathaway's utility for geothermal power. Amazon's clean energy portfolio mentions solar and wind projects.</other>
+<answer>geothermal power</answer>
+
+<question_number>3</question_number>
+<other>The article mentions 2040 as Amazon's net-zero carbon emissions goal and states Google's emissions grew in 2023.</other>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<other>The article mentions natural gas in relation to both environmentalist concerns about increased electricity demand and doesn't specifically mention it in the employee activist criticism which mentions coal, oil and fracked gas.</other>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<other>The article mentions Canada in the employee criticism about "Canadian fracked gas" but doesn't mention Canada in relation to the company's clean energy achievements (which mentions 27 countries without naming Canada specifically).</other>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<other>The article states Amazon aims for net-zero carbon emissions by 2040. It says Amazon reached its 100% clean energy goal "seven years ahead of schedule" but doesn't specify what the original deadline was.</other>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<other>The article mentions RECs (renewable energy certificates) being criticized by Ms. Stokes and the employee group criticizes Amazon's use of credits.</other>
+<answer>RECs</answer>
+
+<question_number>8</question_number>
+<other>The article states a large data center can use energy to serve roughly 100,000 homes, and Amazon's clean energy projects can power 7.6 million U.S. homes.</other>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<other>The article mentions a 2019 letter to Jeff Bezos but doesn't mention the company's original deadline for achieving 100% clean energy.</other>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<other>Amazon's net-zero goal is 2040, Google reported increased emissions in 2023. That's 17 years.</other>
+<answer>17 years</answer>

@@ -1,0 +1,31 @@
+merged_balance-beam-gymnastics.txt
+<other>Processing question 1: The article states that if a gymnast intends a switch ring leap but fails criteria, she "might get credit for only a switch leap, 0.2 less." Switch leap is rated D (0.4), so the difference is 0.2.</other>
+<question_number>1</question_number>
+<answer>0.2</answer>
+<other>Processing question 2: D score = composition requirements (2.0) + sum of top 8 skills. Double-twisting double tuck is H (0.8). For D score 6.0, sum of top 8 skills must be 4.0. With dismount as one skill (0.8), the other seven skills must sum to 3.2. Minimum difficulty rating per skill is A (0.1), but 7×0.1=0.7 < 3.2, making it impossible to achieve with minimum ratings. The question asks for "minimum difficulty rating required for the rest of their skills," but this implies a single rating value for multiple skills, which isn't defined in the article. No direct answer possible.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Processing question 3: D score = composition requirements (2.0) + sum of top 8 skills. For D score 5.5, sum of top 8 skills must be 3.5. Candle mount is C (0.3), double tuck dismount is D (0.4). The acro series consists of multiple skills, not a single difficulty rating. The article doesn't specify how to assign a single rating to the entire acro series, so the question can't be answered directly.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Processing question 4: The article states that failing a switch ring leap results in credit for a switch leap "0.2 less." Switch leap is rated D (0.4), so switch ring leap must be 0.2 higher (e.g., F=0.6). The difference is 0.2.</other>
+<question_number>4</question_number>
+<answer>0.2</answer>
+<other>Processing question 5: Minimum D score = composition requirements (2.0) + sum of top 8 skills. Switch leap mount is D (0.4), double pike dismount is E (0.5). To minimize D score, assume the other six hardest skills are all A (0.1 each), summing to 0.6. Total skill sum = 0.4 + 0.5 + 0.6 = 1.5. D score = 2.0 + 1.5 = 3.5. The routine must include required elements, but simplest skills meeting criteria (e.g., A-rated for other components) are possible per article examples.</other>
+<question_number>5</question_number>
+<answer>3.5</answer>
+<other>Processing question 6: The article explicitly states full-twisting double tuck is G and double-twisting double tuck is H. H is one level higher than G.</other>
+<question_number>6</question_number>
+<answer>H is one level higher than G</answer>
+<other>Processing question 7: D score = composition requirements (2.0) + sum of top 8 skills. For D score 5.0, sum of top 8 skills must be 3.0. The article states gymnasts earn credit for "their eight hardest skills," requiring at least 8 skills in the routine. Fewer than 8 skills would not provide eight to sum, so minimum number is 8.</other>
+<question_number>7</question_number>
+<answer>8</answer>
+<other>Processing question 8: The article states execution deductions range "from 0.1 for a slight balance check to 1.0 for a fall." Wobble (balance check) is at least 0.1, and insufficient split in a leap incurs deductions, but no specific amount is given for split errors. The maximum deduction for a single skill isn't specified when multiple errors occur, so the exact value can't be determined from the text.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>Processing question 9: Minimum D score = composition requirements (2.0) + sum of top 8 skills. Switch leap mount is D (0.4), double tuck dismount is D (0.4). Assume other six hardest skills are A (0.1 each), summing to 0.6. Total skill sum = 0.4 + 0.4 + 0.6 = 1.4. D score = 2.0 + 1.4 = 3.4. Simplest skills meeting requirements are possible per article.</other>
+<question_number>9</question_number>
+<answer>3.4</answer>
+<other>Processing question 10: The dismount is specified as a full-twisting double tuck, which the article explicitly rates as G. No higher rating is possible for this specific skill, as difficulty ratings are fixed per skill.</other>
+<question_number>10</question_number>
+<answer>G</answer>

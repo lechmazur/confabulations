@@ -1,0 +1,46 @@
+merged_brazil-plane-crash-investigation.txt
+<other>Let me analyze each question carefully based only on the information provided in the article.</other>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<other>The article mentions improvements to the de-icing system since 1994 but doesn't explicitly discuss how this creates a red herring in understanding the crash's cause.</other>
+
+<question_number>2</question_number>
+<answer>N/A</answer>
+
+<other>The article doesn't explicitly create a complex conditional statement about speed and altitude changes.</other>
+
+<question_number>3</question_number>
+<answer>The ground temperature was around 63 degrees, suggesting warmer air at lower altitudes could have melted ice</answer>
+
+<question_number>4</question_number>
+<answer>The plane crashed almost directly on its belly</answer>
+
+<other>This is unusual for a stall-induced crash based on the article's description.</other>
+
+<question_number>5</question_number>
+<answer>The speed did not drop far enough to cause a stall unless icing was extremely severe</answer>
+
+<question_number>6</question_number>
+<answer>The pilots did not communicate with controllers just before the crash</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<other>The article doesn't provide enough detail about specific contradictions between crash location and expert assumptions.</other>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<other>While the article mentions improvements to the de-icing system since 1994, it doesn't explain how this paradoxically complicates the investigation.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<other>The article mentions the plane is an 89-foot ATR 72-500 but doesn't specify which detail becomes crucial for the icing theory.</other>
+
+<question_number>10</question_number>
+<answer>N/A</answer>
+
+<other>The article states the plane fell from 17,000 feet but doesn't discuss how this challenges assumptions about gradual ice accumulation.</other>

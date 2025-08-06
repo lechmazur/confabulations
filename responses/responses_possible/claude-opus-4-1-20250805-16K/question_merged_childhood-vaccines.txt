@@ -1,0 +1,35 @@
+merged_childhood-vaccines.txt
+<other>I need to carefully review each question and find the relevant information from the article.</other>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<answer>They pay for themselves right away when the right infrastructure is created</answer>
+
+<question_number>3</question_number>
+<answer>Lack of trust led people to seek information on social media which spread misinformation about all vaccines</answer>
+
+<question_number>4</question_number>
+<other>The article states direct savings are $540 billion and total savings including indirect effects are $2.7 trillion. So indirect effects are $2.7 trillion - $0.54 trillion = $2.16 trillion. The percentage is 2.16/2.7 = 80%</other>
+<answer>80%</answer>
+
+<question_number>5</question_number>
+<other>$540 billion saved, 1,129,000 deaths prevented. $540,000,000,000 / 1,129,000 = approximately $478,209</other>
+<answer>Approximately $478,209</answer>
+
+<question_number>6</question_number>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<other>$540 billion saved, 32 million hospitalizations prevented. $540,000,000,000 / 32,000,000 = $16,875</other>
+<answer>$16,875</answer>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>

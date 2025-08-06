@@ -1,0 +1,13 @@
+merged_stock-market-election-season.txt
+<other>Scanning the article for specific companies mentioned in relation to outstanding corporate earnings that fueled the market rally. The text states "corporate earnings -- which fuel the market -- have been outstanding" but does not name any specific companies in this context. Later, Nvidia is mentioned as a potential future risk for disappointing earnings, not as a company with current outstanding earnings contributing to the rally. No specific companies are identified as having the outstanding earnings that fueled the rally.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Identifying the specific historical event cited as a direct cause of market volatility during the political season. The article states: "Acute political strife, including violence like the attack on the Capitol of Jan. 6, 2021, would create drastic problems that extended well beyond financial markets." This directly links the January 6, 2021 Capitol attack to potential market volatility during political seasons.</other>
+<question_number>2</question_number>
+<answer>attack on the Capitol of Jan. 6, 2021</answer>
+<other>Checking the economist who devised the price-to-earnings ratio. The article states: "the 10-year price-to-earnings ratio (called the CAPE) devised by the economist Robert Shiller." The question asks for a 5-year ratio, but the text specifies a 10-year ratio (CAPE). Since the time period in the question (5-year) does not match the text (10-year), the premise is incorrect per instructions.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Reviewing Morningstar Direct's findings on bond percentages for 5-year periods. The article states: "over five-year periods, you would have had losses in fewer than 10 percent of those stretches if you held at least 10 percent of your portfolio in bonds." It does not state that any bond percentage ensures zero losses over 5 years; it only reduces loss frequency. For ensuring no losses, the text specifies needing "more than 15 calendar years" for pure stocks and "a decade" for diversified portfolios with bonds. The question asks for the minimum percentage to ensure no losses over 5 years, which the article does not provide.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>

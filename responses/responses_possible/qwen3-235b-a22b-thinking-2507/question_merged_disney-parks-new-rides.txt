@@ -1,0 +1,31 @@
+merged_disney-parks-new-rides.txt
+<other>Processing question 1: The article states Disney sees cruises as crucial for "areas of the world where Disney cannot (yet) justify building a theme park" and gives India as an example where "it has more than enough for a Disney cruise ship" but not a park. This directly answers the primary reason.</other>
+<question_number>1</question_number>
+<answer>reaching markets unsuitable for theme parks like India</answer>
+<other>Processing question 2: The article explicitly links Disney's announcement of "at least eight new Disney World rides" to taking Universal Orlando's expansion "seriously" after downplaying the threat.</other>
+<question_number>2</question_number>
+<answer>announcing at least eight new Disney World rides</answer>
+<other>Processing question 3: The article mentions "lower-income Americans... cut back on discretionary spending" due to inflation affecting parks, but the rationale for cruise growth is specifically about global markets (e.g., India), not current US economic conditions. No connection is made.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Processing question 4: The Magic Kingdom expansion (largest in 53 years) is announced alongside the eight new rides specifically in response to Universal's expansion, and follows the report of weaker park results due to "moderation of consumer demand". The text states the company is "clearly taking [competition] seriously" with these announcements.</other>
+<question_number>4</question_number>
+<answer>announcing the largest expansion in its 53-year history with new lands and rides</answer>
+<other>Processing question 5: The article notes inflation caused spending cuts affecting parks, but frames the expansion as a "long haul" strategy where projects "will not open for two or more years". It does not state the expansion is a direct response to inflation; the rationale given is long-term growth.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Processing question 6: D23 is "a reference to 1923, the year Walt Disney arrived in Hollywood". The new Main Street attraction features "an animatronic Walt Disney", directly connecting Walt Disney (the founder) to the founding year.</other>
+<question_number>6</question_number>
+<answer>Walt Disney</answer>
+<other>Processing question 7: Identical to question 1's rationale. The article states cruise ships target "areas of the world where Disney cannot (yet) justify building a theme park" like India, which "has more than enough for a Disney cruise ship".</other>
+<question_number>7</question_number>
+<answer>reaching markets unsuitable for theme parks like India</answer>
+<other>Processing question 8: The article states Disney "reported weaker-than-expected theme park results" with declining profit three days before announcing the massive expansion plans ($60 billion, new ships, rides), which contradicts the poor performance.</other>
+<question_number>8</question_number>
+<answer>the $60 billion expansion plans announced after weaker theme park results</answer>
+<other>Processing question 9: The article states Universal is building "a 750-acre fourth park" while Magic Kingdom has "the largest expansion in its 53-year history", but provides no acreage or scale comparison for Magic Kingdom's expansion. No direct comparison is given.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Processing question 10: The Fortnite partnership involves "Disney characters (Doctor Doom, the Mandalorian, Cruella de Vil) coming to Fortnite", but the new park attractions listed (e.g., "Coco" ride, "Spider-Man" coaster) are not stated to be connected to these specific game characters. No link is provided.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>

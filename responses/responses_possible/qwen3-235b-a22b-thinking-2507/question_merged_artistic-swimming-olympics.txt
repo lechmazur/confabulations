@@ -1,0 +1,31 @@
+merged_artistic-swimming-olympics.txt
+<other>Processing question 1: The article describes Canada's technical routine theme as "Forest Magicians" with swimmers "trying to take energy from the sun and the moon" while wearing feather costumes. However, it does not explicitly state how this theme illustrates tension between thematic creativity and physical demands. The general tension is mentioned later ("The sport's main features -- the difficulty of the routines and the emphasis on appearance and showmanship -- work in constant tension with each other"), but no specific link is made to Canada's forest theme. Therefore, the question cannot be directly answered from the text.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Processing question 2: The article states artistic swimming requires "a deep-sea diver's lung capacity" and mentions swimmers apply "a large packet of gelatin, dissolved in water and applied to the head like shellac" which is a substance used in desserts.</other>
+<question_number>2</question_number>
+<answer>artistic swimming</answer>
+<other>Processing question 3: The article explicitly states swimmers "have to look happy the whole time, even when people are kicking you under the water" and "we're smiling, but actually we're acting," contradicting the physical strain described throughout.</other>
+<question_number>3</question_number>
+<answer>constant beaming delight / smiling</answer>
+<other>Processing question 4: The article contrasts marathon runners who "are covered in pee and puke" and "barely able to cross the finish line" with artistic swimmers who "have to swim decorously to the side of the pool" and "effect pleasant expressions and no sign of fatigue."</other>
+<question_number>4</question_number>
+<answer>must swim decorously to the side while smiling, no sign of fatigue</answer>
+<other>Processing question 5: The article identifies the "Saturday Night Live" skit with Martin Short and Harry Shearer as "the nadir in its quest for respect" and warns "Don't mention that skit to anyone in the sport."</other>
+<question_number>5</question_number>
+<answer>Saturday Night Live skit with Martin Short and Harry Shearer</answer>
+<other>Processing question 6: The article states swimmers "stay up by using a treading motion called the eggbeater" when heads are in the air, and eggbeater is a breakfast food utensil.</other>
+<question_number>6</question_number>
+<answer>eggbeater</answer>
+<other>Processing question 7: The article describes acrobatic lifts where swimmers "elevate a teammate, known as a flyer," and explicitly compares it to "cheerleading lifts."</other>
+<question_number>7</question_number>
+<answer>flyer</answer>
+<other>Processing question 8: The article states the United States routine "I Am Water" featured "narration by Jason Momoa -- Aquaman himself," connecting to H2O states and his famous role.</other>
+<question_number>8</question_number>
+<answer>Jason Momoa</answer>
+<other>Processing question 9: The article mentions Australia's routine was "Avatar," but specifies Spain's routine used Led Zeppelin's "Stairway to Heaven" which includes the "bustle in the hedgerow" reference to a mythical location.</other>
+<question_number>9</question_number>
+<answer>Led Zeppelin</answer>
+<other>Processing question 10: The article states the Canadian team's technical routine theme was "Forest Magicians," directly naming the profession.</other>
+<question_number>10</question_number>
+<answer>magicians</answer>

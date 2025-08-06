@@ -1,0 +1,31 @@
+merged_eu-covid-vaccines.txt
+<other>The article states the court ruling "gives new momentum to critics" of von der Leyen and occurred "just ahead of what is expected to be a tight vote". It notes she "will need to rely on a broad coalition" including Greens who are "incensed by the way she handled the coronavirus crisis". The ruling directly impacts her chances by strengthening critics before the vote.</other>
+<question_number>1</question_number>
+<answer>gives new momentum to critics before tight vote requiring broad coalition including incensed Greens</answer>
+<other>Question asks how the article *implies* the vaccine strategy *contributed* to far-right rise. The article states concerns about lack of transparency "come amid a recent surge in far-right politicians" and "have contributed to a sense of distrust", but never states or implies the vaccine strategy *caused* the far-right surge. It only notes the concerns exist alongside the surge.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>The article explicitly states von der Leyen "will most likely need votes from center-left lawmakers including the Greens, who have been incensed by the way she handled the coronavirus crisis". This directly shows her handling affected alliances by incensing the Greens.</other>
+<question_number>3</question_number>
+<answer>incensed the Greens, whom she needs votes from</answer>
+<other>Question asks how the article *suggests* a connection between vaccine procurement and far-right rise. The article states concerns about transparency "come amid a recent surge in far-right politicians" and "have contributed to a sense of distrust", but never suggests the procurement strategy *caused* the far-right rise. It only notes temporal coexistence and distrust.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>Question asks how the ruling *relates* to far-right rise. The article states the ruling occurred amid the far-right surge and that concerns about transparency "have contributed to a sense of distrust", but never states the ruling itself relates to the far-right rise. The ruling is separate from the political shift.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>The article explicitly states the ruling came "just ahead of what is expected to be a tight vote on Thursday". This timing gives momentum to critics before the vote.</other>
+<question_number>6</question_number>
+<answer>came just ahead of tight vote, giving momentum to critics</answer>
+<other>The article states the EU's "initial vaccine campaign was marred by a slow start" but later "caught up and even surpassed other major countries after Ms. von der Leyen secured a contract with Pfizer-BioNTech". This shows a shift from slow start to surpassing others.</other>
+<question_number>7</question_number>
+<answer>slow start then caught up and surpassed others</answer>
+<other>The Commission's statement cites past court rulings recognizing "the need to protect business interests", but the current ruling found they wrongly withheld information. The contradiction is that they cite past rulings supporting secrecy while this ruling rejects that justification.</other>
+<question_number>8</question_number>
+<answer>cites past court rulings protecting business interests while this ruling rejected that justification</answer>
+<other>The article states The New York Times "welcomed the ruling" and that they "sued the European Commission" in a "pending" case seeking text messages. The connection is that NYT welcomed this ruling while their similar case is pending.</other>
+<question_number>9</question_number>
+<answer>New York Times welcomed the ruling while their similar case is pending</answer>
+<other>The article states concerns about lack of transparency "have contributed to a sense of distrust among European voters about how officials have spent taxpayer money" amid far-right gains. The ruling reinforces transparency importance, affecting perception of pandemic response.</other>
+<question_number>10</question_number>
+<answer>reinforces transparency importance amid distrust about taxpayer money spending</answer>

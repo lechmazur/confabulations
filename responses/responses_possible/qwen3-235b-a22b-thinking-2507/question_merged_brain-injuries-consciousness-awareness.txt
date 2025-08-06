@@ -1,0 +1,31 @@
+merged_brain-injuries-consciousness-awareness.txt
+<other>Processing question 1: The article states Dr. Schiff said "It's not OK to know this and to do nothing" immediately after mentioning the study shows up to 100,000 patients might have consciousness. The context specifies this should lead to "more sophisticated exams" and "more research into how these patients might communicate".</other>
+<question_number>1</question_number>
+<answer>more sophisticated exams and more research into communication</answer>
+<other>Processing question 2: The article explicitly states "which Dr. Schiff calls cognitive motor dissociation" when describing patients who are "in there" but can't communicate, showing brain activity in response to tasks.</other>
+<question_number>2</question_number>
+<answer>cognitive motor dissociation</answer>
+<other>Processing question 3: The article directly links brain implants to the study by stating Dr. Schiff "suspects that some people with cognitive motor dissociation will probably be able to master these implants" after describing the ALS breakthrough using implants for communication.</other>
+<question_number>3</question_number>
+<answer>Dr. Schiff suspects patients with cognitive motor dissociation could master brain implants for communication</answer>
+<other>Processing question 4: The article states Dr. Schiff said patients surviving "eight months on average after their injuries" might be "more resilient than the ones who died sooner" and "that resilience might have made them more likely to remain aware".</other>
+<question_number>4</question_number>
+<answer>more resilient patients might be more likely to remain aware</answer>
+<other>Processing question 5: The article draws a parallel by reporting "another team of researchers reported that a patient paralyzed by ALS... was able to communicate through a brain implant after just 30 minutes of training" and then states Dr. Schiff suspects similar patients with cognitive motor dissociation "will probably be able to master these implants".</other>
+<question_number>5</question_number>
+<answer>ALS patients communicated via brain implant after 30 minutes of training, suggesting similar potential for disorders of consciousness</answer>
+<other>Processing question 6: The article states "Dr. Nicholas Schiff... said the study shows that up to 100,000 patients in the United States alone might have some level of consciousness".</other>
+<question_number>6</question_number>
+<answer>up to 100,000 patients in the United States</answer>
+<other>Processing question 7: The article states early studies "used functional magnetic resonance imaging" but this study used "functional M.R.I. scans, electrode recordings, or both", allowing bedside testing with electrodes which was "much easier" than MRI scanners, thus capturing more responses.</other>
+<question_number>7</question_number>
+<answer>using both methods allowed broader testing including bedside electrode recordings, capturing more responses than fMRI-only early studies</answer>
+<other>Processing question 8: The article states "people with disorders of consciousness may one day take advantage of brain implants... to communicate" and Dr. Schiff "suspects that some people with cognitive motor dissociation will probably be able to master these implants" for communication.</other>
+<question_number>8</question_number>
+<answer>brain-computer interfaces could enable communication for patients with cognitive motor dissociation</answer>
+<other>Processing question 9: Dr. Schiff states "We have tens of thousands of people like that" when referring to patients with cognitive motor dissociation who might benefit from implants.</other>
+<question_number>9</question_number>
+<answer>tens of thousands</answer>
+<other>Processing question 10: The article mentions "We're likely to be missing people" due to demanding tests and possible resilience bias, but provides no estimated number for missing patients.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>

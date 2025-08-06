@@ -1,0 +1,36 @@
+merged_ai-data-restrictions.txt
+<other>Let me analyze each question carefully based on the article content.</other>
+
+<question_number>1</question_number>
+<answer>They can't afford to license data directly from publishers</answer>
+
+<question_number>2</question_number>
+<answer>Changing the license on the data doesn't retroactively revoke that permission, and the primary impact is on later-arriving actors, who are typically either smaller start-ups or researchers</answer>
+
+<question_number>3</question_number>
+<answer>Many researchers doubt that today's A.I. systems are capable of generating enough high-quality synthetic data to replace the human-created data they're losing</answer>
+
+<question_number>4</question_number>
+<answer>The web will start shutting its doors</answer>
+
+<question_number>5</question_number>
+<answer>Major tech companies already have all of the data, changing the license doesn't retroactively revoke that permission, and the primary impact is on later-arriving actors</answer>
+
+<question_number>6</question_number>
+<answer>Major tech companies who already have the data can continue using it, while newer actors cannot access it</answer>
+
+<question_number>7</question_number>
+<answer>It means that data restrictions primarily affect smaller start-ups or researchers who come after major tech companies have already gathered data</answer>
+
+<question_number>8</question_number>
+<answer>N/A</answer>
+
+<other>For question 9, the article states that 45% of C4 data had been restricted by terms of service, which means 55% would remain unrestricted from terms of service restrictions. However, the article doesn't specify what percentage is restricted by Robots Exclusion Protocol specifically for C4, so I cannot calculate the combined effect.</other>
+
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<other>For question 10, the article states that 25% of data from the highest-quality sources has been restricted, which means 75% remains unrestricted.</other>
+
+<question_number>10</question_number>
+<answer>75%</answer>

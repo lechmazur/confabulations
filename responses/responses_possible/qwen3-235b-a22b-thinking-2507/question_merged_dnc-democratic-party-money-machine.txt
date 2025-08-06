@@ -1,0 +1,31 @@
+merged_dnc-democratic-party-money-machine.txt
+<other>Processing question 1: The article states "The Supreme Court's Citizens United ruling in 2010 was a jolt for fund-raising. That decision cleared the way for unlimited independent expenditures... leading to the rise of super PACs". This directly answers the question.</other>
+<question_number>1</question_number>
+<answer>Citizens United</answer>
+<other>Processing question 2: The article mentions Harris saying landlords "using algorithms in price-fixing software" and states this is "possibly a subtle reference to RealPage". RealPage is the specific software referenced.</other>
+<question_number>2</question_number>
+<answer>RealPage</answer>
+<other>Processing question 3: The article quotes Professor Tillery saying "billionaire donors had a new lever to pull". The question asks for "type of organization" but the text specifies "billionaire donors" (individuals, not organizations). Since the premise is incorrect per the text, answer is N/A.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Processing question 4: The article states Harris "called for assistance of up to $25,000 for first-time home buyers -- an initiative that is facing pushback given that the issue is supply, not demand". This matches the question.</other>
+<question_number>4</question_number>
+<answer>$25,000 for first-time home buyers</answer>
+<other>Processing question 5: The article quotes Tevi Troy stating "C.E.O.s can be the decider. They can be the tiebreaker" when companies fight to a draw in lobbying. CEOs are the specified factor.</other>
+<question_number>5</question_number>
+<answer>C.E.O.s</answer>
+<other>Processing question 6: The article states "the rise of super PACs and tax-exempt 527 organizations has flooded races with money". 527 organizations is the specific tax-exempt type mentioned.</other>
+<question_number>6</question_number>
+<answer>527 organizations</answer>
+<other>Processing question 7: The article notes Harris's comments on grocery chains "may not bode well for the proposed merger between Kroger and Albertsons". This directly identifies the merger at risk.</other>
+<question_number>7</question_number>
+<answer>Kroger and Albertsons</answer>
+<other>Processing question 8: The article attributes the "barely a Democrat" formulation to Jamie Dimon in Tevi Troy's book discussion. Dimon is the named executive.</other>
+<question_number>8</question_number>
+<answer>Jamie Dimon</answer>
+<other>Processing question 9: The article explicitly states "Elon Musk is going so hard for Donald Trump that he's really persona non grata on the left". Musk is the identified tech billionaire.</other>
+<question_number>9</question_number>
+<answer>Elon Musk</answer>
+<other>Processing question 10: The article states "Harris dialed down talk about price gouging... she devoted only a small portion of her speech to the issue". Price gouging is the specific policy mentioned.</other>
+<question_number>10</question_number>
+<answer>price gouging</answer>

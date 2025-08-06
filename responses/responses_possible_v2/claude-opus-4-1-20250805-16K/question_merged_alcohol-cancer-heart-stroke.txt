@@ -1,0 +1,40 @@
+merged_alcohol-cancer-heart-stroke.txt
+<other>Looking at the article for information about the organization that provided support and types of cancer mentioned.</other>
+<question_number>1</question_number>
+<answer>liver cancer</answer>
+
+<other>Searching for information about the Canadian scientist and cerebrovascular events impacted by alcohol consumption.</other>
+<question_number>2</question_number>
+<answer>strokes caused by blood clots</answer>
+
+<other>Finding information about drinks per day that increase death odds.</other>
+<question_number>3</question_number>
+<answer>two</answer>
+
+<other>Looking for age groups with increased mortality risk.</other>
+<question_number>4</question_number>
+<answer>girls and boys who start drinking at 15</answer>
+
+<other>Searching for metabolic conditions mentioned in relation to women and alcohol.</other>
+<question_number>5</question_number>
+<answer>diabetes</answer>
+
+<other>Looking for cancer types affecting where food and air passages cross.</other>
+<question_number>6</question_number>
+<answer>pharynx</answer>
+
+<other>Finding information about liver disease mentioned in the analysis.</other>
+<question_number>7</question_number>
+<answer>liver cirrhosis</answer>
+
+<other>Searching for cancer type mentioned by both National Academies and new report.</other>
+<question_number>8</question_number>
+<answer>breast cancer</answer>
+
+<other>Looking for current recommendations for men.</other>
+<question_number>9</question_number>
+<answer>two</answer>
+
+<other>Finding digestive system cancer among the seven types listed.</other>
+<question_number>10</question_number>
+<answer>colorectal cancer</answer>

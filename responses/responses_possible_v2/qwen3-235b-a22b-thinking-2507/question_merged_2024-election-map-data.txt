@@ -1,0 +1,31 @@
+merged_2024-election-map-data.txt
+<other>Processing question 1: The article states the choropleth method was chosen over depicting popular vote count to show political character, but no visualization method is described as rejected due to data incompleteness. Incompleteness affects data inclusion (e.g., excluding areas without early/mail ballots), not the visualization method choice. The question's premise about a method rejected for incompleteness isn't supported.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Processing question 2: The article explicitly states "It currently includes results for more than 110,000 precincts, or 73 percent of all votes" for the initial map publication.</other>
+<question_number>2</question_number>
+<answer>73 percent</answer>
+<other>Processing question 3: Wilson Andrews joined in 2013 (per bio). The article states many places "do not include early or mail-in absentee ballots in the precinct data they release" and this causes data to be considered incomplete. Prioritizing high-vote counties with this exclusion would misrepresent turnout.</other>
+<question_number>3</question_number>
+<answer>early or mail-in absentee ballots</answer>
+<other>Processing question 4: The article describes "putting the data into precinct boundaries" as "half the battle." If sparsely populated areas consistently showed darker shades (inverse to population density), matching results to boundaries—which was already complex due to misaligned naming—would become more difficult.</other>
+<question_number>4</question_number>
+<answer>matching results to precinct boundaries</answer>
+<other>Processing question 5: The article states that matching results to boundaries was challenging because "precinct names in results and boundary files were labeled or coded in ways that did not align." If data-curious individuals only worked on areas with aligned names, this matching step would be less time-consuming.</other>
+<question_number>5</question_number>
+<answer>matching results to precinct boundaries</answer>
+<other>Processing question 6: The article identifies the drawback that "a sparsely populated area where a candidate won by 25 points is shaded the same way as a densely populated one with the same margin." Adding only least populated counties (sparse areas) would exacerbate this, as the map would overrepresent sparse areas' political character without dense-area context.</other>
+<question_number>6</question_number>
+<answer>a sparsely populated area where a candidate won by 25 points is shaded the same way as a densely populated one with the same margin</answer>
+<other>Processing question 7: The article states they "welcome submissions... to help add missing data or to notify us of potential inaccuracies." If complete data becomes available (no missing early/mail ballots), submissions to "help add missing data" would be less crucial.</other>
+<question_number>7</question_number>
+<answer>help add missing data</answer>
+<other>Processing question 8: The limitation of excluding areas with incomplete data (due to missing early/mail ballots) is unrelated to the visualization method. Changing to a population-accurate method wouldn't affect this data completeness issue, so no limitation becomes irrelevant.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>Processing question 9: The article mentions welcoming submissions to "notify us of potential inaccuracies." If boundary shapes are wrong despite matching vote counts, this external contribution would help identify discrepancies.</other>
+<question_number>9</question_number>
+<answer>notify us of potential inaccuracies</answer>
+<other>Processing question 10: The article states "each of these entities has its own way of releasing such data, and there is no nationwide source of this information." This data format challenge would persist regardless of the comparison year (2016 vs. 2020).</other>
+<question_number>10</question_number>
+<answer>each entity has its own way of releasing such data</answer>

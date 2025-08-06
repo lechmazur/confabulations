@@ -1,0 +1,31 @@
+merged_amazon-clean-energy-climate-change.txt
+<other>Starting with question 1: The question asks how the discrepancy highlights challenges, but the article only states the discrepancy exists (Amazon claims 100% clean energy via RECs while employees say actual investment is minimal fraction). It does not explicitly state or allow direct inference of how this "highlights challenges of accurately measuring corporate environmental impact" as a general concept. The text presents facts but no analysis of measurement challenges. Answer must be N/A per instructions.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Question 2: The article mentions Google's agreement with Berkshire Hathaway's utility in Nevada for geothermal power. Amazon's clean energy portfolio is described as solar and wind projects (over 500 solar and wind projects). Geothermal is not part of Amazon's portfolio but is mentioned for Google. Answer is geothermal.</other>
+<question_number>2</question_number>
+<answer>geothermal</answer>
+<other>Question 3: Amazon's net-zero carbon emissions goal is 2040. Google reported 13% emissions growth in 2023 due to AI. No single year is mentioned for both events. 2040 is only for Amazon's net-zero, 2023 is only for Google's emissions report. No shared year exists in the text. Answer is N/A.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Question 4: Employee activists criticize Amazon for data centers "fueled by West Virginian coal, Saudi Arabian oil and Canadian fracked gas" – fracked gas is natural gas. Environmentalists worry utilities will "rely more heavily on natural gas power plants". Natural gas is explicitly mentioned in both contexts. Answer is natural gas.</other>
+<question_number>4</question_number>
+<answer>natural gas</answer>
+<other>Question 5: Amazon's clean energy achievements include operations in "27 countries" (implied to include US as primary location). Employee activists specifically mention "West Virginian coal" which is in the United States. US is the country referenced in both contexts. Answer is United States or US.</other>
+<question_number>5</question_number>
+<answer>United States</answer>
+<other>Question 6: Amazon's net-zero carbon emissions goal is 2040. The article states Amazon reached 100% clean energy "seven years ahead of schedule" and the announcement was made in 2023 (Wednesday of the reporting year). Original deadline = 2023 + 7 = 2030. 2030 is the shared year for the original clean energy deadline and is the base year for calculating the net-zero goal timeframe (though net-zero is 2040, the original clean energy deadline is 2030).</other>
+<question_number>6</question_number>
+<answer>2030</answer>
+<other>Question 7: Both Leah Stokes ("Buying a bunch of RECs doesn't help anything") and the Amazon Employees for Climate Justice group (criticizing use of credits) refer to renewable energy certificates. The article explicitly names them as "renewable energy certificates, or RECs". Answer is renewable energy certificates or RECs.</other>
+<question_number>7</question_number>
+<answer>renewable energy certificates</answer>
+<other>Question 8: Article states "A large data center can use as much energy as the amount produced by a small power plant serving roughly 100,000 homes". Amazon's clean energy projects produce "enough electricity to power the equivalent of 7.6 million U.S. homes". Calculation: 7,600,000 homes / 100,000 homes per data center = 76 data centers. Directly inferable from given figures.</other>
+<question_number>8</question_number>
+<answer>76 data centers</answer>
+<other>Question 9: The employee group sent a "2019 letter to Jeff Bezos". Amazon reached 100% clean energy seven years ahead of the original schedule; announcement was in 2023 so original deadline was 2030. 2019 and 2030 are different years. No single year is mentioned for both events. Answer is N/A.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Question 10: Amazon's net-zero carbon emissions goal is 2040. Google reported increased emissions in 2023. Years separating them: 2040 - 2023 = 17 years. Direct calculation from stated years.</other>
+<question_number>10</question_number>
+<answer>17</answer>

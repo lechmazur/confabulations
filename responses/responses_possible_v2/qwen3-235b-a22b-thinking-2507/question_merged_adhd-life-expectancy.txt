@@ -1,0 +1,16 @@
+merged_adhd-life-expectancy.txt
+<other>Question 1 asks for a critical methodological difference making direct comparison misleading. The article states the British study used "all-cause mortality data" while the 2022 JAMA Pediatrics meta-analysis specifically examined "deaths from unnatural causes, such as accidents or suicide." This difference in mortality scope (total deaths vs. only unnatural causes) prevents direct comparison of risk magnitudes.</other>
+<question_number>1</question_number>
+<answer>British study used all-cause mortality data while JAMA study focused only on unnatural causes</answer>
+<other>Question 2 asks why Hinshaw's critique invalidates preventive strategies based solely on identified comorbidities. Hinshaw states the lack of cause-of-death data is a "key limitation" because prevention requires knowing specific causes (e.g., suicidality vs. accidents) to target interventions, whereas comorbidities like smoking are risk factors not direct causes.</other>
+<question_number>2</question_number>
+<answer>Prevention requires knowing specific causes of death to target interventions, not just associated risk factors</answer>
+<other>Question 3 asks how Barkley's diabetes analogy conflicts with mortality data regarding temporal adherence patterns. Barkley compares ADHD to chronic conditions requiring "lifelong" management like diabetes, but the mortality data shows reduced life expectancy, implying that real-world adherence to management likely decreases over time unlike consistent treatment for conditions like diabetes.</other>
+<question_number>3</question_number>
+<answer>Barkley assumes consistent lifelong management like diabetes, but mortality data suggests adherence likely decreases over time</answer>
+<other>Question 4 asks for paradoxical evidence undermining mortality conclusions when cross-referencing underdiagnosis with rising adult diagnoses. The study cautions ADHD is "substantially underdiagnosed" (capturing only severe cases), but rising diagnoses in marginalized groups (previously undiagnosed) means the study's mortality risk likely overestimates population risk as it missed milder/undiagnosed cases now being identified.</other>
+<question_number>4</question_number>
+<answer>Study's underdiagnosis caveat means it captured only severe cases, but rising diagnoses in marginalized groups include milder cases not in the study</answer>
+<other>Question 5 asks how the Adderall shortage creates a confounding variable for the study's 2000-2019 period. The article mentions a "nationwide Adderall shortage" but provides no timeframe for it, only stating it "started" without linking to the study's observation window (2000-2019). Without evidence the shortage occurred during 2000-2019, it cannot be considered a confounding variable for this specific study.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>

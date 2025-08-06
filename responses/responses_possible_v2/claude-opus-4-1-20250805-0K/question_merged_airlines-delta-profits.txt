@@ -1,0 +1,26 @@
+merged_airlines-delta-profits.txt
+<other>Let me analyze each question carefully based solely on the article's content.</other>
+
+<question_number>1</question_number>
+<other>The article mentions Boeing's production delays, Airbus engine inspections, and Spirit Airlines' bankruptcy, but it doesn't explicitly identify which single operational constraint was the "most critical limitation" for expansion plans. The text discusses these as separate issues without ranking their relative importance or establishing explicit causal relationships across three non-consecutive paragraphs.</other>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<other>The article doesn't provide a "precise sequence of events" or chronological account linking Boeing's issues, Airbus' backlog, and Pratt & Whitney engine problems. It also doesn't mention Pratt & Whitney by name or describe an "irreversible supply chain bottleneck" that specifically affected airlines with older fleets.</other>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<other>The article mentions Southwest making changes to lower costs and increase profits after pressure from Elliott Management, and JetBlue adding premium seats. However, these aren't described as responses to the same market pressures, nor are they juxtaposed in the fourth and eighth paragraphs as the question suggests.</other>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<other>The article doesn't discuss a "critical path dependency" or specifically compare carriers with widebody fleets versus those reliant on narrowbody aircraft orders. It doesn't mention widebody or narrowbody aircraft classifications.</other>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<other>The article mentions various crises (Boeing safety issue, technology outage, Spirit bankruptcy) but doesn't explicitly state that these three collectively contributed to improved pricing power through capacity management. The article does mention that reduced flights and seats helped pricing power, but doesn't directly link this to these three specific crises.</other>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<other>The article quotes an analyst saying "For the last five years, it's felt like every bird in the sky was a black swan" and projects optimism for 2025, but it doesn't present this as a conflict. The article doesn't analyze "cumulative effects" across the specific factors mentioned in the question across multiple non-adjacent sections.</other>
+<answer>N/A</answer>

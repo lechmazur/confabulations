@@ -1,0 +1,31 @@
+merged_congress-multiplan-health-insurance-medical-bills.txt
+<other>Processing question 1: The article states Kraft Heinz sued Aetna for "improperly paid claims and kept millions in undisclosed fees" as an example of firms profiting at employers' expense, directly connecting to broader issues of undisclosed fees in employer-based insurance.</other>
+<question_number>1</question_number>
+<answer>Kraft Heinz sued Aetna for improperly paid claims and keeping undisclosed fees, illustrating firms profiting at employers' expense.</answer>
+<other>Processing question 2: The article identifies Representatives Bobby Scott and Mark DeSaulnier as the lawmakers who cited MultiPlan; it specifically states they "have previously pushed the department to more aggressively police health plans."</other>
+<question_number>2</question_number>
+<answer>Representatives Bobby Scott and Mark DeSaulnier</answer>
+<other>Processing question 3: The article states UnitedHealthcare charged a $50,650 fee after reducing the bill to $7,879. The ratio is 50650:7879.</other>
+<question_number>3</question_number>
+<answer>50650:7879</answer>
+<other>Processing question 4: The article states federal courts consolidated lawsuits into "a single large proceeding, similar to those against companies accused of driving up rents and fueling the opioid crisis," which describes multidistrict litigation.</other>
+<question_number>4</question_number>
+<answer>multidistrict litigation</answer>
+<other>Processing question 5: The article quotes the CEO acknowledging they "established a corporate and government affairs team, inclusive of world-class public relations and lobbying representation" in response to media scrutiny.</other>
+<question_number>5</question_number>
+<answer>established a corporate and government affairs team with public relations and lobbying representation</answer>
+<other>Processing question 6: The article explicitly states MultiPlan's business model focuses on employer "self-funds," where employers pay claims with their own money using insurers for processing.</other>
+<question_number>6</question_number>
+<answer>employer self-funded plans</answer>
+<other>Processing question 7: The article states companies operating health plans are "legally required to monitor service providers and ensure their fees are reasonable."</other>
+<question_number>7</question_number>
+<answer>monitor service providers and ensure their fees are reasonable</answer>
+<other>Processing question 8: The article states Senate committees expressed concern that MultiPlan's business model could "result in an improper conflict of interest."</other>
+<question_number>8</question_number>
+<answer>it could result in an improper conflict of interest</answer>
+<other>Processing question 9: The article states the lawsuit against Blue Cross Blue Shield of Massachusetts was "dismissed."</other>
+<question_number>9</question_number>
+<answer>dismissed</answer>
+<other>Processing question 10: The article states employers "sometimes have trouble obtaining and understanding the data showing what they've been charged and why."</other>
+<question_number>10</question_number>
+<answer>trouble obtaining and understanding the data showing what they've been charged and why</answer>

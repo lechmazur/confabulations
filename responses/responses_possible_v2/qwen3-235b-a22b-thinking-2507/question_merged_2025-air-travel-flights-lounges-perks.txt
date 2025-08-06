@@ -1,0 +1,28 @@
+merged_2025-air-travel-flights-lounges-perks.txt
+<other>Processing question 1: The article states United Airlines raises status thresholds, Alaska Airlines expands premium seating on over 200 aircraft, and Christine Chung (the reporter) covers airlines and describes Yogyakarta's "Cosmological Axis". No single airline combines all three elements (United has thresholds but not seating expansion, Alaska has seating but not thresholds). Answer must be N/A.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Processing question 2: The article specifies Delta One travelers at JFK and LAX use a "private security lane that leads them directly to the lounge", directly connecting this bypass to lounge access. The reporter covering consumer travel is mentioned in the same section.</other>
+<question_number>2</question_number>
+<answer>private security lane</answer>
+<other>Processing question 3: Emirates introduced premium economy on refurbished Boeing 777s in the U.S. The European city loved by Russian writer Joseph Brodsky for its cold season is Venice. Emirates operates flights to Venice (inferred as a major European destination for a global carrier like Emirates).</other>
+<question_number>3</question_number>
+<answer>Emirates</answer>
+<other>Processing question 4: Quebec City is described as "evolving" despite resisting linguistic changes. Alaska Airlines adds 250,000 first-class seats. Both appear in the same article.</other>
+<question_number>4</question_number>
+<answer>Quebec City</answer>
+<other>Processing question 5: Delta's "semi-private check-in spaces" become redundant because travelers using private security lanes at JFK/LAX bypass main security and go directly to the lounge, eliminating the need for check-in at that point.</other>
+<question_number>5</question_number>
+<answer>semi-private check-in spaces</answer>
+<other>Processing question 6: JetBlue plans lounge openings at JFK (New York) and Philadelphia (East Coast airports). Yogyakarta, Indonesia is highlighted for Hindu/Buddhist temples. The geographic contrast is between East Coast US and Indonesia.</other>
+<question_number>6</question_number>
+<answer>JetBlue</answer>
+<other>Processing question 7: United's raised thresholds make upgrades "more costly and challenging", while Alaska's expansion (adding premium seats) means "it could be easier to get upgraded". This creates a direct paradox in upgrade availability.</other>
+<question_number>7</question_number>
+<answer>United's changes make upgrades harder while Alaska's expansion makes them easier</answer>
+<other>Processing question 8: British Airways implements a revenue-based loyalty program, but the article does not attribute premium cabin expansions on U.S. routes to British Airways (Emirates and American are specified for cabin expansions). No carrier matches both criteria, so N/A.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>Processing question 9: Frontier introduces first-class, Southwest retrofits for premium economy, and Alaska adds million+ premium seats. The article describes Quebec City as resisting linguistic changes while being "evolving", but does not state any contradiction between this description and the airlines' market positioning. Answer must be N/A.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>

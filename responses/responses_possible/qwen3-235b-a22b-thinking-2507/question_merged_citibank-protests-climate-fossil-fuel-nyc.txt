@@ -1,0 +1,22 @@
+merged_citibank-protests-climate-fossil-fuel-nyc.txt
+<other>The questions ask for analytical interpretations like "how does this challenge" or "how does this highlight," but the article only reports factual events and statements without providing any analysis of challenges, tensions, or disconnects. The instructions require answering only direct facts from the text, not interpretations. For example, the article states protesters targeted Citigroup for fossil fuel financing and Citigroup's response, but does not explain how this "challenges" the bank's claims—it merely describes actions and quotes. All "how does" questions require inference beyond direct facts, so they must be "N/A" per instructions. Only question 10 has a direct factual connection stated in the text.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<question_number>10</question_number>
+<answer>Costco's business dealings with Citi</answer>

@@ -1,0 +1,31 @@
+merged_china-highway-collapse.txt
+<other>Question 1 asks for inference about emergency response effectiveness by comparing resources between incidents. The article provides detailed resource numbers (869 people, 93 vehicles, etc.) for the recent collapse rescue but only states "all-out rescue efforts" for the May 1 incident without specific resource details. No comparison of resource levels or effectiveness can be made from the text.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Question 2 asks what leaders' involvement suggests about political implications. The article states both Xi Jinping and Li Qiang "ordered all-out rescue efforts" for both disasters, and Xi specifically ordered after the first incident that "local governments across China pay more attention to identifying and dealing with such risks." This indicates infrastructure failures are treated as high-priority political matters requiring top leadership attention.</other>
+<question_number>2</question_number>
+<answer>Infrastructure failures are treated as high-priority political matters requiring top leadership attention</answer>
+<other>Question 3 asks which leader has childhood connection to the disaster area. The article states "Xi'an is also a place associated with Mr. Xi. His father was from a rural area about 25 miles north... Mr. Xi himself left Beijing... later spending his teenage years in Shaanxi Province." No childhood connection is mentioned for Li Qiang.</other>
+<question_number>3</question_number>
+<answer>Xi Jinping</answer>
+<other>Question 4 asks how failure frequency relates to expressway expansion. The article states "it was the second deadly episode in the country in less than three months" and "Just in the past two decades, China has also built twice as many miles of expressways as make up the entire interstate highway system in the United States," directly linking the rapid expansion to recent failures.</other>
+<question_number>4</question_number>
+<answer>Rapid expressway expansion correlates with increased frequency of infrastructure failures</answer>
+<other>Question 5 asks for correlation between bridge achievements and weather vulnerability. The article states "By 2017, China had 81 of the world's 100 tallest bridges" and "Cloudbursts have periodically posed a problem," with examples like the Zhengzhou flood and two highway disasters, showing vulnerability despite construction achievements.</other>
+<question_number>5</question_number>
+<answer>Despite having 81 of the world's 100 tallest bridges, China faces periodic problems from cloudbursts and extreme weather</answer>
+<other>Question 6 asks for indirect evidence of shift in risk identification approach. The article states after the May 1 disaster, "Mr. Xi had ordered that local governments across China pay more attention to identifying and dealing with such risks," indicating a policy shift toward proactive risk management.</other>
+<question_number>6</question_number>
+<answer>Xi ordered local governments to pay more attention to identifying and dealing with infrastructure risks after the May 1 disaster</answer>
+<other>Question 7 asks for historical period connecting a figure to the region. The article states "Mr. Xi himself left Beijing for his father's home county soon after Mao's turbulent Cultural Revolution began in 1966, later spending his teenage years in Shaanxi Province," identifying the Cultural Revolution period.</other>
+<question_number>7</question_number>
+<answer>Mao's Cultural Revolution</answer>
+<other>Question 8 asks how location relates to ancient history and modern politics. The article states "Xi'an is famous for the 2,200-year-old terra-cotta warriors" (ancient history) and "Xi'an is also a place associated with Mr. Xi" through family roots and his time there (modern political landscape).</other>
+<question_number>8</question_number>
+<answer>Xi'an is famous for ancient terra-cotta warriors and associated with Xi Jinping through family roots and his teenage years</answer>
+<other>Question 9 asks how timing relative to rainy season impacts future construction planning. The article states "Late spring through late summer is the rainy season" and both collapses occurred during heavy rain in this period (May 1 and recent Friday), but provides no information about future construction planning implications.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Question 10 asks how infrastructure scale contrasts with disaster vulnerability. The article states China "built twice as many miles of expressways as the entire US interstate system" in two decades, yet experienced "the second deadly episode in less than three months" due to weather, showing massive scale coexists with significant vulnerability.</other>
+<question_number>10</question_number>
+<answer>China built twice US interstate mileage in two decades but experienced two deadly weather-related infrastructure failures in three months</answer>

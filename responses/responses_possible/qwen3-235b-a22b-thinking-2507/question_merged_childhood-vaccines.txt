@@ -1,0 +1,31 @@
+merged_childhood-vaccines.txt
+<other>Processing question 1: The article states measles outbreaks increased from 4 in 2023 to 13 in 2024 due to unvaccinated children, and that "Covid vaccine skepticism has bled into attitudes toward childhood vaccines." However, it does not explicitly state this correlation "illustrates" the impact; it describes the relationship but doesn't use that specific framing. The question asks for how it illustrates, which requires interpretation beyond direct facts.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Processing question 2: William Padula states: "These vaccine programs, when you create the right infrastructure to implement them, they pay for themselves right away." This directly links infrastructure to immediate economic self-sufficiency.</other>
+<question_number>2</question_number>
+<answer>they pay for themselves right away</answer>
+<other>Processing question 3: The article states the healthcare system "failed to build trust with patients before the national emergency," leading people to turn to social media for vaccine questions during the pandemic, and that "Covid vaccine skepticism has bled into attitudes toward childhood vaccines." This directly connects trust decline to increased hesitancy.</other>
+<question_number>3</question_number>
+<answer>the healthcare system failed to build trust, causing people to turn to social media, and Covid skepticism bled into childhood vaccine attitudes</answer>
+<other>Processing question 4: Total savings with indirect effects = $2.7 trillion. Direct savings = $540 billion. Indirect savings = $2.7T - $540B = $2.16 trillion. Percentage = ($2.16T / $2.7T) * 100 = 80%.</other>
+<question_number>4</question_number>
+<answer>80%</answer>
+<other>Processing question 5: Total savings = $540 billion. Prevented deaths = 1,129,000. Average savings per death = $540,000,000,000 / 1,129,000 ≈ $478,300.</other>
+<question_number>5</question_number>
+<answer>$478,300</answer>
+<other>Processing question 6: The article states savings "dwarfs the cost of developing the shots" but provides no numerical value for development costs, making percentage calculation impossible.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Processing question 7: The article compares savings to the Clean Air Act's impact but provides no GDP figures or percentages, making calculation impossible.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Processing question 8: Total savings = $540 billion. Prevented hospitalizations = 32 million. Average savings per hospitalization = $540,000,000,000 / 32,000,000 = $16,875.</other>
+<question_number>8</question_number>
+<answer>$16,875</answer>
+<other>Processing question 9: The article provides 2024 outbreak count (13) and 2022-23 unvaccinated percentage (7%, since 93% vaccinated), but no trend data or projection method to determine when outbreaks would exceed this percentage.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Processing question 10: The article states savings include "treating the initial infection and managing later, related conditions" but does not specify the proportion attributed to each component.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>

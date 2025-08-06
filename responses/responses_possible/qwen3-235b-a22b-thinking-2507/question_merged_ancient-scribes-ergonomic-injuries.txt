@@ -1,0 +1,31 @@
+merged_ancient-scribes-ergonomic-injuries.txt
+<other>Processing question 1: The article states "damage to temporomandibular joints... was found more than twice as often among the scribes as among the non-scribes" and links this to "nibbling the brushlike heads of the pens." This directly answers the question about the skeletal condition and its potential writing-related cause.</other>
+<question_number>1</question_number>
+<answer>temporomandibular joint damage</answer>
+<other>Processing question 2: The article describes "false doors" in elite tombs (including scribes) that "acted as portals between the afterlife and the living world." For Bartleby, it mentions "a desk behind a screen that looks out at a brick wall." The screen functions similarly to a modern cubicle partition/screen, sharing the portal/separation function with the false door.</other>
+<question_number>2</question_number>
+<answer>false door</answer>
+<other>Processing question 3: The article states scribes "frequently squatted on their right legs, which could explain why their right knees were a particularly common point of osteoarthritis" and notes this aligns with "artistic depictions of Egyptian scribes, where they are in cross-legged or one-legged squatting postures." The right knee is the specific body part.</other>
+<question_number>3</question_number>
+<answer>right knee</answer>
+<other>Processing question 4: The article describes the rush pen: "When the fibers became ragged, the scribe chopped off the end and gnawed on the next section." This maintenance (chopping and gnawing) is linked to potential jaw issues, specifically temporomandibular joint damage.</other>
+<question_number>4</question_number>
+<answer>rush pen</answer>
+<other>Processing question 5: The article states scribes' "head had to be bent forward and the arms were unsupported... put stress on the spine" and notes they "suffered many of the same repetitive ailments as desk jockeys today." Spinal osteoarthritis (specifically in the neck) is the skeletal condition mirroring modern posture-related back ailments.</other>
+<question_number>5</question_number>
+<answer>spinal osteoarthritis</answer>
+<other>Processing question 6: The article says "the results squared with artistic depictions of Egyptian scribes, where they are in cross-legged or one-legged squatting postures" and notes "much of the damage was centered on the skeletons' right sides" with "right knees" showing common osteoarthritis. The right-side dominance in posture correlates with the specific osteoarthritis pattern.</other>
+<question_number>6</question_number>
+<answer>right-side dominance in squatting posture</answer>
+<other>Processing question 7: The article uses "iconography and statues" (which would include tomb decorations, as scribes were identified by "titles found in their tombs") to infer posture. It states this posture "changed the center of gravity... put stress on the spine," correlating with higher spinal osteoarthritis in scribes not prevalent in lower-class remains.</other>
+<question_number>7</question_number>
+<answer>bent-forward head posture</answer>
+<other>Processing question 8: The temporomandibular joint (jaw) is affected in scribes. The article states scribes "rolled the papyrus scroll left-handed." "Mandibular" shares its root with "mandible" (jawbone), and the scroll has a "roll" component. The anatomical feature is the temporomandibular joint.</other>
+<question_number>8</question_number>
+<answer>temporomandibular joint</answer>
+<other>Processing question 9: Scribes were identified by "burial location, inferred social rank, or, in six cases, titles found in their tombs," indicating high status. The key finding is they had worse occupational health (more osteoarthritis) than lower-class non-scribes. The high-status burial markers contradict the poor health finding.</other>
+<question_number>9</question_number>
+<answer>high-status burial markers</answer>
+<other>Processing question 10: The article lists "recording the biennial cattle census" as a scribal task. The posture analysis explains how such tasks (performed while squatting) caused "right knees" to be "a particularly common point of osteoarthritis," a pattern not seen in non-scribes.</other>
+<question_number>10</question_number>
+<answer>recording the biennial cattle census</answer>

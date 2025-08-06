@@ -1,0 +1,31 @@
+merged_boeing-kelly-ortberg-ceo.txt
+<other>Reviewing the article for question 1: The article states Ortberg became CEO of Rockwell Collins in 2013, remained until late 2018 when Rockwell was acquired by United Technologies, retained a senior role until the merger with Raytheon in early 2020 forming RTX, and retired from RTX in 2021. However, the article does not describe a "sequence of corporate changes that led to" his retirement before Boeing's appointment; it only lists events chronologically without indicating causation for retirement. The question asks for the sequence leading to retirement before appointment, but the article presents retirement as a separate event not caused by prior corporate changes in the context of Boeing's hiring. Per instructions, answer N/A if not directly provided or logically inferable as sequence leading to retirement.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>For question 2: The article mentions Ortberg oversaw development programs for Boeing 787 at Rockwell Collins and that Boeing now needs to stabilize production. However, it does not explicitly state how his Rockwell experience aligns with Boeing's current production/quality challenges. No direct connection is made between his past role and current Boeing tasks beyond general industry experience. Per instructions, answer N/A if not directly provided.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>For question 3: The article describes FAA actions (grounding, inspections, production limits) after the January panel incident and notes Ortberg's appointment to lead recovery, but it does not state that his appointment reflects a response to FAA scrutiny specifically. The board's reasoning focuses on his skills/experience generally, not FAA actions. Per instructions, answer N/A if not directly provided.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>For question 4: The article states Ortberg was Rockwell Collins CEO and that Boeing selected him, but it does not specify how his Rockwell leadership played a role in his selection regarding current challenges. Quotes praise his general skills but don't link Rockwell experience to selection criteria for Boeing's specific issues. Per instructions, answer N/A if not directly provided.</other>
+<question_number>4</question_number>
+<answer>N/A</answer>
+<other>For question 5: The article directly quotes Kevin Michaels saying Ortberg "balances long-term strategy with meeting shorter-term stakeholder expectations," which addresses what the appointment suggests about Boeing's approach. This is a direct statement from the text that answers the question precisely.</other>
+<question_number>5</question_number>
+<answer>balances long-term strategy with meeting shorter-term stakeholder expectations</answer>
+<other>For question 6: The article explicitly states "Mr. Ortberg will be based in Seattle, near several Boeing commercial plane factories," and calls this "a big change for the company." This directly answers who will be based there.</other>
+<question_number>6</question_number>
+<answer>Kelly Ortberg</answer>
+<other>For question 7: The article states Ortberg was "chief executive of Rockwell Collins" until late 2018 "when Rockwell was acquired by United Technologies," and he was appointed Boeing's next chief executive. This matches all descriptors in the question.</other>
+<question_number>7</question_number>
+<answer>Kelly Ortberg</answer>
+<other>For question 8: The article identifies Ortberg as "an aerospace industry veteran" who "overseeing development programs for the Boeing 787 and Airbus A350 planes" and states he "will inherit... stabilize production" at Boeing. This directly matches all elements of the question.</other>
+<question_number>8</question_number>
+<answer>Kelly Ortberg</answer>
+<other>For question 9: The article states Ortberg is a "mechanical engineer" whose company Rockwell produced "avionics" (electronic systems), and he "will inherit... complete the acquisition of an important supplier." This directly matches all descriptors and task.</other>
+<question_number>9</question_number>
+<answer>Kelly Ortberg</answer>
+<other>For question 10: The article states Ortberg "retired from RTX in 2021," "began his career at Texas Instruments in 1983," and "will inherit... lead development of its next generation of planes." This directly matches all descriptors and task.</other>
+<question_number>10</question_number>
+<answer>Kelly Ortberg</answer>

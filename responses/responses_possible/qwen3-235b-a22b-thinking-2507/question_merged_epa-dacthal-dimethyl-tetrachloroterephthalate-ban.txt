@@ -1,0 +1,31 @@
+merged_epa-dacthal-dimethyl-tetrachloroterephthalate-ban.txt
+<other>Processing question 1: The article states "the agency estimates that pregnant women handling DCPA products could be subjected to exposures four to 20 times greater than what E.P.A. has estimated is safe for fetuses." This directly answers the question about the estimated range of exposure levels for pregnant women compared to safe levels for fetuses.</other>
+<question_number>1</question_number>
+<answer>four to 20 times</answer>
+<other>Processing question 2: Mily Trevino Sauceda is identified as "executive director of Alianza Nacional de Campesinas" and in her statement she uses the full chemical name "dimethyl tetrachloroterephthalate". The organization is Alianza Nacional de Campesinas.</other>
+<question_number>2</question_number>
+<answer>Alianza Nacional de Campesinas</answer>
+<other>Processing question 3: The question asks for fetal exposure levels compared to safe levels for pregnant women handling DCPA. The article states exposures for pregnant women are "four to 20 times greater than what E.P.A. has estimated is safe for fetuses" - meaning the comparison is pregnant women's exposure versus safe levels for fetuses, not fetal exposure versus safe levels for pregnant women. The premise is inverted and not supported by the text.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Processing question 4: AMVAC Chemical Corporation is described as "California-based". The 2019 study was conducted in "the Salinas Valley of California". Both locations are in California.</other>
+<question_number>4</question_number>
+<answer>California</answer>
+<other>Processing question 5: The farmer's letter mentions DCPA controls "grasses and broadleaf weeds". "Broadleaf" is a descriptive term that also applies to vegetables like cabbage and broccoli (which are broadleaf plants), and cabbage is specifically listed in the EPA's crop list ("broccoli, brussels sprouts, cabbage and onions").</other>
+<question_number>5</question_number>
+<answer>broadleaf</answer>
+<other>Processing question 6: Alexis Temkin is identified as "senior toxicologist". The scientists who led the 2019 study are only described as "scientists" with no specific professional title mentioned (e.g., toxicologist, researcher). The text does not state their title.</other>
+<question_number>6</question_number>
+<answer>N/A</answer>
+<other>Processing question 7: The EPA is mentioned regarding DCPA suspension. The Russian state television investigation is attributed to the "F.B.I." in the article ("The F.B.I. raided..."). The EPA is not connected to the Russian TV investigation in the text.</other>
+<question_number>7</question_number>
+<answer>N/A</answer>
+<other>Processing question 8: The EPA lists "broccoli, brussels sprouts, cabbage and onions". The farmer's letter mentions "onions, broccoli and cauliflower". Broccoli and cauliflower both belong to the Brassicaceae family (mustard family). Cauliflower is the crop mentioned in both lists that shares the family with broccoli.</other>
+<question_number>8</question_number>
+<answer>cauliflower</answer>
+<other>Processing question 9: The EPA's efforts are described as "unprecedented efforts". The nuclear strategy section mentions "a classified document approved in March" but does not use the term "unprecedented" to describe it. The term "unprecedented" only appears in relation to the EPA's efforts.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Processing question 10: DCPA exposure effects include "low birth weight". The farmer's argument for preserving DCPA mentions ensuring "the continued supply of affordable and healthy vegetables". "Weight" is the physical attribute mentioned in the health effect that relates to the discussion of affordable vegetables (as weight is a measure affecting pricing/affordability).</other>
+<question_number>10</question_number>
+<answer>weight</answer>

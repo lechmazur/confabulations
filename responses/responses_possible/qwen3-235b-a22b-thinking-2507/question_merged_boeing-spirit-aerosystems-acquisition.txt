@@ -1,0 +1,31 @@
+merged_boeing-spirit-aerosystems-acquisition.txt
+<other>Processing question 1: The article states Boeing will "more easily be able to monitor and change production practices by owning the business" to address quality problems. This directly answers how the acquisition impacts Boeing's ability to address quality issues related to the January incident.</other>
+<question_number>1</question_number>
+<answer>more easily monitor and change production practices</answer>
+<other>Processing question 2: The article links the January incident to Spirit's quality problems and states Boeing hopes to "stem quality problems that have plagued the supplier" through the acquisition. However, it does not explicitly state the incident illustrates the benefits of the acquisition; it only shows why quality control is needed.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Processing question 3: The article states Boeing started relying on independent suppliers in the early 2000s to cut costs, Spirit was created during that outsourcing drive in 2005, and Spirit's quality problems (including the January incident) are now being addressed by reversing this decision.</other>
+<question_number>3</question_number>
+<answer>Boeing's early 2000s outsourcing led to Spirit's creation and current quality issues like the January incident</answer>
+<other>Processing question 4: The article states Boeing stopped accepting non-conforming 737 fuselages "rather than tolerating some flaws that could be fixed later, to keep production moving," indicating a shift to stricter upfront quality control.</other>
+<question_number>4</question_number>
+<answer>stricter upfront quality control by no longer tolerating flaws for production speed</answer>
+<other>Processing question 5: The article states Boeing aims to reduce "traveled work" because "too much can disrupt the complicated process of making airplanes, possibly contributing to defects." The January incident involved defects (missing bolts), but the article does not explicitly link traveled work to this specific incident.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Processing question 6: The article states Boeing expanded training and inspections at its factory "and at Spirit," and the CEO said reintegration would "fully align production and safety systems with its work force," showing the training is part of aligning systems through ownership.</other>
+<question_number>6</question_number>
+<answer>expanded training aligns production and safety systems through ownership</answer>
+<other>Processing question 7: The article states the acquisition announcement came "hours after a report" about the January incident, and Boeing made "several changes in recent months" including stopping acceptance of non-conforming fuselages since March, showing alignment with post-incident quality efforts.</other>
+<question_number>7</question_number>
+<answer>announced hours after January incident report, aligning with recent quality changes like fuselage acceptance criteria</answer>
+<other>Processing question 8: The article states Spirit was created during Boeing's 2005 outsourcing drive, Boeing now faces quality problems with Spirit, and the acquisition reverses the outsourcing decision to address these issues.</other>
+<question_number>8</question_number>
+<answer>outsourcing created Spirit, leading to current quality challenges Boeing is fixing by buying it back</answer>
+<other>Processing question 9: The article explicitly calls the acquisition a "strategic reversal" for Boeing's early 2000s decision to "rely more extensively on independent suppliers" and "outsource production of major components."</other>
+<question_number>9</question_number>
+<answer>reversing the early 2000s decision to outsource production of major components</answer>
+<other>Processing question 10: The article directly states Boeing "aims to reduce its practice of performing manufacturing tasks out of sequence, a practice known as traveled work."</other>
+<question_number>10</question_number>
+<answer>traveled work</answer>

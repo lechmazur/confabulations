@@ -1,0 +1,41 @@
+merged_amazon-union-conventry-britain.txt
+<other>I need to carefully examine each question against the facts presented in the article.</other>
+
+<question_number>1</question_number>
+<answer>Amazon allegedly illegally tried to induce employees to quit the union</answer>
+
+<question_number>2</question_number>
+<other>This asks what the involvement "suggests" which requires interpretation beyond the stated facts.</other>
+<answer>N/A</answer>
+
+<question_number>3</question_number>
+<other>This asks what the claim "reveals about strategy" which requires interpretation.</other>
+<answer>N/A</answer>
+
+<question_number>4</question_number>
+<other>This asks how something "illustrates broader challenges" which requires interpretation.</other>
+<answer>N/A</answer>
+
+<question_number>5</question_number>
+<other>The article only states how long GMB must wait after the failed vote (3 years), not what would happen if it had succeeded.</other>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<other>Associates earn £12.30 to £13 per hour, minimum wage is £11.44. At the lower end: £12.30 - £11.44 = £0.86</other>
+<answer>£0.86</answer>
+
+<question_number>7</question_number>
+<other>The article says they fell short by 28 votes, but this was with about 2,600 participating, not all eligible workers.</other>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<other>10-hour shifts, four days a week = 40 hours</other>
+<answer>40 hours</answer>
+
+<question_number>9</question_number>
+<other>The article mentions Gearing has been supporting workers for more than a decade and sit-ins occurred in August 2022, but doesn't specify when GMB began supporting workers.</other>
+<answer>N/A</answer>
+
+<question_number>10</question_number>
+<other>The article states wages increased 20% in the past two years, but doesn't specify the percentage increase since the August 2022 walkout.</other>
+<answer>N/A</answer>

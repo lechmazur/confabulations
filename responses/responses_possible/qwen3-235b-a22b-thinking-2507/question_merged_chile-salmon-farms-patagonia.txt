@@ -1,0 +1,31 @@
+merged_chile-salmon-farms-patagonia.txt
+<other>Processing question 1: The article states Mr. Antezana said "It's hard to assess the extent of the damage... because base-line studies that would monitor the effects of salmon farming on aquaculture have never been done." This directly answers why he believes impact assessment is difficult.</other>
+<question_number>1</question_number>
+<answer>base-line studies have never been done</answer>
+<other>Processing question 2: The article quotes Dr. Cabello saying "if they keep doing the same things... they will have the same problems: infection, excessive use of antimicrobials." Mr. Antezana also notes colder water has "lower metabolism, slowing the decomposition of farming byproducts."</other>
+<question_number>2</question_number>
+<answer>they are repeating the same farming practices that caused problems in northern regions</answer>
+<other>Processing question 3: The article states the industry "went south because the waters were not polluted" to claim "clear waters from the glaciers," but this expansion replicates the pattern that degraded northern waters, creating a paradox where they seek pristine areas only to potentially damage them.</other>
+<question_number>3</question_number>
+<answer>the industry is expanding into pristine areas to escape pollution it created elsewhere, risking the same degradation</answer>
+<other>Processing question 4: Industry representative Clement describes salmon as coming from "very pure, pure waters," while Caro urges Americans to "save the only part of the planet that is almost pristine," showing contradiction between marketing purity and actual environmental threat.</other>
+<question_number>4</question_number>
+<answer>industry claims "pure waters" while environmentalists/Indigenous groups see expansion as destroying pristine ecosystems</answer>
+<other>Processing question 5: Mr. Antezana states the industry "went south because the waters were not polluted and because they could say they get clear waters from the glaciers," making the irony that their expansion would destroy the very purity they market.</other>
+<question_number>5</question_number>
+<answer>the industry markets the waters as pure precisely because they haven't been polluted by the industry yet</answer>
+<other>Processing question 6: The article specifies Mr. Antezana said colder water is "more dense, it's more likely that water will become trapped in the deep micro-basins," leading to "accumulation of organic matter."</other>
+<question_number>6</question_number>
+<answer>deep micro-basins</answer>
+<other>Processing question 7: The article states "colder water is more dense" (industry might view density as positive for water quality), but this causes water to "become trapped... possibly leading to accumulation of organic matter," exacerbating pollution.</other>
+<question_number>7</question_number>
+<answer>water density</answer>
+<other>Processing question 8: The article explicitly names "horizontal gene transfer" as the process where "genetic material can be transmitted from one bacterium to another," linking farm antibiotics to human health risks.</other>
+<question_number>8</question_number>
+<answer>horizontal gene transfer</answer>
+<other>Processing question 9: Mr. Antezana states "bacteria would have a lower metabolism, slowing the decomposition of farming byproducts" due to colder water temperatures in Magallanes.</other>
+<question_number>9</question_number>
+<answer>colder water causing lower bacterial metabolism</answer>
+<other>Processing question 10: The article states the Yelcho Project is "the first public-private effort to reduce antibiotics," but "the amount of antibiotics used in 2022 was higher than when the partnership began," showing it's falling short.</other>
+<question_number>10</question_number>
+<answer>Yelcho Project</answer>

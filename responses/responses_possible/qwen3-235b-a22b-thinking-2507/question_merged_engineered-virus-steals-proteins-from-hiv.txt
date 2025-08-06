@@ -1,0 +1,31 @@
+merged_engineered-virus-steals-proteins-from-hiv.txt
+<other>Processing question 1: The article states lenacapavir requires twice-yearly shots which "may be difficult to ensure that people keep up with," while TIPs may require "just one shot... permanently." This addresses cost and adherence issues in poor countries.</other>
+<question_number>1</question_number>
+<answer>one shot may keep H.I.V. at low levels permanently while lenacapavir requires twice-yearly shots</answer>
+<other>Processing question 2: The article explicitly states TIPs "might make it harder for people to transmit H.I.V. to others" if they reduce viral load.</other>
+<question_number>2</question_number>
+<answer>it might make it harder for people to transmit H.I.V. to others</answer>
+<other>Processing question 3: Dr. tenOever states TIPs "becomes a permanent part of their bodies" and "people with TIPs can spread them to others" without obtaining consent from those others.</other>
+<question_number>3</question_number>
+<answer>TIPs can spread to others without their consent</answer>
+<other>Processing question 4: The article contrasts traditional drugs that "attack the virus itself" with TIPs which "interfered with H.I.V.'s normal life cycle" as a "cheating virus."</other>
+<question_number>4</question_number>
+<answer>TIPs interfere with H.I.V.'s life cycle instead of attacking the virus directly</answer>
+<other>Processing question 5: Dr. tenOever states if TIPs have "unexpected side effects, it may not be possible to remove them" due to permanence.</other>
+<question_number>5</question_number>
+<answer>if unexpected side effects occur, they cannot be removed</answer>
+<other>Processing question 6: The article states TIPs were engineered to "do a better job of entering the shells," resulting in infected cells releasing "three times more TIPs than H.I.V. viruses."</other>
+<question_number>6</question_number>
+<answer>infected cells release three times more TIPs than H.I.V. viruses</answer>
+<other>Processing question 7: Dr. tenOever specifically highlights "unexpected side effects" as the risk since TIPs "becomes a permanent part of their bodies" and cannot be removed.</other>
+<question_number>7</question_number>
+<answer>unexpected side effects cannot be removed</answer>
+<other>Processing question 8: Dr. Leeks states "in principle, it's a universal approach" because "other viruses might also be vulnerable to the same strategy" of cheating viruses.</other>
+<question_number>8</question_number>
+<answer>the same strategy might work for other viruses</answer>
+<other>Processing question 9: The article states "people with TIPs can spread them to others" and "doctors cannot receive consent from anyone else who is infected with them."</other>
+<question_number>9</question_number>
+<answer>doctors cannot obtain consent from people who might be infected by the treatment</answer>
+<other>Processing question 10: Traditional drugs "attack the virus itself" (e.g., protease inhibitors block viral proteins), while TIPs "interfered with H.I.V.'s normal life cycle" as a molecular mimic.</other>
+<question_number>10</question_number>
+<answer>TIPs interfere with H.I.V.'s life cycle while traditional drugs attack the virus directly</answer>

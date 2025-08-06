@@ -1,0 +1,31 @@
+merged_darren-walker-ford-foundation-stepping-down.txt
+<other>Processing question 1: The article states Ford helped underwrite the Metropolitan Opera's first production by a Black composer (Terence Blanchard's "Fire Shut Up in My Bones") and supported diversity initiatives at arts institutions, but no specific named philanthropic initiative aligning with Blanchard's artistic medium (opera) is provided. The Art for Justice Fund and other initiatives mentioned are unrelated to opera. Answer must be N/A as no initiative name is given for this context.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Processing question 2: The article explicitly states "It helped underwrite the Metropolitan Opera's first production by a Black composer, Terence Blanchard's 'Fire Shut Up in My Bones'." The opera production name is directly provided.</other>
+<question_number>2</question_number>
+<answer>Fire Shut Up in My Bones</answer>
+<other>Processing question 3: The article attributes the quote "He's never personal when he pushes an institution or a leader to think differently about something" to Bryan Stevenson, identified as "the founder and executive director of the Equal Justice Initiative".</other>
+<question_number>3</question_number>
+<answer>Bryan Stevenson</answer>
+<other>Processing question 4: The article states Walker "eventually became vice president at the Rockefeller Foundation, overseeing programs like the Rebuild New Orleans initiative after Hurricane Katrina." The program name is explicitly given.</other>
+<question_number>4</question_number>
+<answer>Rebuild New Orleans initiative</answer>
+<other>Processing question 5: The article states Walker "raised eyebrows early in his tenure when he joined the board of PepsiCo, which struck some philanthropy experts as discordant". The company name is directly provided.</other>
+<question_number>5</question_number>
+<answer>PepsiCo</answer>
+<other>Processing question 6: The article states Walker was "criticized by some for his handling of the controversy surrounding an exhibition of the artist Philip Guston's work, which included depictions of Ku Klux Klan figures." The artist name is explicitly given.</other>
+<question_number>6</question_number>
+<answer>Philip Guston</answer>
+<other>Processing question 7: The article states Walker was "pressured to decline an honorary degree from Columbia because of the way the university cracked down on pro-Palestinian campus protests." The university name is directly provided.</other>
+<question_number>7</question_number>
+<answer>Columbia</answer>
+<other>Processing question 8: The article mentions Ford supported "diversifying the curators and management at art museums" generally and specifically names the School of American Ballet (a training academy, not a museum) for diversity initiatives. No specific museum name (e.g., Detroit Institute of Arts was mentioned for safeguarding collections during bankruptcy, not diversity initiatives) is given for diversity funding. Answer must be N/A.</other>
+<question_number>8</question_number>
+<answer>N/A</answer>
+<other>Processing question 9: The article states Ford "has supported diversity initiatives at the School of American Ballet, the training academy of New York City Ballet." The ballet company name is directly provided as New York City Ballet.</other>
+<question_number>9</question_number>
+<answer>New York City Ballet</answer>
+<other>Processing question 10: The article states "given the influence Mr. Walker has achieved -- not to mention his compensation package of about $1.4 million" while he was president of the Ford Foundation. The organization and amount are explicitly linked to his Ford Foundation role, and the context implies this is his current/reported compensation as he announces departure.</other>
+<question_number>10</question_number>
+<answer>$1.4 million, Ford Foundation</answer>

@@ -1,0 +1,32 @@
+merged_colon-cancer-blood-test-shield.txt
+<other>First, I need to analyze the article to answer each question based solely on its content. The article discusses the FDA approval of Guardant Health's Shield blood test for colorectal cancer screening. Key points include: it detects early-stage cancers but has poor detection of precancerous polyps; it's easier for patients than colonoscopies or fecal tests; the FDA advisory committee approved it to increase screening rates despite limitations; and a positive result requires follow-up colonoscopy. I will strictly use only facts from the article without external knowledge or inference beyond what's explicitly stated or logically necessary per instructions.</other>
+<other>For question 1, the article states: "it has a poor record of finding precancerous growths. Removal of those growths can prevent cancer." This is the primary limitation differentiating it from other methods.</other>
+<other>For question 2, the article says: "If the test indicates that the person might have colorectal cancer or a large polyp, they will need the procedure to find and remove the cancer or polyp." The procedure referred to is colonoscopy.</other>
+<other>For question 3, the article explains patients resist fecal tests due to mailing stool samples and avoid colonoscopies due to preparation (fasting, laxatives) and anesthesia requirements. The blood test is simpler: "the blood sample can be obtained at a doctor's office as part of a routine physical exam, or at a commercial lab."</other>
+<other>For question 4, the typical goal of screening is prevention by finding/removing precancerous growths. The article states the test "only found 13 percent of large polyps as compared to 95 percent with a colonoscopy," contradicting this preventive goal.</other>
+<other>For question 5, the FDA advisory committee "cautioned that its inability to prevent cancer is a serious limitation and said they endorsed it because it may prompt people who forget or avoid colorectal cancer screening to be screened."</other>
+<other>Question 6 asks about a characteristic aligning with challenges of other methods while introducing a new limitation. Other methods face resistance due to invasiveness/inconvenience (fecal tests requiring stool mailing, colonoscopies requiring prep/anesthesia). The Shield test shares the challenge of potentially requiring colonoscopy if positive (as stated: "people who opt for a blood test may not escape having a colonoscopy"), but introduces the new limitation of poor polyp detection.</other>
+<other>Question 7 is similar to question 4: the Shield test's poor polyp detection (13% vs 95% for colonoscopy) contradicts expectations for preventive capabilities, as prevention relies on finding precancerous growths.</other>
+<other>Question 8 is nearly identical to question 6. The characteristic is that it may still require colonoscopy (aligning with other methods' challenges), while introducing poor polyp detection as a new obstacle to prevention.</other>
+<other>Question 9 directly asks for the main limitation compared to other tests. The article explicitly states: "it has a poor record of finding precancerous growths."</other>
+<other>Question 10 is identical to question 5: the committee recommended approval "because it may prompt people who forget or avoid colorectal cancer screening to be screened."</other>
+<question_number>1</question_number>
+<answer>poor record of finding precancerous growths</answer>
+<question_number>2</question_number>
+<answer>colonoscopy</answer>
+<question_number>3</question_number>
+<answer>simpler for patients (blood sample at doctor's office or lab)</answer>
+<question_number>4</question_number>
+<answer>only found 13 percent of large polyps</answer>
+<question_number>5</question_number>
+<answer>it may prompt people who avoid screening to be screened</answer>
+<question_number>6</question_number>
+<answer>may still require colonoscopy if positive but poor polyp detection</answer>
+<question_number>7</question_number>
+<answer>only found 13 percent of large polyps</answer>
+<question_number>8</question_number>
+<answer>may still require colonoscopy but poor polyp detection</answer>
+<question_number>9</question_number>
+<answer>poor record of finding precancerous growths</answer>
+<question_number>10</question_number>
+<answer>it may prompt people who avoid screening to be screened</answer>

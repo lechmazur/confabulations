@@ -1,0 +1,31 @@
+merged_electric-vehicles-rental-cars.txt
+<other>Processing question 1: The article states "In the first three months of the year, the diminished value of Hertz's electric fleet lowered its profit by $195 million." This directly answers the financial impact.</other>
+<question_number>1</question_number>
+<answer>lowered its profit by $195 million</answer>
+<other>Processing question 2: The article says Tesla "sharply cut prices on new models last year to prop up sales. That pushed down the prices for used Teslas." Elon Musk is identified as Tesla's leader, so his price-cutting actions caused the resale value drop.</other>
+<question_number>2</question_number>
+<answer>sharply cut prices on new models, pushing down used Tesla prices</answer>
+<other>Processing question 3: Kerry Dietz's experience with a rented Polestar is described: "Thrifty gave her a Polestar... that was not able to use Tesla's charging network" leading to frustration finding working chargers, unlike Tesla renters who have access to Superchargers.</other>
+<question_number>3</question_number>
+<answer>Polestar could not use Tesla's Supercharger network, causing charging difficulties</answer>
+<other>Processing question 4: The article states Tesla's price cuts "pushed down the prices for used Teslas" and a study found "used electric vehicles had lost value faster than the average used gas car" with resale values being "critical part of the financial calculus for rental companies."</other>
+<question_number>4</question_number>
+<answer>pushed down used Tesla prices, causing faster value loss for rental companies</answer>
+<other>Processing question 5: The article notes rental companies tried promoting EV adoption ("reshaping consumer behavior and helping to promote adoption") but suffered financial losses due to depreciation ("financially disastrous", "$195 million" profit loss), creating the paradox.</other>
+<question_number>5</question_number>
+<answer>promotion efforts led to financial losses from rapid depreciation</answer>
+<other>Processing question 6: Elon Musk (Tesla's leader) is directly linked to price cuts that caused depreciation: "Elon Musk opens his mouth and the industry takes a dive" and Hertz's $195 million loss stemmed from Tesla depreciation.</other>
+<question_number>6</question_number>
+<answer>Elon Musk cut Tesla prices, causing rapid depreciation and financial losses</answer>
+<other>Processing question 7: The article states "most Superchargers work only with Tesla cars" so non-Tesla renters "must use chargers offered by other operators, each with its own mobile phone app," causing frustration as seen in Kerry Dietz's experience.</other>
+<question_number>7</question_number>
+<answer>non-Tesla renters faced incompatible chargers requiring different apps and payment systems</answer>
+<other>Processing question 8: Tesla (the manufacturer) cut new model prices, which "pushed down the prices for used Teslas," directly impacting rental companies' financial calculus as resale values are "critical part of the financial calculus."</other>
+<question_number>8</question_number>
+<answer>Tesla cut new model prices, reducing used car resale values</answer>
+<other>Processing question 9: The article says "Hertz's experience had a chilling effect" and attributes Hertz's problems to Tesla depreciation from Musk's price cuts ("Elon Musk opens his mouth and the industry takes a dive"), linking Musk's actions to the chilling effect.</other>
+<question_number>9</question_number>
+<answer>Elon Musk's Tesla price cuts caused rapid depreciation, leading to Hertz's financial problems</answer>
+<other>Processing question 10: The article states the decline (from 4% to 1.4%) occurred because rental companies are selling EVs due to "rapid depreciation of cars made by Tesla" and financial losses from resale value drops being "critical part of the financial calculus."</other>
+<question_number>10</question_number>
+<answer>rapid depreciation of Tesla vehicles reducing resale values</answer>

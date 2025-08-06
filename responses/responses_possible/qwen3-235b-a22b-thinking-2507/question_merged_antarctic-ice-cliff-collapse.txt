@@ -1,0 +1,31 @@
+merged_antarctic-ice-cliff-collapse.txt
+<other>Processing question 1: The article states Thwaites Glacier is "among the fastest receding and least stable in Antarctica" but does not explicitly explain how this provides insights into broader West Antarctic ice sheet stability. It only discusses Thwaites specifically without connecting it to broader stability insights. Answer must be N/A per instructions.</other>
+<question_number>1</question_number>
+<answer>N/A</answer>
+<other>Processing question 2: The article directly states researchers "tested what would happen if the ice shelf -- that is, the glacier's floating edge -- completely disappeared" as the trigger for potential ice cliff collapse scenarios. This is the significance of focusing on the ice shelf.</other>
+<question_number>2</question_number>
+<answer>testing what happens when the ice shelf disappears</answer>
+<other>Processing question 3: The article only discusses Thwaites Glacier in West Antarctica and makes no mention of other parts of Antarctica. No information connects findings to other Antarctic regions. Answer must be N/A per instructions.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Processing question 4: Dr. Alley states "The data we are getting now are not sufficient" regarding ice fracture observations, and notes "how much it could cost to protect [coastal cities] against higher seas" depends on accurate projections. The consequence is inability to get sea-level projections right.</other>
+<question_number>4</question_number>
+<answer>inability to get sea-level projections right for coastal cities</answer>
+<other>Processing question 5: The article explicitly states the new evidence shows "the prospect may be more remote than previously thought" and that the UN included it as a "low-likelihood, high-impact" possibility in their assessment, which the study now challenges.</other>
+<question_number>5</question_number>
+<answer>shows ice cliff collapse prospect may be more remote than previously thought</answer>
+<other>Processing question 6: The article identifies Rob DeConto as "among the researchers who first proposed that ice-cliff instability could spell ruin for West Antarctica," whose work is indirectly challenged by the new findings.</other>
+<question_number>6</question_number>
+<answer>Rob DeConto</answer>
+<other>Processing question 7: The simulations found that "once the shelf was removed, the glacier's ice started flowing more quickly out to sea. This prevented the cliffs... from becoming so tall as to trigger a runaway breakdown." Faster flow is the unexpected factor.</other>
+<question_number>7</question_number>
+<answer>faster glacier flow</answer>
+<other>Processing question 8: Dr. Alley specifically states scientists "don't have enough observations of how ice behaves when it fractures," identifying this exact data gap.</other>
+<question_number>8</question_number>
+<answer>how ice behaves when it fractures</answer>
+<other>Processing question 9: The "worst-case scenarios" description references "assuming that nations' emissions of heat-trapping gases climb to extremely high levels" from earlier in the article, which is the implicit fossil fuel usage assumption.</other>
+<question_number>9</question_number>
+<answer>nations' emissions climb to extremely high levels</answer>
+<other>Processing question 10: The article states faster glacier flow "prevented the cliffs at the end of the glacier from becoming so tall as to trigger a runaway breakdown," directly linking flow speed to cliff height prevention.</other>
+<question_number>10</question_number>
+<answer>faster flow prevents cliffs from becoming tall enough to trigger runaway breakdown</answer>

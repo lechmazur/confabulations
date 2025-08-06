@@ -1,0 +1,31 @@
+merged_elon-musk-tesla-robotaxi.txt
+<other>Processing question 1: The article states skepticism grew after Tesla reported a 45% drop in second-quarter profit and delayed the robotaxi unveiling, with Gerber suggesting Musk was "trying to divert attention from the company's core business" during "a hard time selling cars." This directly links the profit drop to the strategic pivot.</other>
+<question_number>1</question_number>
+<answer>Musk is using robotaxis to divert attention from the company's sagging car business and falling profits</answer>
+<other>Processing question 2: The article explicitly contrasts Tesla's approach ("operating in any environment, including places for which the company has not created detailed maps") with Waymo ("Waymo vehicles operate in places that the company has thoroughly mapped").</other>
+<question_number>2</question_number>
+<answer>Waymo</answer>
+<other>Processing question 3: Krafcik states Waymo would be "profitable this year in markets like San Francisco, after accounting for the cost of vehicles, maintenance, energy, hardware, insurance and personnel" but excludes "research and development and some other overhead costs." The metric is profitability after specific operational costs.</other>
+<question_number>3</question_number>
+<answer>profits</answer>
+<other>Processing question 4: The article states Tesla's Full Self-Driving "require drivers to be prepared to retake control at any moment" and "some users report that they have to intervene often," contradicting Musk's repeated claims that flawless autonomous systems were "just months away."</other>
+<question_number>4</question_number>
+<answer>drivers must remain attentive and intervene often despite Musk's claims of flawless autonomy</answer>
+<other>Processing question 5: The article states the National Highway Traffic Safety Administration (NHTSA) investigated Tesla, issued a report linking accidents to its systems, and said the technology "does not adequately ensure that drivers remain attentive."</other>
+<question_number>5</question_number>
+<answer>National Highway Traffic Safety Administration</answer>
+<other>Processing question 6: Robinson states if "everyone who owns a Tesla can rent it out," it would "flood the market, and prices are going to come down," highlighting market saturation as the issue.</other>
+<question_number>6</question_number>
+<answer>market flooding and price reduction due to oversupply</answer>
+<other>Processing question 7: The article notes Tesla's car sales fell, it reported a 45% profit drop, delayed the robotaxi unveiling, and saw stock decline 6%—all contradicting Musk's narrative that investors should focus on robotaxis amid "sagging car business."</other>
+<question_number>7</question_number>
+<answer>falling car sales, 45% profit drop, delayed robotaxi unveiling, and stock decline undermine the narrative</answer>
+<other>Processing question 8: Alphabet invested "$5 billion in the business" (Waymo) despite the article stating "we don't know what the business model is" for Waymo and questioning its profitability.</other>
+<question_number>8</question_number>
+<answer>Waymo</answer>
+<other>Processing question 9: Koopman states Tesla "uses relatively affordable cameras to detect objects... rather than investing in more costly ones or lidar sensors," distinguishing its camera-only approach from competitors using lidar.</other>
+<question_number>9</question_number>
+<answer>using only cameras without lidar sensors or detailed maps</answer>
+<other>Processing question 10: The article states Cruise "halted its driverless taxi service after one of its cars hit a pedestrian," using this incident to illustrate safety risks and operational instability in robotaxi services.</other>
+<question_number>10</question_number>
+<answer>Cruise halted service after hitting a pedestrian, showing safety and operational risks</answer>

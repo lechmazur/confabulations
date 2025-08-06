@@ -1,0 +1,31 @@
+merged_disney-earnings-parks.txt
+<other>Processing question 1: The article states ESPN delivered a 4% increase in operating income to $1.1 billion, with most growth from overseas. Domestic cable ad sales rose 17% but higher costs limited domestic operating income growth to 1%. This shows international growth offsetting domestic challenges.</other>
+<question_number>1</question_number>
+<answer>International growth contributed most to the 4% operating income increase while domestic growth was limited to 1% due to higher costs despite 17% ad sales rise</answer>
+<other>Processing question 2: The article explicitly states revenue increased 2% to $8.4 billion and operating profit declined 3% to $2.2 billion due to "moderation of consumer demand" exceeding expectations and higher costs.</other>
+<question_number>2</question_number>
+<answer>Revenue increased 2% to $8.4 billion while operating profit declined 3% to $2.2 billion</answer>
+<other>Processing question 3: The article states "Disney Experiences, a division that includes theme parks and cruise ships, contributed 70 percent of the Walt Disney Company's operating profit" last year and is now showing softening demand that "could impact the next few quarters".</other>
+<question_number>3</question_number>
+<answer>Disney Experiences</answer>
+<other>Processing question 4: The article identifies Josh D'Amaro as chairman of Disney Experiences who will unveil projects at an Anaheim, California fan convention. Weaker theme park results (a major revenue source) were reported for the quarter ending June 29.</other>
+<question_number>4</question_number>
+<answer>Josh D'Amaro</answer>
+<other>Processing question 5: The article states Disney's streaming services generated $47 million in operating income (first time profitable) compared to a $512 million loss a year earlier, and they previously expected profitability "later this year" but achieved it in this quarter.</other>
+<question_number>5</question_number>
+<answer>Streaming turned a profit ($47 million operating income) earlier than expected</answer>
+<other>Processing question 6: The article states "After the quarter ended, Disney released 'Deadpool & Wolverine'" and mentions theme parks "have been the A.T.M.s that have paid for Disney's costly expansion into streaming". The film's record-breaking sales offset theme park slowdown concerns.</other>
+<question_number>6</question_number>
+<answer>Deadpool & Wolverine</answer>
+<other>Processing question 7: The article states Disney+ will introduce "continuous playlists" mimicking traditional television and increase the ad-free price to $16/month starting October 17.</other>
+<question_number>7</question_number>
+<answer>Disney+</answer>
+<other>Processing question 8: The article states "Inside Out 2" reversed a slump at Disney-owned Pixar, grossing $1.6 billion worldwide during the same quarter where theme parks showed weakening demand.</other>
+<question_number>8</question_number>
+<answer>Pixar</answer>
+<other>Processing question 9: The article explicitly states Disney said it "would spend roughly $60 billion over the next decade to expand its parks".</other>
+<question_number>9</question_number>
+<answer>$60 billion</answer>
+<other>Processing question 10: The article states Disney Experiences contributed "70 percent of the Walt Disney Company's operating profit, up from about 30 percent a decade ago".</other>
+<question_number>10</question_number>
+<answer>70% compared to about 30% a decade ago</answer>

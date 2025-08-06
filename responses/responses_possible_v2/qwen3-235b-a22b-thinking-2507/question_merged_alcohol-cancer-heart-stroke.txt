@@ -1,0 +1,31 @@
+merged_alcohol-cancer-heart-stroke.txt
+<other>Processing question 1: The article states women face higher risk of liver cancer at modest drinking levels. The organization supporting Dr. Naimi promotes temperance, but the specific cancer emphasized for women at minimal consumption is liver cancer.</other>
+<question_number>1</question_number>
+<answer>liver cancer</answer>
+<other>Processing question 2: The text specifies that reduction in "strokes caused by blood clots" disappears at two or more drinks daily. Strokes caused by blood clots are ischemic strokes.</other>
+<question_number>2</question_number>
+<answer>ischemic strokes</answer>
+<other>Processing question 3: The federal analysis states drinking two drinks a day increases alcohol-caused death odds for both sexes, and this is the current amount condoned for men.</other>
+<question_number>3</question_number>
+<answer>two</answer>
+<other>Processing question 4: The federal analysis highlights "girls and boys who start drinking at 15" experiencing a more than tenfold increase in death odds when consumption rises from one drink per week to three per day. The age group is teenagers, as specified in the risk context.</other>
+<question_number>4</question_number>
+<answer>teenagers</answer>
+<other>Processing question 5: The federal analysis notes women with one drink daily may have lower diabetes risk, so abstaining could theoretically increase diabetes risk.</other>
+<question_number>5</question_number>
+<answer>diabetes</answer>
+<other>Processing question 6: The report lists "cancers of the oral cavity, the pharynx and larynx" among the seven types. The pharynx is where food and air passages cross.</other>
+<question_number>6</question_number>
+<answer>pharynx cancer</answer>
+<other>Processing question 7: The article explicitly states drinking one alcoholic beverage a day increases risk of liver cirrhosis for both men and women.</other>
+<question_number>7</question_number>
+<answer>liver cirrhosis</answer>
+<other>Processing question 8: The National Academies acknowledged a small increase in breast cancer for women with moderate drinking, and the new report lists breast cancer among the seven types with higher alcohol-related risk.</other>
+<question_number>8</question_number>
+<answer>breast cancer</answer>
+<other>Processing question 9: The current recommendation for men is two drinks daily, and the new analysis states this level increases alcohol-caused death odds for both sexes.</other>
+<question_number>9</question_number>
+<answer>two</answer>
+<other>Processing question 10: Among the seven cancer types listed, colorectal cancer affects the digestive system.</other>
+<question_number>10</question_number>
+<answer>colorectal cancer</answer>

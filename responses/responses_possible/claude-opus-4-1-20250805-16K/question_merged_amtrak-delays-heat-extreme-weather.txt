@@ -1,0 +1,37 @@
+merged_amtrak-delays-heat-extreme-weather.txt
+<other>Let me analyze each question based on the article's data.</other>
+
+<question_number>1</question_number>
+<answer>N/A</answer>
+
+<question_number>2</question_number>
+<other>FY 2018: 530 hours, FY 2023: 1,200 hours. Increase of 670 hours over 5 years = 134 hours per year. From FY 2023 to FY 2028 is 5 more years: 1,200 + (134 × 5) = 1,870 hours.</other>
+<answer>1,870 hours</answer>
+
+<question_number>3</question_number>
+<answer>750,000</answer>
+
+<question_number>4</question_number>
+<other>FY 2023: nearly 1,200 hours, FY 2018: 530 hours. Difference: 1,200 - 530 = 670 hours.</other>
+<answer>670 hours</answer>
+
+<question_number>5</question_number>
+<answer>nearly 60 percent</answer>
+
+<question_number>6</question_number>
+<other>The article only states federal grants "could provide a few billion dollars" which is not specific enough to calculate.</other>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<answer>N/A</answer>
+
+<question_number>8</question_number>
+<other>FY 2023 extreme weather delays: 4,010 hours. FY 2018 heat delays: 530 hours. 4,010 / 530 = 7.57 times.</other>
+<answer>7.57 times</answer>
+
+<question_number>9</question_number>
+<other>Northeast Corridor: FY 2018: 83 hours, FY 2023: more than 230 hours. Increase of 147 hours over 5 years = 29.4 hours/year. To go from 230 to 500 hours needs 270 more hours. 270/29.4 = 9.18 years from FY 2023.</other>
+<answer>2032</answer>
+
+<question_number>10</question_number>
+<answer>N/A</answer>

@@ -1,0 +1,40 @@
+merged_ai-math-alphaproof-deepmind.txt
+<other>Looking at question 1 about Dr. Kohli's "phase transition" comment.</other>
+<question_number>1</question_number>
+<answer>Dr. Kohli described the result as a "phase transition" - a transformative change - "in the use of A.I. in mathematics and the ability of A.I. systems to do mathematics."</answer>
+
+<other>Looking at question 2 about Dr. Davies and AGI.</other>
+<question_number>2</question_number>
+<answer>Mathematics requires an interesting combination of abstract, precise and creative reasoning, and this repertoire of abilities is what makes math a good litmus test for the ultimate goal of reaching artificial general intelligence (A.G.I.), a system with capabilities ranging from emerging to competent to virtuoso to superhuman.</answer>
+
+<other>Looking at question 3 about Dr. Silver's comments on traditional limitations.</other>
+<question_number>3</question_number>
+<answer>Dr. Silver said "The fact that we've reached this threshold, where it's even possible to tackle these problems at all, is what represents a step-change in the history of mathematics" and it "represents the point at which we went from computers only being able to prove very, very simple things toward computers being able to prove things that humans can't."</answer>
+
+<other>Looking at question 4 about the AI's performance level compared to humans.</other>
+<question_number>4</question_number>
+<answer>The A.I. performed at the level of a silver medalist, solving four out of six problems for a total of 28 points.</answer>
+
+<other>Looking at question 5 about Dr. Silver's comments on learning without a human teacher.</other>
+<question_number>5</question_number>
+<answer>Since the algorithm doesn't require a human teacher, it can "learn and keep learning and keep learning until ultimately it can solve the hardest problems that humans can solve" and "then maybe even one day go beyond those."</answer>
+
+<other>Looking at question 6 about Dr. Gowers' comments on research-level mathematics benchmark.</other>
+<question_number>6</question_number>
+<answer>Dr. Gowers said "It's a fairly safe bet that if Google DeepMind can solve at least some hard I.M.O. problems, then a useful research tool can't be all that far away."</answer>
+
+<other>Looking at question 7 about Dr. Gowers' discussion of mathematicians' future role.</other>
+<question_number>7</question_number>
+<answer>Dr. Gowers said "It is possible to imagine a state of affairs where mathematicians are basically left with nothing to do" if computers became better and far faster at everything mathematicians currently do, though he noted there still seems to be quite a long way to go before computers can do research-level mathematics.</answer>
+
+<other>Looking at question 8 about Dr. Silver's suggestions on surpassing human capabilities.</other>
+<question_number>8</question_number>
+<answer>Dr. Silver said the system can keep learning "until ultimately it can solve the hardest problems that humans can solve" and "then maybe even one day go beyond those."</answer>
+
+<other>Looking at question 9 about human intuition in mathematical problem-solving. The article doesn't directly discuss how the AI's performance challenges human intuition.</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+
+<other>Looking at question 10 about the AI system developed to engage with broad mathematical subjects.</other>
+<question_number>10</question_number>
+<answer>AlphaProof</answer>

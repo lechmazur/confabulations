@@ -1,0 +1,31 @@
+merged_ai-replacing-jobs.txt
+<other>Processing question 1: The article states that AI could automate jobs workers deem meaningless and psychologically degrading, and questions "would these workers be better off?" The irony is that workers might benefit from losing such jobs, contrasting typical negative views of job displacement.</other>
+<question_number>1</question_number>
+<answer>workers might be better off</answer>
+<other>Processing question 2: Brad Wang compared his first job to Gatsby's party. The article states he "spent more than a year at Facebook on a product whose primary customer... described it as unhelpful."</other>
+<question_number>2</question_number>
+<answer>Facebook</answer>
+<other>Processing question 3: Kevin Kelly (Wired co-founder) described Stage 3 as "OK, it can do everything I do, except it needs me when it breaks down," directly preceding Stage 5's realization about unsuitable jobs.</other>
+<question_number>3</question_number>
+<answer>Stage 3</answer>
+<other>Processing question 4: Sociologist Allison Pugh studied empathic professions; the article states automated checkout systems cause grocery clerks to "lost out on meaningful conversations with customers" and be "left mostly with customers exasperated about self checkout."</other>
+<question_number>4</question_number>
+<answer>meaningful interactions are lost, replaced by exasperated customers</answer>
+<other>Processing question 5: The article explicitly calls Bartleby from "Bartleby, the Scrivener" "the original quiet quitter" for responding "I would prefer not to" to demands.</other>
+<question_number>5</question_number>
+<answer>Bartleby</answer>
+<other>Processing question 6: Kelly Eden lost email-drafting work to ChatGPT. The article categorizes executive assistant roles (like drafting emails) as "flunky" jobs under Graeber's definition.</other>
+<question_number>6</question_number>
+<answer>flunkies</answer>
+<other>Processing question 7: The article attributes the unfulfilled 1930 prediction of 15-hour workweeks to "Mr. Keynes" (John Maynard Keynes), citing job creation from technologies like personal computing.</other>
+<question_number>7</question_number>
+<answer>John Maynard Keynes</answer>
+<other>Processing question 8: David Autor (MIT economist) states companies will hire humans as "A.I. babysitters" to "edit the work that A.I. makes" and "police A.I.'s propensity to 'hallucinate'."</other>
+<question_number>8</question_number>
+<answer>A.I. babysitters</answer>
+<other>Processing question 9: Rutger Bregman's movement "doesn't start with the question of 'What is your passion?'" unlike Lean In circles, focusing instead on "This is what needs to get done."</other>
+<question_number>9</question_number>
+<answer>starts with societal needs rather than personal passion</answer>
+<other>Processing question 10: At Google, Wang worked "15 months on an initiative that higher-ups decided to keep pursuing even though they knew it would never launch," which the article later clarifies involved "writing lines of code that didn't go live" as box-ticking work.</other>
+<question_number>10</question_number>
+<answer>writing lines of code that didn't go live</answer>

@@ -1,0 +1,31 @@
+merged_ai-data-restrictions.txt
+<other>For question 1, the article states smaller A.I. outfits and academic researchers "can't afford to license data directly from publishers" while relying on public data sets.</other>
+<question_number>1</question_number>
+<answer>can't afford to license data directly from publishers</answer>
+<other>For question 2, the article states changing data licenses "doesn't retroactively revoke that permission" meaning major tech companies retain their existing data while new entrants are blocked.</other>
+<question_number>2</question_number>
+<answer>major tech companies retain their existing data while new entrants are blocked</answer>
+<other>For question 3, the article states researchers "doubt that today's A.I. systems are capable of generating enough high-quality synthetic data to replace the human-created data they're losing".</other>
+<question_number>3</question_number>
+<answer>today's A.I. systems are incapable of generating enough high-quality synthetic data</answer>
+<other>For question 4, the article's concluding sentence states "the web will start shutting its doors" if A.I. companies treat the internet as an "all-you-can-eat data buffet".</other>
+<question_number>4</question_number>
+<answer>the web will start shutting its doors</answer>
+<other>For question 5, the article states restrictions would "exclude 'researchers and civil society from participating'" while major companies already have the data, and smaller entities "can't afford to license data".</other>
+<question_number>5</question_number>
+<answer>smaller companies and researchers can't afford licensing deals while major companies already have the data</answer>
+<other>For question 6, the article states changing licenses "doesn't retroactively revoke that permission" meaning past data collection remains valid for existing models.</other>
+<question_number>6</question_number>
+<answer>past data collection remains valid for existing models</answer>
+<other>For question 7, the article attributes the quote to Stella Biderman who specifies "later-arriving actors" are "typically either smaller start-ups or researchers".</other>
+<question_number>7</question_number>
+<answer>smaller start-ups or researchers are disproportionately affected</answer>
+<other>For question 8, the article concludes "if you take advantage of the web, the web will start shutting its doors" implying A.I. companies need to offer value to data creators.</other>
+<question_number>8</question_number>
+<answer>A.I. companies need to offer value to data creators</answer>
+<other>For question 9, the article states "as much as 45 percent of the data in one set, C4, had been restricted by websites' terms of service", so unrestricted would be 100% - 45% = 55%.</other>
+<question_number>9</question_number>
+<answer>55%</answer>
+<other>For question 10, the article states "25 percent of data from the highest-quality sources has been restricted", so unrestricted high-quality data is 100% - 25% = 75%.</other>
+<question_number>10</question_number>
+<answer>75%</answer>

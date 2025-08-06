@@ -1,0 +1,31 @@
+merged_epa-marathon-oil-clean-air-act.txt
+<other>Processing question 1: The article states Marathon ranked seventh in emissions despite being the 22nd-largest oil producer, indicating higher emissions relative to size.</other>
+<question_number>1</question_number>
+<answer>higher emissions relative to its size</answer>
+<other>Processing question 2: The article mentions EPA's priority on methane reduction and Marathon's methane violations, but does not describe how the EPA strategy aligns with these specific violations.</other>
+<question_number>2</question_number>
+<answer>N/A</answer>
+<other>Processing question 3: The article states volatile organic compounds harm humans and wildlife, but does not connect this to broader environmental impact beyond that statement.</other>
+<question_number>3</question_number>
+<answer>N/A</answer>
+<other>Processing question 4: The article explicitly states Marathon failed to obtain permits and comply with emissions regulations, revealing non-compliance.</other>
+<question_number>4</question_number>
+<answer>non-compliance with federal regulations</answer>
+<other>Processing question 5: The article links flaring to gas disposal issues and requires Marathon to monitor it, but does not relate flaring practices to historical emissions issues specifically.</other>
+<question_number>5</question_number>
+<answer>N/A</answer>
+<other>Processing question 6: The article states methane is the pollutant Marathon was accused of releasing and that EPA prioritizes methane reduction due to its heat-trapping properties.</other>
+<question_number>6</question_number>
+<answer>methane is the pollutant Marathon was accused of releasing and EPA's priority</answer>
+<other>Processing question 7: Emissions rank is seventh, oil production rank is 22nd; ratio is 7:22.</other>
+<question_number>7</question_number>
+<answer>7:22</answer>
+<other>Processing question 8: Settlement is $241.5 million, acquisition value is $17 billion; percentage is (241.5 / 17000) * 100 = 1.42%.</other>
+<question_number>8</question_number>
+<answer>1.42%</answer>
+<other>Processing question 9: The article states the reduction equals taking 487,000 cars off the road but does not provide a per-car emissions value (e.g., tons or other units).</other>
+<question_number>9</question_number>
+<answer>N/A</answer>
+<other>Processing question 10: The article lists volatile organic compounds and methane as separate elements but does not describe any relationship between the settlement's VOC focus and EPA's methane priority.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>

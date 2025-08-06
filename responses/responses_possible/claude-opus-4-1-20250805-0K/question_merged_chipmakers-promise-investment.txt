@@ -1,0 +1,40 @@
+merged_chipmakers-promise-investment.txt
+<other>Let me analyze each question based on the article's information.</other>
+
+<question_number>1</question_number>
+<answer>Intel was awarded up to $8.5 billion and is slashing more than 15,000 jobs (15% of workforce)</answer>
+
+<question_number>2</question_number>
+<answer>The new investments will help the U.S. triple its domestic chip manufacturing capacity by 2032</answer>
+
+<question_number>3</question_number>
+<other>The article states $30 billion in public investment has been accompanied by more than $300 billion in private investment. So the ratio is $300 billion to $30 billion, which is 10:1.</other>
+<answer>10:1</answer>
+
+<question_number>4</question_number>
+<other>The largest grant mentioned is Intel's $8.5 billion, and the smallest is SK Hynix's $450 million. The difference is $8.5 billion - $0.45 billion = $8.05 billion.</other>
+<answer>$8.05 billion</answer>
+
+<question_number>5</question_number>
+<other>The article states more than $30 billion has been allocated from a $39 billion pot. So less than $9 billion remains. The exact percentage cannot be determined since "more than $30 billion" is not precise.</other>
+<answer>N/A</answer>
+
+<question_number>6</question_number>
+<other>The article says "more than $30 billion" has been allocated and is creating "more than 100,000 jobs". Since both figures use "more than," I cannot calculate an exact average.</other>
+<answer>N/A</answer>
+
+<question_number>7</question_number>
+<other>$300 billion in private investment for $30 billion in public investment means each dollar generates $10 in private investment.</other>
+<answer>$10</answer>
+
+<question_number>8</question_number>
+<other>The article mentions SK Hynix (South Korean) getting up to $450 million, Samsung (South Korean) and TSMC (Taiwanese) also received funding, but specific amounts are only given for TSMC ($6.6 billion). Without complete information on Samsung's funding, I cannot calculate the total.</other>
+<answer>N/A</answer>
+
+<question_number>9</question_number>
+<other>Intel's grant is up to $8.5 billion, SK Hynix's is up to $450 million. $8.5 billion / $0.45 billion = approximately 18.9 times.</other>
+<answer>18.9 times</answer>
+
+<question_number>10</question_number>
+<other>The U.S. had 37% in 1990, is projected to have 14% by 2032. To return to 1990 level, it needs 37% - 14% = 23 percentage points more.</other>
+<answer>23 percentage points</answer>

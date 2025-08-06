@@ -1,0 +1,32 @@
+merged_china-swimming-doping-medals.txt
+<other>Starting to analyze the article for each question. Will strictly use only facts from the provided text.</other>
+<other>For question 1: Zhang Yufei compares scrutiny on Chinese swimmers to Michael Phelps, stating "Michael Phelps, when he won seven or eight gold medals: Why was he not suspected or challenged?" This directly addresses the difference in scrutiny.</other>
+<question_number>1</question_number>
+<answer>Phelps was not suspected or challenged</answer>
+<other>For question 2: The article states Qin Haiyang "failed to win a medal in either of the breaststroke events that he won at last year's world championships" and that he "had also tested positive in 2016 and 2017 for a different drug" along with Wang.</other>
+<question_number>2</question_number>
+<answer>Qin Haiyang</answer>
+<other>For question 3: The article explicitly says "But that total has come up short in the measure that China and many countries use to judge their Olympic performance: gold medals" when comparing Paris (2 golds) to Tokyo (3 golds).</other>
+<question_number>3</question_number>
+<answer>gold medals</answer>
+<other>For question 4: Pan Zhanle set "the men's 100 freestyle on Wednesday in world-record time -- one of only two individual world records" and "is not among the swimmers known to have tested positive for a banned substance."</other>
+<question_number>4</question_number>
+<answer>Pan Zhanle</answer>
+<other>For question 5: Wang Shun stated he was "drug-tested... 11 times in the two weeks before the Games began" after winning bronze.</other>
+<question_number>5</question_number>
+<answer>11 times</answer>
+<other>For question 6: The article specifies "23 Chinese swimmers who The New York Times reported tested positive for the prescription heart medicine trimetazidine, or TMZ, before the Tokyo Olympics".</other>
+<question_number>6</question_number>
+<answer>trimetazidine or TMZ</answer>
+<other>For question 7: The article states "the United States lost for the first time at an Olympics" in the men's 4x100 medley relay, secured by Pan Zhanle's split "more than a second faster than any of his competitors".</other>
+<question_number>7</question_number>
+<answer>men's 4x100 medley relay</answer>
+<other>For question 8: Chinese authorities said the 23 swimmers "ingested the banned substance from a tainted kitchen at a hotel where they stayed together".</other>
+<question_number>8</question_number>
+<answer>a tainted kitchen at a hotel</answer>
+<other>For question 9: The article states "A dozen Chinese swimmers known to have previously tested positive for a banned substance... competed at the Paris Olympics." A dozen means 12.</other>
+<question_number>9</question_number>
+<answer>12</answer>
+<other>For question 10: Yu Yiting said she was "quite surprised" when she found out about her positive test, but the article provides no explanation for her surprise - only the emotional reaction. No reasoning is given, so answer is N/A.</other>
+<question_number>10</question_number>
+<answer>N/A</answer>

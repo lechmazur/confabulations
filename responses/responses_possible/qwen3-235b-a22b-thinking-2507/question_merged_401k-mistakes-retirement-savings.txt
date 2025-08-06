@@ -1,0 +1,31 @@
+merged_401k-mistakes-retirement-savings.txt
+<other>Processing question 1: The article states "A 30-year-old earning $75,000 a year who contributes 3 percent to a 401(k) with a standard match, for example, would have $815,000 in the account by age 65, assuming average annual returns of 8 percent." This directly answers the question.</other>
+<question_number>1</question_number>
+<answer>$815,000</answer>
+<other>Processing question 2: The article states "Since the average job tenure these days is 4.1 years, many people start from scratch in their 401(k) every few years, sticking with an initial savings rate below 6 percent." This explains the impact on automatic annual contribution increases.</other>
+<question_number>2</question_number>
+<answer>many people start from scratch every few years, sticking with an initial savings rate below 6 percent</answer>
+<other>Processing question 3: The article states "Missing out on the full match is especially costly for younger savers, because of the growth power of compounding investment gains over time" and provides the example where contributing 6% instead of 3% doubles the balance to $1.6 million by age 65.</other>
+<answer>it is especially costly due to lost compounding growth over time, doubling potential balance</answer>
+<question_number>3</question_number>
+<other>Processing question 4: The article states "participants who engage with their financial wellness tools are more likely to increase contributions to their 401(k)s and take other positive steps toward retirement readiness." This directly describes the correlation.</other>
+<question_number>4</question_number>
+<answer>participants who engage are more likely to increase contributions and take positive steps toward retirement readiness</answer>
+<other>Processing question 5: The article states "Leave the money untouched, and it will grow to... $108,600 in 40 years, according to a Vanguard analysis" for a $5,000 amount.</other>
+<question_number>5</question_number>
+<answer>$108,600</answer>
+<other>Processing question 6: This is identical to question 2. The article states "Since the average job tenure these days is 4.1 years, many people start from scratch in their 401(k) every few years, sticking with an initial savings rate below 6 percent" regarding default contribution rate effectiveness.</other>
+<question_number>6</question_number>
+<answer>many people start from scratch every few years, sticking with an initial savings rate below 6 percent</answer>
+<other>Processing question 7: The article shows the impact through the example: withdrawing $5,000 means losing potential growth to $50,300 in 30 years or $108,600 in 40 years, and states "the straight math... typically favors staying the course."</other>
+<question_number>7</question_number>
+<answer>significant loss of potential growth due to lost compounding (e.g., $5,000 becomes $50,300 in 30 years instead of $0)</answer>
+<other>Processing question 8: The article states "participants who engage with their financial wellness tools are more likely to increase contributions to their 401(k)s" which directly answers the correlation question.</other>
+<question_number>8</question_number>
+<answer>participants who engage are more likely to increase contributions</answer>
+<other>Processing question 9: The article states "Leave the money untouched, and it will grow to $50,300 in 30 years, assuming 8 percent average annual returns" for a $5,000 amount.</other>
+<question_number>9</question_number>
+<answer>$50,300</answer>
+<other>Processing question 10: This is identical to questions 2 and 6. The article states "Since the average job tenure these days is 4.1 years, many people start from scratch in their 401(k) every few years, sticking with an initial savings rate below 6 percent" regarding automatic contribution increases.</other>
+<question_number>10</question_number>
+<answer>many people start from scratch every few years, sticking with an initial savings rate below 6 percent</answer>
