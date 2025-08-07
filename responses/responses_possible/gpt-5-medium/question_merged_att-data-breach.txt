@@ -1,0 +1,21 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>Potential inclusion of federal customers’ phone-interaction logs from that period, raising national security concerns</answer>
+<question_number>2</question_number>
+<answer>Data in a shared third-party cloud (Snowflake) increases attack vectors and reduces direct control, complicating defenses</answer>
+<question_number>3</question_number>
+<answer>It shows that exposed call/text metadata can endanger national security, demanding stricter data management by government contractors</answer>
+<question_number>4</question_number>
+<answer>By linking phone numbers to individuals via data brokers and using interaction logs to map their communication networks</answer>
+<question_number>5</question_number>
+<answer>Possible exposure of federal agencies’ communication patterns and associated national security risk</answer>
+<question_number>6</question_number>
+<answer>Interaction metadata shows which numbers connect; when linked to people, it reveals sensitive communication networks</answer>
+<question_number>7</question_number>
+<answer>Call/text interaction metadata enables network mapping useful for foreign intelligence, benefiting foreign nation states</answer>
+<question_number>8</question_number>
+<answer>The logs reveal which numbers officials contacted, which can be tied to identities and expose sensitive networks</answer>
+<question_number>9</question_number>
+<answer>Cloud’s shared environment makes security trickier and creates many more avenues for attack, increasing exposure</answer>
+<question_number>10</question_number>
+<answer>Snowflake is the kind of shared third-party cloud the professor described, directly illustrating his risk explanation</answer>

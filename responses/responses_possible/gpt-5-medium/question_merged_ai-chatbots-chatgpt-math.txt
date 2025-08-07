@@ -1,0 +1,21 @@
+merged_ai-chatbots-chatgpt-math.txt
+<question_number>1</question_number>
+<answer>They’re fine-tuned for probabilities, not rules-based calculations—“never designed to do it.”</answer>
+<question_number>2</question_number>
+<answer>Vast training data boosts scores on familiar problems (e.g., SAT), yet math performance remains erratic and often wrong.</answer>
+<question_number>3</question_number>
+<answer>Chatbots predict next words and offload arithmetic to calculators (e.g., Khanmigo), while traditional systems do step-by-step rule-based calculations directly.</answer>
+<question_number>4</question_number>
+<answer>Shift from precise, rules-based number-crunching to data-driven neural networks optimized for language, revealing math limits and prompting calculator workarounds.</answer>
+<question_number>5</question_number>
+<answer>Their frequent math errors and reliance on external calculators contradict computing’s image as tireless, accurate calculation.</answer>
+<question_number>6</question_number>
+<answer>Class discussions comparing students’ solutions to the bot’s, sharpening critical thinking.</answer>
+<question_number>7</question_number>
+<answer>It emphasizes language fluency over mathematical precision—“more liberal arts major than numbers whiz.”</answer>
+<question_number>8</question_number>
+<answer>By underscoring LLMs’ weak logic/math, it fuels arguments for broader approaches like Yann LeCun’s “world modeling,” not just scaling LLMs.</answer>
+<question_number>9</question_number>
+<answer>By casting chatbots as “more liberal arts major than numbers whiz,” it challenges computing’s STEM-heavy identity.</answer>
+<question_number>10</question_number>
+<answer>Strong language skills don’t ensure accuracy; critical applications still require precise, structured rules-based software alongside LLMs.</answer>

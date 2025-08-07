@@ -1,0 +1,21 @@
+merged_att-data-breach.txt
+<question_number>1</question_number>
+<answer>The exposed records cover the period when AT&T provided services to federal agencies, meaning federal customers' phone logs from May–Oct 2022 may have been affected.</answer>
+<question_number>2</question_number>
+<answer>Storing data on a third‑party cloud (Snowflake) creates a shared, third‑party‑controlled environment, increasing attack vectors and complicating responsibility for security.</answer>
+<question_number>3</question_number>
+<answer>It demonstrates that breaches can threaten national security and public safety when companies serving the government mishandle metadata, so robust secure data management is essential.</answer>
+<question_number>4</question_number>
+<answer>By revealing which telephone numbers interacted, the records can be mapped and linked to names via online searches or data brokers to reconstruct individuals' communication patterns.</answer>
+<question_number>5</question_number>
+<answer>Federal agencies' communication patterns (call/text logs) could be exposed, posing substantial national security and public‑safety risks.</answer>
+<question_number>6</question_number>
+<answer>Call/text metadata showing connections between numbers can be linked to identities and used to delineate the communication networks of sensitive individuals.</answer>
+<question_number>7</question_number>
+<answer>Call‑and‑text metadata can be valuable intelligence for foreign nation states because it enables tracing individuals and their communication networks.</answer>
+<question_number>8</question_number>
+<answer>Because the data lists which numbers interacted, it can be tied to identities and thus reveal sensitive government officials' communication networks.</answer>
+<question_number>9</question_number>
+<answer>Moving data to cloud services places it in shared infrastructure, increasing exposure by creating more ways for attackers to breach data.</answer>
+<question_number>10</question_number>
+<answer>The professor's point about shared, riskier cloud infrastructure directly applies because AT&T's customer data was stored on the third‑party cloud platform Snowflake.</answer>

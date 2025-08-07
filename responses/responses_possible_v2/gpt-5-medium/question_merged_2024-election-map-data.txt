@@ -1,0 +1,21 @@
+merged_2024-election-map-data.txt
+<question_number>1</question_number>
+<answer>precinct-level data from places that omit early or mail-in absentee ballots</answer>
+<question_number>2</question_number>
+<answer>73 percent</answer>
+<question_number>3</question_number>
+<answer>early and mail-in absentee ballots</answer>
+<question_number>4</question_number>
+<answer>putting the results data into precinct boundaries</answer>
+<question_number>5</question_number>
+<answer>matching results to precinct boundaries</answer>
+<question_number>6</question_number>
+<answer>does not account for population; sparsely populated areas shaded the same as dense ones for the same margin</answer>
+<question_number>7</question_number>
+<answer>submissions to help add missing data</answer>
+<question_number>8</question_number>
+<answer>exclusion of places whose precinct data omits early or mail-in absentee ballots</answer>
+<question_number>9</question_number>
+<answer>submissions via the form notifying potential inaccuracies</answer>
+<question_number>10</question_number>
+<answer>collecting results and precinct boundary files from state and county sources that each release data differently (no nationwide source)</answer>
